@@ -1,20 +1,29 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+Steps to follow to run the GLUECoS pipeline :
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+    Requirements :
+        First, manually install torch, specific to your platform
+        Then run pip install -r requirements.txt if you only want to download data in the processed format.
+        Run pip install -r requirements.txt (in the Code folder) if you want to evaluate bert/xlm/xlmr model variations on the GLUECoS tasks.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+    
+    Twitter developer account :
+        You will need a twitter developer account to download the twitter datasets. Enter your consumer key (API key); consumer secret key (API secret key); access token and access secret token, one per line in the same order, in twitter_authentication.txt (without any other keywords)
+    
+    Download data :
+        Run the below command to download the original datasets and process them to bring them in the required format. They will be stored in the Processed_Data folder. Enter your azure subscription key as an argument to the script below to download transliterations as well. Instructions to procure your subscriptio key can be found here.
+        The Original_Data folder contains the ID splits for datasets that do not have a pre-defined split, which is used in the preprocessing. Note that the test labels are not gold labels. They have been assigned a separate token to maintain fairness in the benchmarking.
+            ./download_data.sh SUBSCRIPTION_KEY
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+    Fine-tune models for prediction :
+        The code contains 4 different evaluation scripts, one each for token level tasks (LID(en_es/en_hi), NER(en_es/en_hi), POS(en_es/en_hi_fg/en_hi_ud)); sentence level tasks (Sentiment(en_es/en_hi)); QA tasks (QA(en_hi)) and NLI tasks (NLI(en_hi)). Run the below command to fine-tune your model on any of the task. The models currently supported are bert, xlm and xlmr based models.
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+        bash train.sh MODEL MODEL_TYPE TASK 
+        Example Usage :
+            
+            bash train.sh bert-base-multilingual-cased bert POS_EN_HI_FG
+
+        You can also run fine-tuning for all tasks with the following command :
+
+            bash train.sh bert-base-multilingual-cased bert ALL
+
+   

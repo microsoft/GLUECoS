@@ -1,0 +1,66 @@
+description: Evaluation of gluecos tasks on mbert
+
+datastores:
+- name: workspaceblobstore
+
+# Enter compute cluster name here
+compute_name: <cluster-name>
+docker_image: mcr.microsoft.com/azureml/base-gpu:openmpi3.1.2-cuda10.1-cudnn7-ubuntu18.04
+setup:
+  - pip install -U pip
+  - pip install -r requirements.txt
+
+volumes:
+# Put Code here
+- name: CODE
+  datastore: workspaceblobstore
+  path: Code
+
+# Put Training data here
+- name: DATA_DIR
+  datastore: workspaceblobstore
+  path: Data
+
+# Put Multilingual model here
+- name: BERT_MODEL
+  datastore: workspaceblobstore
+  path: Models/bert_model/
+
+# Do not edit this
+- name: OUTPUT_DIR
+  datastore: workspaceblobstore
+
+runs:
+- name: en_hi_sentiment
+  command: python BertSequence.py --data_dir $DATA_DIR/Sentiment_EN_HI/Devanagari/ --output_dir $OUTPUT_DIR --model_type bert --model_name $BERT_MODEL --num_train_epochs 5 --train_batch_size 16 --max_seq_length 256 --save_steps -1 --seed 0
+
+- name: en_es_sentiment
+  command: python BertSequence.py --data_dir $DATA_DIR/Sentiment_EN_ES/ --output_dir $OUTPUT_DIR --model_type bert --model_name $BERT_MODEL --num_train_epochs 5 --train_batch_size 16 --max_seq_length 256 --save_steps -1 --seed 0
+
+- name: en_hi_ner
+  command: python BertToken.py --data_dir $DATA_DIR/NER_EN_ES/ --output_dir $OUTPUT_DIR --model_type bert --model_name $BERT_MODEL --num_train_epochs 5 --train_batch_size 16 --max_seq_length 256 --save_steps -1 --seed 0
+
+- name: en_es_ner
+  command: python BertToken.py --data_dir $DATA_DIR/NER_EN_HI/ --output_dir $OUTPUT_DIR --model_type bert --model_name $BERT_MODEL --num_train_epochs 5 --train_batch_size 16 --max_seq_length 256 --save_steps -1 --seed 0
+
+- name: en_hi_pos_ud
+  command: python BertToken.py --data_dir $DATA_DIR/POS_EN_HI_UD/Devanagari/ --output_dir $OUTPUT_DIR --model_type bert --model_name $BERT_MODEL --num_train_epochs 5 --train_batch_size 16 --max_seq_length 256 --save_steps -1 --seed 0
+
+- name: en_hi_pos_fg
+  command: python BertToken.py --data_dir $DATA_DIR/POS_EN_HI_FG/Devanagari/ --output_dir $OUTPUT_DIR --model_type bert --model_name $BERT_MODEL --num_train_epochs 5 --train_batch_size 16 --max_seq_length 256 --save_steps -1 --seed 0
+
+- name: en_es_pos
+  command: python BertToken.py --data_dir $DATA_DIR/POS_EN_ES/ --output_dir $OUTPUT_DIR --model_type bert --model_name $BERT_MODEL --num_train_epochs 5 --train_batch_size 16 --max_seq_length 256 --save_steps -1 --seed 0
+
+- name: en_hi_lid
+  command: python BertToken.py --data_dir $DATA_DIR/LID_EN_HI/Devanagari/ --output_dir $OUTPUT_DIR --model_type bert --model_name $BERT_MODEL --num_train_epochs 5 --train_batch_size 16 --max_seq_length 256 --save_steps -1 --seed 0
+
+- name: en_es_lid
+  command: python BertToken.py --data_dir $DATA_DIR/LID_EN_ES/ --output_dir $OUTPUT_DIR --model_type bert --model_name $BERT_MODEL --num_train_epochs 5 --train_batch_size 16 --max_seq_length 256 --save_steps -1 --seed 0
+
+- name: en_hi_qa
+  command: python run_squad.py --data_dir $DATA_DIR/QA_EN_HI/ --output_dir $OUTPUT_DIR --model_type bert --model_name_or_path $BERT_MODEL --do_train --do_eval --version_2_with_negative --num_train_epochs 5 --per_gpu_train_batch_size 4 --max_seq_length 512 --save_steps -1 --seed 0
+
+- name: en_hi_nli
+  command: python run_xnli.py --data_dir $DATA_DIR/NLI_EN_HI/ --output_dir $OUTPUT_DIR --model_type bert --model_name_or_path $BERT_MODEL --language en --do_train --do_eval --num_train_epochs 5 --per_gpu_train_batch_size 16 --max_seq_length 512 --save_steps -1 --seed 0
+

@@ -1,0 +1,6 @@
+torchvision 
+torchtext 
+transformers==2.11.0
+seqeval 
+sklearn 
+tensorboard
