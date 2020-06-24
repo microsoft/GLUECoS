@@ -71,6 +71,7 @@ def convert_xnli_form(new_path):
 		test_data = json.load(infile)
 
 	with open(train_file,'w') as outfile:
+		outfile.write('Premise'+'\t'+'Hypothesis'+'\t'+'Label'+'\n')
 		for i in train_data:
 			temp_premise=''
 			j=i["Premise"].split('\n')
@@ -79,6 +80,7 @@ def convert_xnli_form(new_path):
 			outfile.write(temp_premise+'\t'+i["Hypothesis"]+'\t'+i["Label"]+'\n')
 
 	with open(test_file,'w') as outfile:
+		outfile.write('en'+'\t'+'Label'+'\t\t\t\t\t'+'Premise'+'\t'+'Hypothesis'+'\t\t\t\t\t\t\t\t\t'+'Premise'+'\t'+'Hypothesis'+'\n')
 		for i in test_data:
 			temp_premise=''
 			j=i["Premise"].split('\n')
