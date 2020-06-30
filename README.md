@@ -1,5 +1,4 @@
 # GLUECoS: An Evaluation Benchmark for Code-Switched NLP
-## Introduction
 This is the repo for the ACL 2020 paper [GLUECoS: An Evaluation Benchmark for Code-Switched NLP](https://www.aclweb.org/anthology/2020.acl-main.329/)
 
 GLUECoS is a benchmark comprising of multiple code-mixed tasks across 2 langauge pairs (En-Es and En-Hi)
