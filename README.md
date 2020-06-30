@@ -23,7 +23,7 @@ Follow the following instructions to download and process the datasets:
 3. Obtain a key for microsoft translator. This is needed as the preprocessing steps involve conversion of romanized datasets into devanagari. This key will be referred to as SUBSCRIPTION_KEY in the next step
 4. To finally donwload the data, the the command below. This will download the original datasets, perform all the preprocessing needed and bring them into a format that the training scripts can use
     ```
-        ./download_data.sh SUBSCRIPTION_KEY
+    ./download_data.sh SUBSCRIPTION_KEY
     ```
     The dowloaded and processed data is stored in `Data/Processed_Data`. 
     
