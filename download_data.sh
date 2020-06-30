@@ -195,7 +195,7 @@ function download_nli_en_hi {
     fi
 
     if [ ! -f $OUTPATH/all_only_id.json ]; then
-        wget -c https://microsoft-my.sharepoint.com/personal/t-sikha_microsoft_com/_layouts/15/download.aspx?UniqueId=1190bb66%2Def94%2D4177%2D9e42%2D284660f9175c -P $OUTPATH -q --show-progress
+        wget -c https://dummylink/all_only_id.json -P $OUTPATH -q --show-progress
     fi
 
     python $PREPROCESS_DIR/preprocess_nli_en_hi.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
