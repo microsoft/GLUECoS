@@ -1,0 +1,439 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap" rel="stylesheet"> 
+    <script src="https://kit.fontawesome.com/cf1c3caa39.js" crossorigin="anonymous"></script>
+     <title>GLUECoS</title>
+  </head>
+  <body>
+    <!-- <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <!-- <a class="navbar-brand" href="#">&nbsp;</a> -->
+        <!-- <div class="container">
+            <div class="navbar-collapse collapse w-100 order-1 order-md-0 dual-collapse2">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">GLUECoS</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="mx-auto order-0">
+            </div> -->
+            <!-- <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="far fa-file-alt"></i>&nbsp;Paper</a>
+                        <a class="nav-link" href="#"><i class="far fa-file-alt"></i>&nbsp;Code</a>
+                        <a class="nav-link" href="#"><i class="far fa-file-alt"></i>&nbsp;Data</a>
+                        <a class="nav-link" href="#"><i class="far fa-file-alt"></i>&nbsp;Leaderboard</a>
+                        <a class="nav-link" href="#"><i class="far fa-file-alt"></i>&nbsp;Submit</a>
+                        <a class="nav-link" href="#"><i class="far fa-file-alt"></i>&nbsp;FAQ</a>
+                    </li>
+                  
+                </ul>
+            </div> 
+        </div>
+    </nav> -->
+    <div class="cover">
+        <div class="container">
+            <div class="py-5 mx-auto" style="max-width: 60%;">
+                <img src="gluecos_web-1.png" class="gluecosimg pt-5 pb-4" alt="Responsive image">
+                <p class="text-center text-muted pb-3 subtext">General Language Understanding and Evaluation for Code-Switching
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container pt-4" style="max-width: 85%;">
+        <div class="row">
+            <div class="col-md-5">
+                <div class="shadow-sm p-3 mb-5 bg-white">
+                    <div class="container">
+                        <div class="headline mb-2">What is GLUECoS?</div>
+                        <p>GLUECoS is an evaluation benchmark for code-switched NLP. The current version of the benchmark has eleven datasets, spanning across six tasks and two language pairs (English-Hindi and English-Spanish). The tasks included in the benchmark are :
+                            <ul> 
+                                <li>Language Identification (LID) </li>
+                                <li>POS Tagging (POS) </li>
+                                <li>Named Entity Recognition (NER)</li>
+                                <li>Sentiment Analysis (SA) </li>
+                                <li>Question Answering (QA) </li> 
+                                <li>Natural Language Inference (NLI) </li>
+                            </ul>
+                        GLUECoS is a continuous effort and we hope to make this an ever-growing test-bed for code-mixed language understanding, spanning across several tasks and diverse language pairs. </p>
+                        <div class="headline mb-2">Getting Started</div>
+                        <p>We have open-sourced our preprocessing and evaluation scripts for the benchmark which can be found here. One can use this to run his/her model on the benchmark. We have included a separate link below to download and process the data alone, although the code is inclusive of both steps, i.e. processing data and evaluation for each task.
+                        
+                        <div class="text-center">
+                            <button type="button" class="btn btn-gluecos m-1">Paper</button>
+                            <button type="button" class="btn btn-gluecos m-1">Data</button>  
+                            <button type="button" class="btn btn-gluecos m-1">Code</button> 
+                        </div>
+                        Once you run the above code, prediction files will be generated in a format as shown below in the sample prediction folder.</p>
+                        <div class="text-center">
+                            <button type="button" class="btn btn-gluecos1 m-1">Sample Prediction Folder</button>
+                        </div>
+                            
+                        <p>
+                            Once you obtain the prediction files as shown above, you can submit your predictions. Please note that you will have to provide a few details as specified in the submission portal linked below.
+                        </p>
+
+                        
+                        <div class="text-center">
+                            <button type="button" class="btn btn-gluecos1 m-1">Submission Portal</button>
+                        </div>
+                        <p></p>
+                        <div class="headline mb-2">Contact Us!</div>
+                        <p> If you have any questions, or have worked with code-mixed datasets that can be a part of this benchmark, mail us at <a class="link p-0 m-0"
+                                href="mailto:susitara@microsoft.com">susitara@microsoft.com</a></p>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-md-7">
+                <div class="shadow-sm p-3 mb-5 bg-white">
+                    <div class="container">
+                        <div class="headline mb-2">Leaderboard</div>
+                        <div class="tab">
+                        <button class="tablinks" onclick="openTab(event, 'GLUECoS')" id="defaultOpen">GLUECoS</button>
+                        <button class="tablinks" onclick="openTab(event, 'LID')">LID</button>
+                        <button class="tablinks" onclick="openTab(event, 'NER')">NER</button>
+                        <button class="tablinks" onclick="openTab(event, 'POS')">POS</button>
+                        <button class="tablinks" onclick="openTab(event, 'SA')">SA</button>
+                        <button class="tablinks" onclick="openTab(event, 'QA')">QA</button>
+                        <button class="tablinks" onclick="openTab(event, 'NLI')">NLI</button>
+                        </div>
+                        <div id="GLUECoS" class="tabcontent">
+
+                            <table class="table text-center">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Rank</th>
+                                        <th scope="col">Team</th>
+                                        <th scope="col">Model</th>
+                                        <th scope="col">Average</th>
+                                    </tr>
+                                </thead>
+                                <!-- <tbody>
+                                    <tr>
+                                        <th scope="row">
+                                            <p class='p-0 m-0'>1</p><span class="badge badge-secondary dates">June 4, 2020</span>
+                                        </th>
+                                        <td> Microsoft Research </td>
+                                        <td> mBERT </td>
+                                        <td>90.386</td>
+                                    </tr>
+        
+                                </tbody> -->
+                            </table>
+                        </div>
+
+                        <div id="LID" class="tabcontent">
+                            <table class="table text-center">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Rank</th>
+                                        <th scope="col">Team</th>
+                                        <th scope="col">Model</th>
+                                        <th scope="col">EN-ES</th>
+                                        <th scope="col">EN-HI</th>
+                                    </tr>
+                                </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">
+                                        <p class='p-0 m-0'>1</p><span class="badge badge-secondary dates">June 4, 2020</span>
+                                    </th>
+                                    <td> Microsoft Research </td>
+                                    <td> mBERT </td>
+                                    <td>90.386</td>
+                                </tr>
+    
+                            </tbody>
+                            </table>
+                        </div>
+
+                        <div id="POS" class="tabcontent">
+                            <table class="table text-center">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Rank</th>
+                                        <th scope="col">Team</th>
+                                        <th scope="col">Model</th>
+                                        <th scope="col">EN-ES</th>
+                                        <th scope="col">EN-HI FG</th>
+                                        <th scope="col">EN-HI UD</th>
+                                    </tr>
+                                </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">
+                                        <p class='p-0 m-0'>1</p><span class="badge badge-secondary dates">June 4, 2020</span>
+                                    </th>
+                                    <td> Microsoft Research </td>
+                                    <td> mBERT </td>
+                                    <td>90.386</td>
+                                </tr>
+    
+                            </tbody>
+                            </table>
+                        </div>
+
+                        <div id="NER" class="tabcontent">
+                            <table class="table text-center">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Rank</th>
+                                        <th scope="col">Team</th>
+                                        <th scope="col">Model</th>
+                                        <th scope="col">EN-ES</th>
+                                        <th scope="col">EN-HI</th>
+                                    </tr>
+                                </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">
+                                        <p class='p-0 m-0'>1</p><span class="badge badge-secondary dates">June 4, 2020</span>
+                                    </th>
+                                    <td> Microsoft Research </td>
+                                    <td> mBERT </td>
+                                    <td>90.386</td>
+                                </tr>
+    
+                            </tbody>
+                            </table>
+                        </div>
+
+                        <div id="SA" class="tabcontent">
+                            <table class="table text-center">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Rank</th>
+                                        <th scope="col">Team</th>
+                                        <th scope="col">Model</th>
+                                        <th scope="col">EN-ES</th>
+                                        <th scope="col">EN-HI</th>
+                                    </tr>
+                                </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">
+                                        <p class='p-0 m-0'>1</p><span class="badge badge-secondary dates">June 4, 2020</span>
+                                    </th>
+                                    <td> Microsoft Research </td>
+                                    <td> mBERT </td>
+                                    <td>90.386</td>
+                                </tr>
+    
+                            </tbody>
+                            </table>
+                        </div>
+
+                        <div id="QA" class="tabcontent">
+                            <table class="table text-center">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Rank</th>
+                                        <th scope="col">Team</th>
+                                        <th scope="col">Model</th>
+                                        <th scope="col">EN-HI</th>
+                                    </tr>
+                                </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">
+                                        <p class='p-0 m-0'>1</p><span class="badge badge-secondary dates">June 4, 2020</span>
+                                    </th>
+                                    <td> Microsoft Research </td>
+                                    <td> mBERT </td>
+                                    <td>90.386</td>
+                                </tr>
+    
+                            </tbody>
+                            </table>
+                        </div>
+
+                        <div id="NLI" class="tabcontent">
+                            <table class="table text-center">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Rank</th>
+                                        <th scope="col">Team</th>
+                                        <th scope="col">Model</th>
+                                        <th scope="col">EN-HI</th>
+                                    </tr>
+                                </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">
+                                        <p class='p-0 m-0'>1</p><span class="badge badge-secondary dates">June 4, 2020</span>
+                                    </th>
+                                    <td> Microsoft Research </td>
+                                    <td> mBERT </td>
+                                    <td>90.386</td>
+                                </tr>
+    
+                            </tbody>
+                            </table>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- <h1>Hello, world!</h1> -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  </body>
+  <style>
+      body {
+          font-family: 'Source Sans Pro', sans-serif;
+          background-color: rgb(240, 240, 240);
+          color: #444;
+      }
+
+      .headline {
+          font-size: 1.2em;
+          font-weight: 600;
+          color: #222;
+          border-bottom: 2px solid rgb(240, 240, 240);
+          text-align: center;
+      }
+
+      .btn-gluecos {
+          border: 2px solid #333;
+          border-radius: 20px;
+          width: 30% 
+      }
+
+      .btn-gluecos:hover {
+          background-color: #333;
+          color: #fff;
+      }
+      .btn-gluecos1 {
+          border: 2px solid #333;
+          border-radius: 20px;
+          width: 50% 
+      }
+
+      .btn-gluecos1:hover {
+          background-color: #333;
+          color: #fff;
+      }
+      .dates {
+          font-weight: 300;
+      }
+
+      .cover {
+          background-color: rgb(240, 240, 240);
+          background: url(data:image/png;base64,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) fixed; 
+      }
+      .gluecosimg {
+          max-width:100%;
+      }
+
+      .subtext {
+          font-size: 20px;
+      }
+
+      .institution {
+          font-weight: 300;
+          font-style: italic;
+      }
+
+      td {
+          color: #444;
+      }
+      .link {
+          color: #444;
+          text-decoration: underline;
+      }
+
+      .link:hover {
+          color: #222;
+      }
+
+      th {
+          padding: 0;
+      }
+      .tab{
+        overflow: hidden;
+        border: 1px solid #ccc;
+        background-color: #f1f1f1;
+      }
+      .tab button {
+
+        background-color: inherit;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 14px 16px;
+        transition: 0.3s;
+        width: 14.28%;
+        font-size: large;
+        font-weight: 600;
+        }
+
+        /* Change background color of buttons on hover */
+        .tab button:hover {
+        background-color: #ddd;
+        }
+
+        /* Create an active/current tablink class */
+        .tab button.active {
+        background-color: #ccc;
+        }
+
+        /* Style the tab content */
+        .tabcontent {
+        display: none;
+        padding: 6px 12px;
+        /* border: 1px solid #ccc;
+        border-top: none; */
+        }
+    /* @media screen and (min-width: 1024px) {
+        .cover{
+            height:300px;
+        }
+    }
+    
+    @media screen and (max-width: 800px) {
+        .cover{
+            height:250px;
+        }
+    }
+
+    @media screen and (max-width: 600px) {
+        .cover{
+            height:200px;
+        }
+   } */
+  </style>
+  <script>
+      function openTab(evt, tabName) {
+        // Declare all variables
+        var i, tabcontent, tablinks;
+
+        // Get all elements with class="tabcontent" and hide them
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+
+        // Get all elements with class="tablinks" and remove the class "active"
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+
+        // Show the current tab, and add an "active" class to the button that opened the tab
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className += " active";
+        }
+        document.getElementById("defaultOpen").click();
+  </script>
+</html>
