@@ -6,13 +6,9 @@ DATA_DIR=${4:-"$REPO/Data/Processed_Data"}
 OUT_DIR=${5:-"$REPO/Results"}
 
 EPOCH=5
+BATCH_SIZE=16
 MAX_SEQ=256
 
-if [ $TASK == "Sentiment_EN_HI/Devanagari" ]; then
-  BATCH_SIZE=32
-else
-  BATCH_SIZE=16
-fi
 
 python $PWD/Code/BertSequence.py \
   --data_dir $DATA_DIR/$TASK \

@@ -7,7 +7,7 @@ OUT_DIR=${5:-"$REPO/Results"}
 
 
 EPOCH=5
-BATCH_SIZE=8
+BATCH_SIZE=4
 MAX_SEQ=512
 
 python $PWD/Code/run_squad.py \
