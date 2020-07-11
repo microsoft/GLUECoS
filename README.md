@@ -20,8 +20,8 @@ Follow the following instructions to download and process the datasets:
     access secret token
     ```
     
-3. Obtain a key for microsoft translator. This is needed as the preprocessing steps involve conversion of romanized datasets into devanagari. This key will be referred to as SUBSCRIPTION_KEY in the next step
-4. To finally donwload the data, the the command below. This will download the original datasets, perform all the preprocessing needed and bring them into a format that the training scripts can use
+3. Obtain a key for microsoft translator. This is needed as the preprocessing steps involve conversion of romanized datasets into devanagari. Instructions for obtaining this key can be found [here](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup). The number of queries made fall within the free tier. This key will be referred to as SUBSCRIPTION_KEY in the next step
+4. To finally donwload the data, run the command below. This will download the original datasets, perform all the preprocessing needed and bring them into a format that the training scripts can use
     ```
     ./download_data.sh SUBSCRIPTION_KEY
     ```
@@ -30,6 +30,15 @@ Follow the following instructions to download and process the datasets:
     Some of the datasets did not have predefined splits, so the splits used for those can be found in `Data/Original_Data`.
 
     Please note that the labels for the test sets are not the gold labels. They have been assigned a separate token to maintain fairness in the benchmarking.
+
+    This will not download/preprocess the QA dataset. For that, please check the next step
+
+5. The original QA dataset (Chandu et. al, 2018) contains contexts only for some examples. To obtain contexts for the rest, [DrQA](https://github.com/facebookresearch/DrQA) is used to obtain contexts from a Wikipedia dump. To run this, you will need atleast 20GB of disk storage and 16GB+ of RAM. Having a GPU will also help speed DrQA up.
+
+    To download and process the QA dataset, run the following command
+    ```
+    bash Data/Preprocess_Scripts/preprocess_qa.sh
+    ```
 
 ## Training models on the data
 The code contains 4 different evaluation scripts

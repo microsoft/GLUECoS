@@ -28,7 +28,6 @@ elif [ $TASK == 'Sentiment_EN_ES' ]; then
 elif [ $TASK == 'Sentiment_EN_HI' ]; then
   bash $CODE_DIR/train_sentence.sh "$TASK/Devanagari" $MODEL $MODEL_TYPE $DATA_DIR $OUTPUT_DIR
 elif [ $TASK == 'QA_EN_HI' ]; then
-  bash $REPO/Data/Preprocess_Scripts/preprocess_qa.sh
   bash $CODE_DIR/train_qa.sh $TASK $MODEL $MODEL_TYPE $DATA_DIR $OUTPUT_DIR
 elif [ $TASK == 'NLI_EN_HI' ]; then
   bash $CODE_DIR/train_nli.sh $TASK $MODEL $MODEL_TYPE $DATA_DIR $OUTPUT_DIR
@@ -43,7 +42,6 @@ elif [ $TASK == 'ALL' ]; then
   bash $CODE_DIR/train_sentence.sh "Sentiment_EN_ES" $MODEL $MODEL_TYPE $DATA_DIR $OUTPUT_DIR
   bash $CODE_DIR/train_sentence.sh "Sentiment_EN_HI/Devanagari" $MODEL $MODEL_TYPE $DATA_DIR $OUTPUT_DIR
   bash $CODE_DIR/train_nli.sh "NLI_EN_HI" $MODEL $MODEL_TYPE $DATA_DIR $OUTPUT_DIR
-  bash $REPO/Data/Preprocess_Scripts/preprocess_qa.sh
   bash $CODE_DIR/train_qa.sh "QA_EN_HI" $MODEL $MODEL_TYPE $DATA_DIR $OUTPUT_DIR
 fi
 
