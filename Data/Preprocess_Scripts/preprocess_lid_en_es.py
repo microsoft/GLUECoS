@@ -2,10 +2,7 @@ import os
 import subprocess
 import shlex
 import shutil
-import torch
-import random
 import argparse
-from torch.utils import data
 
 # download tweets
 def download_tweets(original_path):
