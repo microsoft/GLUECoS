@@ -5,7 +5,7 @@ import glob
 import operator
 import argparse
 
-# subscription_key = '***REMOVED***'
+# subscription_key = ''
 
 def get_token(subscription_key):
 	fetch_token_url = 'https://southeastasia.api.cognitive.microsoft.com/sts/v1.0/issueToken'
