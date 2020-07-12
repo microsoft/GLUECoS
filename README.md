@@ -6,13 +6,12 @@ GLUECoS is a benchmark comprising of multiple code-mixed tasks across 2 langauge
 Below are instructions for obtaining the datasets that comprise the benchmark and training transformer based models on this data. Both steps can be run on separate systems and the instructions are structured in such a way. All the user has to do is to copy over the `Data/Processed_Data` folder over to perform training
 
 ## Obtaining Datasets
-Follow the following instructions to download and process the datasets:
-1. Install the right version of pytorch for your platform. In most cases, `pip install torch` should do
-2. Install the requirements for the preprocessing scripts
+Follow the following instructions to download and process the datasets. All the steps have been tested and should work in a brand new conda environment with `python==3.6.10` or a docker container with the `python:3.6` image
+1. Install the requirements for the preprocessing scripts
     ```
     pip install -r requirements.txt
     ```
-3. Create a twitter developer account and fill in the 4 keys, one per line,  in `twitter_authentication.txt`. The file should look like this
+2. Create a twitter developer account and fill in the 4 keys, one per line,  in `twitter_authentication.txt`. The file should look like this
     ```
     consumer key
     secret key
@@ -21,7 +20,7 @@ Follow the following instructions to download and process the datasets:
     ```
     
 3. Obtain a key for microsoft translator. This is needed as the preprocessing steps involve conversion of romanized datasets into devanagari. Instructions for obtaining this key can be found [here](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup). The number of queries made fall within the free tier. This key will be referred to as SUBSCRIPTION_KEY in the next step
-4. To finally donwload the data, run the command below. This will download the original datasets, perform all the preprocessing needed and bring them into a format that the training scripts can use
+4. To finally download the data, run the command below. This will download the original datasets, perform all the preprocessing needed and bring them into a format that the training scripts can use
     ```
     ./download_data.sh SUBSCRIPTION_KEY
     ```
@@ -33,7 +32,9 @@ Follow the following instructions to download and process the datasets:
 
     This will not download/preprocess the QA dataset. For that, please check the next step
 
-5. The original QA dataset (Chandu et. al, 2018) contains contexts only for some examples. To obtain contexts for the rest, [DrQA](https://github.com/facebookresearch/DrQA) is used to obtain contexts from a Wikipedia dump. To run this, you will need atleast 20GB of disk storage and 16GB+ of RAM. Having a GPU will also help speed DrQA up.
+5. The original QA dataset (Chandu et. al, 2018) contains contexts only for some examples. To obtain contexts for the rest, [DrQA](https://github.com/facebookresearch/DrQA) is used to obtain contexts from a Wikipedia dump. To run this, you will need atleast 20GB of disk storage (to store the wikidump) and 16GB+ of RAM (to run DrQA). DrQA uses pytorch, so having a GPU will help speed it up (although it isn't necessary).
+
+    First, install a suitable version of pytorch for your system. In most cases, a `pip install torch` should do
 
     To download and process the QA dataset, run the following command
     ```
@@ -43,15 +44,15 @@ Follow the following instructions to download and process the datasets:
 ## Training models on the data
 The code contains 4 different evaluation scripts
 1. One script for token level tasks:
-    - LID(en_es/en_hi)
-    - NER(en_es/en_hi),
-    - POS(en_es/en_hi_fg/en_hi_ud)
+    - LID (en_es/en_hi)
+    - NER (en_es/en_hi),
+    - POS (en_es/en_hi_fg/en_hi_ud)
 2. One script for the sentence level tasks:
-    - Sentiment(en_es/en_hi)
+    - Sentiment (en_es/en_hi)
 3. One script for the QA task 
-    - QA(en_hi)
+    - QA (en_hi)
 4. One script for the NLI task
-    - NLI(en_hi)
+    - NLI (en_hi)
 
 You can train the models on your system or via Azure Machine Learning. To know more about the latter, please refer to [this README](azure_ml/README.md).
 

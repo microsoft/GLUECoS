@@ -15,7 +15,7 @@ cd DrQA
 git checkout 96f343c
 pip install -r requirements.txt
 python setup.py develop
-pip install spacy torch
+pip install spacy
 python -m spacy download xx_ent_wiki_sm
 python -c "import nltk;nltk.download(['punkt', 'averaged_perceptron_tagger', 'maxent_ne_chunker', 'words'])"
 ./download.sh

@@ -173,10 +173,10 @@ function download_sentiment_en_hi {
 
 # download QA EN HI dataset
 function download_qa_en_hi {
-    OUTPATH=$ORIGINAL_DIR/QA_EN_HI/temp
+    OUTPATH=$ORIGINAL_DIR/QA_EN_HI/
     mkdir -p $OUTPATH
     if [ ! -f $OUTPATH/code_mixed_qa_train.json ]; then
-      wget -c https://github.com/khyathiraghavi/code_switched_QA/blob/master/code_mixed_qa_train.json -P $OUTPATH -q --show-progress
+      wget -c https://raw.githubusercontent.com/khyathiraghavi/code_switched_QA/master/code_mixed_qa_train.json -P $OUTPATH -q --show-progress
     fi
 
     # rm -rf $OUTPATH 
