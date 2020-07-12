@@ -9,10 +9,16 @@ EPOCH=5
 BATCH_SIZE=16
 MAX_SEQ=256
 
+dir=`basename "$TASK"`
+if [ $dir == "Devanagari" ] || [ $dir == "Romanized" ]; then
+  OUT=`dirname "$TASK"`
+else
+  OUT=$TASK
+fi
 
 python $PWD/Code/BertToken.py \
   --data_dir $DATA_DIR/$TASK \
-  --output_dir $OUT_DIR/$TASK \
+  --output_dir $OUT_DIR/$OUT \
   --model_type $MODEL_TYPE \
   --model_name $MODEL \
   --num_train_epochs $EPOCH \

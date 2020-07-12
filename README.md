@@ -78,6 +78,26 @@ You can also run fine-tuning for all tasks with the following command :
 bash train.sh bert-base-multilingual-cased bert ALL
 ```
 
+## Submitting Predictions for Evaluation
+The scripts supplied write predictions for the test set into the `Results` folder.
+
+The contents of this folder can be zipped and uploaded to this form for evaluation. Please ensure that it has the following structure.
+```
+results.zip
+    └── Results
+        ├── NLI_EN_HI
+        │   └── test_predictions.txt
+        ├── QA_EN_HI
+        │   └── predictions.json
+        .
+        .
+        .
+        └── Sentiment_EN_HI
+            └── test_predictions.txt
+
+```
+The zip file can have predictions for any subset of the tasks in the benchmark. We will run the evaluation and make an update to the leaderboard.
+
 ## Citation
 Please use the following citation if you would like to mention our work
 ```
