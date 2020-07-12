@@ -20,4 +20,5 @@ python $PWD/Code/run_xnli.py \
   --num_train_epochs $EPOCH \
   --per_gpu_train_batch_size $BATCH_SIZE \
   --max_seq_length $MAX_SEQ \
-  --overwrite_output_dir
+  --overwrite_output_dir \
+  --save_steps -1
