@@ -195,7 +195,8 @@ function download_nli_en_hi {
     fi
 
     if [ ! -f $OUTPATH/all_only_id.json ]; then
-        wget -c https://dummylink/all_only_id.json -P $OUTPATH -q --show-progress
+        url=$'https://api.onedrive.com/v1.0/drives/85FEAFEE8D8062F3/items/85FEAFEE8D8062F3!28569?select=id%2C%40content.downloadUrl&authkey=!ADungCV7vUzIE_g'
+        wget $url -q -O - | python -c "import json, sys; j=json.load(sys.stdin); print(j['@content.downloadUrl'])" | wget -i - -O $OUTPATH/all_only_id.json -q --show-progress
     fi
 
     python $PREPROCESS_DIR/preprocess_nli_en_hi.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
