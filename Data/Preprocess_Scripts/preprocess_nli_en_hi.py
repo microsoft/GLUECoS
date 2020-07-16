@@ -108,7 +108,7 @@ def main():
 		os.mkdir(new_path)
 	
 	# call required functions to process
-	process_files(original_path+'all_keys_json/Final_Key.json',args.data_dir+'/NLI_EN_HI/all_only_id.json')
+	process_files(original_path+'all_keys_json/Final_Key.json',args.data_dir+'/NLI_EN_HI/temp/all_only_id.json')
 
 	# make train, test and validation files
 	make_split_file(id_dir+'/train_ids.txt','temp.json',new_path+'/train.json',mode='train')
