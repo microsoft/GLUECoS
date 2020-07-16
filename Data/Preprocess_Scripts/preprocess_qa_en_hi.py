@@ -5,9 +5,10 @@ import argparse
 def convert_to_squad(infile,list_all):
     with open(infile) as f:
         lines = f.readlines()
-    for line in lines:
+    for i, line in enumerate(lines):
         answer_dict={}
         data = json.loads(line)
+        data['id'] = str(200 + i)
         question = ' '.join(data['question'])
         start, end = data['answers'][0]
         doc = data['document']

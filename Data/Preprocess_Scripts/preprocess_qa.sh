@@ -24,8 +24,11 @@ sed -i 's/\[\x27tokenizer_class\x27\], {},/\[\x27tokenizer_class\x27\], {\x27mod
 sed -i 's/{\x27annotators\x27: {\x27ner\x27}}/{\x27annotators\x27: {\x27ner\x27}, \x27model\x27: \x27xx_ent_wiki_sm\x27}/g' scripts/distant/generate.py
 sed -i 's/if any/#if any/g' drqa/tokenizers/spacy_tokenizer.py
 sed -i 's/self.nlp.tagger/#self.nlp.tagger/g' drqa/tokenizers/spacy_tokenizer.py
-
-python scripts/distant/generate.py $PART1 $PART2 $PREPROCESS_DIR --tokenizer spacy --dev-split 0.2 --n-docs 1
+patch scripts/distant/generate.py <<EOF
+263a264
+>     random.seed(0)
+EOF
+python scripts/distant/generate.py $PART1 $PART2 $PREPROCESS_DIR --tokenizer spacy --dev-split 0.2 --n-docs 1 --workers 1
 
 cd ./..
 # Squad format processor
