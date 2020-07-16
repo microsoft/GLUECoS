@@ -8,7 +8,7 @@ def convert_to_squad(infile,list_all):
     for i, line in enumerate(lines):
         answer_dict={}
         data = json.loads(line)
-        data['id'] = str(200 + i)
+        data['id'] = 200 + i
         question = ' '.join(data['question'])
         start, end = data['answers'][0]
         doc = data['document']
