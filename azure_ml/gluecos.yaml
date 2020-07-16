@@ -62,5 +62,5 @@ runs:
   command: python run_squad.py --data_dir $DATA_DIR/QA_EN_HI/ --output_dir $OUTPUT_DIR --model_type bert --model_name_or_path $BERT_MODEL --do_train --do_eval --version_2_with_negative --num_train_epochs 5 --per_gpu_train_batch_size 4 --max_seq_length 512 --save_steps -1 --seed 0
 
 - name: en_hi_nli
-  command: python run_xnli.py --data_dir $DATA_DIR/NLI_EN_HI/ --output_dir $OUTPUT_DIR --model_type bert --model_name_or_path $BERT_MODEL --language en --do_train --do_eval --num_train_epochs 5 --per_gpu_train_batch_size 8 --max_seq_length 1024 --save_steps -1 --seed 0
+  command: python run_xnli.py --data_dir $DATA_DIR/NLI_EN_HI/ --output_dir $OUTPUT_DIR --model_type bert --model_name_or_path $BERT_MODEL --language en --do_train --do_eval --num_train_epochs 5 --per_gpu_train_batch_size 8 --max_seq_length 512 --save_steps -1 --seed 0
 
