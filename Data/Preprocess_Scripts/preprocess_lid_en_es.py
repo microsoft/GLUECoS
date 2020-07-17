@@ -141,6 +141,17 @@ def main():
 	# make train, test and validation files
 	make_split_file(id_dir+'/train_ids.txt','temp.txt',new_path+'/train.txt',mode='train')
 	make_split_file(id_dir+'/test_ids.txt','temp.txt',new_path+'/test.txt',mode='test')
+
+	to_remove = [55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 721, 722, 723, 724, 781, 794, 805, 1259, 1260, 1261, 1262, 1263, 1264, 1387, 1524, 1532]
+	with open(new_path + '/test.txt') as f:
+		lines = f.read().strip().split('\n\n')
+	lines_out = []
+	for i in range(len(lines)):
+		if i not in to_remove:
+			lines_out.append(lines[i])
+	with open(new_path + '/test.txt', "w") as f:
+		f.write("\n\n".join(lines_out) + "\n")
+
 	make_split_file(id_dir+'/validation_ids.txt','temp.txt',new_path+'/validation.txt',mode='valid')
 	
 	# append all data in one file

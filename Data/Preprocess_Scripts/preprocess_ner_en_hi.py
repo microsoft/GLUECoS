@@ -105,6 +105,17 @@ def main():
 	make_temp_file(original_path)
 	make_split_file(id_dir+'/train_ids.txt','temp.txt',new_path+'/Romanized/train.txt',mode='train')
 	make_split_file(id_dir+'/test_ids.txt','temp.txt',new_path+'/Romanized/test.txt',mode='test')
+
+	to_remove = [188]
+	with open(new_path + '/Romanized/test.txt') as f:
+		lines = f.read().strip().split('\n\n')
+	lines_out = []
+	for i in range(len(lines)):
+		if i not in to_remove:
+			lines_out.append(lines[i])
+	with open(new_path + '/Romanized/test.txt', "w") as f:
+		f.write("\n\n".join(lines_out) + "\n")
+
 	make_split_file(id_dir+'/validation_ids.txt','temp.txt',new_path+'/Romanized/validation.txt',mode='valid')
 
 	if len(trans_pairs.keys())>0:
