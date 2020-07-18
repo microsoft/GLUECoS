@@ -1,3 +1,5 @@
+# Copyright (c) Microsoft Corporation. Licensed under the MIT license.
+
 ORIGINAL_DATA_DIR=$PWD/Data/Original_Data
 PROCESSED_DIR=$PWD/Data/Processed_Data
 PREPROCESS_DIR=$PWD/Data/Preprocess_Scripts

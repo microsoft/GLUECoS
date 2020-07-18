@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# Copyright (c) Microsoft Corporation. Licensed under the MIT license.
+
 import os
 import textwrap
 import ruamel.yaml as yaml

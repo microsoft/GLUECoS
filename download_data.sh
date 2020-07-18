@@ -1,3 +1,5 @@
+# Copyright (c) Microsoft Corporation. Licensed under the MIT license.
+
 REPO=$PWD
 SUBSCRIPTION_KEY=${1:-""}
 ORIGINAL_DIR="$REPO/Data/Original_Data"

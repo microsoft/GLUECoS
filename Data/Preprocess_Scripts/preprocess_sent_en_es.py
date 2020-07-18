@@ -1,3 +1,5 @@
+# Copyright (c) Microsoft Corporation. Licensed under the MIT license.
+
 import tweepy, sys, os, re, time, math
 import operator
 import unidecode

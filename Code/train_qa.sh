@@ -1,3 +1,5 @@
+# Copyright (c) Microsoft Corporation. Licensed under the MIT license.
+
 REPO=$PWD
 TASK=${1:-QA_EN_HI}
 MODEL=${2:-bert-base-multilingual-cased}

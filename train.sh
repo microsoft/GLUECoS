@@ -1,4 +1,6 @@
 #!/usr/bin/bash
+# Copyright (c) Microsoft Corporation. Licensed under the MIT license.
+
 REPO=$PWD
 MODEL=${1:-bert-base-multilingual-cased}
 MODEL_TYPE=${2:-bert}

@@ -1,1 +1,2 @@
-This repo uses open source Apache licensed code from https://github.com/huggingface/transformers
+This repo makes use of https://github.com/huggingface/transformers, which was originally distributed with an Apache license.
+Training scripts are borrowed from this repo and modified accordingly for the tasks in this benchmark.
