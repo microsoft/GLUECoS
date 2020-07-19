@@ -6,17 +6,17 @@ GLUECoS is a benchmark comprising of multiple code-mixed tasks across 2 langauge
 Below are instructions for obtaining the datasets that comprise the benchmark and training transformer based models on this data. Both steps can be run on separate systems and the instructions are structured in such a way. All the user has to do is to copy over the `Data/Processed_Data` folder over to perform training
 
 ## Obtaining Datasets
-Follow the following instructions to download and process the datasets. All the steps have been tested and should work in a brand new conda environment with `python==3.6.10` or a docker container with the `python:3.6` image
+Follow the following instructions to download and process the datasets. All the steps have been tested and should work in a brand new conda environment with `python==3.6.10` or a docker container with the `python:3.6` image. Please note that the splits for some of the datasets are different from their original releases.
 1. Install the requirements for the preprocessing scripts
     ```
     pip install -r requirements.txt
     ```
 2. Create a twitter developer account and fill in the 4 keys, one per line,  in `twitter_authentication.txt`. The file should look like this
     ```
-    consumer key
-    secret key
-    access token
-    access secret token
+    consumer_key
+    secret_key
+    access_token
+    access_secret_token
     ```
     
 3. Obtain a key for microsoft translator. This is needed as the preprocessing steps involve conversion of romanized datasets into devanagari. Instructions for obtaining this key can be found [here](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup). The number of queries made fall within the free tier. This key will be referred to as SUBSCRIPTION_KEY in the next step
@@ -64,7 +64,7 @@ Note: The requirements for dataset preprocessing and training have been separate
     pip install -r Code/requirements.txt
     ```
 ### Training
-Run the below command to fine-tune your model on any of the task. The scripts support any models based on bert, xlm and xlm-roberta
+Run the below command to fine-tune your model on any of the task. The training scripts uses the huggingface library and support any models based on bert, xlm and xlm-roberta
 
 ```
 bash train.sh MODEL MODEL_TYPE TASK 
@@ -81,7 +81,7 @@ bash train.sh bert-base-multilingual-cased bert ALL
 ## Submitting Predictions for Evaluation
 The scripts supplied write predictions for the test set into the `Results` folder.
 
-The contents of this folder can be zipped and uploaded to this form for evaluation. Please ensure that it has the following structure.
+The contents of this folder can be zipped and emailed to [`gluecos@microsoft.com`](mailto:gluecos@microsoft.com) evaluation. The email should have the subject as `GLUECoS Evaluation` and have one zip file named `results.zip` as an attachment. The zip file can have predictions for any subset of the tasks in the benchmark. The evaluation will be run and you will receive a response via email. Please ensure that the zip file has the following structure.
 ```
 results.zip
     └── Results
@@ -96,7 +96,8 @@ results.zip
             └── test_predictions.txt
 
 ```
-The zip file can have predictions for any subset of the tasks in the benchmark. We will run the evaluation and make an update to the leaderboard.
+If you would like the result to appear on the leaderboard, please provide the name of your lab, name of the model and a link to a paper about the model in the body of the email. Note that unlike the evaluation which is autoamted, this is done manually.
+
 
 ## Citation
 Please use the following citation if you would like to mention our work
