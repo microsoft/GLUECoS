@@ -3,6 +3,8 @@ This is the repo for the ACL 2020 paper [GLUECoS: An Evaluation Benchmark for Co
 
 GLUECoS is a benchmark comprising of multiple code-mixed tasks across 2 language pairs (En-Es and En-Hi)
 
+Recording of talk given at ACL: [Link](https://slideslive.com/38928983)
+
 Below are instructions for obtaining the datasets that comprise the benchmark and training transformer based models on this data. Both steps can be run on separate systems and the instructions are structured in such a way. All the user has to do is to copy over the `Data/Processed_Data` folder over to perform training
 
 ## Obtaining Datasets
