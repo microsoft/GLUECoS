@@ -9,7 +9,7 @@ OUT_DIR=${5:-"$REPO/Results"}
 
 EPOCH=5
 BATCH_SIZE=8
-MAX_SEQ=512
+MAX_SEQ=128
 
 python $PWD/Code/run_xnli.py \
   --data_dir $DATA_DIR/$TASK \
