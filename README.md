@@ -1,12 +1,12 @@
 # GLUECoS: An Evaluation Benchmark for Code-Switched NLP
 This is the repo for the ACL 2020 paper [GLUECoS: An Evaluation Benchmark for Code-Switched NLP](https://www.aclweb.org/anthology/2020.acl-main.329/)
 
-GLUECoS is a benchmark comprising of multiple code-mixed tasks across 2 langauge pairs (En-Es and En-Hi)
+GLUECoS is a benchmark comprising of multiple code-mixed tasks across 2 language pairs (En-Es and En-Hi)
 
 Below are instructions for obtaining the datasets that comprise the benchmark and training transformer based models on this data. Both steps can be run on separate systems and the instructions are structured in such a way. All the user has to do is to copy over the `Data/Processed_Data` folder over to perform training
 
 ## Obtaining Datasets
-Follow the following instructions to download and process the datasets. All the steps have been tested and should work in a brand new conda environment with `python==3.6.10` or a docker container with the `python:3.6` image. Please note that the splits for some of the datasets are different from their original releases.
+Follow the following instructions to download and process the datasets. All the steps should work in a brand new conda environment with `python==3.6.10` or a docker container with the `python:3.6` image. Please note that the splits for some of the datasets are different from their original releases.
 1. Install the requirements for the preprocessing scripts
     ```
     pip install -r requirements.txt
@@ -19,8 +19,8 @@ Follow the following instructions to download and process the datasets. All the 
     access_secret_token
     ```
     
-3. Obtain a key for microsoft translator. This is needed as the preprocessing steps involve conversion of romanized datasets into devanagari. Instructions for obtaining this key can be found [here](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup). The number of queries made fall within the free tier. This key will be referred to as SUBSCRIPTION_KEY in the next step
-4. To finally download the data, run the command below. This will download the original datasets, perform all the preprocessing needed and bring them into a format that the training scripts can use
+3. Obtain a key for Microsoft Translator. This is needed as the preprocessing steps involve conversion of Romanized datasets into Devanagari. Instructions for obtaining this key can be found [here](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup). The number of queries made fall within the free tier. This key will be referred to as SUBSCRIPTION_KEY in the next step
+4. To download the data, run the command below. This will download the original datasets, perform all the preprocessing needed and bring them into a format that the training scripts can use
     ```
     ./download_data.sh SUBSCRIPTION_KEY
     ```
@@ -32,9 +32,9 @@ Follow the following instructions to download and process the datasets. All the 
 
     This will not download/preprocess the QA dataset. For that, please check the next step
 
-5. The original QA dataset (Chandu et. al, 2018) contains contexts only for some examples. To obtain contexts for the rest, [DrQA](https://github.com/facebookresearch/DrQA) is used to obtain contexts from a Wikipedia dump. To run this, you will need atleast 20GB of disk storage (to store the wikidump) and 16GB+ of RAM (to run DrQA). DrQA uses pytorch, so having a GPU will help speed it up (although it isn't necessary).
+5. The original QA dataset (Chandu et. al, 2018) contains contexts only for some examples. To obtain contexts for the rest, [DrQA](https://github.com/facebookresearch/DrQA) is used to obtain contexts from a Wikipedia dump. To run this, you will need atleast 20GB of disk storage (to store the wikidump) and 16GB+ of RAM (to run DrQA). DrQA uses PyTorch, so having a GPU will help speed it up (although it isn't necessary).
 
-    First, install a suitable version of pytorch for your system. In most cases, a `pip install torch` should do
+    First, install a suitable version of PyTorch for your system. In most cases, a `pip install torch` should do
 
     To download and process the QA dataset, run the following command
     ```
@@ -64,7 +64,7 @@ Note: The requirements for dataset preprocessing and training have been separate
     pip install -r Code/requirements.txt
     ```
 ### Training
-Run the below command to fine-tune your model on any of the task. The training scripts uses the huggingface library and support any models based on bert, xlm and xlm-roberta
+Run the below command to fine-tune your model on any of the task. The training scripts uses the Huggingface library and support any models based on BERT, XLM, XLM-Roberta and similar models.
 
 ```
 bash train.sh MODEL MODEL_TYPE TASK 
@@ -96,11 +96,11 @@ results.zip
             └── test_predictions.txt
 
 ```
-If you would like the result to appear on the leaderboard, please provide the name of your lab, name of the model and a link to a paper about the model in the body of the email. Note that unlike the evaluation which is autoamted, this is done manually.
+If you would like the result to appear on the leaderboard, please provide the name of your organization, name of the model and a link to a paper about the model in the body of the email. Currently, the evaluation is done manually but we will be adding an automated evaluation process soon.
 
 
 ## Citation
-Please use the following citation if you would like to mention our work
+Please use the following citation if you use this benchmark:
 ```
 @inproceedings{khanuja-etal-2020-gluecos,
     title = "{GLUEC}o{S}: An Evaluation Benchmark for Code-Switched {NLP}",
