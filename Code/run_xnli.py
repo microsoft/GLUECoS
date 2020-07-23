@@ -74,8 +74,6 @@ def set_seed(args):
 
 def train(args, train_dataset, model, tokenizer):
     """ Train the model """
-    # if args.local_rank in [-1, 0]:
-    #     tb_writer = SummaryWriter()
 
     args.train_batch_size = args.per_gpu_train_batch_size * max(1, args.n_gpu)
     train_sampler = RandomSampler(train_dataset) if args.local_rank == -1 else DistributedSampler(train_dataset)
@@ -175,10 +173,6 @@ def train(args, train_dataset, model, tokenizer):
                         args.local_rank == -1 and args.evaluate_during_training
                     ):  # Only evaluate when single GPU otherwise metrics may not average well
                         results = evaluate(args, model, tokenizer)
-                        # for key, value in results.items():
-                    #         tb_writer.add_scalar("eval_{}".format(key), value, global_step)
-                    # tb_writer.add_scalar("lr", scheduler.get_lr()[0], global_step)
-                    # tb_writer.add_scalar("loss", (tr_loss - logging_loss) / args.logging_steps, global_step)
                     logging_loss = tr_loss
 
             if args.max_steps > 0 and global_step > args.max_steps:
@@ -188,8 +182,6 @@ def train(args, train_dataset, model, tokenizer):
             train_iterator.close()
             break
 
-    # if args.local_rank in [-1, 0]:
-    #     tb_writer.close()
 
     return global_step, tr_loss / global_step
 
@@ -249,12 +241,6 @@ def evaluate(args, model, tokenizer, prefix=""):
             preds = np.argmax(preds, axis=1)
         else:
             raise ValueError("No other `output_mode` for XNLI.")
-        # result = compute_metrics(eval_task, preds, out_label_ids)
-        # results.update(result)
-
-        # logger.info("***** Eval results {} *****".format(prefix))
-        # for key in sorted(result.keys()):
-        #     logger.info("  %s = %s", key, str(result[key]))
         label_list = GLUECoSNLIProcessor(language=args.language, train_language=args.train_language).get_labels()
         pred_labels = [label_list[x] for x in preds]
 
@@ -473,7 +459,6 @@ def main():
     args.task_name = "xnli"
     if args.task_name not in processors:
         raise ValueError("Task not found: %s" % (args.task_name))
-    # processor = processors[args.task_name](language=args.language, train_language=args.train_language)
     processor = GLUECoSNLIProcessor(language=args.language, train_language=args.train_language)
     args.output_mode = output_modes[args.task_name]
     label_list = processor.get_labels()
@@ -520,8 +505,6 @@ def main():
     results = {}
     if args.do_eval and args.local_rank in [-1, 0]:
         pred_labels = evaluate(args, model, tokenizer, prefix=global_step)
-        # result = dict((k, v) for k, v in result.items())
-        # results.update(result)
         with open('{}/test_predictions.txt'.format(args.output_dir), 'w') as f:
             f.write('\n'.join(pred_labels))
 
