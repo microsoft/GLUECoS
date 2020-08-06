@@ -2,6 +2,7 @@
 
 REPO=$PWD
 SUBSCRIPTION_KEY=${1:-""}
+SUBSCRIPTION_REGION=${2:-""}
 ORIGINAL_DIR="$REPO/Data/Original_Data"
 PREPROCESS_DIR="$REPO/Data/Preprocess_Scripts"
 PROCESSED_DIR="$REPO/Data/Processed_Data"
@@ -9,7 +10,7 @@ mkdir -p $PROCESSED_DIR
 
 # get transliterations
 function get_transliterations {
-    python transliterator.py --input_file all_roman.txt --subscription_key $SUBSCRIPTION_KEY
+    python transliterator.py --input_file all_roman.txt --subscription_key $SUBSCRIPTION_KEY --subscription_region $SUBSCRIPTION_REGION
 }
 
 # download LID EN ES dataset

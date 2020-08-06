@@ -9,8 +9,8 @@ import argparse
 
 # subscription_key = ''
 
-def get_token(subscription_key):
-	fetch_token_url = 'https://southeastasia.api.cognitive.microsoft.com/sts/v1.0/issueToken'
+def get_token(subscription_key, region):
+	fetch_token_url = 'https://' + region + '.api.cognitive.microsoft.com/sts/v1.0/issueToken'
 	headers = {
 		'Ocp-Apim-Subscription-Key': subscription_key
 	}
@@ -59,15 +59,17 @@ def main():
 	parser.add_argument("--subscription_key", default=None, type=str, required=True, help="Azure Subscription key for downloading transliterations")
 	parser.add_argument("--input_file", default=None, type=str, required=True,
 						help="The roman hindi words vocabulary ")
+	parser.add_argument("--subscription_region", default="southeastasia", type=str, required=True, help="Azure Subscription Region")
 	
 	args = parser.parse_args()
 	input_file = args.input_file
 	subscription_key = args.subscription_key
 
-	req_token = get_token(subscription_key)
+	req_token = get_token(subscription_key, args.subscription_region)
 	headers = { 'Accept': 'application/json;text/xml',
 			'Content-Type': 'application/json',
 			'Ocp-Apim-Subscription-Key': subscription_key,
+			'Ocp-Apim-Subscription-Region': args.subscription_region,
 			'Authorization': req_token
 			}
 
