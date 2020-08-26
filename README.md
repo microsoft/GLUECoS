@@ -1,4 +1,6 @@
 # GLUECoS: An Evaluation Benchmark for Code-Switched NLP
+**NEW (Aug - 2020): Evaluation is now automated and results are presented instantly. Please check [this](#submitting-predictions-for-evaluation) section**
+
 This is the repo for the ACL 2020 paper [GLUECoS: An Evaluation Benchmark for Code-Switched NLP](https://www.aclweb.org/anthology/2020.acl-main.329/)
 
 GLUECoS is a benchmark comprising of multiple code-mixed tasks across 2 language pairs (En-Es and En-Hi)
@@ -81,9 +83,22 @@ bash train.sh bert-base-multilingual-cased bert ALL
 ```
 
 ## Submitting Predictions for Evaluation
-The scripts supplied write predictions for the test set into the `Results` folder.
+Submission is done by uploading the results to a fork of this repo and making a pull request to the main repo. The evaluation is done automatically by a set of actions that run for the PR.
 
-The contents of this folder can be zipped and emailed to [`gluecos@microsoft.com`](mailto:gluecos@microsoft.com) evaluation. The email should have the subject as `GLUECoS Evaluation` and have one zip file named `results.zip` as an attachment. The zip file can have predictions for any subset of the tasks in the benchmark. The evaluation will be run and you will receive a response via email. Please ensure that the zip file has the following structure.
+The training scripts supplied write predictions for the test set into the `Results` folder.
+1. Zip this folder into results.zip with `zip results.zip -r Results`.
+2. Create a fork of `microsoft/GLUECoS` on Github.
+3. Add this `results.zip` file to the root directory of your fork and make a pull request to the main repo.
+
+A set of actions will run for your pull request. Clicking on "Show all checks" will reveal that one of these is named "Eval script". Clicking on "Details" will take you to the sequence of steps run for the action. Expanding the "Run Eval" stage will show you the results of the eval script.
+<p float="left">
+  <img src="docs/github_pr.png" width="500" />
+  <img src="docs/eval_script.png" width="300" /> 
+</p>
+
+If you would like to make another submission, you can update the same PR with the new `results.zip` file and the action will run again. You DO NOT need to open a new PR each time.
+
+Please ensure that this is the exact structure of the zip file. The eval script will fail if there are any differences in the names or the structure
 ```
 results.zip
     └── Results
@@ -98,7 +113,7 @@ results.zip
             └── test_predictions.txt
 
 ```
-If you would like the result to appear on the leaderboard, please provide the name of your organization, name of the model and a link to a paper about the model in the body of the email. Currently, the evaluation is done manually but we will be adding an automated evaluation process soon.
+If you would like the result to appear on the leaderboard, please provide the name of your organization, name of the model and a link to a paper about the model along with the PR.
 
 
 ## Citation
