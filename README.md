@@ -1,7 +1,7 @@
 # GLUECoS: An Evaluation Benchmark for Code-Switched NLP
-This is the repo for the ACL 2020 paper [GLUECoS: An Evaluation Benchmark for Code-Switched NLP](https://www.aclweb.org/anthology/2020.acl-main.329/)
+**NEW (Aug - 2020): Evaluation is now automated and results are presented instantly. Please check [this](#submitting-predictions-for-evaluation) section**
 
-**NEW (Aug - 2020): Evaluation is now automated and results are presented instantly. Check [this](#submitting-predictions-for-evaluation) section**
+This is the repo for the ACL 2020 paper [GLUECoS: An Evaluation Benchmark for Code-Switched NLP](https://www.aclweb.org/anthology/2020.acl-main.329/)
 
 GLUECoS is a benchmark comprising of multiple code-mixed tasks across 2 language pairs (En-Es and En-Hi)
 
@@ -98,7 +98,7 @@ A set of actions will run for your pull request. Clicking on "Show all checks" w
 
 If you would like to make another submission, you can update the same PR with the new `results.zip` file and the action will run again. You DO NOT need to open a new PR each time.
 
-Please ensure that this is the exact structure of the zip file. The eval script will fail if there are any differences
+Please ensure that this is the exact structure of the zip file. The eval script will fail if there are any differences in the names or the structure
 ```
 results.zip
     └── Results
