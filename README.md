@@ -81,9 +81,19 @@ bash train.sh bert-base-multilingual-cased bert ALL
 ```
 
 ## Submitting Predictions for Evaluation
-The scripts supplied write predictions for the test set into the `Results` folder.
+**NEW (Aug - 2020): The evaluation is now done automatically**   
+**You submit the predictions by making a pull request to `microsoft/GLUECoS` repo and the evaluation is done by a set of actions that run for the PR**  
+The training scripts supplied write predictions for the test set into the `Results` folder. Zip this folder into results.zip with `zip results.zip -r Results`. Create a fork of `microsoft/GLUECoS` on Github. Add this `results.zip` file to your fork and make a pull request to the main repo. 
 
-The contents of this folder can be zipped and emailed to [`gluecos@microsoft.com`](mailto:gluecos@microsoft.com) evaluation. The email should have the subject as `GLUECoS Evaluation` and have one zip file named `results.zip` as an attachment. The zip file can have predictions for any subset of the tasks in the benchmark. The evaluation will be run and you will receive a response via email. Please ensure that the zip file has the following structure.
+A set of actions will run for your pull request. Clicking on `Show all checks` will reveal that one of these is named `Eval script`. Clicking on `Details` will take you to the sequence of steps run for the action. Expanding the `Run Eval` stage will show you the results of the eval script.
+<p float="left">
+  <img src="docs/github_pr.png" width="500" />
+  <img src="docs/eval_script.png" width="300" /> 
+</p>
+
+If you would like to make another submission, you can update the same PR with the new `results.zip` file and the action will run again. You DO NOT need to open a new PR each time.
+
+Please ensure that this is the exact structure of the zip file. The eval script will fail if there are any differences
 ```
 results.zip
     └── Results
@@ -98,7 +108,7 @@ results.zip
             └── test_predictions.txt
 
 ```
-If you would like the result to appear on the leaderboard, please provide the name of your organization, name of the model and a link to a paper about the model in the body of the email. Currently, the evaluation is done manually but we will be adding an automated evaluation process soon.
+If you would like the result to appear on the leaderboard, please provide the name of your organization, name of the model and a link to a paper about the model along with the PR.
 
 
 ## Citation
