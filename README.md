@@ -1,6 +1,8 @@
 # GLUECoS: An Evaluation Benchmark for Code-Switched NLP
 This is the repo for the ACL 2020 paper [GLUECoS: An Evaluation Benchmark for Code-Switched NLP](https://www.aclweb.org/anthology/2020.acl-main.329/)
 
+**NEW (Aug - 2020): Evaluation is now automated and results are presented instantly. Check [this](#submitting-predictions-for-evaluation) section**
+
 GLUECoS is a benchmark comprising of multiple code-mixed tasks across 2 language pairs (En-Es and En-Hi)
 
 Recording of talk given at ACL: [Link](https://slideslive.com/38928983)
@@ -81,11 +83,14 @@ bash train.sh bert-base-multilingual-cased bert ALL
 ```
 
 ## Submitting Predictions for Evaluation
-**NEW (Aug - 2020): The evaluation is now done automatically**   
-**You submit the predictions by making a pull request to `microsoft/GLUECoS` repo and the evaluation is done by a set of actions that run for the PR**  
-The training scripts supplied write predictions for the test set into the `Results` folder. Zip this folder into results.zip with `zip results.zip -r Results`. Create a fork of `microsoft/GLUECoS` on Github. Add this `results.zip` file to your fork and make a pull request to the main repo. 
+Submission is done by uploading the results to a fork of this repo and making a pull request to the main repo. The evaluation is done automatically by a set of actions that run for the PR.
 
-A set of actions will run for your pull request. Clicking on `Show all checks` will reveal that one of these is named `Eval script`. Clicking on `Details` will take you to the sequence of steps run for the action. Expanding the `Run Eval` stage will show you the results of the eval script.
+The training scripts supplied write predictions for the test set into the `Results` folder.
+1. Zip this folder into results.zip with `zip results.zip -r Results`.
+2. Create a fork of `microsoft/GLUECoS` on Github.
+3. Add this `results.zip` file to the root directory of your fork and make a pull request to the main repo.
+
+A set of actions will run for your pull request. Clicking on "Show all checks" will reveal that one of these is named "Eval script". Clicking on "Details" will take you to the sequence of steps run for the action. Expanding the "Run Eval" stage will show you the results of the eval script.
 <p float="left">
   <img src="docs/github_pr.png" width="500" />
   <img src="docs/eval_script.png" width="300" /> 
