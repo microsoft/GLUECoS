@@ -1,0 +1,16 @@
+name: Eval script
+
+on:
+  pull_request_target:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: [self-hosted, linux]
+
+    steps:
+    - name: Print env vars
+      run: env
+    - name: Run Eval
+      run: /root/code/eval.sh  
