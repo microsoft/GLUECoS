@@ -1,0 +1,13 @@
+name: Eval script
+
+on:
+  pull_request_target:
+    branches: [ master ]
+
+jobs:
+  eval:
+    runs-on: [self-hosted, linux]
+
+    steps:
+    - name: List
+      run: ls /root/code
