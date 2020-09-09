@@ -96,7 +96,7 @@ A set of actions will run for your pull request. Clicking on "Show all checks" w
   <img src="docs/eval_script.png" width="300" /> 
 </p>
 
-If you would like to make another submission, you can update the same PR with the new `results.zip` file and the action will run again. You DO NOT need to open a new PR each time.
+If you would like to make another submission, you can update the same PR with the new `results.zip` file and the action will run again. You DO NOT need to open a new PR each time. Please wait till the current action finishes running before updating the PR with the new submission.
 
 Please ensure that this is the exact structure of the zip file. The eval script will fail if there are any differences in the names or the structure
 ```
