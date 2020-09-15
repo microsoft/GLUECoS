@@ -10,7 +10,21 @@ jobs:
 
     steps:
     - name: Download results.zip
-      run: wget https://github.com/$GITHUB_ACTOR/GLUECoS/raw/$GITHUB_HEAD_REF/results.zip -O results.zip 
+      run: |
+          for x in {0..4}; do
+              wget https://github.com/$GITHUB_ACTOR/GLUECoS/raw/$GITHUB_HEAD_REF/results.zip -O results.zip
+              if [ $? -eq 0 ]; then
+                  echo "Result downloaded"
+                  break
+              else
+                  sleep 5
+                  if [ $x -eq 4 ]; then
+                      echo "Downloading results.zip failed"
+                  else
+                      echo "Trying download again"
+                  fi
+              fi
+          done
     - name: Copy eval scripts
       run: cp -r /root/code/ eval/
     - name: Run Eval
