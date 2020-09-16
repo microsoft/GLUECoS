@@ -11,10 +11,9 @@ jobs:
     steps:
     - name: Download results.zip
       run: |
-          set -x
           for x in {0..4}; do
-              wget https://github.com/$GITHUB_ACTOR/GLUECoS/raw/$GITHUB_HEAD_REF/results.zip -O results.zip
-              if [ $? -eq 0 ]; then
+              wget https://github.com/$GITHUB_ACTOR/GLUECoS/raw/$GITHUB_HEAD_REF/results.zip -O results.zip || true
+              if [ -f results ]; then
                   echo "Result downloaded"
                   break
               else
