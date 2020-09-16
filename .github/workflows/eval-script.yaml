@@ -11,6 +11,7 @@ jobs:
     steps:
     - name: Download results.zip
       run: |
+          set -x
           for x in {0..4}; do
               wget https://github.com/$GITHUB_ACTOR/GLUECoS/raw/$GITHUB_HEAD_REF/results.zip -O results.zip
               if [ $? -eq 0 ]; then
@@ -20,6 +21,7 @@ jobs:
                   sleep 5
                   if [ $x -eq 4 ]; then
                       echo "Downloading results.zip failed"
+                      exit 1
                   else
                       echo "Trying download again"
                   fi
