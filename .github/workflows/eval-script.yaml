@@ -13,7 +13,7 @@ jobs:
       run: |
           for x in {0..4}; do
               wget https://github.com/$GITHUB_ACTOR/GLUECoS/raw/$GITHUB_HEAD_REF/results.zip -O results.zip || true
-              if [ -f results ]; then
+              if [ -f results.zip ]; then
                   echo "Result downloaded"
                   break
               else
