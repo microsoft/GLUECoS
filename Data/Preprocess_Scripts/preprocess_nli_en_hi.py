@@ -77,8 +77,8 @@ def convert_xnli_form(new_path):
 		for i in train_data:
 			temp_premise=''
 			j=i["Premise"].split('\n')
-			for y,x in enumerate(j[:-1:2]):
-				temp_premise+=j[y]+' : ' +j[y+1] +' ## '
+			for itr in range(0, len(j) - 1, 2):
+				temp_premise += j[itr]+ ' : ' + j[itr + 1] +' ## '
 			outfile.write(temp_premise+'\t'+i["Hypothesis"]+'\t'+i["Label"]+'\n')
 
 	with open(test_file,'w') as outfile:
@@ -86,8 +86,8 @@ def convert_xnli_form(new_path):
 		for i in test_data:
 			temp_premise=''
 			j=i["Premise"].split('\n')
-			for y,x in enumerate(j[:-1:2]):
-				temp_premise+=j[y]+' : ' +j[y+1] +' ## '
+			for itr in range(0, len(j) - 1, 2):
+				temp_premise += j[itr]+ ' : ' + j[itr + 1] +' ## '
 			outfile.write('en'+'\t'+i["Label"]+'\t\t\t\t\t'+temp_premise+'\t'+i["Hypothesis"]+'\t\t\t\t\t\t\t\t\t'+temp_premise+'\t'+i["Hypothesis"]+'\n')
 
 	os.unlink(new_path+'/train.json')
