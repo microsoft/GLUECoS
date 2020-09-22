@@ -48,8 +48,9 @@ Follow the following instructions to download and process the datasets. All the 
     ```
 ### NLI Preprocess Script Update
 The data downloading and preprocessing scripts were updated in Sep - 2020 to fix an issue with the creation of the NLI train and test sets. Running the scripts as is will download all the datasets, so you do not have to make any changes if you're doing it for the first time. If you downloaded the datasets before this fix was added, you can follow these steps to get the updated NLI data alone.  
-1. Comment out lines 390-397 and 399-401 of `download_data.sh`
-2. Run the updated `download_data.sh` to create the new NLI dataset alone
+1. Make sure you have the latest version of the repo
+2. Comment out lines 390-397 and 399-401 of `download_data.sh`
+3. Run the updated `download_data.sh` to create the new NLI dataset alone
 
 ## Training models on the data
 The code contains 4 different evaluation scripts
