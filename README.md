@@ -1,4 +1,6 @@
 # GLUECoS: An Evaluation Benchmark for Code-Switched NLP
+**NEW (Oct - 2020): Please check our updated policy about making submissions for evaluation [here](#submission-policy)**
+
 **NEW (Sep - 2020): NLI dataset preprocess script updated to fix repetitions in data. If you have downloaded the datasets before, please check [this](#nli-preprocess-script-update) section**
 
 **NEW (Aug - 2020): Evaluation is now automated and results are presented instantly. Please check [this](#submitting-predictions-for-evaluation) section**
@@ -120,8 +122,9 @@ results.zip
             └── test_predictions.txt
 
 ```
-If you would like the result to appear on the leaderboard, please provide the name of your organization, name of the model and a link to a paper about the model along with the PR.
-
+<p id="submission-policy">
+You can make as many submissions as you want. Beyond the 5th submission, your best score will be added to the leaderboard. We will use your Github username for the leaderboard. Instead, if you would like your group's name/affilication to appear on the leaderboard, please mention this along with details about the model in the pull request.
+</p>
 
 ## Citation
 Please use the following citation if you use this benchmark:
