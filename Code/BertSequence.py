@@ -147,7 +147,7 @@ def train(args, train_dataset, valid_dataset, model, tokenizer, labels):
             inputs = {'input_ids': batch[0],
                       'attention_mask': batch[1],
                       'labels': batch[2]}
-            outputs = model(**inputs)
+            outputs = model(**inputs, return_dict=False)
             # model outputs are always tuple in transformers (see doc)
             loss = outputs[0]
 
@@ -203,7 +203,7 @@ def evaluate(args, model, tokenizer, labels, mode, prefix=""):
             '''print(inputs["input_ids"])
             print(inputs["attention_mask"])
             print(inputs["token_type_ids"])'''
-            outputs = model(**inputs)
+            outputs = model(**inputs, return_dict=False)
             tmp_eval_loss, logits = outputs[:2]
             eval_loss += tmp_eval_loss.mean().item()
 

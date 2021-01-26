@@ -141,7 +141,7 @@ def train(args, train_dataset, valid_dataset, model, tokenizer, labels):
             inputs = {"input_ids": batch[0],
                       'attention_mask': batch[1],
                       "labels": batch[2]}
-            outputs = model(**inputs)
+            outputs = model(**inputs, return_dict=False)
             loss = outputs[0]
 
             loss.backward()
@@ -191,7 +191,7 @@ def evaluate(args, model, tokenizer, labels, mode, prefix=""):
             inputs = {"input_ids": batch[0],
                       "attention_mask": batch[1],
                       "labels": batch[2]}
-            outputs = model(**inputs)
+            outputs = model(**inputs, return_dict=False)
             tmp_eval_loss, logits = outputs[:2]
             eval_loss += tmp_eval_loss.item()
 
