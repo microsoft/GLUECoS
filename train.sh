@@ -33,6 +33,8 @@ elif [ $TASK == 'QA_EN_HI' ]; then
   bash $CODE_DIR/train_qa.sh $TASK $MODEL $MODEL_TYPE $DATA_DIR $OUTPUT_DIR
 elif [ $TASK == 'NLI_EN_HI' ]; then
   bash $CODE_DIR/train_nli.sh $TASK $MODEL $MODEL_TYPE $DATA_DIR $OUTPUT_DIR
+elif [ $TASK == 'MT_EN_HI' ]; then
+  bash $CODE_DIR/train_mt.sh $TASK $MODEL $DIRN $DATA_DIR $OUTPUT_DIR
 elif [ $TASK == 'ALL' ]; then
   bash $CODE_DIR/train_token.sh "LID_EN_ES" $MODEL $MODEL_TYPE $DATA_DIR $OUTPUT_DIR
   bash $CODE_DIR/train_token.sh "LID_EN_HI/Devanagari" $MODEL $MODEL_TYPE $DATA_DIR $OUTPUT_DIR

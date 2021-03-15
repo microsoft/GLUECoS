@@ -1,4 +1,6 @@
 # GLUECoS: An Evaluation Benchmark for Code-Switched NLP
+**NEW (Mar - 2021): We have added a new Code-Mixed Machine Translation Dataset to GLUECoS. Please check [this](#code-mixed-machine-translation-task) section**
+
 **NEW (Oct - 2020): Please check our updated policy about making submissions for evaluation [here](#submission-policy)**
 
 **NEW (Sep - 2020): NLI dataset preprocess script updated to fix repetitions in data. If you have downloaded the datasets before, please check [this](#nli-preprocess-script-update) section**
@@ -125,6 +127,29 @@ results.zip
 <p id="submission-policy">
 You can make as many submissions as you want. Beyond the 5th submission, your best score will be added to the leaderboard. We will use your Github username for the leaderboard. Instead, if you would like your group's name/affilication to appear on the leaderboard, please mention this along with details about the model in the pull request.
 </p>
+
+## Code-Mixed Machine Translation Task
+We have added a code-mixed machine translation dataset to GLUECoS. The dataset and task are for translation from English to Hindi-English. The dataset has been provided by Prof. Alan Black's group from CMU. Since BERT like models aren't suitable for this task, we offer this as a separate part of the benchmark with a separate leaderboard. The baseline method for this task is mBART finetuned on this dataset.
+
+### Obtaining the dataset
+The `download_data.sh` script does the downloading and preprocessing of this dataset, but the MT dataset part is disabled by deafult. To enable this, you'll have to comment out lines 409-420 and uncomment line 421, and then run the script just like before.
+
+### Train Scripts
+We have supplied training scripts that can be used to finetune mBART or related models on the dataset. The train script is at `Code/run_seq2seq.py`. You can run that script directly, or alternatively start training this way
+```
+bash train.sh facebook/mbart-large-cc25 mbart MT_EN_HI
+```
+You can have a look at the training arguments in `Code/train_mt.sh` and modify them as per your needs. You might need to adjust batch size depending on the GPU that you are using.
+
+### Evaluation
+The train scripts write the predictions on the test set to the `Results` directory and you can submit these for evaluation similar to how you do for the other tasks. The predictions are written to `Results/MT_EN_HI/translations.txt`. The zip file that gets uploaded is expected to follow this structure
+```
+results.zip
+    └── Results
+        └── MT_EN_HI
+            └── translations.txt
+```
+The MT task will have a leaderboard that is separate from the other tasks. The evaluation for the MT task (via pull requests) will be enabled in April.
 
 ## Citation
 Please use the following citation if you use this benchmark:

@@ -387,6 +387,25 @@ function download_pos_en_es {
     echo "Downloaded POS EN ES"
 }
 
+# download MT EN HI dataset
+function download_mt_en_hi {
+    OUTPATH=$ORIGINAL_DIR/MT_EN_HI/temp
+    mkdir -p $OUTPATH
+    if [ ! -f $OUTPATH/CMUHinglishDoG.zip ]; then
+        wget -c http://festvox.org/cedar/data/notyet/CMUHinglishDoG.zip -P $OUTPATH -q --show-progress
+        unzip -qq $OUTPATH/CMUHinglishDoG.zip -d $OUTPATH
+    fi
+    if [ ! -f $OUTPATH/618a14f.zip ]; then
+        wget -c https://github.com/festvox/datasets-CMU_DoG/archive/618a14f.zip -P $OUTPATH -q --show-progress
+        unzip -qq $OUTPATH/618a14f.zip -d $OUTPATH
+    fi
+
+    python $PREPROCESS_DIR/preprocess_mt_en_hi.py $OUTPATH $ORIGINAL_DIR/MT_EN_HI/ $PROCESSED_DIR/MT_EN_HI
+
+    rm -rf $OUTPATH 
+    echo "Downloaded MT EN HI"
+}
+
 get_transliterations
 download_lid_en_hi
 download_ner_en_hi
@@ -399,3 +418,4 @@ download_nli_en_hi
 download_sentiment_en_es
 download_lid_en_es
 download_ner_en_es
+# download_mt_en_hi
