@@ -1,3 +1,4 @@
 tweepy
 unidecode
 nltk
+requests
