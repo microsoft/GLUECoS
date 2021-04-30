@@ -6,6 +6,10 @@ import os
 import glob
 import operator
 import argparse
+try:
+	from indictrans import Transliterator
+except ImportError as e:
+	print("Failed to import " + str(e))
 
 # subscription_key = ''
 
@@ -19,36 +23,40 @@ def get_token(subscription_key):
 	return access_token
 
 def get_transliteration(vocab, headers):
-	base_url = 'https://api.cognitive.microsofttranslator.com'
-	path = '/transliterate?api-version=3.0&language=hi&fromScript=Latn&toScript=Deva'
 	trans={}
-	count=0
-	body=[]
-	constructed_url = base_url + path
-	query=''
-	while(count<=6500):
-		for i in range(count,(count+500),50):
+	if headers is None:
+		trn = Transliterator(source='eng', target='hin', build_lookup=True)
+		trans = {trn.transform(item):item for item in vocab}
+	else:
+		base_url = 'https://api.cognitive.microsofttranslator.com'
+		path = '/transliterate?api-version=3.0&language=hi&fromScript=Latn&toScript=Deva'
+		count=0
+		body=[]
+		constructed_url = base_url + path
+		query=''
+		while(count<=6500):
+			for i in range(count,(count+500),50):
+				for j in range(i,i+50):
+					query += vocab[j] + ' '
+				body.append({'text' : query.strip()})
+				query=''
+			response = requests.post(constructed_url, headers=headers, json=body)
+			result = response.json()
+			for j,i in enumerate(result):
+				trans.update({body[j]['text']:i['text']})
+			body=[]
+			count += 500
+		
+		for i in range(count,len(vocab),50):
 			for j in range(i,i+50):
-				query += vocab[j] + ' '
+				if j<len(vocab):
+					query += vocab[j] + ' '
 			body.append({'text' : query.strip()})
 			query=''
 		response = requests.post(constructed_url, headers=headers, json=body)
 		result = response.json()
 		for j,i in enumerate(result):
-			trans.update({body[j]['text']:i['text']})
-		body=[]
-		count += 500
-	
-	for i in range(count,len(vocab),50):
-		for j in range(i,i+50):
-			if j<len(vocab):
-				query += vocab[j] + ' '
-		body.append({'text' : query.strip()})
-		query=''
-	response = requests.post(constructed_url, headers=headers, json=body)
-	result = response.json()
-	for j,i in enumerate(result):
-			trans.update({body[j]['text']:i['text']})
+				trans.update({body[j]['text']:i['text']})
 	
 	return trans
 
@@ -56,20 +64,22 @@ def main():
 	parser = argparse.ArgumentParser()
 
 	# Required parameters
-	parser.add_argument("--subscription_key", default=None, type=str, required=True, help="Azure Subscription key for downloading transliterations")
+	parser.add_argument("--subscription_key", default=None, type=str, required=False, help="Azure Subscription key for downloading transliterations")
 	parser.add_argument("--input_file", default=None, type=str, required=True,
 						help="The roman hindi words vocabulary ")
 	
 	args = parser.parse_args()
 	input_file = args.input_file
 	subscription_key = args.subscription_key
+	headers = None
 
-	req_token = get_token(subscription_key)
-	headers = { 'Accept': 'application/json;text/xml',
-			'Content-Type': 'application/json',
-			'Ocp-Apim-Subscription-Key': subscription_key,
-			'Authorization': req_token
-			}
+	if subscription_key is not None:
+		req_token = get_token(subscription_key)
+		headers = { 'Accept': 'application/json;text/xml',
+				'Content-Type': 'application/json',
+				'Ocp-Apim-Subscription-Key': subscription_key,
+				'Authorization': req_token
+				}
 
 	vocab = []
 	with open(input_file,'r+') as infile:

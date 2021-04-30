@@ -8,9 +8,25 @@ PREPROCESS_DIR="$REPO/Data/Preprocess_Scripts"
 PROCESSED_DIR="$REPO/Data/Processed_Data"
 mkdir -p $PROCESSED_DIR
 
+#get indic transliterations services
+#TODO: Optimize and move to requirements once this is published on PyPI
+function get_indic_trans {
+    cd $REPO/../
+    git clone https://github.com/libindic/indic-trans.git
+    cd indic-trans
+    pip install -r requirements.txt
+    pip install .
+    cd $REPO
+}
+
 # get transliterations
 function get_transliterations {
-    python transliterator.py --input_file all_roman.txt --subscription_key $SUBSCRIPTION_KEY
+    if [ -z $SUBSCRIPTION_KEY]; then
+        get_indic_trans
+        python transliterator.py --input_file all_roman.txt
+    else
+        python transliterator.py --input_file all_roman.txt --subscription_key $SUBSCRIPTION_KEY
+    fi
 }
 
 # download LID EN ES dataset
