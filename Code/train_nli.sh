@@ -7,7 +7,7 @@ MODEL_TYPE=${3:-bert}
 DATA_DIR=${4:-"$REPO/Data/Processed_Data"}
 OUT_DIR=${5:-"$REPO/Results"}
 
-EPOCH=5
+EPOCH=1
 BATCH_SIZE=8
 MAX_SEQ=128
 
