@@ -14,7 +14,7 @@ def make_temp_file(original_path):
 			words.append(row)
 	
 	prev_id=words[1][0]
-	with open('temp.txt','w') as outfile:
+	with open('temp.txt','w',encoding='utf-8') as outfile:
 		for i in words[1:]:
 			if i[0]==prev_id:
 				if len(i)>2:
@@ -27,16 +27,16 @@ def make_temp_file(original_path):
 # make processed file from ID and input files
 def make_split_file(id_file,input_file,output_file,mode):
 	
-	with open(id_file,'r') as f:
+	with open(id_file,'r',encoding='utf-8') as f:
 		con=f.readlines()
 	ids=[x.strip('\n') for x in con]
 
-	with open(input_file,'r') as infile:
+	with open(input_file,'r', encoding='utf-8') as infile:
 		con=infile.readlines()
 	all_sentences=[x.strip('\n') for x in con]
 
 	id_flag=False
-	with open(output_file,'w') as outfile:
+	with open(output_file,'w',encoding='utf-8') as outfile:
 		for i in all_sentences:
 			if i!='':
 				j=i.split('\t')
@@ -53,11 +53,11 @@ def make_split_file(id_file,input_file,output_file,mode):
 					id_flag=False
 
 def make_devanagari(roman_path,deva_path,trans_pairs):
-	with open(roman_path,'r') as infile:
+	with open(roman_path,'r',encoding='utf-8') as infile:
 		con=infile.readlines()
 	sentences=[x.strip('\n') for x in con]
 
-	with open(deva_path,'w') as outfile:
+	with open(deva_path,'w',encoding='utf-8') as outfile:
 		for i in sentences:
 			if i!='':
 				j=i.split('\t')
@@ -93,7 +93,7 @@ def main():
 	# downloading transliterations
 	trans_pairs={}
 	if os.path.exists('transliterations.txt'):
-		with open('transliterations.txt','r') as infile:
+		with open('transliterations.txt','r', encoding='utf-8') as infile:
 			con=infile.readlines()
 		sent=[x.strip('\n') for x in con]
 
@@ -109,13 +109,13 @@ def main():
 	make_split_file(id_dir+'/test_ids.txt','temp.txt',new_path+'/Romanized/test.txt',mode='test')
 
 	to_remove = [188]
-	with open(new_path + '/Romanized/test.txt') as f:
+	with open(new_path + '/Romanized/test.txt',encoding='utf-8') as f:
 		lines = f.read().strip().split('\n\n')
 	lines_out = []
 	for i in range(len(lines)):
 		if i not in to_remove:
 			lines_out.append(lines[i])
-	with open(new_path + '/Romanized/test.txt', "w") as f:
+	with open(new_path + '/Romanized/test.txt', "w",encoding='utf-8') as f:
 		f.write("\n\n".join(lines_out) + "\n")
 
 	make_split_file(id_dir+'/validation_ids.txt','temp.txt',new_path+'/Romanized/validation.txt',mode='valid')
@@ -126,15 +126,15 @@ def main():
 		make_devanagari(new_path+'/Romanized/validation.txt',new_path+'/Devanagari/validation.txt',trans_pairs)
 
 		# append all data in one file
-		open(new_path+'Devanagari/all.txt', 'w+').writelines([l for l in open(new_path+'Devanagari/train.txt').readlines()])
-		open(new_path+'Devanagari/all.txt', 'a').writelines([l for l in open(new_path+'Devanagari/test.txt').readlines()])
-		open(new_path+'Devanagari/all.txt', 'a').writelines([l for l in open(new_path+'Devanagari/validation.txt').readlines()])
+		open(new_path+'Devanagari/all.txt', 'w+',encoding='utf-8').writelines([l for l in open(new_path+'Devanagari/train.txt','r',encoding='utf-8').readlines()])
+		open(new_path+'Devanagari/all.txt', 'a',encoding='utf-8').writelines([l for l in open(new_path+'Devanagari/test.txt','r',encoding='utf-8').readlines()])
+		open(new_path+'Devanagari/all.txt', 'a',encoding='utf-8').writelines([l for l in open(new_path+'Devanagari/validation.txt','r',encoding='utf-8').readlines()])
 	
 	
 	# append all data in one file
-	open(new_path+'Romanized/all.txt', 'w+').writelines([l for l in open(new_path+'Romanized/train.txt').readlines() ])
-	open(new_path+'Romanized/all.txt', 'a').writelines([l for l in open(new_path+'Romanized/test.txt').readlines() ])
-	open(new_path+'Romanized/all.txt', 'a').writelines([l for l in open(new_path+'Romanized/validation.txt').readlines() ])
+	open(new_path+'Romanized/all.txt', 'w+',encoding='utf-8').writelines([l for l in open(new_path+'Romanized/train.txt','r',encoding='utf-8').readlines() ])
+	open(new_path+'Romanized/all.txt', 'a',encoding='utf-8').writelines([l for l in open(new_path+'Romanized/test.txt','r',encoding='utf-8').readlines() ])
+	open(new_path+'Romanized/all.txt', 'a',encoding='utf-8').writelines([l for l in open(new_path+'Romanized/validation.txt','r',encoding='utf-8').readlines() ])
 
 	# delete temp files
 	os.unlink('temp.txt')

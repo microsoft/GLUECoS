@@ -16,8 +16,8 @@ def make_temp_file(original_path):
 
 #process validation file
 def process_validation(new_path):
-	with open('validation_roman.txt','w') as outfile_roman,open('validation_deva.txt','w') as outfile_deva:
-		with open('temp_validation.txt','r') as infile:
+	with open('validation_roman.txt','w', encoding='utf-8') as outfile_roman,open('validation_deva.txt','w', encoding='utf-8') as outfile_deva:
+		with open('temp_validation.txt','r', encoding='utf-8') as infile:
 			con=infile.readlines()
 			sentences=[x.strip('\n') for x in con]
 			for i in sentences:
@@ -48,8 +48,8 @@ def process_validation(new_path):
 
 #process test file
 def process_test(new_path,trans_pairs):
-	with open('test_roman.txt','w') as outfile:
-		with open('temp_test.txt','r') as infile:
+	with open('test_roman.txt','w', encoding='utf-8') as outfile:
+		with open('temp_test.txt','r', encoding='utf-8') as infile:
 			con=infile.readlines()
 			sentences=[x.strip('\n') for x in con]
 			for i in sentences:
@@ -74,8 +74,8 @@ def process_test(new_path,trans_pairs):
 	os.unlink('test_roman.txt')
 
 	if len(trans_pairs.keys())>0:
-		with open('test_deva.txt','w') as outfile:
-			with open('temp_test.txt','r') as infile:
+		with open('test_deva.txt','w', encoding='utf-8') as outfile:
+			with open('temp_test.txt','r', encoding='utf-8') as infile:
 				con=infile.readlines()
 				sentences=[x.strip('\n') for x in con]
 				for i in sentences:
@@ -104,11 +104,11 @@ def process_test(new_path,trans_pairs):
 # process train file
 def process_train(original_path,new_path):
 	
-	with open(original_path+'/ICON_POS/Processed Data/Romanized/train.txt','r') as infile:
+	with open(original_path+'/ICON_POS/Processed Data/Romanized/train.txt','r', encoding='utf-8') as infile:
 		con=infile.readlines()
 	sentences=[x.strip('\n') for x in con]
 
-	with open(new_path+'/Romanized/train.txt','w') as outfile:
+	with open(new_path+'/Romanized/train.txt','w', encoding='utf-8') as outfile:
 		for i in sentences:
 			if i!='':
 				j=i.split('\t')
@@ -122,11 +122,11 @@ def process_train(original_path,new_path):
 			else:
 				outfile.write('\n')
 	
-	with open(original_path+'/ICON_POS/Processed Data/Devanagari/train.txt','r') as infile:
+	with open(original_path+'/ICON_POS/Processed Data/Devanagari/train.txt','r', encoding='utf-8') as infile:
 		con=infile.readlines()
 	sentences=[x.strip('\n') for x in con]
 
-	with open(new_path+'/Devanagari/train.txt','w') as outfile:
+	with open(new_path+'/Devanagari/train.txt','w', encoding='utf-8') as outfile:
 		for i in sentences:
 			if i!='':
 				j=i.split('\t')
@@ -162,7 +162,7 @@ def main():
 	trans_pairs={}
 	# downloading transliterations
 	if os.path.exists('transliterations.txt'):
-		with open('transliterations.txt','r') as infile:
+		with open('transliterations.txt','r', encoding='utf-8') as infile:
 			con=infile.readlines()
 		sent=[x.strip('\n') for x in con]
 
@@ -178,15 +178,15 @@ def main():
 	process_train(original_path,new_path)
 
 	# append all data in one file
-	open(new_path+'Romanized/all.txt', 'w+').writelines([l for l in open(new_path+'Romanized/train.txt').readlines() ])
-	open(new_path+'Romanized/all.txt', 'a').writelines([l for l in open(new_path+'Romanized/test.txt').readlines() ])
-	open(new_path+'Romanized/all.txt', 'a').writelines([l for l in open(new_path+'Romanized/validation.txt').readlines() ])
+	open(new_path+'Romanized/all.txt', 'w+', encoding='utf-8').writelines([l for l in open(new_path+'Romanized/train.txt', 'r', encoding='utf-8').readlines() ])
+	open(new_path+'Romanized/all.txt', 'a', encoding='utf-8').writelines([l for l in open(new_path+'Romanized/test.txt', 'r', encoding='utf-8').readlines() ])
+	open(new_path+'Romanized/all.txt', 'a', encoding='utf-8').writelines([l for l in open(new_path+'Romanized/validation.txt', 'r', encoding='utf-8').readlines() ])
 
 	# append all data in one file
 	if len(trans_pairs.keys())>0:
-		open(new_path+'Devanagari/all.txt', 'w+').writelines([l for l in open(new_path+'Devanagari/train.txt').readlines()])
-		open(new_path+'Devanagari/all.txt', 'a').writelines([l for l in open(new_path+'Devanagari/test.txt').readlines()])
-		open(new_path+'Devanagari/all.txt', 'a').writelines([l for l in open(new_path+'Devanagari/validation.txt').readlines()])
+		open(new_path+'Devanagari/all.txt', 'w+', encoding='utf-8').writelines([l for l in open(new_path+'Devanagari/train.txt', 'r', encoding='utf-8').readlines()])
+		open(new_path+'Devanagari/all.txt', 'a', encoding='utf-8').writelines([l for l in open(new_path+'Devanagari/test.txt', 'r', encoding='utf-8').readlines()])
+		open(new_path+'Devanagari/all.txt', 'a', encoding='utf-8').writelines([l for l in open(new_path+'Devanagari/validation.txt','r', encoding='utf-8').readlines()])
 
 if __name__=='__main__':
 	main()

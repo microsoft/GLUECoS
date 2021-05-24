@@ -9,9 +9,9 @@ import json
 # make processed file from movie IDs
 def process_files(final_key_path,all_id_path):
 	
-	with open(final_key_path,'r') as infile:
+	with open(final_key_path,'r', encoding='utf-8') as infile:
 		final_key = json.load(infile)
-	with open(all_id_path,'r') as infile:
+	with open(all_id_path,'r', encoding='utf-8') as infile:
 		all_id = json.load(infile)
 	
 	movie_key={}
@@ -23,17 +23,17 @@ def process_files(final_key_path,all_id_path):
 		premise = movie_key.get(i["Premise ID"])
 		all.append({"ID":i["ID"],"Premise ID":i["Premise ID"],"Premise":premise,"Hypothesis":i["Hypothesis"],"Label":i["Label"]})
 
-	with open('temp.json','w') as outfile:
+	with open('temp.json','w', encoding='utf-8') as outfile:
 		json.dump(all,outfile)
 
 # make processed file from ID and input files
 def make_split_file(id_file,input_file,output_file,mode):
 	
-	with open(id_file,'r') as f:
+	with open(id_file,'r', encoding='utf-8') as f:
 		con=f.readlines()
 	ids=[x.strip('\n') for x in con]
 	
-	with open(input_file,'r') as infile:
+	with open(input_file,'r', encoding='utf-8') as infile:
 		all_sentences=json.load(infile)
 
 	all_json=[]
@@ -50,7 +50,7 @@ def make_split_file(id_file,input_file,output_file,mode):
 						label='contradictory'   
 					all_json.append({"Premise":i["Premise"],"Hypothesis":i["Hypothesis"],"Label": label})
 
-	with open(output_file,'w') as outfile:
+	with open(output_file,'w', encoding='utf-8') as outfile:
 		json.dump(all_json,outfile)
 
 # convert to XNLI format
@@ -66,13 +66,13 @@ def convert_xnli_form(new_path):
 	train_file = new_path+'/XNLI-MT-1.0/multinli/multinli.train.en.tsv'
 	test_file = new_path+'/XNLI-1.0/xnli.test.tsv'
 
-	with open(new_path+'/train.json','r') as infile:
+	with open(new_path+'/train.json','r',encoding='utf-8') as infile:
 		train_data = json.load(infile)
 
-	with open(new_path+'/test.json','r') as infile:
+	with open(new_path+'/test.json','r',encoding='utf-8') as infile:
 		test_data = json.load(infile)
 
-	with open(train_file,'w') as outfile:
+	with open(train_file,'w',encoding='utf-8') as outfile:
 		outfile.write('Premise'+'\t'+'Hypothesis'+'\t'+'Label'+'\n')
 		for i in train_data:
 			temp_premise=''
@@ -81,7 +81,7 @@ def convert_xnli_form(new_path):
 				temp_premise += j[itr]+ ' : ' + j[itr + 1] +' ## '
 			outfile.write(temp_premise+'\t'+i["Hypothesis"]+'\t'+i["Label"]+'\n')
 
-	with open(test_file,'w') as outfile:
+	with open(test_file,'w',encoding='utf-8') as outfile:
 		outfile.write('en'+'\t'+'Label'+'\t\t\t\t\t'+'Premise'+'\t'+'Hypothesis'+'\t\t\t\t\t\t\t\t\t'+'Premise'+'\t'+'Hypothesis'+'\n')
 		for i in test_data:
 			temp_premise=''

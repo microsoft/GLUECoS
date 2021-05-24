@@ -31,16 +31,16 @@ def download_tweets(original_path):
 # final format from the above obtained files
 def make_temp_file(original_path):
 
-	with open(original_path + 'Release/train.tsv','r+') as infile:
+	with open(original_path + 'Release/train.tsv','r+', encoding='utf-8') as infile:
 		con=infile.readlines()
 	train_content=[x.strip('\n') for x in con]
 
-	with open(original_path + 'Release/test.tsv','r+') as infile:
+	with open(original_path + 'Release/test.tsv','r+', encoding='utf-8') as infile:
 		con=infile.readlines()
 	test_content=[x.strip('\n') for x in con]
 
 	prev_id = train_content[0].split('\t')[0]
-	with open('temp.txt','w+') as outfile:
+	with open('temp.txt','w+', encoding='utf-8') as outfile:
 		for i in train_content:
 			if i!='':
 				j=i.split('\t')
@@ -54,7 +54,7 @@ def make_temp_file(original_path):
 					prev_id=curr_id
 
 	prev_id = test_content[0].split('\t')[0]
-	with open('temp.txt','a') as outfile:
+	with open('temp.txt','a', encoding='utf-8') as outfile:
 		for i in test_content:
 			if i!='':
 				j=i.split('\t')
@@ -70,11 +70,11 @@ def make_temp_file(original_path):
 # make processed file from ID and input files
 def make_split_file(id_file,input_file,output_file,mode):
 	
-	with open(id_file,'r') as f:
+	with open(id_file,'r', encoding='utf-8') as f:
 		con=f.readlines()
 	ids=[x.strip('\n') for x in con]
 
-	with open(input_file,'r') as infile:
+	with open(input_file,'r', encoding='utf-8') as infile:
 		con=infile.readlines()
 	all_sentences=[x.strip('\n') for x in con]
 
@@ -109,7 +109,7 @@ def make_split_file(id_file,input_file,output_file,mode):
 						temp_dict.update({j[0]:j[1]+ '\t' + tag + '\n'})
 
 	
-	with open(output_file,'w') as outfile:
+	with open(output_file,'w', encoding='utf-8') as outfile:
 		for i in ids:
 			if i in temp_dict.keys():
 				outfile.write(temp_dict.get(i)+'\n')
@@ -145,21 +145,21 @@ def main():
 	make_split_file(id_dir+'/test_ids.txt','temp.txt',new_path+'/test.txt',mode='test')
 
 	to_remove = [55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 721, 722, 723, 724, 781, 794, 805, 1259, 1260, 1261, 1262, 1263, 1264, 1387, 1524, 1532]
-	with open(new_path + '/test.txt') as f:
+	with open(new_path + '/test.txt', encoding='utf-8') as f:
 		lines = f.read().strip().split('\n\n')
 	lines_out = []
 	for i in range(len(lines)):
 		if i not in to_remove:
 			lines_out.append(lines[i])
-	with open(new_path + '/test.txt', "w") as f:
+	with open(new_path + '/test.txt', "w", encoding='utf-8') as f:
 		f.write("\n\n".join(lines_out) + "\n")
 
 	make_split_file(id_dir+'/validation_ids.txt','temp.txt',new_path+'/validation.txt',mode='valid')
 	
 	# append all data in one file
-	open(new_path+'/all.txt', 'w+').writelines([l for l in open(new_path+'/train.txt').readlines()])
-	open(new_path+'/all.txt', 'a').writelines([l for l in open(new_path+'/test.txt').readlines()])
-	open(new_path+'/all.txt', 'a').writelines([l for l in open(new_path+'/validation.txt').readlines()])
+	open(new_path+'/all.txt', 'w+', encoding='utf-8').writelines([l for l in open(new_path+'/train.txt', 'r', encoding='utf-8').readlines()])
+	open(new_path+'/all.txt', 'a', encoding='utf-8').writelines([l for l in open(new_path+'/test.txt', 'r', encoding='utf-8').readlines()])
+	open(new_path+'/all.txt', 'a', encoding='utf-8').writelines([l for l in open(new_path+'/validation.txt', 'r', encoding='utf-8').readlines()])
 
 	# delete temp files
 	os.unlink('temp.txt')

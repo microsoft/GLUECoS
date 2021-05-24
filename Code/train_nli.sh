@@ -7,8 +7,8 @@ MODEL_TYPE=${3:-bert}
 DATA_DIR=${4:-"$REPO/Data/Processed_Data"}
 OUT_DIR=${5:-"$REPO/Results"}
 
-EPOCH=5
-BATCH_SIZE=8
+EPOCH=20
+BATCH_SIZE=64
 MAX_SEQ=128
 
 python $PWD/Code/run_xnli.py \

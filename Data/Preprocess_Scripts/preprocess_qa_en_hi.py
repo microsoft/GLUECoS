@@ -5,7 +5,7 @@ import json
 import argparse
 
 def convert_to_squad(infile,list_all):
-    with open(infile) as f:
+    with open(infile,'r',encoding='utf-8') as f:
         lines = f.readlines()
     for i, line in enumerate(lines):
         answer_dict={}
@@ -45,9 +45,9 @@ def main():
 
     print(os.getcwd())
 
-    with open('./Data/Preprocess_Scripts/temp_dev.txt','r') as infile:
+    with open('./Data/Preprocess_Scripts/temp_dev.txt','r',encoding='utf-8') as infile:
         final_dev = json.load(infile)
-    with open('./Data/Preprocess_Scripts/temp_train.txt','r') as infile:
+    with open('./Data/Preprocess_Scripts/temp_train.txt','r',encoding='utf-8') as infile:
         final_train = json.load(infile)
     
     all_dev = convert_to_squad('./Data/Preprocess_Scripts/temp_drqa.dsdev',final_dev)
@@ -61,10 +61,10 @@ def main():
     train["version"] =  "v2.0"
     train["data"] = all_train
 
-    with open(new_path+'dev-v2.0.json','w') as outfile:
+    with open(new_path+'dev-v2.0.json','w',encoding='utf-8') as outfile:
         json.dump(dev,outfile)
     
-    with open(new_path+'train-v2.0.json','w') as outfile:
+    with open(new_path+'train-v2.0.json','w',encoding='utf-8') as outfile:
         json.dump(train,outfile)
 
     os.unlink('Data/Preprocess_Scripts/temp_dev.txt')

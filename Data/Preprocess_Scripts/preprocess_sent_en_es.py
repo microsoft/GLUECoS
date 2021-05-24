@@ -9,10 +9,10 @@ import argparse
 
 def download_tweets(tweet_keys,original_path):
 	original_path_text = original_path +'/cs-en-es-corpus-wassa2015.txt'
-	lines = [line.strip() for line in open(original_path_text,'r').readlines()]
+	lines = [line.strip() for line in open(original_path_text,'r',encoding='utf-8').readlines()]
 
 	tweet_ids = []
-	with open('tweet_ids.txt','w') as f:
+	with open('tweet_ids.txt','w',encoding='utf-8') as f:
 		for line in lines:
 			if (not line.startswith('#')):
 				f.write(line.split('\t')[0]+'\n')
@@ -25,9 +25,9 @@ def download_tweets(tweet_keys,original_path):
 
 	inpfile = 'tweet_ids.txt'
 	outfile = 'downloaded_tweets.txt'
-	tweet_ids = [line.rstrip() for line in open(inpfile,'r').readlines()]
+	tweet_ids = [line.rstrip() for line in open(inpfile,'r',encoding='utf-8').readlines()]
 	count = 0
-	f = open(outfile,'w')
+	f = open(outfile,'w',encoding='utf-8')
 	start = time.time()
 
 	for i in range(math.ceil(float(len(tweet_ids))/100)):
@@ -58,18 +58,18 @@ def annotate_sentiment(original_path):
 
 	original_path_text = original_path+'/cs-en-es-corpus-wassa2015.txt'
 
-	with open('downloaded_tweets.txt', 'r') as rf:
+	with open('downloaded_tweets.txt', 'r',encoding='utf-8') as rf:
 		lines = [line.strip() for line in rf.readlines()]
 		for i in range(0,len(lines),2):
 			tweets[lines[i].split(' ')[1]] = lines[i+1]
 			tweet_ids[lines[i].split(' ')[1]] = (lines[i].split())[1]
-	with open(original_path_text, 'r') as rf:
+	with open(original_path_text, 'r',encoding='utf-8') as rf:
 		lines = [line.strip() for line in rf.readlines()]
 		for line in lines:
 			if not line.startswith('#'):
 				sentiments[line.split('\t')[0]] = line.split('\t')[1]
 
-	with open('sentiment_annotated.txt','w') as of:
+	with open('sentiment_annotated.txt','w',encoding='utf-8') as of:
 		for tid in tweets:
 			of.write(tweet_ids[tid]+'\t'+tweets[tid]+'\t'+sentiments[tid]+'\n')
 
@@ -112,7 +112,7 @@ def process_tweets():
 	sent_ids={}
 	new_sent = ""
 	input_file = 'sentiment_annotated.txt'
-	with open(input_file, 'r') as rf:
+	with open(input_file, 'r',encoding='utf-8') as rf:
 		content = rf.readline()
 		con = content.strip().split('\t')
 		while content:
@@ -135,18 +135,18 @@ def process_tweets():
 			content = rf.readline()
 			con = content.strip().split('\t')
 
-	with open('cleanTweets.txt','w+') as outfile:
+	with open('cleanTweets.txt','w+',encoding='utf-8') as outfile:
 		for i in sentences:
 			outfile.write(sent_ids.get(i) + "\t" + i +"\t" + sent_tagged.get(i)+"\n")
 
 # make processed file from ID and input files
 def make_split_file(id_file,input_file,output_file,mode):
 	
-	with open(id_file,'r') as f:
+	with open(id_file,'r',encoding='utf-8') as f:
 		con=f.readlines()
 	ids=[x.strip('\n') for x in con]
 
-	with open(input_file,'r') as infile:
+	with open(input_file,'r',encoding='utf-8') as infile:
 		con=infile.readlines()
 	all_sentences=[x.strip('\n') for x in con]
 
@@ -161,7 +161,7 @@ def make_split_file(id_file,input_file,output_file,mode):
 					temp_dict.update({j[0]:j[1]+ '\t' + j[2] + '\n'})
 
 	
-	with open(output_file,'w') as outfile:
+	with open(output_file,'w',encoding='utf-8') as outfile:
 		for i in ids:
 			if i in temp_dict.keys():
 				outfile.write(temp_dict.get(i))
@@ -187,7 +187,7 @@ def main():
 		os.mkdir(new_path)
 
 	# get twitter keys
-	with open('twitter_authentication.txt','r') as infile:
+	with open('twitter_authentication.txt','r',encoding='utf-8') as infile:
 		con=infile.readlines()
 	sent=[x.strip('\n') for x in con]
 
@@ -204,9 +204,9 @@ def main():
 	make_split_file(id_dir+'/validation_ids.txt','cleanTweets.txt',new_path+'/validation.txt',mode='valid')
 	
 	# append all data in one file
-	open(new_path+'/all.txt', 'w+').writelines([l for l in open(new_path+'/train.txt').readlines()])
-	open(new_path+'/all.txt', 'a').writelines([l for l in open(new_path+'/test.txt').readlines()])
-	open(new_path+'/all.txt', 'a').writelines([l for l in open(new_path+'/validation.txt').readlines()])
+	open(new_path+'/all.txt', 'w+',encoding='utf-8').writelines([l for l in open(new_path+'/train.txt','r',encoding='utf-8').readlines()])
+	open(new_path+'/all.txt', 'a',encoding='utf-8').writelines([l for l in open(new_path+'/test.txt','r',encoding='utf-8').readlines()])
+	open(new_path+'/all.txt', 'a',encoding='utf-8').writelines([l for l in open(new_path+'/validation.txt','r',encoding='utf-8').readlines()])
 	
 	# delete temp files
 	os.unlink('cleanTweets.txt')

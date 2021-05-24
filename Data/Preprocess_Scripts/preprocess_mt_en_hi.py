@@ -25,8 +25,8 @@ for split in ['train', 'valid', 'test']:
         en_file_path = f.split('.json')[0] + '.json'
         if en_file_path in english_files:
             count += 1
-            en = json.load(open(os.path.join(en_file_root, 'train', en_file_path)))
-            hien = json.load(open(os.path.join(hien_file_root, split, f)))
+            en = json.load(open(os.path.join(en_file_root, 'train', en_file_path), 'r', encoding='utf-8'))
+            hien = json.load(open(os.path.join(hien_file_root, split, f), 'r', encoding='utf-8'))
             assert len(en['history']) == len(hien['history'])
             for x, y in zip(en['history'], hien['history']):
                 assert x['docIdx'] == y['docIdx']
@@ -44,5 +44,5 @@ for split in ['train', 'valid', 'test']:
         sentences = [[t[0], " "] for t in sentences]
 
     print(count, len(sentences))
-    with open(os.path.join(args.output_dir, split + '.txt'), 'w') as f:
+    with open(os.path.join(args.output_dir, split + '.txt'), 'w', encoding='utf-8') as f:
         f.write('\n'.join(['\t'.join(x) for x in sentences]))

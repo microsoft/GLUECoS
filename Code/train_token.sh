@@ -7,8 +7,8 @@ MODEL_TYPE=${3:-bert}
 DATA_DIR=${4:-"$REPO/Data/Processed_Data"}
 OUT_DIR=${5:-"$REPO/Results"}
 
-EPOCH=5
-BATCH_SIZE=16
+EPOCH=20
+BATCH_SIZE=128
 MAX_SEQ=256
 
 dir=`basename "$TASK"`

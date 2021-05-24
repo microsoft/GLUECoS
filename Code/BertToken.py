@@ -28,7 +28,7 @@ def set_seed(args):
 def read_examples_from_file(data_dir, mode):
     file_path = os.path.join(data_dir, "{}.txt".format(mode))
     examples = []
-    with open(file_path, 'r') as infile:
+    with open(file_path, 'r', encoding='utf-8') as infile:
         lines = infile.read().strip().split('\n\n')
     for example in lines:
         example = example.split('\n')
@@ -87,7 +87,7 @@ def convert_examples_to_features(examples,
 def get_labels(data_dir):
     all_path = os.path.join(data_dir, "all.txt")
     labels = []
-    with open(all_path, "r") as infile:
+    with open(all_path, "r", encoding='utf-8') as infile:
         lines = infile.read().strip().split('\n\n')
 
     for example in lines:
@@ -373,7 +373,7 @@ def main():
 
     # Saving predictions
     output_test_predictions_file = os.path.join(args.output_dir, "test_predictions.txt")
-    with open(output_test_predictions_file, "w") as writer:
+    with open(output_test_predictions_file, "w", encoding='utf-8') as writer:
         writer.write('\n\n'.join(['\n'.join(example) for example in preds]))
 
     return results

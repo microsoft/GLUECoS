@@ -7,11 +7,11 @@ import argparse
 # process test files
 def process_test(input_file,output_file):
 	
-	with open(input_file,'r') as infile:
+	with open(input_file,'r',encoding='utf-8') as infile:
 		con=infile.readlines()
 	sentences=[x.strip('\n') for x in con]
 
-	with open(output_file,'w') as outfile:
+	with open(output_file,'w',encoding='utf-8') as outfile:
 		for i in sentences:
 			if i!='':
 				j=i.split('\t')
@@ -50,14 +50,14 @@ def main():
 	process_test(original_path+'Devanagari/test.txt',new_path+'Devanagari/test.txt')
 	
 	# append all data in one file
-	open(new_path+'Romanized/all.txt', 'w+').writelines([l for l in open(new_path+'Romanized/train.txt').readlines() ])
-	open(new_path+'Romanized/all.txt', 'a').writelines([l for l in open(new_path+'Romanized/test.txt').readlines() ])
-	open(new_path+'Romanized/all.txt', 'a').writelines([l for l in open(new_path+'Romanized/validation.txt').readlines() ])
+	open(new_path+'Romanized/all.txt', 'w+',encoding='utf-8').writelines([l for l in open(new_path+'Romanized/train.txt','r',encoding='utf-8').readlines() ])
+	open(new_path+'Romanized/all.txt', 'a',encoding='utf-8').writelines([l for l in open(new_path+'Romanized/test.txt','r',encoding='utf-8').readlines() ])
+	open(new_path+'Romanized/all.txt', 'a',encoding='utf-8').writelines([l for l in open(new_path+'Romanized/validation.txt','r',encoding='utf-8').readlines() ])
 
 	# append all data in one file
-	open(new_path+'Devanagari/all.txt', 'w+').writelines([l for l in open(new_path+'Devanagari/train.txt').readlines() ])
-	open(new_path+'Devanagari/all.txt', 'a').writelines([l for l in open(new_path+'Devanagari/test.txt').readlines() ])
-	open(new_path+'Devanagari/all.txt', 'a').writelines([l for l in open(new_path+'Devanagari/validation.txt').readlines() ])
+	open(new_path+'Devanagari/all.txt', 'w+',encoding='utf-8').writelines([l for l in open(new_path+'Devanagari/train.txt','r',encoding='utf-8').readlines() ])
+	open(new_path+'Devanagari/all.txt', 'a',encoding='utf-8').writelines([l for l in open(new_path+'Devanagari/test.txt','r',encoding='utf-8').readlines() ])
+	open(new_path+'Devanagari/all.txt', 'a',encoding='utf-8').writelines([l for l in open(new_path+'Devanagari/validation.txt','r',encoding='utf-8').readlines() ])
 
 if __name__=='__main__':
 	main()
