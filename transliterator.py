@@ -26,7 +26,7 @@ def get_transliteration(vocab, headers):
 	trans={}
 	if headers is None:
 		trn = Transliterator(source='eng', target='hin', build_lookup=True)
-		trans = {trn.transform(item):item for item in vocab}
+		trans = {item:trn.transform(item) for item in vocab}
 	else:
 		base_url = 'https://api.cognitive.microsofttranslator.com'
 		path = '/transliterate?api-version=3.0&language=hi&fromScript=Latn&toScript=Deva'
