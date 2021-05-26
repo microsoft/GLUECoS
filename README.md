@@ -29,9 +29,13 @@ Follow the following instructions to download and process the datasets. All the 
     access_secret_token
     ```
     
-3. Obtain a key for Microsoft Translator. This is needed as the preprocessing steps involve conversion of Romanized datasets into Devanagari. Instructions for obtaining this key can be found [here](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup). While creating the translator instance, please set the region to global. The number of queries made fall within the free tier. This key will be referred to as SUBSCRIPTION_KEY in the next step
+3. A transliterator is used to transliterate roman parts of the dataset to devanagari. Currently, we support 2 options: indic-trans or Microsoft Translator. If you'd like to use indic-trans, you'll have to install the package from [here](https://github.com/libindic/indic-trans). If you'd like to use Microsoft Translator, you will need to obtain a key for it. Instructions for obtaining this key can be found [here](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup). While creating the translator instance, please set the region to global. The number of queries made fall within the free tier. This key will be referred to as SUBSCRIPTION_KEY in the next step
 4. To download the data, run the command below. This will download the original datasets, perform all the preprocessing needed and bring them into a format that the training scripts can use
     ```
+    # If you're using indic-trans, make sure it's package is installed and run it in the following way
+    ./download_data.sh
+
+    # If you're using Microsoft Translator, run it in the following way, passing the key and run it in this way
     ./download_data.sh SUBSCRIPTION_KEY
     ```
     The dowloaded and processed data is stored in `Data/Processed_Data`. 

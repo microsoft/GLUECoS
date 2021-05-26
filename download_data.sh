@@ -9,9 +9,8 @@ PROCESSED_DIR="$REPO/Data/Processed_Data"
 mkdir -p $PROCESSED_DIR
 
 # get transliterations
-# TODO: Update README to include steps without an Azure subscription key
 function get_transliterations {
-    if [ -z $SUBSCRIPTION_KEY]; then
+    if [ -z $SUBSCRIPTION_KEY ]; then
         python transliterator.py --input_file all_roman.txt
     else
         python transliterator.py --input_file all_roman.txt --subscription_key $SUBSCRIPTION_KEY
