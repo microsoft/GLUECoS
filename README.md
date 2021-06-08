@@ -1,4 +1,6 @@
 # GLUECoS: An Evaluation Benchmark for Code-Switched NLP
+**NEW (Jun - 2021): Evaluation for Code-Mixed Machine Translation task has been enabled. Please check [this](#evaluation) section**
+
 **NEW (Mar - 2021): We have added a new Code-Mixed Machine Translation Dataset to GLUECoS. Please check [this](#code-mixed-machine-translation-task) section**
 
 **NEW (Oct - 2020): Please check our updated policy about making submissions for evaluation [here](#submission-policy)**
@@ -153,7 +155,7 @@ results.zip
         └── MT_EN_HI
             └── translations.txt
 ```
-The MT task will have a leaderboard that is separate from the other tasks. The evaluation for the MT task (via pull requests) will be enabled in April.
+The MT task will have a leaderboard that is separate from the other tasks. The evaluation for the MT task has been enabled now.
 
 ## Citation
 Please use the following citation if you use this benchmark:
