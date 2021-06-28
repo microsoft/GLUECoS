@@ -1,7 +1,7 @@
 name: Eval script
 
 on:
-  pull_request_target:
+  pull_request:
     branches: [ master ]
 
 jobs:
@@ -9,9 +9,11 @@ jobs:
     runs-on: [self-hosted, linux]
 
     steps:
-    - name: Download results.zip
-      run: wget https://github.com/$GITHUB_ACTOR/GLUECoS/raw/$GITHUB_HEAD_REF/results.zip -O results.zip 
-    - name: Copy eval scripts
-      run: cp -r /root/code/ eval/
-    - name: Run Eval
-      run: cd eval && ./eval.sh ../results.zip
+    - name: List
+      run: ls
+#     - name: Download results.zip
+#       run: wget https://github.com/$GITHUB_ACTOR/GLUECoS/raw/$GITHUB_HEAD_REF/results.zip -O results.zip 
+#     - name: Copy eval scripts
+#       run: cp -r /root/code/ eval/
+#     - name: Run Eval
+#       run: cd eval && ./eval.sh ../results.zip
