@@ -50,12 +50,22 @@ Follow the following instructions to download and process the datasets. All the 
 
 5. The original QA dataset (Chandu et. al, 2018) contains contexts only for some examples. To obtain contexts for the rest, [DrQA](https://github.com/facebookresearch/DrQA) is used to obtain contexts from a Wikipedia dump. To run this, you will need atleast 20GB of disk storage (to store the wikidump) and 16GB+ of RAM (to run DrQA). DrQA uses PyTorch, so having a GPU will help speed it up (although it isn't necessary).
 
-    First, install a suitable version of PyTorch for your system. In most cases, a `pip install torch` should do
+    The following steps MUST be run with a `python:3.6.10` container. Start up a container with this image and clone the repo into it.
 
-    To download and process the QA dataset, run the following command
+    First, open `download_data.sh` and comment out all lines starting from 413 (get_transliterations) till the end. After this, uncomment line 419 alone (download_qa_en_hi).
+
+    Next, run this to download the partial version of the QA dataset
+    ```
+    bash download_data.sh
+    ```
+    Next, run the following command to download the DrQA and run it on the sentences with missing contexts
     ```
     bash Data/Preprocess_Scripts/preprocess_qa.sh
     ```
+    If DrQA ran properly, the penultimate line of the above script should say `Finished. Total = 215`. If the number displayed in this line is different, then DrQA has not run properly. Please make sure you're using the latest version of this repo and running it inside a container with the `python:3.6.10` image.
+
+    The processed QA dataset will be at `Data/Processed_Data/QA_EN_HI`. You can take these files and store them along with the other datasets.
+
 ### NLI Preprocess Script Update
 The data downloading and preprocessing scripts were updated in Sep - 2020 to fix an issue with the creation of the NLI train and test sets. Running the scripts as is will download all the datasets, so you do not have to make any changes if you're doing it for the first time. If you downloaded the datasets before this fix was added, you can follow these steps to get the updated NLI data alone.  
 1. Make sure you have the latest version of the repo
