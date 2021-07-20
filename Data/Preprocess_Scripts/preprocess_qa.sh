@@ -15,9 +15,9 @@ python $PREPROCESS_DIR/preprocess_drqa.py --data_dir $ORIGINAL_DATA_DIR
 git clone https://github.com/facebookresearch/DrQA.git
 cd DrQA
 git checkout 96f343c
-pip install -r requirements.txt
+pip install elasticsearch==7.8.0 nltk==3.5 scipy==1.5.0 prettytable==0.7.2 tqdm==4.46.1 regex==2020.6.8 termcolor==1.1.0 scikit-learn==0.23.1 numpy==1.18.5 torch==1.4.0
 python setup.py develop
-pip install spacy
+pip install spacy==2.3.0
 python -m spacy download xx_ent_wiki_sm
 python -c "import nltk;nltk.download(['punkt', 'averaged_perceptron_tagger', 'maxent_ne_chunker', 'words'])"
 ./download.sh
