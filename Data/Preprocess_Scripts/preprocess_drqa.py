@@ -21,14 +21,14 @@ def convert_to_squad(x):
 
 def make_temp_file(original_path):
 
-	with open(original_path+'code_mixed_qa_train.json','r') as infile:
+	with open(original_path+'code_mixed_qa_train.json','r', encoding='utf-8') as infile:
 			data = json.load(infile)
 		
-	with open(original_path+'/ID_Files/dev_ids.txt','r') as infile:
+	with open(original_path+'/ID_Files/dev_ids.txt','r', encoding='utf-8') as infile:
 		con=infile.readlines()
 	dev_ids = [int(x.strip('\n')) for x in con]
 
-	with open(original_path+'/ID_Files/train_ids.txt','r') as infile:
+	with open(original_path+'/ID_Files/train_ids.txt','r', encoding='utf-8') as infile:
 		con=infile.readlines()
 	train_ids = [int(x.strip('\n')) for x in con]
 
@@ -53,14 +53,14 @@ def make_temp_file(original_path):
 		else:
 			without_context.append(x)
 	
-	with open('Data/Preprocess_Scripts/temp_dev.txt','w+') as df, open('Data/Preprocess_Scripts/temp_train.txt','w+') as tf:
+	with open('Data/Preprocess_Scripts/temp_dev.txt','w+', encoding='utf-8') as df, open('Data/Preprocess_Scripts/temp_train.txt','w+', encoding='utf-8') as tf:
 		json.dump(final_dev,df)
 		json.dump(final_train,tf)
 
 	return without_context
 
 def convert_to_drqa(without_context):
-	with open('Data/Preprocess_Scripts/temp_drqa.txt','w') as f:
+	with open('Data/Preprocess_Scripts/temp_drqa.txt','w', encoding='utf-8') as f:
 		for x in without_context:
 			question = x['query']
 			answer = [x['answer']]

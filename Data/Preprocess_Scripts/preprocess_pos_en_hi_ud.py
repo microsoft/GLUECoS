@@ -9,15 +9,15 @@ import argparse
 def scrape_tweets(original_path):
 	
 	# get twitter authentication keys
-	with open('twitter_authentication.txt','r') as infile:
+	with open('twitter_authentication.txt','r',encoding='utf-8') as infile:
 		con=infile.readlines()
 	twitter_keys=[x.strip('\n') for x in con]
 	
 	os.chdir(original_path)
-	with open('crawl_tweets.py','r') as infile:
+	with open('crawl_tweets.py','r',encoding='utf-8') as infile:
 		con=infile.readlines()
 	
-	with open('crawl_tweets_copy.py','w') as outfile:
+	with open('crawl_tweets_copy.py','w',encoding='utf-8') as outfile:
 		for i in con:
 			if i.startswith('consumer_key'):
 				temp = 'consumer_key = \'{0}\' '.format(twitter_keys[0])
@@ -42,8 +42,8 @@ def scrape_tweets(original_path):
 def make_files(original_path,new_path):
 
 	#processing each file to get in desired format for evaluation
-	with open(new_path+'/Devanagari/validation.txt','w') as f1,open(new_path+'/Romanized/validation.txt','w') as f2:
-		with open(original_path+'/tweets_dev.conll','r') as infile:
+	with open(new_path+'/Devanagari/validation.txt','w',encoding='utf-8') as f1,open(new_path+'/Romanized/validation.txt','w',encoding='utf-8') as f2:
+		with open(original_path+'/tweets_dev.conll','r',encoding='utf-8') as infile:
 			con=infile.readlines()
 		sentences=[x.strip('\n') for x in con]
 		for i in sentences:
@@ -65,14 +65,14 @@ def make_files(original_path,new_path):
 				f1.write('\n')
 				f2.write('\n')
 
-	with open(original_path+'/tweet_ids_test.txt','r') as f:
+	with open(original_path+'/tweet_ids_test.txt','r',encoding='utf-8') as f:
 		con=f.readlines()
 	test_ids=[x.strip('\n') for x in con]
 	
 	temp_dict_roman={}
 	temp_dict_deva={}
 
-	with open(original_path+'/tweets_test.conll','r') as infile:
+	with open(original_path+'/tweets_test.conll','r',encoding='utf-8') as infile:
 		con=infile.readlines()
 	sentences=[x.strip('\n') for x in con]
 	for i in sentences:
@@ -107,7 +107,7 @@ def make_files(original_path,new_path):
 				if word_roman!='':
 					temp_dict_roman.update({j[0]:word_roman+'\t'+lang+'\t'+'NOUN'+'\n'})
 
-	with open(new_path+'/Devanagari/test.txt','w') as f1,open(new_path+'/Romanized/test.txt','w') as f2:
+	with open(new_path+'/Devanagari/test.txt','w',encoding='utf-8') as f1,open(new_path+'/Romanized/test.txt','w',encoding='utf-8') as f2:
 		for i in test_ids:
 			if i in temp_dict_deva.keys():
 				f1.write(temp_dict_deva.get(i)+'\n')
@@ -119,8 +119,8 @@ def make_files(original_path,new_path):
 			else:
 				f2.write('not found' + '\t' + 'OTHER' + '\t' + 'NOUN' + '\n\n')
 
-	with open(new_path+'/Devanagari/train.txt','w') as f1,open(new_path+'/Romanized/train.txt','w') as f2:
-		with open(original_path+'/tweets_train.conll','r') as infile:
+	with open(new_path+'/Devanagari/train.txt','w',encoding='utf-8') as f1,open(new_path+'/Romanized/train.txt','w',encoding='utf-8') as f2:
+		with open(original_path+'/tweets_train.conll','r',encoding='utf-8') as infile:
 			con=infile.readlines()
 		sentences=[x.strip('\n') for x in con]
 		for i in sentences:
@@ -166,14 +166,14 @@ def main():
 	make_files(original_path,new_path)
 
 	# append all data in one file
-	open(new_path+'Romanized/all.txt', 'w+').writelines([l for l in open(new_path+'Romanized/train.txt').readlines() ])
-	open(new_path+'Romanized/all.txt', 'a').writelines([l for l in open(new_path+'Romanized/test.txt').readlines() ])
-	open(new_path+'Romanized/all.txt', 'a').writelines([l for l in open(new_path+'Romanized/validation.txt').readlines() ])
+	open(new_path+'Romanized/all.txt', 'w+',encoding='utf-8').writelines([l for l in open(new_path+'Romanized/train.txt','r',encoding='utf-8').readlines() ])
+	open(new_path+'Romanized/all.txt', 'a',encoding='utf-8').writelines([l for l in open(new_path+'Romanized/test.txt','r',encoding='utf-8').readlines() ])
+	open(new_path+'Romanized/all.txt', 'a',encoding='utf-8').writelines([l for l in open(new_path+'Romanized/validation.txt','r',encoding='utf-8').readlines() ])
 
 	# append all data in one file
-	open(new_path+'Devanagari/all.txt', 'w+').writelines([l for l in open(new_path+'Devanagari/train.txt').readlines() ])
-	open(new_path+'Devanagari/all.txt', 'a').writelines([l for l in open(new_path+'Devanagari/test.txt').readlines() ])
-	open(new_path+'Devanagari/all.txt', 'a').writelines([l for l in open(new_path+'Devanagari/validation.txt').readlines() ])
+	open(new_path+'Devanagari/all.txt', 'w+',encoding='utf-8').writelines([l for l in open(new_path+'Devanagari/train.txt','r',encoding='utf-8').readlines() ])
+	open(new_path+'Devanagari/all.txt', 'a',encoding='utf-8').writelines([l for l in open(new_path+'Devanagari/test.txt','r',encoding='utf-8').readlines() ])
+	open(new_path+'Devanagari/all.txt', 'a',encoding='utf-8').writelines([l for l in open(new_path+'Devanagari/validation.txt','r',encoding='utf-8').readlines() ])
 
 if __name__=="__main__":
 	main()

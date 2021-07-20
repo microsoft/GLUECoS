@@ -82,12 +82,12 @@ def main():
 				}
 
 	vocab = []
-	with open(input_file,'r+') as infile:
+	with open(input_file,'r+',encoding='utf-8') as infile:
 		con = infile.readlines()
 	vocab = [x.strip('\n') for x in con]
 
 	trans = get_transliteration(vocab, headers)
-	with open('transliterations.txt','w+') as outfile:
+	with open('transliterations.txt','w+',encoding='utf-8') as outfile:
 		for i in trans.keys():
 			words=i.split(' ')
 			deva=trans.get(i).split(' ')

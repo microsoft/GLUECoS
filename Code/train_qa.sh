@@ -8,8 +8,8 @@ DATA_DIR=${4:-"$REPO/Data/Processed_Data"}
 OUT_DIR=${5:-"$REPO/Results"}
 
 
-EPOCH=5
-BATCH_SIZE=4
+EPOCH=20
+BATCH_SIZE=64
 MAX_SEQ=512
 
 python $PWD/Code/run_squad.py \

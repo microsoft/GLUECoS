@@ -5,13 +5,13 @@ import argparse
 
 # read original files
 def make_sentence_file(input_file):
-	with open(input_file,'r') as f:
+	with open(input_file,'r',encoding='utf-8') as f:
 		con=f.readlines()
 	lines = [x.strip('\n') for x in con]
 
 	prev_id = lines[1].split('\t')[1]
 	new_sent=''
-	with open('temp_word.txt','a') as wf, open('temp_sentence.txt','a') as sf:
+	with open('temp_word.txt','a',encoding='utf-8') as wf, open('temp_sentence.txt','a',encoding='utf-8') as sf:
 		for i in lines[1:len(lines)-1] :
 			if i!='': 
 				j=i.split('\t')
@@ -38,16 +38,16 @@ def make_sentence_file(input_file):
 # make processed file from ID and input files
 def make_split_file(id_file,input_file,output_file,mode):
 	
-	with open(id_file,'r') as f:
+	with open(id_file,'r',encoding='utf-8') as f:
 		con=f.readlines()
 	ids=[x.strip('\n') for x in con]
 
-	with open(input_file,'r') as infile:
+	with open(input_file,'r',encoding='utf-8') as infile:
 		con=infile.readlines()
 	all_sentences=[x.strip('\n') for x in con]
 
 	id_flag=False
-	with open(output_file,'w') as outfile:
+	with open(output_file,'w',encoding='utf-8') as outfile:
 		for i in all_sentences:
 			if i!='':
 				j=i.split('\t')
@@ -92,9 +92,9 @@ def main():
 	make_split_file(id_dir+'/validation_ids.txt','temp_word.txt',new_path+'/validation.txt',mode='valid')
 
 	# append all data in one file
-	open(new_path+'/all.txt', 'w+').writelines([l for l in open(new_path+'/train.txt').readlines()])
-	open(new_path+'/all.txt', 'a').writelines([l for l in open(new_path+'/test.txt').readlines()])
-	open(new_path+'/all.txt', 'a').writelines([l for l in open(new_path+'/validation.txt').readlines()])
+	open(new_path+'/all.txt', 'w+',encoding='utf-8').writelines([l for l in open(new_path+'/train.txt','r',encoding='utf-8').readlines()])
+	open(new_path+'/all.txt', 'a',encoding='utf-8').writelines([l for l in open(new_path+'/test.txt','r',encoding='utf-8').readlines()])
+	open(new_path+'/all.txt', 'a',encoding='utf-8').writelines([l for l in open(new_path+'/validation.txt','r',encoding='utf-8').readlines()])
 
 	# delete temp files
 	os.unlink('temp_sentence.txt')
