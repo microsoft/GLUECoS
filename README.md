@@ -5,7 +5,7 @@
 
 **NEW (Oct - 2020): Please check our updated policy about making submissions for evaluation [here](#submission-policy)**
 
-**NEW (Sep - 2020): NLI dataset preprocess script updated to fix repetitions in data. If you have downloaded the datasets before, please check [this](#nli-preprocess-script-update) section**
+**NEW (Sep - 2020): NLgI dataset preprocess script updated to fix repetitions in data. If you have downloaded the datasets before, please check [this](#nli-preprocess-script-update) section**
 
 **NEW (Aug - 2020): Evaluation is now automated and results are presented instantly. Please check [this](#submitting-predictions-for-evaluation) section**
 
