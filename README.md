@@ -1,4 +1,4 @@
-#  GLUECoS: An Evaluation Benchmark for Code-Switched NLP
+# GLUECoS: An Evaluation Benchmark for Code-Switched NLP
 **NEW (Aug - 2020): Evaluation is now automated and results are presented instantly. Please check [this](#submitting-predictions-for-evaluation) section**
 
 This is the repo for the ACL 2020 paper [GLUECoS: An Evaluation Benchmark for Code-Switched NLP](https://www.aclweb.org/anthology/2020.acl-main.329/)
