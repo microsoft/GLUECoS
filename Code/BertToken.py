@@ -325,7 +325,8 @@ def main():
     parser.add_argument("--max_seq_length", default=128, type=int, help="max seq length after tokenization")
 
     args = parser.parse_args()
-    device = torch.device("cuda" if torch.cuda.is_available() else 'cpu')
+    #device = torch.device("cuda" if torch.cuda.is_available() else 'cpu')
+    device = 'cpu'
     args.device = device
 
     # Set up logging

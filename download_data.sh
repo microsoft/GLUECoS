@@ -11,9 +11,9 @@ mkdir -p $PROCESSED_DIR
 # get transliterations
 function get_transliterations {
     if [ -z $SUBSCRIPTION_KEY ]; then
-        python transliterator.py --input_file all_roman.txt
+        python3 transliterator.py --input_file all_roman.txt
     else
-        python transliterator.py --input_file all_roman.txt --subscription_key $SUBSCRIPTION_KEY
+        python3 transliterator.py --input_file all_roman.txt --subscription_key $SUBSCRIPTION_KEY
     fi
 }
 
@@ -34,7 +34,7 @@ function download_lid_en_es {
       unzip -qq $OUTPATH/Release.zip -d $OUTPATH
     fi
 
-    python $PREPROCESS_DIR/preprocess_lid_en_es.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
+    python3 $PREPROCESS_DIR/preprocess_lid_en_es.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
  
     rm -rf $OUTPATH
     echo "Downloaded LID EN ES"
@@ -60,7 +60,7 @@ function download_lid_en_hi {
       unzip -qq $OUTPATH/ICON_POS.zip -d $OUTPATH
     fi
 
-    python $PREPROCESS_DIR/preprocess_lid_en_hi.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
+    python3 $PREPROCESS_DIR/preprocess_lid_en_hi.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
     
     rm -rf $OUTPATH
     echo "Downloaded LID EN HI"
@@ -83,7 +83,7 @@ function download_ner_en_es {
       unzip -qq $OUTPATH/Release.zip -d $OUTPATH
     fi
 
-    python $PREPROCESS_DIR/preprocess_ner_en_es.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
+    python3 $PREPROCESS_DIR/preprocess_ner_en_es.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
     
     rm -rf $OUTPATH 
     echo "Downloaded NER EN ES"
@@ -97,7 +97,7 @@ function download_ner_en_hi {
         wget -c https://github.com/SilentFlame/Named-Entity-Recognition/raw/master/Twitterdata/annotatedData.csv -P $OUTPATH -q --show-progress
     fi
     
-    python $PREPROCESS_DIR/preprocess_ner_en_hi.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
+    python3 $PREPROCESS_DIR/preprocess_ner_en_hi.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
 
     rm -rf $OUTPATH 
     echo "Downloaded NER EN HI"
@@ -124,7 +124,7 @@ function download_pos_en_hi_ud {
     >         dep_tweet = zip(tweet_id,annot['ids'], annot['tweet'], norm, annot['pos'], annot['cpos'],
 EOF
 
-    python $PREPROCESS_DIR/preprocess_pos_en_hi_ud.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
+    python3 $PREPROCESS_DIR/preprocess_pos_en_hi_ud.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
 
     rm -rf $OUTPATH 
     echo "Downloaded POS EN HI UD"
@@ -141,7 +141,7 @@ function download_pos_en_hi_fg {
       unzip -qq $OUTPATH/ICON_POS.zip -d $OUTPATH
     fi
 
-    python $PREPROCESS_DIR/preprocess_pos_en_hi_fg.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
+    python3 $PREPROCESS_DIR/preprocess_pos_en_hi_fg.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
 
     rm -rf $OUTPATH 
     echo "Downloaded POS EN HI FG"
@@ -155,7 +155,7 @@ function download_sentiment_en_es {
         wget -c http://www.grupolys.org/software/CS-CORPORA/cs-en-es-corpus-wassa2015.txt -P $OUTPATH -q --show-progress
     fi
 
-    python $PREPROCESS_DIR/preprocess_sent_en_es.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
+    python3 $PREPROCESS_DIR/preprocess_sent_en_es.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
 
     rm -rf $OUTPATH 
     echo "Downloaded Sentiment EN ES"
@@ -172,7 +172,7 @@ function download_sentiment_en_hi {
       unzip -qq $OUTPATH/SAIL_2017.zip -d $OUTPATH
     fi
 
-    python $PREPROCESS_DIR/preprocess_sent_en_hi.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
+    python3 $PREPROCESS_DIR/preprocess_sent_en_hi.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
 
     rm -rf $OUTPATH 
     echo "Downloaded Sentiment EN HI"
@@ -203,10 +203,10 @@ function download_nli_en_hi {
 
     if [ ! -f $OUTPATH/all_only_id.json ]; then
         url=$'https://api.onedrive.com/v1.0/drives/85FEAFEE8D8062F3/items/85FEAFEE8D8062F3!28569?select=id%2C%40content.downloadUrl&authkey=!ADungCV7vUzIE_g'
-        wget $url -q -O - | python -c "import json, sys; j=json.load(sys.stdin); print(j['@content.downloadUrl'])" | wget -i - -O $OUTPATH/all_only_id.json -q --show-progress
+        wget $url -q -O - | python3 -c "import json, sys; j=json.load(sys.stdin); print(j['@content.downloadUrl'])" | wget -i - -O $OUTPATH/all_only_id.json -q --show-progress
     fi
 
-    python $PREPROCESS_DIR/preprocess_nli_en_hi.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
+    python3 $PREPROCESS_DIR/preprocess_nli_en_hi.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
 
     rm -rf $OUTPATH 
     echo "Downloaded NLI EN HI"
@@ -385,7 +385,7 @@ function download_pos_en_es {
         wget -c http://bangortalk.org.uk/tsvs/miami/zeledon14_cgwords.tsv -P $OUTPATH -q --show-progress
     fi
 
-    python $PREPROCESS_DIR/preprocess_pos_en_es.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
+    python3 $PREPROCESS_DIR/preprocess_pos_en_es.py --data_dir $ORIGINAL_DIR --output_dir $PROCESSED_DIR
 
     rm -rf $OUTPATH 
     echo "Downloaded POS EN ES"
@@ -404,7 +404,7 @@ function download_mt_en_hi {
         unzip -qq $OUTPATH/618a14f.zip -d $OUTPATH
     fi
 
-    python $PREPROCESS_DIR/preprocess_mt_en_hi.py $OUTPATH $ORIGINAL_DIR/MT_EN_HI/ $PROCESSED_DIR/MT_EN_HI
+    python3 $PREPROCESS_DIR/preprocess_mt_en_hi.py $OUTPATH $ORIGINAL_DIR/MT_EN_HI/ $PROCESSED_DIR/MT_EN_HI
 
     rm -rf $OUTPATH 
     echo "Downloaded MT EN HI"
