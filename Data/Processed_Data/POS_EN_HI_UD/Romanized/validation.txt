@@ -193,29 +193,6 @@ sudharwayen	HI	VERB
 ..	OTHER	PUNCT
 😂	OTHER	SYM
 
-"	OTHER	PUNCT
-If	EN	SCONJ
-you	EN	PRON
-really	EN	ADV
-Want	EN	VERB
-to	EN	PART
-be	EN	AUX
-Happy	EN	ADJ
-in	EN	ADP
-your	EN	PRON
-Life	EN	NOUN
-..	OTHER	PUNCT
-Then	EN	SCONJ
-bhool	HI	VERB
-jao	HI	AUX
-use	HI	PRON
-jo	HI	PRON
-tumhe	HI	PRON
-bhul	HI	VERB
-gya	HI	AUX
-😢	OTHER	SYM
-"	OTHER	PUNCT
-
 Karachi	OTHER	PROPN
 men	HI	ADP
 koo	HI	DET
@@ -526,18 +503,6 @@ kha	HI	VERB
 lo	HI	AUX
 .	OTHER	PUNCT
 "	OTHER	PUNCT
-
-I	EN	PRON
-hate	EN	VERB
-love	EN	NOUN
-because	EN	SCONJ
-sab	HI	PRON
-pyar	HI	NOUN
-ko	HI	ADP
-timepass	EN	NOUN
-samjhte	HI	VERB
-hai	HI	AUX
-.	OTHER	PUNCT
 
 "	OTHER	PUNCT
 If	EN	SCONJ
@@ -1345,6 +1310,26 @@ haar	HI	VERB
 jata	HI	AUX
 hai	HI	AUX
 
+A	EN	DET
+girl	EN	NOUN
+'s	EN	PART
+'	OTHER	PUNCT
+whatever	EN	PRON
+'	OTHER	PUNCT
+simply	EN	ADV
+means	EN	VERB
+,	OTHER	PUNCT
+"	OTHER	PUNCT
+mar	HI	VERB
+jaungi	HI	AUX
+lekin	HI	CCONJ
+apni	HI	PRON
+galti	HI	NOUN
+nahi	HI	PART
+manungi	HI	VERB
+"	OTHER	PUNCT
+.	OTHER	PUNCT
+
 I	EN	PRON
 'll	EN	AUX
 gift	EN	VERB
@@ -1723,22 +1708,6 @@ hain	HI	AUX
 😂😂	OTHER	SYM
 "	OTHER	PUNCT
 
-Ek	HI	NUM
-baar	HI	ADV
-love	EN	NOUN
-wali	HI	ADP
-feelings	EN	NOUN
-aajaaye	HI	VERB
-toh	HI	SCONJ
-uske	HI	PRON
-baad	HI	ADP
-just	EN	ADV
-friend	EN	NOUN
-rhna	HI	VERB
-impossible	EN	ADJ
-hai	HI	AUX
-.	OTHER	PUNCT
-
 "	OTHER	PUNCT
 If	EN	SCONJ
 ur	EN	PRON
@@ -2002,23 +1971,6 @@ worst	EN	ADJ
 combination	EN	NOUN
 ever	EN	ADV
 
-"	OTHER	PUNCT
-According	EN	VERB
-To	EN	ADP
-My	EN	PRON
-papa	EN	NOUN
-The	EN	DET
-Biggest	EN	ADJ
-Mistake	EN	NOUN
-Was	EN	VERB
-""	OTHER	PUNCT
-MUJHE	HI	PRON
-PHONE	EN	NOUN
-KHARID	HI	VERB
-KE	HI	AUX
-DENA	HI	VERB
-"""	OTHER	PUNCT
-
 Mohallay	HI	NOUN
 k	HI	ADP
 nikkay	HI	ADJ
@@ -2169,19 +2121,6 @@ he	EN	PRON
 dropped	EN	VERB
 that	EN	PRON
 too	EN	ADV
-.	OTHER	PUNCT
-
-I	EN	PRON
-wish	EN	VERB
-study	EN	NOUN
-nhi	HI	PART
-karni	HI	VERB
-padti	HI	AUX
-mujhe	HI	PRON
-aur	HI	CCONJ
-job	EN	NOUN
-ho	HI	VERB
-jati	HI	AUX
 .	OTHER	PUNCT
 
 "	OTHER	PUNCT
@@ -2678,23 +2617,6 @@ band	HI	ADJ
 kar	HI	VERB
 dein	HI	AUX
 
-I	EN	PRON
-heard	EN	VERB
-a	EN	DET
-woman	EN	NOUN
-sayin	EN	VERB
-I	EN	PRON
-will	EN	AUX
-not	EN	PART
-drink	EN	VERB
-today	EN	NOUN
-aaj	HI	NOUN
-mera	HI	PRON
-karvachout	OTHER	PROPN
-ka	HI	ADP
-vrat	HI	NOUN
-hai	HI	AUX
-
 Yar	HI	NOUN
 can	EN	AUX
 anyone	EN	NOUN
@@ -2756,19 +2678,6 @@ jaate	HI	AUX
 hai	HI	AUX
 .	OTHER	PUNCT
 😥😭	OTHER	SYM
-
-Aajkal	HI	ADV
-WhatsApp	OTHER	PROPN
-me	HI	ADP
-Msg	EN	NOUN
-Ka	HI	ADP
-Seen	EN	VERB
-Time	EN	NOUN
-dikhna	HI	VERB
-Band	HI	NOUN
-ho	HI	VERB
-gya	HI	AUX
-?	OTHER	PUNCT
 
 Koi	HI	DET
 500	OTHER	NUM

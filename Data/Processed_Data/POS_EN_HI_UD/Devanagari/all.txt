@@ -630,18 +630,6 @@ next	EN	ADJ
 year	EN	NOUN
 .	OTHER	PUNCT
 
-My	EN	PRON
-Dear	EN	ADJ
-girls	EN	NOUN
-आप	HI	PRON
-पैडी	HI	VERB
-भी	HI	PART
-हुई	HI	AUX
-हो	HI	AUX
-या	HI	CCONJ
-नहीं	HI	PART
-??	OTHER	PUNCT
-
 चैन	HI	NOUN
 से	HI	ADP
 हगना	HI	VERB
@@ -1500,28 +1488,6 @@ Examiner	EN	NOUN
 है	HI	AUX
 ?	OTHER	PUNCT
 """	OTHER	PUNCT
-
-"	OTHER	PUNCT
-My	EN	PRON
-reply	EN	NOUN
-to	EN	ADP
-every	EN	DET
-text	EN	NOUN
-i	EN	PRON
-receive	EN	VERB
-during	EN	ADP
-a	EN	DET
-match	EN	NOUN
-is	EN	AUX
-""	OTHER	PUNCT
-match	EN	NOUN
-देखो	HI	VERB
-बकवास	HI	NOUN
-मत	HI	PART
-करो	HI	VERB
-""	OTHER	PUNCT
-.	OTHER	PUNCT
-"	OTHER	PUNCT
 
 Ali	OTHER	PROPN
 Azmat	OTHER	PROPN
@@ -2849,15 +2815,6 @@ cheque	EN	NOUN
 ख़तम	HI	ADJ
 करो	HI	VERB
 
-ये	HI	DET
-social	EN	ADJ
-media	EN	NOUN
-influencer	EN	NOUN
-किसको	HI	PRON
-बोलते	HI	VERB
-हैं	HI	AUX
-?	OTHER	PUNCT
-
 No	EN	PART
 matter	EN	NOUN
 what	EN	PRON
@@ -3370,29 +3327,6 @@ just	EN	ADV
 kidding	EN	VERB
 """	OTHER	PUNCT
 
-"	OTHER	PUNCT
-Behind	EN	ADP
-every	EN	DET
-NICE	EN	ADJ
-DP	OTHER	NOUN
-compliment	EN	NOUN
-there	EN	PRON
-is	EN	AUX
-an	EN	DET
-""	OTHER	PUNCT
-अगर	HI	SCONJ
-तुम	HI	PRON
-मिल	HI	VERB
-जाओ	HI	AUX
-,	OTHER	PUNCT
-जमाना	HI	NOUN
-छोड	HI	VERB
-देंगे	HI	AUX
-हम	HI	PRON
-""	OTHER	PUNCT
-.	OTHER	PUNCT
-"	OTHER	PUNCT
-
 I	EN	PRON
 think	EN	VERB
 सब	HI	PRON
@@ -3754,6 +3688,25 @@ the	EN	DET
 movie	EN	NOUN
 ishqzaade	OTHER	PROPN
 
+"	OTHER	PUNCT
+You	EN	PRON
+can	EN	AUX
+cheat	EN	VERB
+a	EN	DET
+Lie	EN	NOUN
+detector	EN	NOUN
+but	EN	CCONJ
+not	EN	PART
+Mom	EN	NOUN
+'s	EN	PART
+""	OTHER	PUNCT
+खा	HI	VERB
+मेरी	HI	PRON
+कसम	HI	NOUN
+""	OTHER	PUNCT
+............	OTHER	PUNCT
+"	OTHER	PUNCT
+
 Never	EN	ADV
 trust	EN	VERB
 someone	EN	NOUN
@@ -3825,28 +3778,6 @@ made	EN	VERB
 fun	EN	NOUN
 of	EN	ADP
 "	OTHER	PUNCT
-
-That	EN	DET
-one	EN	NUM
-person	EN	NOUN
-जिससे	HI	PRON
-एक	HI	NUM
-दिन	HI	NOUN
-भी	HI	PART
-बात	HI	NOUN
-न	HI	PART
-हो	HI	VERB
-तो	HI	SCONJ
-mood	EN	NOUN
-off	EN	ADV
-सा	HI	PART
-ही	HI	PART
-रहता	HI	VERB
-है	HI	AUX
-सारा	HI	DET
-दिन	HI	NOUN
-..	OTHER	PUNCT
-:')	OTHER	SYM
 
 my	EN	PRON
 crush	EN	NOUN
@@ -4008,18 +3939,6 @@ and	EN	CCONJ
 का	HI	ADP
 no	EN	PART
 mood	EN	NOUN
-
-नींद	HI	NOUN
-सच	HI	NOUN
-में	HI	ADP
-नहीं	HI	PART
-आती	HI	VERB
-या	HI	CCONJ
-self	EN	PRON
-proclaimed	EN	ADJ
-insomniac	EN	NOUN
-हो	HI	VERB
-?	OTHER	PUNCT
 
 Snapchat	OTHER	PROPN
 open	EN	NOUN
@@ -4366,23 +4285,6 @@ decided	EN	VERB
 पक्का	HI	ADV
 gym	EN	NOUN
 .	OTHER	PUNCT
-
-"	OTHER	PUNCT
-Like	EN	VERB
-if	EN	SCONJ
-you	EN	PRON
-wrote	EN	VERB
-""	OTHER	PUNCT
-Sonam	OTHER	PROPN
-Gupta	OTHER	PROPN
-बेवफा	HI	ADJ
-है	HI	AUX
-""	OTHER	PUNCT
-on	EN	ADP
-your	EN	PRON
-note	EN	NOUN
-.	OTHER	PUNCT
-"	OTHER	PUNCT
 
 "	OTHER	PUNCT
 इन	HI	DET
@@ -4917,26 +4819,6 @@ and	EN	CCONJ
 चाय	HI	NOUN
 .	OTHER	PUNCT
 
-"""	OTHER	PUNCT
-भैया	HI	NOUN
-थोडा	HI	DET
-कम	HI	ADJ
-करो	HI	VERB
-""	OTHER	PUNCT
-is	EN	AUX
-a	EN	DET
-universal	EN	ADJ
-discount	EN	NOUN
-applied	EN	VERB
-on	EN	ADP
-all	EN	DET
-the	EN	DET
-products	EN	NOUN
-in	EN	ADP
-India	OTHER	PROPN
-.	OTHER	PUNCT
-"	OTHER	PUNCT
-
 Freedom	EN	NOUN
 of	EN	ADP
 speech	EN	NOUN
@@ -5179,26 +5061,6 @@ season	EN	NOUN
 आया	HI	VERB
 है	HI	AUX
 '"	OTHER	PUNCT
-
-Sandeep	OTHER	PROPN
-Maheshwari	OTHER	PROPN
-inspires	EN	VERB
-you	EN	PRON
-,	OTHER	PUNCT
-but	EN	CCONJ
-तुम	HI	PRON
-तो	HI	PART
-ठेहरे	HI	VERB
-चूतिये	HI	ADJ
-,	OTHER	PUNCT
-तुम	HI	PRON
-उसको	HI	PRON
-ही	HI	PART
-अपनी	HI	PRON
-inspiration	EN	NOUN
-बना	HI	VERB
-लोगे	HI	AUX
-.	OTHER	PUNCT
 
 modi	OTHER	PROPN
 ji	OTHER	PART
@@ -6831,6 +6693,27 @@ benefit	EN	VERB
 आम	HI	ADJ
 आदमी	HI	NOUN
 
+"	OTHER	PUNCT
+when	EN	ADV
+all	EN	DET
+of	EN	ADP
+a	EN	DET
+sudden	EN	NOUN
+she	EN	PRON
+stop	EN	VERB
+replying	EN	VERB
+I	EN	PRON
+double	EN	ADV
+text	EN	VERB
+:	OTHER	PUNCT
+light	EN	NOUN
+गई	HI	VERB
+या	HI	CCONJ
+पकड़ी	HI	VERB
+गई	HI	AUX
+?	OTHER	PUNCT
+"	OTHER	PUNCT
+
 Honeymoon	EN	NOUN
 पे	HI	ADP
 मैं	HI	PRON
@@ -7691,20 +7574,6 @@ kitchen	EN	NOUN
 दैतीन	HI	AUX
 '	OTHER	PUNCT
 
-My	EN	PRON
-phone	EN	NOUN
-is	EN	AUX
-suffering	EN	VERB
-from	EN	ADP
-fever	EN	NOUN
-,	OTHER	PUNCT
-हमेशा	HI	ADV
-body	EN	NOUN
-गर्म	HI	ADJ
-रहती	HI	VERB
-है	HI	AUX
-.	OTHER	PUNCT
-
 I	EN	PRON
 do	EN	AUX
 n't	EN	PART
@@ -8181,26 +8050,6 @@ it	EN	PRON
 है	HI	AUX
 !	OTHER	PUNCT
 "	OTHER	PUNCT
-
-"	OTHER	PUNCT
-I	EN	PRON
-do	EN	AUX
-n't	EN	PART
-follow	EN	VERB
-my	EN	PRON
-dreams	EN	NOUN
-because	EN	SCONJ
-they	EN	PRON
-look	EN	VERB
-back	EN	ADV
-and	EN	CCONJ
-say	EN	VERB
-""	OTHER	PUNCT
-तुझसे	HI	PRON
-ना	HI	PART
-हो	HI	VERB
-पायेगा	HI	AUX
-"""	OTHER	PUNCT
 
 imagine	EN	VERB
 someone	EN	PRON
@@ -8799,6 +8648,29 @@ i	EN	PRON
 have	EN	VERB
 a	EN	DET
 headache	EN	NOUN
+
+Happy	EN	ADJ
+Men	EN	NOUN
+'s	EN	PART
+Day	EN	NOUN
+to	EN	ADP
+all	EN	DET
+the	EN	DET
+guys	EN	NOUN
+here	EN	ADV
+because	EN	SCONJ
+I	EN	PRON
+know	EN	VERB
+किसी	HI	PRON
+ने	HI	ADP
+भी	HI	PART
+wish	EN	NOUN
+नहीं	HI	PART
+किया	HI	VERB
+होगा	HI	AUX
+तुम्हें	HI	PRON
+आज	HI	NOUN
+.......	OTHER	PUNCT
 
 I	EN	PRON
 am	EN	AUX
@@ -9420,6 +9292,27 @@ alive	EN	ADJ
 .	OTHER	PUNCT
 "	OTHER	PUNCT
 
+ये	HI	DET
+facebook	OTHER	PROPN
+पे	HI	ADP
+tag	EN	VERB
+your	EN	PRON
+friend	EN	NOUN
+on	EN	ADP
+this	EN	DET
+photo	EN	NOUN
+वाला	HI	ADP
+trend	EN	NOUN
+कुछ	HI	DET
+ज़ादा	HI	ADJ
+ही	HI	PART
+escalate	EN	NOUN
+हो	HI	VERB
+गया	HI	AUX
+है	HI	AUX
+वैसे	HI	ADV
+.	OTHER	PUNCT
+
 Is	EN	AUX
 n't	EN	PART
 it	EN	PRON
@@ -9545,6 +9438,19 @@ autograph	EN	NOUN
 लीजिये	HI	AUX
 जल्दी	HI	ADV
 से	HI	PART
+.	OTHER	PUNCT
+
+Bookies	EN	NOUN
+और	HI	CCONJ
+Politicians	EN	NOUN
+,	OTHER	PUNCT
+दोनों	HI	NOUN
+को	HI	ADP
+सत्ता	HI	NOUN
+का	HI	ADP
+नशा	HI	NOUN
+होता	HI	VERB
+है	HI	AUX
 .	OTHER	PUNCT
 
 B.A.	OTHER	PROPN
@@ -10055,25 +9961,6 @@ daily	EN	ADV
 '	OTHER	PUNCT
 running	EN	VERB
 .	OTHER	PUNCT
-
-"	OTHER	PUNCT
-People	EN	NOUN
-sitting	EN	VERB
-here	EN	ADV
-with	EN	ADP
-only	EN	ADV
-one	EN	NUM
-expression	EN	NOUN
-on	EN	ADP
-their	EN	PRON
-face	EN	NOUN
-""	OTHER	PUNCT
-किते	HI	PRON
-फस	HI	VERB
-गए	HI	AUX
-यार	HI	NOUN
-!	OTHER	PUNCT
-"""	OTHER	PUNCT
 
 Newborn	EN	ADJ
 baby	EN	NOUN
@@ -10810,18 +10697,6 @@ constant	EN	ADJ
 .	OTHER	PUNCT
 "	OTHER	PUNCT
 
-Twitter	OTHER	PROPN
-night	EN	NOUN
-mode	EN	NOUN
-on	EN	ADV
-करू	HI	VERB
-और	HI	CCONJ
-happy	EN	ADV
-happy	EN	ADV
-tweet	EN	NOUN
-करू	HI	VERB
-😃😃	OTHER	SYM
-
 '	OTHER	PUNCT
 BC	OTHER	NOUN
 इतनी	HI	DET
@@ -10845,24 +10720,6 @@ over	EN	ADV
 हर	HI	DET
 जगह	HI	NOUN
 ?	OTHER	PUNCT
-
-"	OTHER	PUNCT
-when	EN	ADV
-a	EN	DET
-girl	EN	NOUN
-says	EN	VERB
-""	OTHER	PUNCT
-तू	HI	PRON
-बाकी	HI	ADJ
-लरको	HI	NOUN
-जैसा	HI	ADP
-नहीं	HI	PART
-है	HI	AUX
-""	OTHER	PUNCT
-😘	OTHER	SYM
-That	EN	PRON
-❤	OTHER	SYM
-"	OTHER	PUNCT
 
 "	OTHER	PUNCT
 We	EN	PRON
@@ -12765,6 +12622,28 @@ pizza	EN	NOUN
 हो	HI	AUX
 "	OTHER	PUNCT
 
+"	OTHER	PUNCT
+when	EN	ADV
+highway	OTHER	PROPN
+was	EN	AUX
+released	EN	VERB
+i	EN	PRON
+thought	EN	VERB
+""	OTHER	PUNCT
+torrent	EN	PROPN
+है	HI	AUX
+तो	HI	PART
+""	OTHER	PUNCT
+but	EN	CCONJ
+आज	HI	NOUN
+लगा	HI	VERB
+Theatre	EN	NOUN
+लायक	HI	ADP
+movie	EN	NOUN
+थी	HI	AUX
+:/	OTHER	SYM
+"	OTHER	PUNCT
+
 My	EN	PRON
 Achievement	EN	NOUN
 is	EN	AUX
@@ -13147,28 +13026,6 @@ Life	EN	NOUN
 ?	OTHER	PUNCT
 """	OTHER	PUNCT
 
-"	OTHER	PUNCT
-Indian	OTHER	ADJ
-team	EN	NOUN
-should	EN	AUX
-now	EN	ADV
-follow	EN	VERB
-a	EN	DET
-gully	EN	NOUN
-cricket	EN	PROPN
-rule	EN	NOUN
-""	OTHER	PUNCT
-भाई	HI	NOUN
-run	EN	NOUN
-बना	HI	VERB
-वरना	HI	SCONJ
-out	EN	ADV
-हो	HI	VERB
-ज	HI	AUX
-""	OTHER	PUNCT
-.	OTHER	PUNCT
-"	OTHER	PUNCT
-
 RT	OTHER	VERB
 If	EN	SCONJ
 you	EN	PRON
@@ -13457,22 +13314,6 @@ politics	EN	NOUN
 रहे	HI	AUX
 हैं	HI	AUX
 .	OTHER	PUNCT
-
-"	OTHER	PUNCT
-जिंदगी	HI	NOUN
-में	HI	ADP
-तीन	HI	NUM
-चीज	HI	NOUN
-कभी	HI	ADV
-Underestimate	EN	NOUN
-मत	HI	PART
-करना	HI	VERB
-I	EN	PRON
-,	OTHER	PUNCT
-ME	EN	PRON
-&	EN	CCONJ
-Myself	EN	PRON
-"""	OTHER	PUNCT
 
 उसकी	HI	PRON
 तो	HI	PART
@@ -14293,33 +14134,6 @@ on	EN	ADP
 top	EN	NOUN
 .	OTHER	PUNCT
 
-"	OTHER	PUNCT
-Met	EN	VERB
-my	EN	PRON
-ex	EN	NOUN
-after	EN	ADP
-ten	EN	NUM
-years	EN	NOUN
-""	OTHER	PUNCT
-Hi	EN	NOUN
-""	OTHER	PUNCT
-i	EN	PRON
-said	EN	VERB
-""	OTHER	PUNCT
-बेटा	HI	NOUN
-uncle	EN	NOUN
-को	HI	ADP
-हेलो	HI	NOUN
-बोलो	HI	VERB
-""	OTHER	PUNCT
-she	EN	PRON
-said	EN	VERB
-to	EN	ADP
-her	EN	PRON
-daughter	EN	NOUN
-.	OTHER	PUNCT
-"	OTHER	PUNCT
-
 Youtube	OTHER	PROPN
 is	EN	AUX
 Google	OTHER	PROPN
@@ -14621,18 +14435,6 @@ weekend	EN	NOUN
 रहा	HI	AUX
 !	OTHER	PUNCT
 
-Inferiority	EN	ADJ
-complex	EN	NOUN
-का	HI	ADP
-भी	HI	PART
-stall	EN	NOUN
-लगा	HI	VERB
-हुआ	HI	AUX
-है	HI	AUX
-यहाँ	HI	ADV
-पे	HI	ADP
-😂😂	OTHER	SYM
-
 """	OTHER	PUNCT
 कर्म	HI	NOUN
 कर	HI	VERB
@@ -14887,27 +14689,6 @@ hard	EN	ADJ
 गयी	HI	AUX
 है	HI	AUX
 !	OTHER	PUNCT
-
-ATM	OTHER	PROPN
-is	EN	AUX
-new	EN	ADJ
-Amitabh	OTHER	PROPN
-Bachchan	OTHER	PROPN
-these	EN	DET
-days	EN	NOUN
-,	OTHER	PUNCT
-जहां	HI	ADV
-खड़ा	HI	ADJ
-होता	HI	VERB
-हैं	HI	AUX
-line	EN	NOUN
-वहीं	HI	ADV
-से	HI	ADP
-शुरू	HI	NOUN
-हो	HI	VERB
-जाती	HI	AUX
-है	HI	AUX
-.	OTHER	PUNCT
 
 यह	HI	PRON
 वो	HI	PRON
@@ -15282,6 +15063,23 @@ id	OTHER	PROPN
 है	HI	AUX
 .	OTHER	PUNCT
 
+"	OTHER	PUNCT
+Behind	EN	ADP
+every	EN	DET
+angry	EN	ADJ
+woman	EN	NOUN
+,	OTHER	PUNCT
+There	EN	PRON
+is	EN	AUX
+confused	EN	ADJ
+man	EN	NOUN
+thinking	EN	VERB
+अब	HI	ADV
+मैंने	HI	PRON
+क्या	HI	PRON
+किया	HI	VERB
+"	OTHER	PUNCT
+
 Does	EN	PRON
 Bappi	OTHER	PROPN
 Lahiri	OTHER	PROPN
@@ -15531,12 +15329,6 @@ birthday	EN	NOUN
 है	HI	AUX
 .	OTHER	PUNCT
 
-I	EN	PRON
-Wish	EN	VERB
-तेरे	HI	PRON
-जैसा	HI	ADP
-दोस्त	HI	NOUN
-
 "	OTHER	PUNCT
 My	EN	PRON
 only	EN	ADJ
@@ -15688,20 +15480,6 @@ old	EN	ADJ
 .	OTHER	PUNCT
 🐘🐜😂	OTHER	SYM
 
-""	OTHER	PUNCT
-थापपर	HI	NOUN
-ख़आना	HI	VERB
-""	OTHER	PUNCT
-is	EN	AUX
-the	EN	DET
-most	EN	ADV
-used	EN	VERB
-line	EN	NOUN
-by	EN	ADP
-punjabi	OTHER	ADJ
-parents	EN	NOUN
-!	OTHER	PUNCT
-
 "	OTHER	PUNCT
 Seems	EN	VERB
 Congress	EN	PROPN
@@ -15819,27 +15597,6 @@ that	EN	PRON
 she	EN	PRON
 said	EN	VERB
 ...	OTHER	PUNCT
-
-"	OTHER	PUNCT
-This	EN	DET
-girl	EN	NOUN
-denied	EN	VERB
-my	EN	PRON
-proposal	EN	NOUN
-because	EN	SCONJ
-i	EN	PRON
-refused	EN	VERB
-refused	EN	VERB
-to	EN	PART
-say	EN	VERB
-""	OTHER	PUNCT
-Bharat	OTHER	PROPN
-माता	HI	NOUN
-की	HI	ADP
-जय	HI	NOUN
-""	OTHER	PUNCT
-.	OTHER	PUNCT
-"	OTHER	PUNCT
 
 "	OTHER	PUNCT
 मीत	HI	NOUN
@@ -16039,6 +15796,25 @@ mobile	EN	NOUN
 .	OTHER	PUNCT
 😂😂😌	OTHER	SYM
 
+"""	OTHER	PUNCT
+College	EN	NOUN
+जाएगा	HI	VERB
+तो	HI	SCONJ
+सब	HI	PRON
+सही	HI	ADJ
+हो	HI	VERB
+जाएगा	HI	AUX
+""	OTHER	PUNCT
+was	EN	AUX
+probably	EN	ADV
+the	EN	DET
+biggest	EN	ADJ
+lie	EN	NOUN
+of	EN	ADP
+school	EN	NOUN
+days	EN	NOUN
+"	OTHER	PUNCT
+
 "	OTHER	PUNCT
 @noorezehra	OTHER	SYM
 How	EN	ADV
@@ -16218,27 +15994,6 @@ they	EN	PRON
 're	EN	AUX
 achieving	EN	VERB
 .	OTHER	PUNCT
-
-अगर	HI	SCONJ
-कोई	HI	PRON
-तुमसे	HI	PRON
-बार	HI	ADV
-बार	HI	ADV
-गुस्सा	HI	NOUN
-हुए	HI	VERB
-जा	HI	AUX
-रहा	HI	AUX
-है	HI	AUX
-😏😏	OTHER	SYM
-It	EN	PRON
-Simply	EN	ADV
-Means	EN	VERB
-You	EN	PRON
-Are	EN	AUX
-Important	EN	ADJ
-For	EN	ADP
-Them	EN	PRON
-😍	OTHER	SYM
 
 और	HI	CCONJ
 यकीन	HI	NOUN
@@ -17405,28 +17160,6 @@ recommend	EN	NOUN
 हैं	HI	AUX
 .	OTHER	PUNCT
 
-"	OTHER	PUNCT
-किसी	HI	PRON
-से	HI	ADP
-कितना	HI	DET
-भी	HI	PART
-प्यार	HI	NOUN
-कर	HI	VERB
-लो	HI	AUX
-,	OTHER	PUNCT
-जिस	HI	DET
-दिन	HI	NOUN
-उन्हें	HI	PRON
-better	EN	ADJ
-option	EN	NOUN
-मिल	HI	VERB
-जाएगा	HI	AUX
-they	EN	PRON
-'ll	EN	AUX
-leave	EN	VERB
-you	EN	PRON
-"	OTHER	PUNCT
-
 Federal	EN	ADJ
 board	EN	NOUN
 is	EN	AUX
@@ -18003,23 +17736,6 @@ i	EN	PRON
 am	EN	AUX
 so	EN	ADV
 happy	EN	ADJ
-
-Once	EN	ADV
-upon	EN	ADP
-a	EN	DET
-time	EN	NOUN
-in	EN	ADP
-my	EN	PRON
-life	EN	NOUN
-ghost	EN	NOUN
-और	HI	CCONJ
-मेरी	HI	PRON
-दोस्ती	HI	NOUN
-की	HI	ADP
-कहानियां	HI	NOUN
-famous	EN	ADJ
-थी	HI	AUX
-.	OTHER	PUNCT
 
 "	OTHER	PUNCT
 लोग	HI	NOUN
@@ -19827,19 +19543,7 @@ Chickenguniya	OTHER	NOUN
 '	OTHER	NOUN
 .	OTHER	NOUN
 
-आजकल	HI	NOUN
-train	EN	NOUN
-से	HI	NOUN
-ज्यादा	HI	NOUN
-tiers	EN	NOUN
-तो	HI	NOUN
-competitive	EN	NOUN
-exams	EN	NOUN
-में	HI	NOUN
-होते	HI	NOUN
-हैं	HI	NOUN
-.	OTHER	NOUN
-😂😭	OTHER	NOUN
+not found	OTHER	NOUN
 
 With	EN	NOUN
 a	EN	NOUN
@@ -19995,22 +19699,7 @@ not	EN	NOUN
 even	EN	NOUN
 invited	EN	NOUN
 
-I	EN	NOUN
-do	EN	NOUN
-n't	EN	NOUN
-give	EN	NOUN
-a	EN	NOUN
-damn	EN	NOUN
-क्युकी	HI	NOUN
-उसको	HI	NOUN
-देने	HI	NOUN
-में	HI	NOUN
-भी	HI	NOUN
-आजकल	HI	NOUN
-पैसे	HI	NOUN
-लगते	HI	NOUN
-हैं	HI	NOUN
-😱😂	OTHER	NOUN
+not found	OTHER	NOUN
 
 not found	OTHER	NOUN
 
@@ -20144,16 +19833,7 @@ batting	EN	NOUN
 नहीं	HI	NOUN
 आया	HI	NOUN
 
-I	EN	NOUN
-wish	EN	NOUN
-twitter	OTHER	NOUN
-पर	HI	NOUN
-video	EN	NOUN
-call	EN	NOUN
-सब	HI	NOUN
-कर	HI	NOUN
-सकते	HI	NOUN
-.	OTHER	NOUN
+not found	OTHER	NOUN
 
 यार	HI	NOUN
 ये	HI	NOUN
@@ -20563,18 +20243,7 @@ freezer	EN	NOUN
 कल	HI	NOUN
 :/	OTHER	NOUN
 
-Am	EN	NOUN
-I	EN	NOUN
-The	EN	NOUN
-only	EN	NOUN
-one	EN	NOUN
-जिसे	HI	NOUN
-बोहत	HI	NOUN
-भूक	HI	NOUN
-लगती	HI	NOUN
-..	OTHER	NOUN
-रात	HI	NOUN
-में	HI	NOUN
+not found	OTHER	NOUN
 
 not found	OTHER	NOUN
 
@@ -21734,29 +21403,6 @@ relations	EN	NOUN
 ..	OTHER	PUNCT
 😂	OTHER	SYM
 
-"	OTHER	PUNCT
-If	EN	SCONJ
-you	EN	PRON
-really	EN	ADV
-Want	EN	VERB
-to	EN	PART
-be	EN	AUX
-Happy	EN	ADJ
-in	EN	ADP
-your	EN	PRON
-Life	EN	NOUN
-..	OTHER	PUNCT
-Then	EN	SCONJ
-भूल	HI	VERB
-जाओ	HI	AUX
-उसे	HI	PRON
-जो	HI	PRON
-तुम्हें	HI	PRON
-भूल	HI	VERB
-गया	HI	AUX
-😢	OTHER	SYM
-"	OTHER	PUNCT
-
 Karachi	OTHER	PROPN
 में	HI	ADP
 कोई	HI	DET
@@ -22067,18 +21713,6 @@ lemons	EN	NOUN
 लो	HI	AUX
 .	OTHER	PUNCT
 "	OTHER	PUNCT
-
-I	EN	PRON
-hate	EN	VERB
-love	EN	NOUN
-because	EN	SCONJ
-सब	HI	PRON
-प्यार	HI	NOUN
-को	HI	ADP
-timepass	EN	NOUN
-समझते	HI	VERB
-हैं	HI	AUX
-.	OTHER	PUNCT
 
 "	OTHER	PUNCT
 If	EN	SCONJ
@@ -22886,6 +22520,26 @@ support	EN	NOUN
 जाता	HI	AUX
 है	HI	AUX
 
+A	EN	DET
+girl	EN	NOUN
+'s	EN	PART
+'	OTHER	PUNCT
+whatever	EN	PRON
+'	OTHER	PUNCT
+simply	EN	ADV
+means	EN	VERB
+,	OTHER	PUNCT
+"	OTHER	PUNCT
+मर	HI	VERB
+जाउंगी	HI	AUX
+लेकिन	HI	CCONJ
+अपनी	HI	PRON
+गलती	HI	NOUN
+नहीं	HI	PART
+मानूंगी	HI	VERB
+"	OTHER	PUNCT
+.	OTHER	PUNCT
+
 I	EN	PRON
 'll	EN	AUX
 gift	EN	VERB
@@ -23264,22 +22918,6 @@ because	EN	SCONJ
 😂😂	OTHER	SYM
 "	OTHER	PUNCT
 
-एक	HI	NUM
-बार	HI	ADV
-love	EN	NOUN
-वाली	HI	ADP
-feelings	EN	NOUN
-आजाये	HI	VERB
-तोह	HI	SCONJ
-उसके	HI	PRON
-बाद	HI	ADP
-just	EN	ADV
-friend	EN	NOUN
-रहना	HI	VERB
-impossible	EN	ADJ
-है	HI	AUX
-.	OTHER	PUNCT
-
 "	OTHER	PUNCT
 If	EN	SCONJ
 your	EN	PRON
@@ -23543,23 +23181,6 @@ worst	EN	ADJ
 combination	EN	NOUN
 ever	EN	ADV
 
-"	OTHER	PUNCT
-According	EN	VERB
-To	EN	ADP
-My	EN	PRON
-papa	EN	NOUN
-The	EN	DET
-Biggest	EN	ADJ
-Mistake	EN	NOUN
-Was	EN	VERB
-""	OTHER	PUNCT
-मुझे	HI	PRON
-PHONE	EN	NOUN
-खरीद	HI	VERB
-के	HI	AUX
-देना	HI	VERB
-"""	OTHER	PUNCT
-
 मोहल्ले	HI	NOUN
 के	HI	ADP
 निक्के	HI	ADJ
@@ -23710,19 +23331,6 @@ he	EN	PRON
 dropped	EN	VERB
 that	EN	PRON
 too	EN	ADV
-.	OTHER	PUNCT
-
-I	EN	PRON
-wish	EN	VERB
-study	EN	NOUN
-नहीं	HI	PART
-करनी	HI	VERB
-पड़ती	HI	AUX
-मुझे	HI	PRON
-और	HI	CCONJ
-job	EN	NOUN
-हो	HI	VERB
-जाती	HI	AUX
 .	OTHER	PUNCT
 
 "	OTHER	PUNCT
@@ -24219,23 +23827,6 @@ sluggish	EN	ADJ
 कर	HI	VERB
 दें	HI	AUX
 
-I	EN	PRON
-heard	EN	VERB
-a	EN	DET
-woman	EN	NOUN
-saying	EN	VERB
-I	EN	PRON
-will	EN	AUX
-not	EN	PART
-drink	EN	VERB
-today	EN	NOUN
-आज	HI	NOUN
-मेरे	HI	PRON
-karvachout	OTHER	PROPN
-का	HI	ADP
-व्रत	HI	NOUN
-है	HI	AUX
-
 यार	HI	NOUN
 can	EN	AUX
 anyone	EN	NOUN
@@ -24297,19 +23888,6 @@ kiss	EN	NOUN
 हैं	HI	AUX
 .	OTHER	PUNCT
 😥😭	OTHER	SYM
-
-आजकल	HI	ADV
-WhatsApp	OTHER	PROPN
-में	HI	ADP
-message	EN	NOUN
-का	HI	ADP
-Seen	EN	VERB
-Time	EN	NOUN
-दिखना	HI	VERB
-बंद	HI	NOUN
-हो	HI	VERB
-गया	HI	AUX
-?	OTHER	PUNCT
 
 कोई	HI	DET
 500	OTHER	NUM

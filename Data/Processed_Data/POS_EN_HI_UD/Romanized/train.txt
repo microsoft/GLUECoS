@@ -630,18 +630,6 @@ next	EN	ADJ
 year	EN	NOUN
 .	OTHER	PUNCT
 
-My	EN	PRON
-Dear	EN	ADJ
-girls	EN	NOUN
-Aap	HI	PRON
-paidi	HI	VERB
-bhi	HI	PART
-hue	HI	AUX
-ho	HI	AUX
-ya	HI	CCONJ
-nahi	HI	PART
-??	OTHER	PUNCT
-
 Chain	HI	NOUN
 se	HI	ADP
 hagna	HI	VERB
@@ -1500,28 +1488,6 @@ Kaun	HI	PRON
 Hai	HI	AUX
 ?	OTHER	PUNCT
 """	OTHER	PUNCT
-
-"	OTHER	PUNCT
-My	EN	PRON
-reply	EN	NOUN
-to	EN	ADP
-every	EN	DET
-text	EN	NOUN
-i	EN	PRON
-receive	EN	VERB
-during	EN	ADP
-a	EN	DET
-match	EN	NOUN
-is	EN	AUX
-""	OTHER	PUNCT
-match	EN	NOUN
-dekho	HI	VERB
-bakwas	HI	NOUN
-mat	HI	PART
-karo	HI	VERB
-""	OTHER	PUNCT
-.	OTHER	PUNCT
-"	OTHER	PUNCT
 
 Ali	OTHER	PROPN
 Azmat	OTHER	PROPN
@@ -2849,15 +2815,6 @@ aur	HI	CCONJ
 khatam	HI	ADJ
 karo	HI	VERB
 
-Ye	HI	DET
-social	EN	ADJ
-media	EN	NOUN
-influencer	EN	NOUN
-kisko	HI	PRON
-bolte	HI	VERB
-hain	HI	AUX
-?	OTHER	PUNCT
-
 No	EN	PART
 matter	EN	NOUN
 what	EN	PRON
@@ -3370,29 +3327,6 @@ just	EN	ADV
 kidding	EN	VERB
 """	OTHER	PUNCT
 
-"	OTHER	PUNCT
-Behind	EN	ADP
-every	EN	DET
-NICE	EN	ADJ
-DP	OTHER	NOUN
-compliment	EN	NOUN
-there	EN	PRON
-is	EN	AUX
-an	EN	DET
-""	OTHER	PUNCT
-agar	HI	SCONJ
-tum	HI	PRON
-mil	HI	VERB
-jao	HI	AUX
-,	OTHER	PUNCT
-jamana	HI	NOUN
-chhod	HI	VERB
-denge	HI	AUX
-hum	HI	PRON
-""	OTHER	PUNCT
-.	OTHER	PUNCT
-"	OTHER	PUNCT
-
 I	EN	PRON
 think	EN	VERB
 sab	HI	PRON
@@ -3754,6 +3688,25 @@ the	EN	DET
 movie	EN	NOUN
 ishqzaade	OTHER	PROPN
 
+"	OTHER	PUNCT
+You	EN	PRON
+can	EN	AUX
+cheat	EN	VERB
+a	EN	DET
+Lie	EN	NOUN
+detector	EN	NOUN
+but	EN	CCONJ
+not	EN	PART
+Mom	EN	NOUN
+'s	EN	PART
+""	OTHER	PUNCT
+Kha	HI	VERB
+meri	HI	PRON
+Kasam	HI	NOUN
+""	OTHER	PUNCT
+............	OTHER	PUNCT
+"	OTHER	PUNCT
+
 Never	EN	ADV
 trust	EN	VERB
 someone	EN	NOUN
@@ -3825,28 +3778,6 @@ made	EN	VERB
 fun	EN	NOUN
 of	EN	ADP
 "	OTHER	PUNCT
-
-That	EN	DET
-one	EN	NUM
-person	EN	NOUN
-jisse	HI	PRON
-ek	HI	NUM
-din	HI	NOUN
-bhi	HI	PART
-baat	HI	NOUN
-na	HI	PART
-ho	HI	VERB
-toh	HI	SCONJ
-mood	EN	NOUN
-off	EN	ADV
-sa	HI	PART
-hi	HI	PART
-rehta	HI	VERB
-hai	HI	AUX
-sara	HI	DET
-din	HI	NOUN
-..	OTHER	PUNCT
-:')	OTHER	SYM
 
 My	EN	PRON
 crush	EN	NOUN
@@ -4008,18 +3939,6 @@ parhny	HI	VERB
 ka	HI	ADP
 no	EN	PART
 mood	EN	NOUN
-
-Neend	HI	NOUN
-sach	HI	NOUN
-me	HI	ADP
-nahi	HI	PART
-aati	HI	VERB
-ya	HI	CCONJ
-self	EN	PRON
-proclaimed	EN	ADJ
-insomniac	EN	NOUN
-ho	HI	VERB
-?	OTHER	PUNCT
 
 Snapchat	OTHER	PROPN
 open	EN	NOUN
@@ -4366,23 +4285,6 @@ SE	HI	ADP
 PAKKA	HI	ADV
 gym	EN	NOUN
 .	OTHER	PUNCT
-
-"	OTHER	PUNCT
-Like	EN	VERB
-if	EN	SCONJ
-you	EN	PRON
-wrote	EN	VERB
-""	OTHER	PUNCT
-Sonam	OTHER	PROPN
-Gupta	OTHER	PROPN
-Bewafa	HI	ADJ
-hai	HI	AUX
-""	OTHER	PUNCT
-on	EN	ADP
-your	EN	PRON
-note	EN	NOUN
-.	OTHER	PUNCT
-"	OTHER	PUNCT
 
 "	OTHER	PUNCT
 In	HI	DET
@@ -4917,26 +4819,6 @@ ki	HI	ADP
 chai	HI	NOUN
 .	OTHER	PUNCT
 
-"""	OTHER	PUNCT
-bhaiya	HI	NOUN
-thoda	HI	DET
-kam	HI	ADJ
-karo	HI	VERB
-""	OTHER	PUNCT
-is	EN	AUX
-an	EN	DET
-universal	EN	ADJ
-discount	EN	NOUN
-applied	EN	VERB
-on	EN	ADP
-all	EN	DET
-the	EN	DET
-products	EN	NOUN
-in	EN	ADP
-India	OTHER	PROPN
-.	OTHER	PUNCT
-"	OTHER	PUNCT
-
 Freedom	EN	NOUN
 of	EN	ADP
 speech	EN	NOUN
@@ -5179,26 +5061,6 @@ season	EN	NOUN
 aya	HI	VERB
 hai	HI	AUX
 '"	OTHER	PUNCT
-
-Sandeep	OTHER	PROPN
-Maheshwari	OTHER	PROPN
-inspires	EN	VERB
-you	EN	PRON
-,	OTHER	PUNCT
-but	EN	CCONJ
-tum	HI	PRON
-to	HI	PART
-thehre	HI	VERB
-chutiye	HI	ADJ
-,	OTHER	PUNCT
-tum	HI	PRON
-usko	HI	PRON
-hi	HI	PART
-apni	HI	PRON
-inspiration	EN	NOUN
-bana	HI	VERB
-loge	HI	AUX
-.	OTHER	PUNCT
 
 modi	OTHER	PROPN
 ji	OTHER	PART
@@ -6831,6 +6693,27 @@ benefit	EN	VERB
 aam	HI	ADJ
 aadmi	HI	NOUN
 
+"	OTHER	PUNCT
+When	EN	ADV
+all	EN	DET
+of	EN	ADP
+a	EN	DET
+sudden	EN	NOUN
+she	EN	PRON
+stop	EN	VERB
+replying	EN	VERB
+I	EN	PRON
+double	EN	ADV
+text	EN	VERB
+:	OTHER	PUNCT
+light	EN	NOUN
+gai	HI	VERB
+ya	HI	CCONJ
+pakri	HI	VERB
+gai	HI	AUX
+?	OTHER	PUNCT
+"	OTHER	PUNCT
+
 Honeymoon	EN	NOUN
 pe	HI	ADP
 main	HI	PRON
@@ -7691,20 +7574,6 @@ janay	HI	VERB
 daiteen	HI	AUX
 '	OTHER	PUNCT
 
-My	EN	PRON
-phone	EN	NOUN
-is	EN	AUX
-suffering	EN	VERB
-from	EN	ADP
-fever	EN	NOUN
-,	OTHER	PUNCT
-humesha	HI	ADV
-body	EN	NOUN
-garam	HI	ADJ
-rehti	HI	VERB
-hai	HI	AUX
-.	OTHER	PUNCT
-
 I	EN	PRON
 do	EN	AUX
 n't	EN	PART
@@ -8181,26 +8050,6 @@ maza	HI	NOUN
 he	HI	AUX
 !	OTHER	PUNCT
 "	OTHER	PUNCT
-
-"	OTHER	PUNCT
-I	EN	PRON
-do	EN	AUX
-n't	EN	PART
-follow	EN	VERB
-my	EN	PRON
-dreams	EN	NOUN
-because	EN	SCONJ
-they	EN	PRON
-look	EN	VERB
-back	EN	ADV
-and	EN	CCONJ
-say	EN	VERB
-""	OTHER	PUNCT
-tujhse	HI	PRON
-na	HI	PART
-ho	HI	VERB
-payega	HI	AUX
-"""	OTHER	PUNCT
 
 imagine	EN	VERB
 someone	EN	PRON
@@ -8799,6 +8648,29 @@ i	EN	PRON
 have	EN	VERB
 a	EN	DET
 headache	EN	NOUN
+
+Happy	EN	ADJ
+Men	EN	NOUN
+'s	EN	PART
+Day	EN	NOUN
+to	EN	ADP
+all	EN	DET
+the	EN	DET
+guys	EN	NOUN
+here	EN	ADV
+coz	EN	SCONJ
+I	EN	PRON
+know	EN	VERB
+kisi	HI	PRON
+ne	HI	ADP
+bhi	HI	PART
+wish	EN	NOUN
+nahi	HI	PART
+kiya	HI	VERB
+hoga	HI	AUX
+tumhe	HI	PRON
+aaj	HI	NOUN
+.......	OTHER	PUNCT
 
 I	EN	PRON
 am	EN	AUX
@@ -9420,6 +9292,27 @@ alive	EN	ADJ
 .	OTHER	PUNCT
 "	OTHER	PUNCT
 
+Ye	HI	DET
+facebook	OTHER	PROPN
+pe	HI	ADP
+tag	EN	VERB
+your	EN	PRON
+friend	EN	NOUN
+on	EN	ADP
+this	EN	DET
+photo	EN	NOUN
+wala	HI	ADP
+trend	EN	NOUN
+kuch	HI	DET
+zada	HI	ADJ
+hi	HI	PART
+escalate	EN	NOUN
+ho	HI	VERB
+gaya	HI	AUX
+hai	HI	AUX
+waisay	HI	ADV
+.	OTHER	PUNCT
+
 Is	EN	AUX
 n't	EN	PART
 it	EN	PRON
@@ -9545,6 +9438,19 @@ le	HI	VERB
 lijiye	HI	AUX
 jaldi	HI	ADV
 se	HI	PART
+.	OTHER	PUNCT
+
+Bookies	EN	NOUN
+aur	HI	CCONJ
+Politicians	EN	NOUN
+,	OTHER	PUNCT
+dono	HI	NOUN
+ko	HI	ADP
+satta	HI	NOUN
+ka	HI	ADP
+Nasha	HI	NOUN
+hota	HI	VERB
+hai	HI	AUX
 .	OTHER	PUNCT
 
 B.A.	OTHER	PROPN
@@ -10055,25 +9961,6 @@ wala	HI	PART
 '	OTHER	PUNCT
 running	EN	VERB
 .	OTHER	PUNCT
-
-"	OTHER	PUNCT
-People	EN	NOUN
-sitting	EN	VERB
-here	EN	ADV
-with	EN	ADP
-only	EN	ADV
-one	EN	NUM
-expression	EN	NOUN
-on	EN	ADP
-their	EN	PRON
-face	EN	NOUN
-""	OTHER	PUNCT
-Kithe	HI	PRON
-fas	HI	VERB
-gaye	HI	AUX
-yaar	HI	NOUN
-!	OTHER	PUNCT
-"""	OTHER	PUNCT
 
 Newborn	EN	ADJ
 baby	EN	NOUN
@@ -10810,18 +10697,6 @@ constant	EN	ADJ
 .	OTHER	PUNCT
 "	OTHER	PUNCT
 
-Twitter	OTHER	PROPN
-night	EN	NOUN
-mode	EN	NOUN
-on	EN	ADV
-karu	HI	VERB
-aur	HI	CCONJ
-happy	EN	ADV
-happy	EN	ADV
-tweet	EN	NOUN
-karu	HI	VERB
-😃😃	OTHER	SYM
-
 '	OTHER	PUNCT
 BC	OTHER	NOUN
 itni	HI	DET
@@ -10845,24 +10720,6 @@ over	EN	ADV
 har	HI	DET
 jagah	HI	NOUN
 ?	OTHER	PUNCT
-
-"	OTHER	PUNCT
-When	EN	ADV
-a	EN	DET
-girl	EN	NOUN
-says	EN	VERB
-""	OTHER	PUNCT
-Tu	HI	PRON
-baki	HI	ADJ
-larko	HI	NOUN
-jaisa	HI	ADP
-nahi	HI	PART
-hai	HI	AUX
-""	OTHER	PUNCT
-😘	OTHER	SYM
-That	EN	PRON
-❤	OTHER	SYM
-"	OTHER	PUNCT
 
 "	OTHER	PUNCT
 We	EN	PRON
@@ -12765,6 +12622,28 @@ dyna	HI	AUX
 ho	HI	AUX
 "	OTHER	PUNCT
 
+"	OTHER	PUNCT
+When	EN	ADV
+highway	OTHER	PROPN
+was	EN	AUX
+released	EN	VERB
+i	EN	PRON
+thought	EN	VERB
+""	OTHER	PUNCT
+torrent	EN	PROPN
+hai	HI	AUX
+toh	HI	PART
+""	OTHER	PUNCT
+but	EN	CCONJ
+Aaj	HI	NOUN
+lga	HI	VERB
+Theatre	EN	NOUN
+layak	HI	ADP
+movie	EN	NOUN
+thi	HI	AUX
+:/	OTHER	SYM
+"	OTHER	PUNCT
+
 My	EN	PRON
 Achievement	EN	NOUN
 is	EN	AUX
@@ -13147,28 +13026,6 @@ Life	EN	NOUN
 ?	OTHER	PUNCT
 """	OTHER	PUNCT
 
-"	OTHER	PUNCT
-Indian	OTHER	ADJ
-team	EN	NOUN
-should	EN	AUX
-now	EN	ADV
-follow	EN	VERB
-a	EN	DET
-gully	EN	NOUN
-cricket	EN	PROPN
-rule	EN	NOUN
-""	OTHER	PUNCT
-Bhai	HI	NOUN
-run	EN	NOUN
-bana	HI	VERB
-warna	HI	SCONJ
-out	EN	ADV
-ho	HI	VERB
-ja	HI	AUX
-""	OTHER	PUNCT
-.	OTHER	PUNCT
-"	OTHER	PUNCT
-
 RT	OTHER	VERB
 If	EN	SCONJ
 u	EN	PRON
@@ -13457,22 +13314,6 @@ aa	HI	VERB
 rhe	HI	AUX
 hain	HI	AUX
 .	OTHER	PUNCT
-
-"	OTHER	PUNCT
-Zindagi	HI	NOUN
-Mein	HI	ADP
-Teen	HI	NUM
-Cheez	HI	NOUN
-Kabhi	HI	ADV
-Underestimate	EN	NOUN
-Matt	HI	PART
-Karna	HI	VERB
-I	EN	PRON
-,	OTHER	PUNCT
-ME	EN	PRON
-&	EN	CCONJ
-Myself	EN	PRON
-"""	OTHER	PUNCT
 
 Uske	HI	PRON
 tou	HI	PART
@@ -14293,33 +14134,6 @@ on	EN	ADP
 top	EN	NOUN
 .	OTHER	PUNCT
 
-"	OTHER	PUNCT
-Met	EN	VERB
-my	EN	PRON
-ex	EN	NOUN
-after	EN	ADP
-ten	EN	NUM
-years	EN	NOUN
-""	OTHER	PUNCT
-Hi	EN	NOUN
-""	OTHER	PUNCT
-i	EN	PRON
-said	EN	VERB
-""	OTHER	PUNCT
-Beta	HI	NOUN
-uncle	EN	NOUN
-ko	HI	ADP
-hello	HI	NOUN
-bolo	HI	VERB
-""	OTHER	PUNCT
-she	EN	PRON
-said	EN	VERB
-to	EN	ADP
-her	EN	PRON
-daughter	EN	NOUN
-.	OTHER	PUNCT
-"	OTHER	PUNCT
-
 Youtube	OTHER	PROPN
 is	EN	AUX
 Google	OTHER	PROPN
@@ -14621,18 +14435,6 @@ le	HI	VERB
 raha	HI	AUX
 !	OTHER	PUNCT
 
-Inferiority	EN	ADJ
-complex	EN	NOUN
-ka	HI	ADP
-bhi	HI	PART
-stall	EN	NOUN
-laga	HI	VERB
-hua	HI	AUX
-hai	HI	AUX
-yaha	HI	ADV
-pe	HI	ADP
-😂😂	OTHER	SYM
-
 """	OTHER	PUNCT
 Karm	HI	NOUN
 kar	HI	VERB
@@ -14887,27 +14689,6 @@ ho	HI	VERB
 gayi	HI	AUX
 hai	HI	AUX
 !	OTHER	PUNCT
-
-ATM	OTHER	PROPN
-is	EN	AUX
-new	EN	ADJ
-Amitabh	OTHER	PROPN
-Bachchan	OTHER	PROPN
-these	EN	DET
-days	EN	NOUN
-,	OTHER	PUNCT
-jaha	HI	ADV
-khada	HI	ADJ
-hota	HI	VERB
-hai	HI	AUX
-line	EN	NOUN
-wahi	HI	ADV
-se	HI	ADP
-shuru	HI	NOUN
-ho	HI	VERB
-jati	HI	AUX
-hai	HI	AUX
-.	OTHER	PUNCT
 
 Yeh	HI	PRON
 woh	HI	PRON
@@ -15282,6 +15063,23 @@ meri	HI	PRON
 he	HI	AUX
 .	OTHER	PUNCT
 
+"	OTHER	PUNCT
+Behind	EN	ADP
+every	EN	DET
+angry	EN	ADJ
+woman	EN	NOUN
+,	OTHER	PUNCT
+There	EN	PRON
+is	EN	AUX
+confused	EN	ADJ
+man	EN	NOUN
+thinking	EN	VERB
+Ab	HI	ADV
+maine	HI	PRON
+kya	HI	PRON
+kiya	HI	VERB
+"	OTHER	PUNCT
+
 Does	EN	PRON
 Bappi	OTHER	PROPN
 Lahiri	OTHER	PROPN
@@ -15531,12 +15329,6 @@ raha	HI	AUX
 hai	HI	AUX
 .	OTHER	PUNCT
 
-I	EN	PRON
-Wish	EN	VERB
-Tere	HI	PRON
-Jaisa	HI	ADP
-Dost	HI	NOUN
-
 "	OTHER	PUNCT
 My	EN	PRON
 only	EN	ADJ
@@ -15688,20 +15480,6 @@ old	EN	ADJ
 .	OTHER	PUNCT
 🐘🐜😂	OTHER	SYM
 
-""	OTHER	PUNCT
-THAPPAR	HI	NOUN
-KHANA	HI	VERB
-""	OTHER	PUNCT
-is	EN	AUX
-the	EN	DET
-most	EN	ADV
-used	EN	VERB
-line	EN	NOUN
-by	EN	ADP
-punjabi	OTHER	ADJ
-parents	EN	NOUN
-!	OTHER	PUNCT
-
 "	OTHER	PUNCT
 Seems	EN	VERB
 Congress	EN	PROPN
@@ -15819,27 +15597,6 @@ that	EN	PRON
 she	EN	PRON
 said	EN	VERB
 ...	OTHER	PUNCT
-
-"	OTHER	PUNCT
-This	EN	DET
-girl	EN	NOUN
-denied	EN	VERB
-my	EN	PRON
-proposal	EN	NOUN
-because	EN	SCONJ
-i	EN	PRON
-refused	EN	VERB
-refused	EN	VERB
-to	EN	PART
-say	EN	VERB
-""	OTHER	PUNCT
-Bharat	OTHER	PROPN
-mata	HI	NOUN
-ki	HI	ADP
-jai	HI	NOUN
-""	OTHER	PUNCT
-.	OTHER	PUNCT
-"	OTHER	PUNCT
 
 "	OTHER	PUNCT
 Meet	HI	NOUN
@@ -16039,6 +15796,25 @@ chahiye	HI	VERB
 .	OTHER	PUNCT
 😂😂😌	OTHER	SYM
 
+"""	OTHER	PUNCT
+College	EN	NOUN
+jaayega	HI	VERB
+to	HI	SCONJ
+sb	HI	PRON
+shi	HI	ADJ
+ho	HI	VERB
+jaayega	HI	AUX
+""	OTHER	PUNCT
+was	EN	AUX
+probably	EN	ADV
+the	EN	DET
+biggest	EN	ADJ
+lie	EN	NOUN
+of	EN	ADP
+school	EN	NOUN
+days	EN	NOUN
+"	OTHER	PUNCT
+
 "	OTHER	PUNCT
 @noorezehra	OTHER	SYM
 How	EN	ADV
@@ -16218,27 +15994,6 @@ they	EN	PRON
 're	EN	AUX
 achieving	EN	VERB
 .	OTHER	PUNCT
-
-Agar	HI	SCONJ
-Koi	HI	PRON
-Tumse	HI	PRON
-Bar	HI	ADV
-Bar	HI	ADV
-Gussa	HI	NOUN
-Hue	HI	VERB
-Jaa	HI	AUX
-Rha	HI	AUX
-Hai	HI	AUX
-😏😏	OTHER	SYM
-It	EN	PRON
-Simply	EN	ADV
-Means	EN	VERB
-You	EN	PRON
-Are	EN	AUX
-Important	EN	ADJ
-For	EN	ADP
-Them	EN	PRON
-😍	OTHER	SYM
 
 Aur	HI	CCONJ
 yaqeen	HI	NOUN
@@ -17405,28 +17160,6 @@ karte	HI	VERB
 hain	HI	AUX
 .	OTHER	PUNCT
 
-"	OTHER	PUNCT
-Kisi	HI	PRON
-se	HI	ADP
-kitna	HI	DET
-bhi	HI	PART
-pyaar	HI	NOUN
-kar	HI	VERB
-lo	HI	AUX
-,	OTHER	PUNCT
-jis	HI	DET
-din	HI	NOUN
-unhe	HI	PRON
-better	EN	ADJ
-oftion	EN	NOUN
-mil	HI	VERB
-jayega	HI	AUX
-they	EN	PRON
-'ll	EN	AUX
-leave	EN	VERB
-you	EN	PRON
-"	OTHER	PUNCT
-
 Federal	EN	ADJ
 board	EN	NOUN
 is	EN	AUX
@@ -18003,23 +17736,6 @@ i	EN	PRON
 am	EN	AUX
 so	EN	ADV
 happy	EN	ADJ
-
-Once	EN	ADV
-upon	EN	ADP
-a	EN	DET
-time	EN	NOUN
-in	EN	ADP
-my	EN	PRON
-life	EN	NOUN
-ghost	EN	NOUN
-aur	HI	CCONJ
-meri	HI	PRON
-dosti	HI	NOUN
-ke	HI	ADP
-kahaniya	HI	NOUN
-famous	EN	ADJ
-thi	HI	AUX
-.	OTHER	PUNCT
 
 "	OTHER	PUNCT
 Log	HI	NOUN

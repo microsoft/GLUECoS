@@ -1400,11 +1400,6 @@ a	O
 dif	O
 address	O
 
-RT	O
-@aisavve	O
-:	O
-https://t.co/hiJNnCmFDq	O
-
 I	O
 feel	O
 so	O
@@ -1830,6 +1825,12 @@ RICOOOOO	I-LOC
 🇵🇷🍻	O
 más	O
 na	O
+
+RT	O
+@joanannette	O
+:	O
+Siipppo	O
+https://t.co/ZGgbgnNDbC	O
 
 Me	O
 siento	O
@@ -4840,30 +4841,6 @@ un	O
 por	O
 un	O
 año	O
-
-RT	O
-@Claudiina23	O
-:	O
-@Kronnomc	O
-@NeryGodoyMusic	O
-Ya	O
-la	O
-tengo	O
-!!	O
-!	O
-Que	O
-ganas	O
-de	O
-verte	O
-este	O
-Sábado	O
-y	O
-el	O
-7	O
-de	O
-mayo	O
-!	O
-😍	O
 
 Jajajajajajajajajajajajajaja	O
 https://t.co/jjt5ZrPNw8	O
@@ -10800,28 +10777,6 @@ imaginar	O
 4	O
 meses	O
 
-RT	O
-@ninaracing	O
-:	O
-Si	O
-la	O
-música	O
-definiera	O
-quién	O
-soy	O
-pues	O
-no	O
-sé	O
-quién	O
-soy	O
-,	O
-porque	O
-escucho	O
-de	O
-todo	O
-.	O
-😂	O
-
 Wtf	O
 is	O
 this	O
@@ -14640,25 +14595,6 @@ vídeos	O
 PRÓXIMAMENTE	O
 !	O
 https://t.co/8t4QW4B8oB	O
-
-RT	O
-@sophiavictory12	O
-:	O
-prefiero	O
-que	O
-me	O
-digan	O
-que	O
-no	O
-quieren	O
-hablar	O
-conmigo	O
-a	O
-que	O
-me	O
-ignoren	O
-,	O
-easy	O
 
 Editando	O
 video	O
@@ -19415,17 +19351,6 @@ me	O
 haim	O
 
 RT	O
-@Somar_17_	O
-:	O
-Prefiero	O
-un	O
-date	O
-que	O
-jangueo	O
-.	O
-https://t.co/SzaimdONHP	O
-
-RT	O
 @Calle13Oficial	O
 :	O
 Gracias	O
@@ -20234,17 +20159,6 @@ pena	O
 ..	O
 .	O
 
-RT	O
-@LadyMiredys1	O
-:	O
-Independientes	O
-,	O
-les	O
-dicen	O
-.	O
-😘	O
-https://t.co/Tszms0FBeA	O
-
 -5	O
 💃🎉🍷✨	O
 
@@ -20457,18 +20371,6 @@ places	O
 
 Playaaa	O
 ☀	O
-
-RT	O
-@aisavve	O
-:	O
-aveces	O
-odio	O
-ser	O
-mujer	O
-bcs	O
-fucking	O
-cramps	O
-goddammit	O
 
 @GMGA__	O
 ur	O
@@ -24761,12 +24663,6 @@ Secta	O
 es	O
 vida	O
 
-RT	O
-@aisavve	O
-:	O
-mood	O
-https://t.co/XzoFrZ5MDh	O
-
 The	O
 shortest	O
 got	O
@@ -28849,34 +28745,6 @@ puñetas	O
 quiso	O
 decir	O
 https://t.co/yeURdiYYUd	O
-
-RT	O
-@aisavve	O
-:	O
-Everyday	O
-we	O
-are	O
-given	O
-an	O
-opportunity	O
-to	O
-change	O
-something	O
-.	O
-Appreciate	O
-it	O
-.	O
-No	O
-matter	O
-how	O
-small	O
-,	O
-you	O
-have	O
-to	O
-start	O
-somewhere	O
-.	O
 
 @delgadoadd	O
 ir	O
@@ -38510,12 +38378,6 @@ at	O
 nite	O
 lol	O
 
-RT	O
-@cristisofi11	O
-:	O
-🙋🏿🙋🏿🙋🏿💁🏿💁🏿💁🏿💁🏿	O
-https://t.co/vmaREQLoRJ	O
-
 It	O
 was	O
 firme	O
@@ -38532,41 +38394,6 @@ me	O
 quierooo	O
 ir	O
 https://t.co/HHkGjlyXzK	O
-
-RT	O
-@KeyshlyMar	O
-:	O
-me	O
-encabrona	O
-la	O
-gente	O
-que	O
-quiere	O
-algo	O
-pero	O
-no	O
-lucha	O
-por	O
-eso	O
-;	O
-no	O
-,	O
-las	O
-cosas	O
-no	O
-te	O
-van	O
-a	O
-llegar	O
-,	O
-sal	O
-tu	O
-a	O
-buscarlas	O
-y	O
-lucha	O
-po	O
-…	O
 
 RT	O
 @xzombersquadx	O

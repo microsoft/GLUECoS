@@ -8793,29 +8793,7 @@ we	O
 cool	O
 😎😎😁	O
 
-RT	O
-@hijadedragones	O
-:	O
-No	O
-consigo	O
-expresar	O
-realmente	O
-cómo	O
-me	O
-siento	O
-con	O
-palabras	O
-,	O
-y	O
-es	O
-bastante	O
-frustrante	O
-cuando	O
-intentas	O
-explicárselo	O
-a	O
-algu	O
-…	O
+not found	O
 
 Uno	O
 de	O
@@ -11116,14 +11094,7 @@ en	O
 adelante	O
 👌	O
 
-RT	O
-@aisavve	O
-:	O
-«	O
-yo	O
-soy	O
-arte	O
-»	O
+not found	O
 
 RT	O
 @ACanseco	O
@@ -11820,28 +11791,7 @@ https://t.co/v6XwnTyZab	O
 
 not found	O
 
-RT	O
-@Alaniqua	O
-:	O
-a	O
-nadie	O
-le	O
-pasa	O
-que	O
-la	O
-clase	O
-es	O
-tan	O
-fucking	O
-facil	O
-que	O
-te	O
-estas	O
-colgando	O
-??	O
-??	O
-?	O
-¿	O
+not found	O
 
 jajajaaj	O
 siii	O
@@ -17984,14 +17934,7 @@ clase	O
 mas	O
 mierda	O
 
-RT	O
-@aisavve	O
-:	O
-es	O
-importante	O
-crear	O
-un	O
-balance	O
+not found	O
 
 RT	O
 @eatceII	O
@@ -20796,10 +20739,7 @@ effective	O
 
 not found	O
 
-RT	O
-@_SuyaMiGuerra	O
-:	O
-https://t.co/DG7Ku2InwK	O
+not found	O
 
 De	O
 la	O
@@ -21946,11 +21886,7 @@ not found	O
 @rafrruko	O
 literal	O
 
-RT	O
-@Johanelyz15	O
-:	O
-💖	O
-https://t.co/6noAbKCOt8	O
+not found	O
 
 Este	O
 gobierno	O
@@ -27906,20 +27842,7 @@ un	O
 email	O
 hoy	O
 
-RT	O
-@cedecuizi	O
-:	O
-Posiblemente	O
-lo	O
-más	O
-relevante	O
-que	O
-he	O
-hecho	O
-con	O
-mi	O
-vida	O
-https://t.co/1IBs9KasXF	O
+not found	O
 
 RT	O
 @tff___	O
@@ -29539,25 +29462,7 @@ acostumbrarse	O
 al	O
 dolor	O
 
-RT	O
-@pmlizardi	O
-:	O
-Necesito	O
-volver	O
-a	O
-mi	O
-color	O
-de	O
-piel	O
-que	O
-tenía	O
-en	O
-verano	O
-,	O
-pa	O
-'	O
-ayerrrr	O
-💔	O
+not found	O
 
 pues	O
 los	O
@@ -34434,13 +34339,7 @@ much	O
 😂	O
 https://t.co/LVxtwmM6f5	O
 
-RT	O
-@cristisofi11	O
-:	O
-Es	O
-lo	O
-mejor	O
-https://t.co/5TZ6L6XGBJ	O
+not found	O
 
 not found	O
 
@@ -35680,35 +35579,7 @@ mis	O
 libros	O
 *	O
 
-RT	O
-@aisavve	O
-:	O
-Mira	O
-,	O
-vámonos	O
-pa	O
-'	O
-la	O
-playa	O
-.	O
-A	O
-tirarnos	O
-el	O
-picnic	O
-en	O
-cualquier	O
-montaña	O
-,	O
-a	O
-ver	O
-las	O
-estrellas	O
-..	O
-.	O
-Literalmente	O
-cualquier	O
-cosa	O
-.	O
+not found	O
 
 "	O
 Para	O
@@ -37618,14 +37489,7 @@ RAP	O
 !	O
 ^^	O
 
-RT	O
-@Rodz_oficial	O
-:	O
-Yo	O
-estaría	O
-en	O
-Dubai	O
-https://t.co/ohB3nrHKv6	O
+not found	O
 
 Heys	O
 @SofiaLuna222	O
@@ -39946,18 +39810,7 @@ en	O
 tw	O
 http://t.co/AMVajdOnfa	O
 
-RT	O
-@jlrosario791	O
-:	O
-No	O
-lo	O
-tengo	O
-todo	O
-pero	O
-no	O
-me	O
-falta	O
-nada	O
+not found	O
 
 not found	O
 
@@ -40706,7 +40559,31 @@ luz	O
 verde	O
 .	O
 
-not found	O
+RT	O
+@queeensansa	O
+:	O
+12	O
+.	O
+THE	O
+FIRST	O
+TIME	O
+I	O
+SAW	O
+THIS	O
+THERE	O
+WERE	O
+LITERAL	O
+TEARS	O
+OF	O
+LAUGHTER	O
+AM	O
+I	O
+A	O
+BAD	O
+PERSON	O
+I	O
+'M	O
+https://t.co/NArNkAm0CU	O
 
 not found	O
 

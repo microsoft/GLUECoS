@@ -1226,19 +1226,6 @@ l	O
 ..	O
 .	O
 
-RT	O
-@aisavve	O
-:	O
-what	O
-i	O
-want	O
-to	O
-wake	O
-up	O
-to	O
-:	O
-https://t.co/2afbZV8orS	O
-
 "	O
 Todo	O
 el	O
@@ -3348,37 +3335,6 @@ dedico	O
 a	O
 mejorar	O
 .	O
-
-RT	O
-@javier99450	O
-:	O
--Locaaaaaaa	O
-,	O
-te	O
-tengo	O
-que	O
-contar	O
-.	O
--	O
-¿	O
-Dime	O
-nena	O
-cuentame	O
-el	O
-bochinche	O
-?	O
--	O
-Pelie	O
-con	O
-mi	O
-jevo	O
--	O
-¿	O
-Por	O
-qué	O
-?	O
-https://t.co/mH063G0	O
-…	O
 
 "	O
 MIRA	O
@@ -11110,6 +11066,12 @@ high	O
 rn	O
 #grifomelarifo	O
 
+RT	O
+@EdisonLuis15	O
+:	O
+NUNCA	O
+https://t.co/ws1kjZYS2r	O
+
 “	O
 @ricky94_	O
 :	O
@@ -16277,6 +16239,25 @@ rincon-	I-TITLE
 los	B-GROUP
 invasores	I-GROUP
 
+RT	O
+@unacosaahi	O
+:	O
+Vienen	O
+tiempos	O
+buenos	O
+,	O
+no	O
+lo	O
+dudo	O
+,	O
+pero	O
+¿	O
+que	O
+hacemos	O
+mientras	O
+tanto	O
+?	O
+
 Susana	B-PER
 wants	O
 me	O
@@ -21064,6 +21045,14 @@ los	O
 vale	O
 .	O
 
+RT	O
+@_pescueso	O
+:	O
+mañana	O
+es	O
+lunes	O
+https://t.co/PFfzWvWnUo	O
+
 At	O
 least	O
 they	O
@@ -21728,6 +21717,13 @@ flyyyyyyy	O
 ??	O
 ??	O
 ?!	O
+
+RT	O
+@jeremyjahzier	O
+:	O
+Hawaii	B-LOC
+*	O
+https://t.co/bXQOIUsYiy	O
 
 Ajajja	O
 no	O
@@ -35300,16 +35296,6 @@ SO	O
 GOOD:')	O
 http://t.co/ClHbVu1Xqc	O
 
-RT	O
-@javier99450	O
-:	O
-Tienen	O
-que	O
-leerlo	O
-JAJAJAJAJAJA	O
-.	O
-http://t.co/R1E432KMsf	O
-
 De	O
 los	O
 juegos	O
@@ -35602,17 +35588,6 @@ follows	O
 you	O
 xD	O
 ?	O
-
-RT	O
-@cedecuizi	O
-:	O
-@RickyHernndez1	O
-lo	O
-que	O
-sea	O
-por	O
-15	O
-retweets	O
 
 Onta	O
 la	O
@@ -36770,33 +36745,6 @@ so	O
 worth	O
 it	O
 though	O
-
-RT	O
-@gabriela_gabee2	O
-:	O
-Es	O
-bueno	O
-siempre	O
-tomarse	O
-el	O
-riesgo	O
-de	O
-comenzar	O
-de	O
-cero	O
-,	O
-cortar	O
-apegos	O
-,	O
-estar	O
-con	O
-uno	O
-mismo	O
-,	O
-crecer	O
-como	O
-individuos	O
-.	O
 
 @blackpresii	O
 yes	O
@@ -38981,31 +38929,6 @@ find	O
 work	O
 soon	O
 haha	O
-
-RT	O
-@aisavve	O
-:	O
-El	O
-CEE	B-ORG
-tiene	O
-todo	O
-preparado	O
-para	O
-que	O
-te	O
-inscribas	O
-en	O
-todos	O
-los	O
-Ben&Jerry's:	B-ORG
-Torrimar	B-LOC
-,	O
-VSJ	B-LOC
-,	O
-Condado	B-LOC
-!	O
-🍦	O
-#FeelTheBern	O
 
 Todas	O
 las	O
@@ -46012,37 +45935,6 @@ combol	O
 https://t.co/GbJJ4N81hQ	O
 
 RT	O
-@PapiJavii	O
-:	O
-Las	O
-mujeres	O
-le	O
-echan	O
-la	O
-culpa	O
-a	O
-las	O
-putas	O
-por	O
-meterse	O
-en	O
-las	O
-relaciones	O
-.	O
-MERE	B-PER
-,	O
-ECHELE	O
-LA	O
-CULPA	O
-AL	O
-ESCROTO	O
-ANDANTE	O
-DE	O
-TU	O
-NOVI	O
-…	O
-
-RT	O
 @mariasofia_14	O
 :	O
 Mi	O
@@ -46478,20 +46370,6 @@ a	O
 vegas	B-LOC
 ?	O
 #nopostacabron	O
-
-RT	O
-@alexisabelle22	O
-:	O
-In	O
-12	O
-grade	O
-hell	O
-week	O
-is	O
-also	O
-called	O
-a	O
-semester	O
 
 RT	O
 @pamela_cortesss	O
@@ -54826,6 +54704,20 @@ it	O
 "	O
 
 RT	O
+@BeardPowered	O
+:	O
+Everywhere	O
+nigga	O
+,	O
+the	O
+fuck	O
+you	O
+talkin	O
+bout	O
+.	O
+https://t.co/XNDjx3xOs3	O
+
+RT	O
 @shaharaiann	O
 :	O
 nunca	O
@@ -54883,6 +54775,21 @@ que	O
 Maya	B-PER
 no	O
 existe	O
+
+RT	O
+@NattBanks	O
+:	O
+"	O
+tweet	O
+not	O
+found	O
+"	O
+MIRA	O
+PUÑETA	O
+YO	O
+LO	O
+ESTOY	O
+VIENDO	O
 
 ¡	O
 EH	O
@@ -58081,32 +57988,6 @@ verdad	O
 odio	O
 a	O
 jampi	B-PER
-
-RT	O
-@marciaf_92	O
-:	O
-Generación	O
-del	O
-:	O
-"	O
-Me	O
-mandó	O
-un	O
-Snap	O
-Chat	O
-"	O
-,	O
-"	O
-Le	O
-dió	O
-like	O
-.	O
-"	O
-,	O
-entre	O
-otras	O
-expresiones	O
-.	O
 
 Your	O
 love	O
@@ -61784,6 +61665,16 @@ quiero	O
 algaro	O
 ,	O
 under	O
+
+RT	O
+@j0SEef8	O
+:	O
+Buenos	O
+días	O
+..	O
+.	O
+😐	O
+https://t.co/5ZTyvyyRMc	O
 
 @Jayye323	O
 what	O
@@ -68159,6 +68050,26 @@ https://t.co/LhMN4ixJSp	O
 😱	O
 
 RT	O
+@j0SEef8	O
+:	O
+Mujeres	O
+en	O
+Palomino	B-LOC
+..	O
+.	O
+*	O
+Cuando	O
+no	O
+son	O
+dueñas	O
+de	O
+un	O
+bote	O
+..	O
+.	O
+https://t.co/Agu53fVwzv	O
+
+RT	O
 @2MVPrincesa	O
 :	O
 When	O
@@ -71079,14 +70990,6 @@ esa	O
 esta	O
 buena	O
 👌	O
-
-RT	O
-@jorgeneg7	O
-:	O
-Llama	O
-si	O
-me	O
-necesitas	O
 
 RT	O
 @BajoelFlexo	O
@@ -79737,6 +79640,21 @@ Better	O
 😒	O
 ❤	O
 
+RT	O
+@ycvr24	O
+:	O
+Ojala	O
+se	O
+me	O
+de	O
+ir	O
+a	O
+la	O
+uni	O
+que	O
+quierooo	O
+🙏🙌	O
+
 @Yaritzaa__	O
 en	O
 trabajo	O
@@ -83166,44 +83084,6 @@ no	O
 rompiéndote	O
 la	O
 cabeza	O
-
-RT	O
-@cokep	O
-:	O
-#CharlieCharlie	O
-¿	O
-Ella	O
-está	O
-enamorá	O
-de	O
-mí	O
-?	O
-No	O
-|	O
-No	O
-—	O
-✏	O
-—	O
-No	O
-|	O
-No	O
-¿	O
-Pero	O
-le	O
-gusta	O
-como	O
-yo	O
-le	O
-doy	O
-?	O
-Sí	O
-|	O
-Sí	O
-—	O
-✏	O
-—	O
-S	O
-…	O
 
 Ya	O
 quiero	O
@@ -86827,21 +86707,6 @@ gratis	O
 .	O
 
 RT	O
-@_jamrr	O
-:	O
-Viendo	O
-el	O
-juego	O
-con	O
-pal	O
-de	O
-coronas	O
-y	O
-los	O
-panas	O
-https://t.co/WO8UN2Q7tH	O
-
-RT	O
 @AlbertoCiurana	O
 :	O
 Amigos	O
@@ -89143,12 +89008,6 @@ NYC	B-LOC
 @AngieEstilo	O
 @stylelvr	O
 http://t.co/KWWsUwsyX4	O
-
-RT	O
-@gabriela_gabee2	O
-:	O
-JAJAJAJAJAJAJAJAJAJAJAJAJJAAJJAJAJAJAJAJAJAJAJAJAJAJJAJAJAJAJAJAJAJAJA	O
-https://t.co/n1PvNBaluE	O
 
 Quiero	O
 ponerme	O
@@ -93208,31 +93067,6 @@ new	O
 #ByeFelicia	O
 #sorrynotsorry	O
 
-RT	O
-@cedecuizi	O
-:	O
-Creo	O
-que	O
-todos	O
-estamos	O
-claros	O
-en	O
-que	O
-lo	O
-único	O
-que	O
-necesitamos	O
-como	O
-país	O
-ahora	O
-mismo	O
-son	O
-más	O
-remixes	O
-de	O
-Panda	B-PROD
-!!	O
-
 After	O
 amr	O
 tonight	O
@@ -94222,6 +94056,13 @@ La	B-LOC
 Pilarica	I-LOC
 !	O
 https://t.co/D5736amUxP	O
+
+RT	O
+@LUISIANAMS	O
+:	O
+Pienso	O
+igual	O
+https://t.co/l2ddCjpTnM	O
 
 RT	O
 @eapr8	O
@@ -98370,35 +98211,6 @@ http://t.co/ZAVofiYzST	O
 vía	O
 @YouTube	O
 
-RT	O
-@canvasretorico	O
-:	O
-Porque	O
-no	O
-todo	O
-es	O
-besarse	O
-y	O
-chingarse	O
-en	O
-esta	O
-vida	O
-,	O
-aprendan	O
-a	O
-comunicar	O
-e	O
-intimar	O
-con	O
-sus	O
-parejas	O
-pa	O
-que	O
-no	O
-fracasen	O
-ht	O
-…	O
-
 “	O
 @HernandAngelica	O
 :	O
@@ -98500,36 +98312,6 @@ soy	O
 otra	O
 cosa	O
 .	O
-
-RT	O
-@Somar_17_	O
-:	O
-Gracias	O
-a	O
-todos	O
-los	O
-que	O
-hablaron	O
-mierda	O
-desde	O
-hoy	O
-seré	O
-una	O
-mejor	O
-persona	O
-y	O
-cuando	O
-logre	O
-mis	O
-meta	O
-los	O
-callare	O
-a	O
-todos	O
-.	O
-Veré	O
-e	O
-…	O
 
 RT	O
 @Jeansel4	O
@@ -104415,16 +104197,6 @@ comer	O
 ☺	O
 
 RT	O
-@cristisofi11	O
-:	O
-Yo	O
-todos	O
-los	O
-dias	O
-😩😭	O
-https://t.co/LDxISdJhMJ	O
-
-RT	O
 @FCBayernEN	O
 :	O
 #Lewandowski	O
@@ -105940,24 +105712,6 @@ cantando	O
 bob	B-PER
 marley	I-PER
 JAJAJAJAJJAJA	O
-
-RT	O
-@gabriela_gabee2	O
-:	O
-Siento	O
-que	O
-odiaré	O
-los	O
-exámenes	O
-de	O
-avanzada	O
-por	O
-el	O
-resto	O
-de	O
-mi	O
-vida	O
-.	O
 
 Ayer	O
 pasaron	O
@@ -111476,23 +111230,6 @@ la	O
 esquina	O
 
 RT	O
-@aisavve	O
-:	O
-we	O
-keep	O
-waiting	O
-on	O
-the	O
-world	O
-to	O
-change	O
-instead	O
-of	O
-changing	O
-it	O
-ourselves	O
-
-RT	O
 @BeastyTattoos	O
 :	O
 https://t.co/Q4NRdhoKXg	O
@@ -112776,15 +112513,6 @@ me	O
 quiero	O
 levanter	O
 😋	O
-
-RT	O
-@javier99450	O
-:	O
-Que	O
-cabrón	O
-JAJAJAJAJAJAJAJAJA	O
-.	O
-https://t.co/73ePpUzYbr	O
 
 Estoy	O
 en	O
@@ -118204,18 +117932,6 @@ RAPERS	O
 .	O
 "	O
 
-RT	O
-@sophiavictory12	O
-:	O
-mi	O
-mejor	O
-amigo	O
-me	O
-saca	O
-en	O
-un	O
-2x3	O
-
 "	O
 @natigvila	O
 :	O
@@ -120118,6 +119834,19 @@ un	O
 pobre	O
 soñador	O
 ...	O
+
+RT	O
+@ycvr24	O
+:	O
+ESTE	O
+AÑO	O
+NOS	O
+GRADUAMOS	O
+CABRONEESS	O
+!!	O
+!	O
+CHEERS	O
+🍺🍺🍻🍻🍻💃💃💃🎉🎉🎉🎉	O
 
 I	O
 'm	O
@@ -124283,19 +124012,6 @@ no	O
 vino	O
 🎶	O
 
-RT	O
-@aisavve	O
-:	O
-Dream	O
-a	O
-little	O
-dream	O
-of	O
-me	O
-..	O
-.	O
-🎶	O
-
 Se	O
 me	O
 borró	O
@@ -125561,12 +125277,6 @@ RT	O
 Si	O
 paa	O
 https://t.co/phKTwteF3f	O
-
-RT	O
-@andresrafaelrg	O
-:	O
-.	O
-https://t.co/kIqvArt93X	O
 
 Ha	O
 sido	O
@@ -131631,24 +131341,6 @@ from	O
 beast	O
 "	O
 
-RT	O
-@Claudiina23	O
-:	O
-Pfff	O
-Todavía	O
-no	O
-me	O
-lo	O
-creo	O
-!	O
-💕	O
-Muchisimas	O
-Gracias	O
-!	O
-😍	O
-@Kronnomc	O
-https://t.co/WU5UiMbGub	O
-
 #FF	O
 a	O
 mis	O
@@ -131697,28 +131389,6 @@ not	O
 loving	O
 college	O
 now	O
-
-RT	O
-@cedecuizi	O
-:	O
-Los	O
-dos	O
-fracasos	O
-más	O
-grandes	O
-de	O
-nuestra	O
-historia	O
-:	O
-el	O
-grito	B-EVENT
-de	I-EVENT
-Lares	I-EVENT
-y	O
-la	O
-cerveza	B-PROD
-Buyé	I-PROD
-.	O
 
 Las	O
 quieremos	O
@@ -134326,6 +133996,24 @@ start	O
 too	O
 😏	O
 ❤	O
+
+RT	O
+@NattBanks	O
+:	O
+siempre	O
+esta	O
+la	O
+"	O
+amiga	O
+"	O
+que	O
+se	O
+tira	O
+a	O
+tu	O
+jevo	O
+o	O
+ex	O
 
 RT	O
 @Dalepatabajo	O
@@ -140107,22 +139795,6 @@ booguea	O
 cualquiera	O
 .	O
 
-RT	O
-@amariert_	O
-:	O
-me	O
-sobas	O
-el	O
-pelo	O
-o	O
-la	O
-espalda	O
-y	O
-ya	O
-tienes	O
-mi	O
-corazón	O
-
 Las	O
 palomas	O
 son	O
@@ -142668,6 +142340,16 @@ días	O
 mundo	O
 .	O
 
+RT	O
+@NattBanks	O
+:	O
+full	O
+eso	O
+no	O
+cambia	O
+jajajajajjajajajajajajajaaj	O
+https://t.co/7RJqVNvRmg	O
+
 este	O
 va	O
 ser	O
@@ -145057,19 +144739,6 @@ RT	O
 :	O
 https://t.co/E9yP5eai7W	O
 
-RT	O
-@aisavve	O
-:	O
-Quiero	O
-acostarme	O
-a	O
-dormir	O
-y	O
-levantarme	O
-con	O
-mi	O
-bachillerato	O
-
 I	O
 'm	O
 pretty	O
@@ -145845,14 +145514,6 @@ in	O
 Michigan	B-LOC
 https://t.co/1Y62VlvIrI	O
 https://t.co/MdYM7pPeN3	O
-
-RT	O
-@amariert_	O
-:	O
-diablooo	O
-quiero	O
-un	O
-tatuaje	O
 
 @javierricardo69	O
 tas	O
@@ -147410,6 +147071,21 @@ la	O
 razón	O
 .	O
 http://t.co/a4feOGPgkV	O
+
+RT	O
+@Rosariio_M	O
+:	O
+@YellowMellowMG	O
+Ya	O
+es	O
+TT	O
+en	O
+Argentina	B-LOC
+!	O
+♥	O
+#PhantomLimb	O
+♥	O
+http://t.co/BqwfRaahWq	O
 
 Yo	O
 no	O
@@ -158676,20 +158352,6 @@ dio	O
 vida	O
 😂	O
 
-RT	O
-@6Martaruiz	O
-:	O
-@YellowMellowMG	O
-Tus	O
-caras	O
-hacen	O
-mi	O
-día	O
-a	O
-día	O
-😂😂😂	O
-https://t.co/FwW3AaWEk0	O
-
 @alexandrarosado	O
 nena	O
 si	O
@@ -160766,6 +160428,11 @@ Pederson	I-PER
 freshman	O
 https://t.co/5SiVPvT4O4	O
 https://t.co/Qs89pxfVMV	O
+
+RT	O
+@r0yalti	O
+:	O
+https://t.co/ZB70bPyOSI	O
 
 Llevo	O
 5	O
@@ -172502,28 +172169,6 @@ todo	O
 chikinalgas	O
 😂	O
 
-RT	O
-@marciaf_92	O
-:	O
-Como	O
-odio	O
-la	O
-gente	O
-que	O
-su	O
-primera	O
-lengua	O
-es	O
-español	O
-y	O
-sus	O
-conversaciones	O
-son	O
-en	O
-inglés	O
-24/7	O
-!	O
-
 ¿	O
 Seguiremos	O
 viviendo	O
@@ -173183,19 +172828,6 @@ en	O
 mi	O
 trajee	O
 😍😍😍😍😍😍😍😍	O
-
-RT	O
-@gabriela_gabee2	O
-:	O
-140	O
-caracteres	O
-no	O
-me	O
-bastan	O
-para	O
-enumerarlos	O
-.	O
-https://t.co/mC81KUVULK	O
 
 RT	O
 @FCBayernUS	O
@@ -184683,31 +184315,6 @@ late	O
 again	O
 >.<	O
 
-RT	O
-@JWilo12	O
-:	O
-"	O
-Váyanse	O
-de	O
-pecho	O
-es	O
-el	O
-ultimo	O
-día	O
-del	O
-año	O
-"	O
-si	O
-cabrona	O
-pero	O
-usualmente	O
-a	O
-un	O
-año	O
-le	O
-sigue	O
-otro	O
-
 Estoy	O
 lleno	O
 de	O
@@ -189301,13 +188908,6 @@ ughh	O
 ..	O
 fine	O
 
-RT	O
-@Milly__Negron	O
-:	O
-la	O
-puta	O
-https://t.co/mG47cQ79s8	O
-
 @13gsgs	O
 ya	O
 acabaron	O
@@ -189481,21 +189081,6 @@ never	O
 heard	O
 of	O
 that	O
-
-RT	O
-@aisavve	O
-:	O
-Never	B-TITLE
-Be	I-TITLE
-Like	I-TITLE
-You	I-TITLE
-(	O
-ft	O
-.	O
-Kai	B-PER
-)	O
-//	O
-Flume	B-PER
 
 #harrods	O
 girls	O
@@ -197322,6 +196907,26 @@ Chile	B-LOC
 ❤	O
 http://t.co/5YKu2PV66o	O
 
+RT	O
+@fabnoemi	O
+:	O
+quiero	O
+una	O
+beers	O
+,	O
+movies	O
+,	O
+y	O
+hablar	O
+mierda	O
+con	O
+cojones	O
+pero	O
+hablar	O
+mucha	O
+mucha	O
+mierda	O
+
 Quiero	O
 salir	O
 hoyyyy	O
@@ -202452,25 +202057,6 @@ y	O
 mucho	O
 sol	O
 
-RT	O
-@javier99450	O
-:	O
-Me	O
-gustaría	O
-tener	O
-a	O
-alguien	O
-con	O
-quien	O
-quedarme	O
-hasta	O
-tarde	O
-hablando	O
-,	O
-o	O
-texteando	O
-.	O
-
 I	O
 was	O
 n't	O
@@ -203668,6 +203254,25 @@ si	O
 @El_Ctoni	O
 ily	O
 😘	O
+
+RT	O
+@Chrisoname	O
+:	O
+Fun	O
+Fact	O
+:	O
+KRISTHIELEEYINAIRA	B-PER
+reprobó	O
+kinder	O
+dos	O
+veces	O
+por	O
+no	O
+saber	O
+escribir	O
+su	O
+nombre	O
+.	O
 
 “	O
 @mayarodriguez96	O
@@ -206206,6 +205811,18 @@ manejo	O
 de	O
 …	O
 http://t.co/6LQXjml7dw	O
+
+RT	O
+@ycvr24	O
+:	O
+La	O
+pichaera	O
+mata	O
+las	O
+ganas	O
+de	O
+todo	O
+.	O
 
 RT	O
 @tigris___blood	O
@@ -209162,32 +208779,6 @@ YELLOWMELLOW	B-PROD
 .	O
 https://t.co/XcVxrxw8B9	O
 
-RT	O
-@gabriela_gabee2	O
-:	O
-Voy	O
-súper	O
-cómoda	O
-a	O
-coger	O
-el	O
-college	O
-y	O
-con	O
-una	O
-apariencia	O
-que	O
-dice	O
-:	O
-no	O
-he	O
-dormido	O
-bien	O
-en	O
-4	O
-días	O
-.	O
-
 Ya	O
 estamos	O
 listos	O
@@ -211319,22 +210910,6 @@ native	O
 can	O
 tell	O
 you	O
-
-RT	O
-@cristisofi11	O
-:	O
-"	O
-Supe	O
-que	O
-aunque	O
-pueda	O
-,	O
-no	O
-quiero	O
-vivir	O
-sin	O
-ti	O
-"	O
 
 "	O
 Porque	O
@@ -220908,20 +220483,6 @@ back	O
 !!	O
 :D	O
 
-RT	O
-@loublonson	O
-:	O
-FRANKIE	B-PER
-YA	O
-ES	O
-2016	B-TIME
-DÓNDE	O
-PUÑETA	O
-ESTÁ	O
-EL	O
-ÁLBUM	O
-?	O
-
 Noooooo	O
 ,	O
 tu	O
@@ -227023,20 +226584,6 @@ ahora	O
 @ricardorossello	O
 https://t.co/4SFv6fjhin	O
 
-RT	O
-@aisavve	O
-:	O
-Cant	O
-believe	O
-im	O
-going	O
-to	O
-this	O
-🤘🏾😛💥🙏🏾	O
-#BLESSED	O
-#ICANTWAIT	O
-https://t.co/Vlm7WB29Xs	O
-
 no	O
 paro	O
 de	O
@@ -231397,6 +230944,19 @@ por	O
 beber	O
 .	O
 
+RT	O
+@LUISIANAMS	O
+:	O
+Si	O
+no	O
+vivieras	O
+tan	O
+lejos	O
+fuera	O
+lo	O
+mejor	O
+.	O
+
 @PattyB_14	O
 @luciasdurand	O
 @juliatoro3	O
@@ -235341,15 +234901,6 @@ Zomber	O
 Videoclip	O
 
 RT	O
-@aisavve	O
-:	O
-💥	O
-good	O
-things	O
-coming	O
-💥	O
-
-RT	O
 @luisgierbolini5	O
 :	O
 Ya	O
@@ -238074,20 +237625,6 @@ Las	O
 Fotos	O
 http://t.co/UriYSpguo5	O
 
-RT	O
-@Alaniqua	O
-:	O
-no	O
-es	O
-normal	O
-lo	O
-mucho	O
-que	O
-me	O
-fascinan	O
-los	O
-bebés	O
-
 Es	O
 mi	O
 vida	O
@@ -239505,18 +239042,6 @@ satelitiar	O
 a	O
 Raul	B-PER
 ?	O
-
-RT	O
-@LadyMiredys1	O
-:	O
-"	O
-Puerto	B-LOC
-Rico	I-LOC
-es	O
-una	O
-mierda	O
-"	O
-http://t.co/jXH7WehXEq	O
 
 Orita	O
 https://t.co/M0HBW7NluA	O
@@ -246917,6 +246442,19 @@ kill	O
 meh	O
 ..	O
 
+RT	O
+@ycvr24	O
+:	O
+Una	O
+sobredosis	O
+de	O
+playa	O
+es	O
+lo	O
+que	O
+necesito	O
+yo	O
+
 si	O
 yo	O
 me	O
@@ -249036,17 +248574,6 @@ Debra	B-PER
 ahh	O
 perroo	O
 !!	O
-
-RT	O
-@sabrinabuxeda	O
-:	O
-este	O
-tweet	O
-lo	O
-escribieron	O
-para	O
-mí	O
-https://t.co/rtzgpalDg9	O
 
 RT	O
 @NoeliaMeh	O
@@ -255018,16 +254545,6 @@ Es	O
 todo	O
 ?	O
 
-RT	O
-@ismineyoutubers	O
-:	O
-@Kronnomc	O
-OMG	O
-MI	O
-FOTO	O
-!!	O
-!	O
-
 Soy	O
 yo	O
 o	O
@@ -259929,15 +259446,6 @@ del	O
 mundo	O
 😳😐	O
 
-RT	O
-@loublonson	O
-:	O
-Acaso	O
-soy	O
-un	O
-genio	O
-https://t.co/amg20Xabm5	O
-
 Miley	B-PER
 esta	O
 loca	O
@@ -262538,21 +262046,6 @@ de	O
 Papa	B-ORG
 John	I-ORG
 's	I-ORG
-
-RT	O
-@er0tics0ul	O
-:	O
-pal	O
-carajo	O
-la	O
-distancia	O
-,	O
-si	O
-se	O
-quieren	O
-se	O
-puede	O
-.	O
 
 RT	O
 @hexxorp	O
@@ -272266,25 +271759,6 @@ this	O
 😂	O
 https://t.co/UCzjXbuWEU	O
 
-RT	O
-@aisavve	O
-:	O
-Cuando	O
-eres	O
-verdaderamente	O
-feliz	O
-,	O
-no	O
-hay	O
-necesidad	O
-de	O
-gritárselo	O
-al	O
-mundo	O
-porque	O
-se	O
-nota	O
-
 Activeeee	O
 para	O
 salir	O
@@ -273262,6 +272736,12 @@ disfruta	O
 el	O
 momento	O
 ...	O
+
+RT	O
+@_jgao	O
+:	O
+JAJAJAJAJAJAJAJJAA	O
+https://t.co/QCdapc0PVh	O
 
 It	O
 's	O
@@ -281689,12 +281169,6 @@ por	O
 dónde	O
 voy	O
 
-RT	O
-@fmma12	O
-:	O
-😌😌😌	O
-https://t.co/rEwSeCky2u	O
-
 @porexpan	O
 oish	O
 😍	O
@@ -284581,13 +284055,6 @@ fa	O
 no	O
 ,	O
 jodiendaaaa	O
-
-RT	O
-@cedecuizi	O
-:	O
-#PrayForPaco	O
-#SobreviviendoComoPaco	O
-#EspecialDeWapa	O
 
 Mi	O
 fam	O
@@ -298106,28 +297573,6 @@ me	O
 🚾	O
 https://t.co/nA969BAneY	O
 
-RT	O
-@aisavve	O
-:	O
-things	O
-that	O
-would	O
-make	O
-me	O
-happy	O
-:	O
-a	O
-good	O
-book	O
-the	O
-beach	O
-that	O
-'s	O
-all	O
-i	O
-really	O
-need	O
-
 Contris	B-OTHER
 !!	O
 El	O
@@ -300842,33 +300287,6 @@ tengo	O
 que	O
 conocerte	O
 ☺	O
-
-RT	O
-@loublonson	O
-:	O
-De	O
-pana	O
-que	O
-no	O
-quiero	O
-ver	O
-otro	O
-tuit	O
-que	O
-diga	O
-"	O
-los	O
-panas	O
-no	O
-existen	O
-"	O
-cabrón	O
-aprende	O
-a	O
-escoger	O
-mejor	O
-tus	O
-amistades	O
 
 Ajjaja	O
 ,	O
@@ -307137,6 +306555,28 @@ cerca	O
 @angieestilo	O
 http://…	O
 
+RT	O
+@EdisonLuis15	O
+:	O
+o	O
+Anuel	O
+AA	O
+*	O
+yo	O
+cuando	O
+alguien	O
+se	O
+monte	O
+en	O
+mi	O
+carro	O
+y	O
+me	O
+diga	O
+eso	O
+:	O
+https://t.co/7j9mJH56dF	O
+
 @salim_rosa	O
 @PattyB_14	O
 @mememecaigo	O
@@ -307445,19 +306885,6 @@ SPEAK	O
 OUT	O
 http://t.co/j	O
 …	O
-
-RT	O
-@mirlienys25	O
-:	O
-"	O
-I	O
-ai	O
-n't	O
-got	O
-no	O
-type	O
-"	O
-https://t.co/iTQucTyCaN	O
 
 @GMGA__	O
 go	O
@@ -310137,24 +309564,6 @@ etc	O
 …	O
 http://t.co/Ats16KOwZ8	O
 
-RT	O
-@javier99450	O
-:	O
-Bryant	B-PER
-Myers	I-PER
-es	O
-un	O
-ídolo	O
-boricua	O
-,	O
-ni	O
-Marc	B-PER
-Anthony	I-PER
-se	O
-le	O
-compara	O
-.	O
-
 “	O
 Los	O
 dos	O
@@ -310574,11 +309983,6 @@ bigger	O
 the	O
 whore	O
 "	O
-
-RT	O
-@aisavve	O
-:	O
-#FEELTHEBERN	O
 
 Bad	O
 bitch	O
@@ -312479,25 +311883,6 @@ start	O
 working	O
 out	O
 💪👊💢	O
-
-RT	O
-@andncs	O
-:	O
-Si	O
-saco	O
-F	O
-en	O
-el	O
-examen	O
-,	O
-se	O
-llora	O
-y	O
-después	O
-se	O
-bebe	O
-.	O
-https://t.co/HKrxmWyIk5	O
 
 Ese	O
 juego	O
@@ -320671,17 +320056,6 @@ it	O
 girl	O
 ..	O
 @crystal_jaimes	O
-
-RT	O
-@yeyijy	O
-:	O
-si	O
-se	O
-viran	O
-,	O
-no	O
-viren	O
-.	O
 
 RT	O
 @zaymaryy	O
@@ -331629,29 +331003,7 @@ we	O
 cool	O
 😎😎😁	O
 
-RT	O
-@hijadedragones	O
-:	O
-No	O
-consigo	O
-expresar	O
-realmente	O
-cómo	O
-me	O
-siento	O
-con	O
-palabras	O
-,	O
-y	O
-es	O
-bastante	O
-frustrante	O
-cuando	O
-intentas	O
-explicárselo	O
-a	O
-algu	O
-…	O
+not found	O
 
 Uno	O
 de	O
@@ -333952,14 +333304,7 @@ en	O
 adelante	O
 👌	O
 
-RT	O
-@aisavve	O
-:	O
-«	O
-yo	O
-soy	O
-arte	O
-»	O
+not found	O
 
 RT	O
 @ACanseco	O
@@ -334656,28 +334001,7 @@ https://t.co/v6XwnTyZab	O
 
 not found	O
 
-RT	O
-@Alaniqua	O
-:	O
-a	O
-nadie	O
-le	O
-pasa	O
-que	O
-la	O
-clase	O
-es	O
-tan	O
-fucking	O
-facil	O
-que	O
-te	O
-estas	O
-colgando	O
-??	O
-??	O
-?	O
-¿	O
+not found	O
 
 jajajaaj	O
 siii	O
@@ -340820,14 +340144,7 @@ clase	O
 mas	O
 mierda	O
 
-RT	O
-@aisavve	O
-:	O
-es	O
-importante	O
-crear	O
-un	O
-balance	O
+not found	O
 
 RT	O
 @eatceII	O
@@ -343632,10 +342949,7 @@ effective	O
 
 not found	O
 
-RT	O
-@_SuyaMiGuerra	O
-:	O
-https://t.co/DG7Ku2InwK	O
+not found	O
 
 De	O
 la	O
@@ -344782,11 +344096,7 @@ not found	O
 @rafrruko	O
 literal	O
 
-RT	O
-@Johanelyz15	O
-:	O
-💖	O
-https://t.co/6noAbKCOt8	O
+not found	O
 
 Este	O
 gobierno	O
@@ -350742,20 +350052,7 @@ un	O
 email	O
 hoy	O
 
-RT	O
-@cedecuizi	O
-:	O
-Posiblemente	O
-lo	O
-más	O
-relevante	O
-que	O
-he	O
-hecho	O
-con	O
-mi	O
-vida	O
-https://t.co/1IBs9KasXF	O
+not found	O
 
 RT	O
 @tff___	O
@@ -352375,25 +351672,7 @@ acostumbrarse	O
 al	O
 dolor	O
 
-RT	O
-@pmlizardi	O
-:	O
-Necesito	O
-volver	O
-a	O
-mi	O
-color	O
-de	O
-piel	O
-que	O
-tenía	O
-en	O
-verano	O
-,	O
-pa	O
-'	O
-ayerrrr	O
-💔	O
+not found	O
 
 pues	O
 los	O
@@ -357270,13 +356549,7 @@ much	O
 😂	O
 https://t.co/LVxtwmM6f5	O
 
-RT	O
-@cristisofi11	O
-:	O
-Es	O
-lo	O
-mejor	O
-https://t.co/5TZ6L6XGBJ	O
+not found	O
 
 not found	O
 
@@ -358516,35 +357789,7 @@ mis	O
 libros	O
 *	O
 
-RT	O
-@aisavve	O
-:	O
-Mira	O
-,	O
-vámonos	O
-pa	O
-'	O
-la	O
-playa	O
-.	O
-A	O
-tirarnos	O
-el	O
-picnic	O
-en	O
-cualquier	O
-montaña	O
-,	O
-a	O
-ver	O
-las	O
-estrellas	O
-..	O
-.	O
-Literalmente	O
-cualquier	O
-cosa	O
-.	O
+not found	O
 
 "	O
 Para	O
@@ -360454,14 +359699,7 @@ RAP	O
 !	O
 ^^	O
 
-RT	O
-@Rodz_oficial	O
-:	O
-Yo	O
-estaría	O
-en	O
-Dubai	O
-https://t.co/ohB3nrHKv6	O
+not found	O
 
 Heys	O
 @SofiaLuna222	O
@@ -362782,18 +362020,7 @@ en	O
 tw	O
 http://t.co/AMVajdOnfa	O
 
-RT	O
-@jlrosario791	O
-:	O
-No	O
-lo	O
-tengo	O
-todo	O
-pero	O
-no	O
-me	O
-falta	O
-nada	O
+not found	O
 
 not found	O
 
@@ -363542,7 +362769,31 @@ luz	O
 verde	O
 .	O
 
-not found	O
+RT	O
+@queeensansa	O
+:	O
+12	O
+.	O
+THE	O
+FIRST	O
+TIME	O
+I	O
+SAW	O
+THIS	O
+THERE	O
+WERE	O
+LITERAL	O
+TEARS	O
+OF	O
+LAUGHTER	O
+AM	O
+I	O
+A	O
+BAD	O
+PERSON	O
+I	O
+'M	O
+https://t.co/NArNkAm0CU	O
 
 not found	O
 
@@ -365137,11 +364388,6 @@ a	O
 dif	O
 address	O
 
-RT	O
-@aisavve	O
-:	O
-https://t.co/hiJNnCmFDq	O
-
 I	O
 feel	O
 so	O
@@ -365567,6 +364813,12 @@ RICOOOOO	I-LOC
 🇵🇷🍻	O
 más	O
 na	O
+
+RT	O
+@joanannette	O
+:	O
+Siipppo	O
+https://t.co/ZGgbgnNDbC	O
 
 Me	O
 siento	O
@@ -368577,30 +367829,6 @@ un	O
 por	O
 un	O
 año	O
-
-RT	O
-@Claudiina23	O
-:	O
-@Kronnomc	O
-@NeryGodoyMusic	O
-Ya	O
-la	O
-tengo	O
-!!	O
-!	O
-Que	O
-ganas	O
-de	O
-verte	O
-este	O
-Sábado	O
-y	O
-el	O
-7	O
-de	O
-mayo	O
-!	O
-😍	O
 
 Jajajajajajajajajajajajajaja	O
 https://t.co/jjt5ZrPNw8	O
@@ -374537,28 +373765,6 @@ imaginar	O
 4	O
 meses	O
 
-RT	O
-@ninaracing	O
-:	O
-Si	O
-la	O
-música	O
-definiera	O
-quién	O
-soy	O
-pues	O
-no	O
-sé	O
-quién	O
-soy	O
-,	O
-porque	O
-escucho	O
-de	O
-todo	O
-.	O
-😂	O
-
 Wtf	O
 is	O
 this	O
@@ -378377,25 +377583,6 @@ vídeos	O
 PRÓXIMAMENTE	O
 !	O
 https://t.co/8t4QW4B8oB	O
-
-RT	O
-@sophiavictory12	O
-:	O
-prefiero	O
-que	O
-me	O
-digan	O
-que	O
-no	O
-quieren	O
-hablar	O
-conmigo	O
-a	O
-que	O
-me	O
-ignoren	O
-,	O
-easy	O
 
 Editando	O
 video	O
@@ -383152,17 +382339,6 @@ me	O
 haim	O
 
 RT	O
-@Somar_17_	O
-:	O
-Prefiero	O
-un	O
-date	O
-que	O
-jangueo	O
-.	O
-https://t.co/SzaimdONHP	O
-
-RT	O
 @Calle13Oficial	O
 :	O
 Gracias	O
@@ -383971,17 +383147,6 @@ pena	O
 ..	O
 .	O
 
-RT	O
-@LadyMiredys1	O
-:	O
-Independientes	O
-,	O
-les	O
-dicen	O
-.	O
-😘	O
-https://t.co/Tszms0FBeA	O
-
 -5	O
 💃🎉🍷✨	O
 
@@ -384194,18 +383359,6 @@ places	O
 
 Playaaa	O
 ☀	O
-
-RT	O
-@aisavve	O
-:	O
-aveces	O
-odio	O
-ser	O
-mujer	O
-bcs	O
-fucking	O
-cramps	O
-goddammit	O
 
 @GMGA__	O
 ur	O
@@ -388498,12 +387651,6 @@ Secta	O
 es	O
 vida	O
 
-RT	O
-@aisavve	O
-:	O
-mood	O
-https://t.co/XzoFrZ5MDh	O
-
 The	O
 shortest	O
 got	O
@@ -392586,34 +391733,6 @@ puñetas	O
 quiso	O
 decir	O
 https://t.co/yeURdiYYUd	O
-
-RT	O
-@aisavve	O
-:	O
-Everyday	O
-we	O
-are	O
-given	O
-an	O
-opportunity	O
-to	O
-change	O
-something	O
-.	O
-Appreciate	O
-it	O
-.	O
-No	O
-matter	O
-how	O
-small	O
-,	O
-you	O
-have	O
-to	O
-start	O
-somewhere	O
-.	O
 
 @delgadoadd	O
 ir	O
@@ -402247,12 +401366,6 @@ at	O
 nite	O
 lol	O
 
-RT	O
-@cristisofi11	O
-:	O
-🙋🏿🙋🏿🙋🏿💁🏿💁🏿💁🏿💁🏿	O
-https://t.co/vmaREQLoRJ	O
-
 It	O
 was	O
 firme	O
@@ -402269,41 +401382,6 @@ me	O
 quierooo	O
 ir	O
 https://t.co/HHkGjlyXzK	O
-
-RT	O
-@KeyshlyMar	O
-:	O
-me	O
-encabrona	O
-la	O
-gente	O
-que	O
-quiere	O
-algo	O
-pero	O
-no	O
-lucha	O
-por	O
-eso	O
-;	O
-no	O
-,	O
-las	O
-cosas	O
-no	O
-te	O
-van	O
-a	O
-llegar	O
-,	O
-sal	O
-tu	O
-a	O
-buscarlas	O
-y	O
-lucha	O
-po	O
-…	O
 
 RT	O
 @xzombersquadx	O

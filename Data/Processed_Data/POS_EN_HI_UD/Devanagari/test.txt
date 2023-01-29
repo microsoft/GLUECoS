@@ -1445,19 +1445,7 @@ Chickenguniya	OTHER	NOUN
 '	OTHER	NOUN
 .	OTHER	NOUN
 
-आजकल	HI	NOUN
-train	EN	NOUN
-से	HI	NOUN
-ज्यादा	HI	NOUN
-tiers	EN	NOUN
-तो	HI	NOUN
-competitive	EN	NOUN
-exams	EN	NOUN
-में	HI	NOUN
-होते	HI	NOUN
-हैं	HI	NOUN
-.	OTHER	NOUN
-😂😭	OTHER	NOUN
+not found	OTHER	NOUN
 
 With	EN	NOUN
 a	EN	NOUN
@@ -1613,22 +1601,7 @@ not	EN	NOUN
 even	EN	NOUN
 invited	EN	NOUN
 
-I	EN	NOUN
-do	EN	NOUN
-n't	EN	NOUN
-give	EN	NOUN
-a	EN	NOUN
-damn	EN	NOUN
-क्युकी	HI	NOUN
-उसको	HI	NOUN
-देने	HI	NOUN
-में	HI	NOUN
-भी	HI	NOUN
-आजकल	HI	NOUN
-पैसे	HI	NOUN
-लगते	HI	NOUN
-हैं	HI	NOUN
-😱😂	OTHER	NOUN
+not found	OTHER	NOUN
 
 not found	OTHER	NOUN
 
@@ -1762,16 +1735,7 @@ batting	EN	NOUN
 नहीं	HI	NOUN
 आया	HI	NOUN
 
-I	EN	NOUN
-wish	EN	NOUN
-twitter	OTHER	NOUN
-पर	HI	NOUN
-video	EN	NOUN
-call	EN	NOUN
-सब	HI	NOUN
-कर	HI	NOUN
-सकते	HI	NOUN
-.	OTHER	NOUN
+not found	OTHER	NOUN
 
 यार	HI	NOUN
 ये	HI	NOUN
@@ -2181,18 +2145,7 @@ freezer	EN	NOUN
 कल	HI	NOUN
 :/	OTHER	NOUN
 
-Am	EN	NOUN
-I	EN	NOUN
-The	EN	NOUN
-only	EN	NOUN
-one	EN	NOUN
-जिसे	HI	NOUN
-बोहत	HI	NOUN
-भूक	HI	NOUN
-लगती	HI	NOUN
-..	OTHER	NOUN
-रात	HI	NOUN
-में	HI	NOUN
+not found	OTHER	NOUN
 
 not found	OTHER	NOUN
 

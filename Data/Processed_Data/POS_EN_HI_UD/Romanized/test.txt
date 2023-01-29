@@ -1445,19 +1445,7 @@ dena	HI	NOUN
 '	OTHER	NOUN
 .	OTHER	NOUN
 
-Aajkal	HI	NOUN
-train	EN	NOUN
-se	HI	NOUN
-jyada	HI	NOUN
-tiers	EN	NOUN
-to	HI	NOUN
-competitive	EN	NOUN
-exams	EN	NOUN
-me	HI	NOUN
-hote	HI	NOUN
-hain	HI	NOUN
-.	OTHER	NOUN
-😂😭	OTHER	NOUN
+not found	OTHER	NOUN
 
 With	EN	NOUN
 a	EN	NOUN
@@ -1613,22 +1601,7 @@ not	EN	NOUN
 even	EN	NOUN
 invited	EN	NOUN
 
-I	EN	NOUN
-do	EN	NOUN
-n't	EN	NOUN
-give	EN	NOUN
-a	EN	NOUN
-damn	EN	NOUN
-kyuki	HI	NOUN
-usko	HI	NOUN
-dene	HI	NOUN
-me	HI	NOUN
-bhi	HI	NOUN
-aajkal	HI	NOUN
-paise	HI	NOUN
-lagte	HI	NOUN
-hain	HI	NOUN
-😱😂	OTHER	NOUN
+not found	OTHER	NOUN
 
 not found	OTHER	NOUN
 
@@ -1762,16 +1735,7 @@ pa	HI	NOUN
 ni	HI	NOUN
 ayaa	HI	NOUN
 
-I	EN	NOUN
-wish	EN	NOUN
-twitter	OTHER	NOUN
-par	HI	NOUN
-video	EN	NOUN
-call	EN	NOUN
-sab	HI	NOUN
-kar	HI	NOUN
-sakte	HI	NOUN
-.	OTHER	NOUN
+not found	OTHER	NOUN
 
 Yrrr	HI	NOUN
 ye	HI	NOUN
@@ -2181,18 +2145,7 @@ aj	HI	NOUN
 kal	HI	NOUN
 :/	OTHER	NOUN
 
-Am	EN	NOUN
-I	EN	NOUN
-The	EN	NOUN
-only	EN	NOUN
-one	EN	NOUN
-jisey	HI	NOUN
-bohat	HI	NOUN
-bhook	HI	NOUN
-lagti	HI	NOUN
-..	OTHER	NOUN
-Raat	HI	NOUN
-me	HI	NOUN
+not found	OTHER	NOUN
 
 not found	OTHER	NOUN
 
