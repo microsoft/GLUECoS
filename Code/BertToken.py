@@ -16,7 +16,7 @@ from transformers import (
 from seqeval.metrics import precision_score, recall_score, f1_score, accuracy_score
 
 
-logger = logging.getLogger(__name__)
+#logger = logging.getLogger(__name__)
 
 
 def set_seed(args):
@@ -119,10 +119,10 @@ def train(args, train_dataset, valid_dataset, model, tokenizer, labels):
     scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=t_total // 10, num_training_steps=t_total)
 
     # Training
-    logger.info("***** Running training *****")
-    logger.info("  Num examples = %d", len(train_dataset))
-    logger.info("  Num Epochs = %d", args.num_train_epochs)
-    logger.info("  Instantaneous batch size per GPU = %d",
+    print("***** Running training *****")
+    print("  Num examples = %d", len(train_dataset))
+    print("  Num Epochs = %d", args.num_train_epochs)
+    print("  Instantaneous batch size per GPU = %d",
                 args.train_batch_size)
 
     global_step = 0
@@ -175,9 +175,9 @@ def evaluate(args, model, tokenizer, labels, mode, prefix=""):
         eval_dataset, sampler=eval_sampler, batch_size=args.eval_batch_size, collate_fn=collate)
 
     # Evaluation
-    logger.info("***** Running evaluation %s *****", prefix)
-    logger.info("  Num examples = %d", len(eval_dataset))
-    logger.info("  Batch size = %d", args.eval_batch_size)
+    print("***** Running evaluation %s *****", prefix)
+    print("  Num examples = %d", len(eval_dataset))
+    print("  Batch size = %d", args.eval_batch_size)
     eval_loss = 0.0
     nb_eval_steps = 0
     preds = []
@@ -229,9 +229,9 @@ def evaluate(args, model, tokenizer, labels, mode, prefix=""):
             "accuracy": accuracy_score(out_label_list, preds_list)
         }
 
-        logger.info("***** Eval results %s *****", prefix)
+        print("***** Eval results %s *****", prefix)
         for key in sorted(results.keys()):
-            logger.info("  %s = %s", key, str(results[key]))
+            print("  %s = %s", key, str(results[key]))
 
         return results
 
