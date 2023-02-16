@@ -274,7 +274,7 @@ def collate(examples):
 
 def load_and_cache_examples(args, tokenizer, labels, mode):
 
-    logger.info("Creating features from dataset file at %s", args.data_dir)
+    print("Creating features from dataset file at %s", args.data_dir)
     examples = read_examples_from_file(args.data_dir, mode)
     features = convert_examples_to_features(examples, labels, tokenizer, args.max_seq_length)
 
@@ -352,7 +352,7 @@ def main():
 
     model.to(args.device)
 
-    logger.info("Training/evaluation parameters %s", args)
+    print("Training/evaluation parameters %s", args)
 
     train_dataset = load_and_cache_examples(
         args, tokenizer, labels, mode="train")
@@ -360,9 +360,9 @@ def main():
         args, tokenizer, labels, mode="validation")
     global_step, tr_loss = train(
         args, train_dataset, valid_dataset, model, tokenizer, labels)
-    logger.info(" global_step = %s, average loss = %s", global_step, tr_loss)
+    print(" global_step = %s, average loss = %s", global_step, tr_loss)
 
-    logger.info("Saving model checkpoint to %s", args.output_dir)
+    print("Saving model checkpoint to %s", args.output_dir)
     # Save a trained model, configuration and tokenizer using `save_pretrained()`.
     # They can then be reloaded using `from_pretrained()`
 
