@@ -1,0 +1,1783 @@
+you	eng	N
+know	eng	N
+
+yeah	eng	N
+
+it	eng	N
+probably	eng	N
+starts	eng	N
+all	eng	N
+the	eng	N
+way	eng	N
+on	eng	N
+the	eng	N
+top	eng	N
+
+you	eng	N
+you	eng	N
+took	eng	N
+it	eng	N
+away	eng	N
+right	eng	N
+
+ah	spa	N
+en	spa	N
+en	spa	N
+
+go	eng	N
+in	eng	N
+the	eng	N
+bottom	eng	N
+a	spa	N
+ver	spa	N
+
+a	spa	N
+tu	spa	N
+a	spa	N
+
+eso	spa	N
+esto	spa	N
+es	spa	N
+fantástico	spa	N
+como	spa	N
+tocan	spa	N
+ellos	spa	N
+
+el	spa	N
+blog	eng	N
+es	spa	N
+para	spa	N
+ellos	spa	N
+escribir	spa	N
+cosas	spa	N
+en	spa	N
+términos	spa	N
+más	spa	N
+
+creo	spa	N
+que	spa	N
+el	spa	N
+la	spa	N
+la	spa	N
+primera	spa	N
+vez	spa	N
+que	spa	N
+yo	spa	N
+fui	spa	N
+creo	spa	N
+que	spa	N
+fue	spa	N
+un	spa	N
+viernes	spa	N
+porque	spa	N
+creo	spa	N
+que	spa	N
+los	spa	N
+viernes	spa	N
+es	spa	N
+noche	spa	N
+latina	spa	N
+pues	spa	N
+esa	spa	N
+vez	spa	N
+ese	spa	N
+día	spa	N
+habían	spa	N
+puesto	spa	N
+
+pero	spa	N
+el	spa	N
+maje	spa	N
+como	spa	N
+que	spa	N
+no	spa	N
+me	spa	N
+ponía	spa	N
+en	spa	N
+mente	spa	N
+
+o_k	eng&spa	N
+
+o_k	eng&spa	N
+
+it	eng	N
+was	eng	N
+like	eng	N
+something	eng	N
+common	eng	N
+
+baseball	eng	N
+players	eng	N
+and	eng	N
+football	eng	N
+players	eng	N
+and	eng	N
+
+let	eng	N
+me	eng	N
+see	eng	N
+
+so	eng	N
+ya	spa	N
+
+exactly	eng	N
+
+how	eng	N
+do	eng	N
+you	eng	N
+like	eng	N
+to	eng	N
+sign	eng	N
+
+sí	spa	N
+pues	spa	N
+
+y	spa	N
+tomamos	spa	N
+fotos	spa	N
+ahí	spa	N
+
+estábamos	spa	N
+viendo	spa	N
+también	spa	N
+las	spa	N
+Egipto	spa	N
+todos	spa	N
+esos	spa	N
+
+and	eng	N
+stuff	eng	N
+
+y	spa	N
+todo	spa	N
+es	spa	N
+súper	spa	N
+interesante	spa	N
+
+me	spa	N
+dicen	spa	N
+
+o	spa	N
+sea	spa	N
+it's	eng	N
+like	eng	N
+
+ah	eng&spa	N
+sí	spa	N
+
+ay	spa	N
+yo	spa	N
+me	spa	N
+comí	spa	N
+un	spa	N
+así	spa	N
+de	spa	N
+grande	spa	N
+
+and	eng	N
+what	eng	N
+what	eng	N
+should	eng	N
+it	eng	N
+be	eng	N
+
+nunca	spa	N
+fue	spa	N
+de	spa	N
+allá	spa	N
+
+oh	eng&spa	N
+they	eng	N
+are	eng	N
+mine	eng	N
+buddy	eng	N
+
+I	eng	N
+had	eng	N
+this	eng	N
+for	eng	N
+a	eng	N
+long	eng	N
+time	eng	N
+
+yeah	eng	N
+it's	eng	N
+genetic	eng	N
+because	eng	N
+my	eng	N
+mom	eng	N
+
+y	spa	N
+este	spa	N
+cómo	spa	N
+es	spa	N
+
+sage	eng	N
+es	spa	N
+salvia	spa	N
+
+ginger	eng	N
+que	spa	N
+ginger	eng	N
+es	spa	N
+
+adelgaza	spa	N
+más	spa	N
+rápido	spa	N
+
+sí	spa	N
+que	spa	N
+eso	spa	N
+no	spa	N
+te	spa	N
+gusta	spa	N
+ver	spa	N
+sangre	spa	N
+
+I	eng	N
+am	eng	N
+going	eng	N
+to	eng	N
+try	eng	N
+
+sí	spa	N
+es	spa	N
+así	spa	N
+es	spa	N
+así	spa	N
+yeah	eng&spa	N
+
+endulzan	spa	N
+natural	spa	N
+y	spa	N
+rico	spa	N
+
+it's	eng	N
+like	eng	N
+almost	eng	N
+fifty	eng	N
+dollars	eng	N
+cheaper	eng	N
+
+I	eng	N
+
+yeah	eng	N
+
+it	eng	N
+could	eng	N
+be	eng	N
+anonymous	eng	N
+
+uhhuh	eng	N
+
+y	spa	N
+el	spa	N
+trabajo	spa	N
+como	spa	N
+va	spa	N
+al	spa	N
+fin	spa	N
+ya	spa	N
+ya	spa	N
+te	spa	N
+fuiste	spa	N
+del	spa	N
+
+y	spa	N
+pues	spa	N
+no	spa	N
+es	spa	N
+que	spa	N
+sea	spa	N
+mi	spa	N
+bróder	spa	N
+ni	spa	N
+nada	spa	N
+
+algo	spa	N
+así	spa	N
+me	spa	N
+dijo	spa	N
+el	spa	N
+maje	spa	N
+
+sí	spa	N
+
+entonces	spa	N
+le	spa	N
+dije	spa	N
+
+pero	spa	N
+algo	spa	N
+que	spa	N
+me	spa	N
+
+yo	spa	N
+me	spa	N
+comí	spa	N
+un	spa	N
+hotdog	eng	N
+hoy	spa	N
+
+y	spa	N
+el	spa	N
+pan	spa	N
+is	eng	N
+twenty	eng	N
+five	eng	N
+cents	eng	N
+
+sí	spa	N
+porque	spa	N
+ella	spa	N
+no	spa	N
+viene	spa	N
+al	spa	N
+mismo	spa	N
+tiempo	spa	N
+
+un	spa	N
+roommate	eng	N
+
+whether	eng	N
+I	eng	N
+like	eng	N
+it	eng	N
+or	eng	N
+not	eng	N
+that's	eng	N
+I	eng	N
+mean	eng	N
+they	eng	N
+should	eng	N
+take	eng	N
+that	eng	N
+into	eng	N
+consideration	eng	N
+
+yo	spa	N
+creo	spa	N
+que	spa	N
+fue	spa	N
+Pili	eng&spa	N
+
+how	eng	N
+could	eng	N
+this	eng	N
+child	eng	N
+just	eng	N
+walk	eng	N
+out	eng	N
+
+y	spa	N
+dice	spa	N
+que	spa	N
+estaba	spa	N
+hasta	spa	N
+llorando	spa	N
+
+and	eng	N
+and	eng	N
+you	eng	N
+know	eng	N
+dice	spa	N
+que	spa	N
+que	spa	N
+estaba	spa	N
+you	eng	N
+know	eng	N
+he	eng	N
+was	eng	N
+really	eng	N
+traumatized	eng	N
+with	eng	N
+the	eng	N
+whole	eng	N
+thing	eng	N
+
+entonces	spa	N
+um	eng	N
+she	eng	N
+goes	eng	N
+
+he's	eng	N
+such	eng	N
+a	eng	N
+jerk	eng	N
+
+er	eng&spa	N
+no	spa	N
+y	spa	N
+todavía	spa	N
+está	spa	N
+en	spa	N
+el	spa	N
+sistema	spa	N
+
+and	eng	N
+she's	eng	N
+always	eng	N
+mad	eng	N
+at	eng	N
+her	eng	N
+father	eng	N
+
+sometimes	eng	N
+ay	spa	N
+they	eng	N
+still	eng	N
+they	eng	N
+still	eng	N
+putting	eng	N
+Jumper	eng&spa	N
+there	eng	N
+
+yeah	eng	N
+you	eng	N
+didn't	eng	N
+see	eng	N
+it	eng	N
+
+yeah	eng	N
+
+no	spa	N
+but	eng	N
+it	eng	N
+wasn't	eng	N
+misquality	eng	N
+either	eng	N
+
+qué	spa	N
+hora	spa	N
+prefieres	spa	N
+
+because	eng	N
+we	eng	N
+are	eng	N
+trying	eng	N
+to	eng	N
+get	eng	N
+closer	eng	N
+
+H_R_S	eng&spa	N
+is	eng	N
+health	eng	N
+department	eng	N
+
+it's	eng	N
+funny	eng	N
+
+that	eng	N
+funky	eng	N
+whatever	eng	N
+that	eng	N
+is	eng	N
+
+ah	eng&spa	N
+en	spa	N
+la	spa	N
+
+qué	spa	N
+es	spa	N
+eso	spa	N
+
+he	eng	N
+doesn't	eng	N
+miss	eng	N
+it	eng	N
+in	eng	N
+other	eng	N
+words	eng	N
+
+el	spa	N
+grocer	eng	N
+decía	spa	N
+cuarenta_y_uno	spa	N
+
+yo	spa	N
+no	spa	N
+sé	spa	N
+cómo	spa	N
+la	spa	N
+gente	spa	N
+vive	spa	N
+del	spa	N
+unemployment	eng	N
+porque	spa	N
+es	spa	N
+un	spa	N
+pain	eng	N
+
+I	eng	N
+mean	eng	N
+like	eng	N
+dos	spa	N
+goticas	spa	N
+de	spa	N
+nada	spa	N
+
+está	spa	N
+lindo	spa	N
+
+y	spa	N
+había	spa	N
+una	spa	N
+mujer	spa	N
+que	spa	N
+salió	spa	N
+con	spa	N
+identical	eng	N
+triplets	eng	N
+
+no	spa	N
+no	spa	N
+hay	spa	N
+que	spa	N
+pagarlo	spa	N
+instantáneamente	spa	N
+y	spa	N
+no	spa	N
+
+mhm	eng	N
+right	eng	N
+right	eng	N
+right	eng	N
+
+no	spa	N
+es	spa	N
+como	spa	N
+el	spa	N
+de	spa	N
+que	spa	N
+lo	spa	N
+hacen	spa	N
+in	eng	N
+a	eng	N
+big	eng	N
+trailer	eng	N
+
+y	spa	N
+no	spa	N
+apagó	spa	N
+las	spa	N
+luces	spa	N
+
+y	spa	N
+he	spa	N
+encontrado	spa	N
+las	spa	N
+luces	spa	N
+
+you	eng	N
+know	eng	N
+
+y	spa	N
+la	spa	N
+deja	spa	N
+regada	spa	N
+al	spa	N
+piso	spa	N
+
+el	spa	N
+el	spa	N
+de	spa	N
+enfrente	spa	N
+de	spa	N
+U_M	eng&spa	N
+
+it's	eng	N
+probably	eng	N
+high	eng	N
+
+eh	eng&spa	N
+tiene	spa	N
+la	spa	N
+licencia	spa	N
+de	spa	N
+arquitectura	spa	N
+pero	spa	N
+no	spa	N
+la	spa	N
+mía	spa	N
+
+es	spa	N
+el	spa	N
+lunes	spa	N
+
+qué	spa	N
+fue	spa	N
+
+cómo	spa	N
+vas	spa	N
+
+he's	eng	N
+like	eng	N
+
+oh	eng&spa	N
+
+mejor	spa	N
+porque	spa	N
+la	spa	N
+vainita	spa	N
+está	spa	N
+colgando	spa	N
+luego	spa	N
+del	spa	N
+
+no	spa	N
+
+porque	spa	N
+ahora	spa	N
+el	spa	N
+Freedom_Tower	eng&spa	N
+se	spa	N
+lo	spa	N
+regalaron	spa	N
+a	spa	N
+Miami_Day_College	eng&spa	N
+
+but	eng	N
+I	eng	N
+don't	eng	N
+know	eng	N
+
+I	eng	N
+don't	eng	N
+think	eng	N
+so	eng	N
+
+ese	spa	N
+tiene	spa	N
+pero	spa	N
+es	spa	N
+natural	eng	N
+right	eng	N
+
+y	spa	N
+una	spa	N
+vez	spa	N
+que	spa	N
+todo	spa	N
+se	spa	N
+de	spa	N
+de	spa	N
+que	spa	N
+es	spa	N
+delay	eng	N
+
+Silvio	eng&spa	N
+Tom	eng&spa	N
+y	spa	N
+Carla	eng&spa	N
+
+so	eng	N
+you	eng	N
+see	eng	N
+
+esta	spa	N
+pobre	spa	N
+pieza	spa	N
+aquí	spa	N
+mírala	spa	N
+
+ah	spa	N
+ya	spa	N
+tú	spa	N
+jugaste	spa	N
+
+este	spa	N
+tipo	spa	N
+de	spa	N
+juego	spa	N
+necesita	spa	N
+los	spa	N
+downs	eng	N
+porque	spa	N
+no	spa	N
+hay	spa	N
+manera	spa	N
+de	spa	N
+de	spa	N
+
+el	spa	N
+mío	spa	N
+que	spa	N
+tiene	spa	N
+los	spa	N
+trenecitos	spa	N
+
+she	eng	N
+pulls	eng	N
+out	eng	N
+and	eng	N
+she's	eng	N
+she	eng	N
+looks	eng	N
+at	eng	N
+me	eng	N
+and	eng	N
+I'm	eng	N
+like	eng	N
+
+that	eng	N
+we	eng	N
+put	eng	N
+that	eng	N
+light	eng	N
+shield	eng	N
+the	eng	N
+house	eng	N
+light	eng	N
+shield	eng	N
+
+which	eng	N
+is	eng	N
+the	eng	N
+pole	eng	N
+at	eng	N
+A_One	eng	N
+and	eng	N
+then	eng	N
+at	eng	N
+U_One	eng	N
+did	eng	N
+we	eng	N
+run	eng	N
+photometrics	eng	N
+for	eng	N
+that	eng	N
+new	eng	N
+connector	eng	N
+road	eng	N
+way	eng	N
+
+oh	eng	N
+was	eng	N
+a	eng	N
+two	eng	N
+for	eng	N
+one	eng	N
+
+so	eng	N
+
+he	eng	N
+tells	eng	N
+me	eng	N
+that	eng	N
+la	spa	N
+capitana	spa	N
+threw	eng	N
+him	eng	N
+under	eng	N
+the	eng	N
+bus	eng	N
+
+que	spa	N
+I	eng	N
+have	eng	N
+un	spa	N
+pariente	spa	N
+that	eng	N
+came	eng	N
+from	eng	N
+Cuba	eng&spa	N
+
+or	eng	N
+you	eng	N
+know	eng	N
+
+just	eng	N
+crack	eng	N
+it	eng	N
+
+and	eng	N
+that's	eng	N
+all	eng	N
+it	eng	N
+was	eng	N
+about	eng	N
+
+porque	spa	N
+yo	spa	N
+no	spa	N
+me	spa	N
+siento	spa	N
+mejor	spa	N
+
+yeah	eng	N
+
+olvídate	spa	N
+
+se	spa	N
+va	spa	N
+tremendo	spa	N
+cantidad	spa	N
+de	spa	N
+property	eng	N
+taxes	eng	N
+
+los	spa	N
+bancos	spa	N
+están	spa	N
+imagínate	spa	N
+
+y	spa	N
+poniendo	spa	N
+en	spa	N
+todas	spa	N
+partes	spa	N
+en	spa	N
+su	spa	N
+casa	spa	N
+
+eso	spa	N
+va	spa	N
+a	spa	N
+seguir	spa	N
+subiendo	spa	N
+
+que	spa	N
+es	spa	N
+igualito	spa	N
+al	spa	N
+Google	eng&spa	N
+
+sí	spa	N
+pero	spa	N
+acuérdate	spa	N
+que	spa	N
+es	spa	N
+next	eng	N
+week	eng	N
+
+right	eng	N
+I'm	eng	N
+gonna	eng	N
+I'm	eng	N
+gonna	eng	N
+wait	eng	N
+you	eng	N
+know	eng	N
+
+yeah	eng	N
+
+and	eng	N
+I	eng	N
+go	eng	N
+to	eng	N
+Trevor	eng&spa	N
+
+maybe	eng	N
+she's	eng	N
+more	eng	N
+like	eng	N
+Marta	eng&spa	N
+
+tú	spa	N
+viste	spa	N
+lo	spa	N
+que	spa	N
+van	spa	N
+a	spa	N
+hacer	spa	N
+
+sí	spa	N
+pero	spa	N
+a	spa	N
+lo	spa	N
+mejor	spa	N
+
+una	spa	N
+hamaca	spa	N
+
+a	eng	N
+house	eng	N
+on	eng	N
+the	eng	N
+lake	eng	N
+without	eng	N
+a	eng	N
+pool	eng	N
+is	eng	N
+almost	eng	N
+impossible	eng	N
+to	eng	N
+find	eng	N
+
+change	eng	N
+
+mmhm	eng	N
+
+mmhm	eng	N
+
+ten	eng	N
+forty	eng	N
+
+they	eng	N
+tried	eng	N
+to	eng	N
+stag	eng	N
+
+yeah	eng	N
+
+tú	spa	N
+sabes	spa	N
+algunos	spa	N
+de	spa	N
+los	spa	N
+restaurancitos	spa	N
+esos	spa	N
+um	eng	N
+er	eng&spa	N
+in	eng	N
+the	eng	N
+Keys	eng&spa	N
+er	eng&spa	N
+no	spa	N
+son	spa	N
+nada	spa	N
+del	spa	N
+otro	spa	N
+mundo	spa	N
+pero	spa	N
+te	spa	N
+cobran	spa	N
+te	spa	N
+cobran	spa	N
+más	spa	N
+que	spa	N
+un	spa	N
+Burger_King	eng&spa	N
+o	spa	N
+un	spa	N
+MacDonalds	eng&spa	N
+so	eng	N
+for	eng	N
+kids	eng	N
+is	eng	N
+not	eng	N
+bien	spa	N
+bien	spa	N
+práctico	spa	N
+
+yes	eng	N
+
+Edison	eng&spa	N
+
+yeah	eng	N
+
+excuse	eng	N
+me	eng	N
+hello	eng	N
+
+aprietas	spa	N
+así	spa	N
+
+ya	spa	N
+no	spa	N
+tenemos	spa	N
+shed	eng	N
+ni	spa	N
+ni	spa	N
+eso	spa	N
+ni	spa	N
+de	spa	N
+
+porque	spa	N
+ellas	spa	N
+mismas	spa	N
+echan	spa	N
+sus	spa	N
+babies	eng	N
+
+el	spa	N
+viejito	spa	N
+metía	spa	N
+así	spa	N
+las	spa	N
+manitos	spa	N
+de	spa	N
+él	spa	N
+por	spa	N
+las	spa	N
+
+no	spa	N
+pues	spa	N
+yo	spa	N
+no	spa	N
+
+como	spa	N
+que	spa	N
+el	spa	N
+cancer	eng&spa	N
+en	spa	N
+el	spa	N
+páncreas	spa	N
+avanza	spa	N
+más	spa	N
+rápido	spa	N
+
+y	spa	N
+yo	spa	N
+le	spa	N
+dije	spa	N
+
+uhuh	eng&spa	N
+
+y	spa	N
+tú	spa	N
+la	spa	N
+preguntas	spa	N
+ahí	spa	N
+did	eng	N
+you	eng	N
+apply	eng	N
+already	eng	N
+on	eng	N
+
+things	eng	N
+are	eng	N
+bad	eng	N
+
+three	eng	N
+hundred	eng	N
+
+ah	eng&spa	N
+no	spa	N
+
+uno	spa	N
+de	spa	N
+los	spa	N
+de	spa	N
+los	spa	N
+alemanes	spa	N
+le	spa	N
+preguntó	spa	N
+que	spa	N
+si	spa	N
+tenía	spa	N
+que	spa	N
+para	spa	N
+poder	spa	N
+hacer	spa	N
+policía	spa	N
+
+buen	spa	N
+provecho	spa	N
+
+no	eng	N
+Mason	eng&spa	N
+is	eng	N
+the	eng	N
+one	eng	N
+that	eng	N
+works	eng	N
+with	eng	N
+this	eng	N
+
+right	eng	N
+
+por	spa	N
+qué	spa	N
+
+van	spa	N
+y	spa	N
+comen	spa	N
+ahí	spa	N
+
+that	eng	N
+I	eng	N
+like	eng	N
+to	eng	N
+be	eng	N
+
+she	eng	N
+was	eng	N
+on	eng	N
+dialysis	eng	N
+for	eng	N
+her	eng	N
+liver	eng	N
+
+ok	eng	N
+espérate	spa	N
+
+los	spa	N
+tengo	spa	N
+
+can	eng	N
+I	eng	N
+have	eng	N
+a	eng	N
+cookie	eng	N
+
+that	eng	N
+was	eng	N
+her	eng	N
+first	eng	N
+
+él	spa	N
+es	spa	N
+hijo	spa	N
+de	spa	N
+su	spa	N
+padre	spa	N
+o	spa	N
+de	spa	N
+o	spa	N
+de	spa	N
+mi	spa	N
+esposo	spa	N
+
+they	eng	N
+send	eng	N
+food	eng	N
+
+and	eng	N
+sometimes	eng	N
+they	eng	N
+have	eng	N
+the	eng	N
+desserts	eng	N
+
+I	eng	N
+guess	eng	N
+he's	eng	N
+not	eng	N
+the	eng	N
+attorney	eng	N
+
+and	eng	N
+they're	eng	N
+having	eng	N
+a	eng	N
+good	eng	N
+time	eng	N
+
+that's	eng	N
+where	eng	N
+todos	spa	N
+los	spa	N
+cubanos	spa	N
+y	spa	N
+esto	spa	N
+hang	eng	N
+out	eng	N
+
+no	eng	N
+my	eng	N
+god	eng	N
+
+para	spa	N
+Halloween	eng	N
+I'll	eng	N
+show	eng	N
+you	eng	N
+the	eng	N
+pictures	eng	N
+
+está	spa	N
+en	spa	N
+el	spa	N
+allí	spa	N
+mismito	spa	N
+puesto	spa	N
+está	spa	N
+
+six	eng	N
+bucks	eng	N
+it's	eng	N
+you	eng	N
+can't	eng	N
+beat	eng	N
+it	eng	N
+
+I	eng	N
+was	eng	N
+like	eng	N
+
+chill	eng	N
+
+in	eng	N
+you	eng	N
+had	eng	N
+more	eng	N
+testing	eng	N
+than	eng	N
+here	eng	N
+
+y	spa	N
+the	eng	N
+people	eng	N
+there	eng	N
+were	eng	N
+so	eng	N
+nice	eng	N
+on	eng	N
+the	eng	N
+cruise	eng	N
+
+sí	spa	N
+
+huh	eng	N
+oh	eng	N
+yeah	eng	N
+
+how	eng	N
+could	eng	N
+you	eng	N
+say	eng	N
+I'm	eng	N
+a	eng	N
+monster	eng	N
+
+va	spa	N
+a	spa	N
+Valencia	eng&spa	N
+
+los	spa	N
+chefs	eng&spa	N
+de	eng	N
+Celebrity	eng&spa	N
+are	eng	N
+the	eng	N
+very	eng	N
+best	eng	N
+
+oh	eng&spa	N
+o_k	eng&spa	N
+so	eng	N
+it's	eng	N
+the	eng	N
+opposite	eng	N
+
+they	eng	N
+do	eng	N
+it	eng	N
+every	eng	N
+day	eng	N
+
+exacto	spa	N
+
+you	eng	N
+porque	spa	N
+tú	spa	N
+no	spa	N
+lo	spa	N
+puedes	spa	N
+hacer	spa	N
+you	eng	N
+can't	eng	N
+go	eng	N
+to	eng	N
+it	eng	N
+and	eng	N
+start	eng	N
+checking	eng	N
+this	eng	N
+
+staying	eng	N
+up	eng	N
+late	eng	N
+sixteen	eng	N
+seventeen	eng	N
+
+no	spa	N
+ella	spa	N
+no	spa	N
+quiere	spa	N
+
+tantos	spa	N
+proyectos	spa	N
+que	spa	N
+ha	spa	N
+hecho	spa	N
+
+nine	eng	N
+
+no	eng	N
+of	eng	N
+course	eng	N
+
+let	eng	N
+him	eng	N
+go	eng	N
+out	eng	N
+with	eng	N
+his	eng	N
+kids	eng	N
+
+sí	spa	N
+
+we	eng	N
+are	eng	N
+supposed	eng	N
+to	eng	N
+go	eng	N
+see	eng	N
+one	eng	N
+today	eng	N
+at	eng	N
+six	eng	N
+
+sell	eng	N
+it	eng	N
+
+no	spa	N
+y	spa	N
+tú	spa	N
+viste	spa	N
+que	spa	N
+quiere	spa	N
+ahora	spa	N
+mi	spa	N
+hija	spa	N
+caminar	spa	N
+sola	spa	N
+al	spa	N
+parque	spa	N
+
+well	eng	N
+no	eng	N
+two	eng	N
+hundred	eng	N
+dollars	eng	N
+for	eng	N
+her	eng	N
+expenses	eng	N
+for	eng	N
+the	eng	N
+food	eng	N
+for	eng	N
+the	eng	N
+movies	eng	N
+wherever	eng	N
+you	eng	N
+go	eng	N
+
+mother	eng	N
+told	eng	N
+her	eng	N
+or	eng	N
+she	eng	N
+told	eng	N
+her	eng	N
+
+really	eng	N
+
+aquí	spa	N
+va	spa	N
+a	spa	N
+tener	spa	N
+uno	spa	N
+
+it's	eng	N
+not	eng	N
+just	eng	N
+visually	eng	N
+
+like	eng	N
+all	eng	N
+that	eng	N
+stuff	eng	N
+I	eng	N
+talk	eng	N
+to	eng	N
+her	eng	N
+about	eng	N
+
+and	eng	N
+the	eng	N
+stuff	eng	N
+she	eng	N
+would	eng	N
+tell	eng	N
+like	eng	N
+
+y	spa	N
+yo	spa	N
+
+obviamente	spa	N
+
+verga	spa	N
+ay	spa	N
+que	spa	N
+fino	spa	N
+
+como	spa	N
+que	spa	N
+di	spa	N
+no	spa	N
+
+sabes	spa	N
+o	spa	N
+sea	spa	N
+entonces	spa	N
+cuando	spa	N
+cuando	spa	N
+cuando	spa	N
+estaba	spa	N
+borracha	spa	N
+que	spa	N
+me	spa	N
+empezó	spa	N
+a	spa	N
+decir	spa	N
+todo	spa	N
+eso	spa	N
+de	spa	N
+repente	spa	N
+llegaron	spa	N
+Ana	eng&spa	N
+sabes	spa	N
+llegaron	spa	N
+todos	spa	N
+los	spa	N
+amigos	spa	N
+al	spa	N
+parque	spa	N
+
+y	spa	N
+entonces	spa	N
+marica	spa	N
+más	spa	N
+bella	spa	N
+ella	spa	N
+y	spa	N
+que	spa	N
+
+y	spa	N
+después	spa	N
+sabes	spa	N
+nos	spa	N
+regresamos	spa	N
+
+sabes	spa	N
+no	spa	N
+estaba	spa	N
+ahí	spa	N
+para	spa	N
+para	spa	N
+hacer	spa	N
+eso	spa	N
+
+y	spa	N
+era	spa	N
+sabes	spa	N
+como	spa	N
+como	spa	N
+una	spa	N
+compañía	spa	N
+de	spa	N
+diseño	spa	N
+
+y	spa	N
+la	spa	N
+otra	spa	N
+era	spa	N
+del	spa	N
+del	spa	N
+del	spa	N
+colegio	spa	N
+
+claro	spa	N
+
+no	spa	N
+sé	spa	N
+tengo	spa	N
+que	spa	N
+preguntarle	spa	N
+
+no	spa	N
+te	spa	N
+los	spa	N
+aceptan	spa	N
+
+exacto	spa	N
+
+entonces	spa	N
+me	spa	N
+dice	spa	N
+
+bastante	spa	N
+
+estaban	spa	N
+
+no	spa	N
+no	spa	N
+yo	spa	N
+tenía	spa	N
+un	spa	N
+agotamiento	spa	N
+
+wow	eng	N
+wow	eng	N
+
+pero	spa	N
+por	spa	N
+ahora	spa	N
+estoy	spa	N
+en	spa	N
+el	spa	N
+To_Go	eng&spa	N
+
+oh	eng	N
+I	eng	N
+don't	eng	N
+know	eng	N
+
+mira	spa	N
+er	eng&spa	N
+para	spa	N
+otros	spa	N
+para	spa	N
+otros	spa	N
+no	spa	N
+para	spa	N
+mí	spa	N
+
+well	eng	N
+if	eng	N
+I	eng	N
+have	eng	N
+to	eng	N
+I	eng	N
+have	eng	N
+to	eng	N
+
+like	eng	N
+Nick	eng&spa	N
+or	eng	N
+
+el	spa	N
+jefe	spa	N
+del	spa	N
+car	eng	N
+dealership	eng	N
+cuál	spa	N
+
+mmhm	eng	N
+
+de	spa	N
+la	spa	N
+ciudad	spa	N
+de	spa	N
+Miramar	eng&spa	N
+
+mmhm	eng	N
+
+she	eng	N
+has	eng	N
+lost	eng	N
+a	eng	N
+lot	eng	N
+of	eng	N
+equity	eng	N
+
+no	eng	N
+but	eng	N
+a	eng	N
+hundred	eng	N
+and	eng	N
+fifty	eng	N
+is	eng	N
+nothing	eng	N
+
+solamente	spa	N
+en	spa	N
+la	spa	N
+ciudad	spa	N
+de	spa	N
+Miramar	eng&spa	N
+hay	spa	N
+mil	spa	N
+hasta	spa	N
+el	spa	N
+mes	spa	N
+pasado	spa	N
+mil	spa	N
+novecientas	spa	N
+casas	spa	N
+ya	spa	N
+en	spa	N
+foreclosure	eng	N
+
+in	eng	N
+what	eng	N
+category	eng	N
+
+dile	spa	N
+a	spa	N
+Laura	eng&spa	N
+dile	spa	N
+a	spa	N
+Selena	eng&spa	N
+que	spa	N
+vaya	spa	N
+a	spa	N
+almorzar	spa	N
+
+so	eng	N
+this	eng	N
+is	eng	N
+gonna	eng	N
+be	eng	N
+this	eng	N
+is	eng	N
+gonna	eng	N
+be	eng	N
+later	eng	N
+on	eng	N
+whenever	eng	N
+I	eng	N
+have	eng	N
+a	eng	N
+chance	eng	N
+
+y	spa	N
+éste	spa	N
+éste	spa	N
+de	spa	N
+adelante	spa	N
+tiene	spa	N
+algún	spa	N
+problema	spa	N
+
+yeah	eng	N
+she's	eng	N
+very	eng	N
+rude	eng	N
+
+in	eng	N
+your	eng	N
+bedroom	eng	N
+
+no	eng	N
+it's	eng	N
+harina	spa	N
+
+you	eng	N
+can	eng	N
+have	eng	N
+
+that	eng	N
+was	eng	N
+when	eng	N
+I	eng	N
+was	eng	N
+always	eng	N
+there	eng	N
+
+it's	eng	N
+actually	eng	N
+pretty	eng	N
+good	eng	N
+
+no	eng	N
+I	eng	N
+haven't	eng	N
+tried	eng	N
+it	eng	N
+
+bueno	spa	N
+
+yeah	eng&spa	N
+alright	eng	N
+
+ok	spa	N
+
+and	eng	N
+work	eng	N
+
+pues	spa	N
+que	spa	N
+poco	spa	N
+me	spa	N
+conoces	spa	N
+
+lo	spa	N
+que	spa	N
+sea	spa	N
+
+oh	eng	N
+you	eng	N
+you	eng	N
+are	eng	N
+worthless	eng	N
+
+no	spa	N
+ha	spa	N
+querido	spa	N
+
+but	eng	N
+you	eng	N
+know	eng	N
+what	eng	N
+
+but	eng	N
+Pat	eng&spa	N
+but	eng	N
+I	eng	N
+remember	eng	N
+that	eng	N
+Pat	eng&spa	N
+Seegal	eng&spa	N
+they	eng	N
+were	eng	N
+going	eng	N
+to	eng	N
+do	eng	N
+that	eng	N
+gym	eng	N
+with	eng	N
+someone	eng	N
+else	eng	N
+before	eng	N
+
+entonces	spa	N
+me	spa	N
+da	spa	N
+pesar	spa	N
+por	spa	N
+ella	spa	N
+
+sí	spa	N
+me	spa	N
+lo	spa	N
+has	spa	N
+contado	spa	N
+
+se	spa	N
+fue	spa	N
+
+pero	spa	N
+los	spa	N
+hay	spa	N
+gente	spa	N
+que	spa	N
+les	spa	N
+han	spa	N
+sacado	spa	N
+el	spa	N
+el	spa	N
+bazo	spa	N
+
+he's	eng	N
+pretty	eng	N
+much	eng	N
+the	eng	N
+only	eng	N
+grandfather	eng	N
+we	eng	N
+have	eng	N
+
+she	eng	N
+ella	spa	N
+me	spa	N
+she	eng	N
+told	eng	N
+me	eng	N
+it	eng	N
+was	eng	N
+big	eng	N
+
