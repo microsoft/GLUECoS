@@ -35,9 +35,9 @@ def scrape_tweets(original_path):
 				outfile.write(i)
 
 	#scraping tweets
-	call(shlex.split('python crawl_tweets_copy.py -i tweet_ids_train.txt -a train-annot.json -o tweets_train.conll'))
-	call(shlex.split('python crawl_tweets_copy.py -i tweet_ids_dev.txt -a dev-annot.json -o tweets_dev.conll'))
-	call(shlex.split('python crawl_tweets_copy.py -i tweet_ids_test.txt -a test-annot.json -o tweets_test.conll'))
+	call(shlex.split('python3 crawl_tweets_copy.py -i tweet_ids_train.txt -a train-annot.json -o tweets_train.conll'))
+	call(shlex.split('python3 crawl_tweets_copy.py -i tweet_ids_dev.txt -a dev-annot.json -o tweets_dev.conll'))
+	call(shlex.split('python3 crawl_tweets_copy.py -i tweet_ids_test.txt -a test-annot.json -o tweets_test.conll'))
 
 def make_files(original_path,new_path):
 
