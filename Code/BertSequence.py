@@ -9,7 +9,7 @@ import torch
 from torch.utils.data import DataLoader, SequentialSampler, RandomSampler, Dataset
 from tqdm import tqdm, trange
 from transformers import (
-    BertForSequenceClassification, BertTokenizer, XLMForSequenceClassification, XLMTokenizer,
+    BertForSequenceClassification, DebertaForSequenceClassification, DebertaTokenizer, BertTokenizer, XLMForSequenceClassification, XLMTokenizer,
     XLMRobertaForSequenceClassification, XLMRobertaTokenizer, AdamW, get_linear_schedule_with_warmup
 )
 from sklearn.metrics import f1_score, precision_score, recall_score
@@ -43,6 +43,176 @@ def acc_and_f1(preds, labels):
     }
 
 
+import csv
+import string
+import wordninja
+from nltk.corpus import stopwords
+from nltk.stem.wordnet import WordNetLemmatizer
+import pandas as pd
+import re
+
+stop = set(stopwords.words('english'))
+exclude = set(string.punctuation)
+
+def clean_emoji(sen):
+    sen = ''.join(c for c in sen if c <= '\uFFFF')
+    return sen.replace("  ", " ")
+
+contractions = {
+    "ain't": "am not",
+    "aren't": "are not",
+    "can't": "cannot",
+    "can't've": "cannot have",
+    "'cause": "because",
+    "could've": "could have",
+    "couldn't": "could not",
+    "couldn't've": "could not have",
+    "didn't": "did not",
+    "doesn't": "does not",
+    "don't": "do not",
+    "hadn't": "had not",
+    "hadn't've": "had not have",
+    "hasn't": "has not",
+    "haven't": "have not",
+    "he'd": "he would",
+    "he'd've": "he would have",
+    "he'll": "he will",
+    "he's": "he is",
+    "how'd": "how did",
+    "how'll": "how will",
+    "how's": "how is",
+    "i'd": "i would",
+    "i'll": "i will",
+    "i'm": "i am",
+    "I'm": "I am",
+    "i've": "i have",
+    "isn't": "is not",
+    "it'd": "it would",
+    "it'll": "it will",
+    "it's": "it is",
+    "let's": "let us",
+    "ma'am": "madam",
+    "mayn't": "may not",
+    "might've": "might have",
+    "mightn't": "might not",
+    "must've": "must have",
+    "mustn't": "must not",
+    "needn't": "need not",
+    "oughtn't": "ought not",
+    "shan't": "shall not",
+    "sha'n't": "shall not",
+    "she'd": "she would",
+    "she'll": "she will",
+    "she's": "she is",
+    "should've": "should have",
+    "shouldn't": "should not",
+    "that'd": "that would",
+    "that's": "that is",
+    "there'd": "there had",
+    "there's": "there is",
+    "they'd": "they would",
+    "they'll": "they will",
+    "they're": "they are",
+    "they've": "they have",
+    "wasn't": "was not",
+    "we'd": "we would",
+    "we'll": "we will",
+    "we're": "we are",
+    "we've": "we have",
+    "weren't": "were not",
+    "what'll": "what will",
+    "what're": "what are",
+    "what's": "what is",
+    "what've": "what have",
+    "where'd": "where did",
+    "where's": "where is",
+    "who'll": "who will",
+    "who's": "who is",
+    "won't": "will not",
+    "wouldn't": "would not",
+    "you'd": "you would",
+    "you'll": "you will",
+    "you're": "you are",
+    "2nd": "second",
+    "NY": "newyork",
+    "EU": "Europe",
+    "yrs": "years",
+    "yoouu": "you",
+    "21st": "twenty first",
+    "31st": "thirty first",
+    "\b1st\b": "first",
+    "1st\b": " first",
+    "\b4th\b": "fourth",
+    "\b5th\b": "fifth",
+    "\b6th\b": "sixth",
+    "\b7th\b": "seventh",
+    "\b8th\b": "eighth",
+    "\b9th\b": "ninth",
+    "\b13th\b": "thirteenth",
+    "\b14th\b": "fourteenth",
+    "\b15th\b": "fifteenth",
+    "\b16th\b": "sixteenth",
+    "\b20th\b": "twentyth",
+    "YOOUU": "you",
+}
+
+# further cleaning
+def clean(sen, remove_stopwords=True, contraction=True, pun=True, lemma_=False):
+    sen = re.sub(r'http\S+', 'url', sen, flags=re.MULTILINE)
+    sen = re.sub(r'@\S+', '@username', sen)
+    sen = re.sub(r'\<a href', ' ', sen)
+    sen = re.sub(r'&amp;', '', sen)
+    sen = re.sub(r'[_"\-;%()|+&=*%.,!?:#$@\[\]/]', ' ', sen)
+    sen = re.sub(r'<br />', ' ', sen)
+    sen = re.sub(r"[:()]", "", sen)  # remove ()
+    sen = re.sub('\s+$|^\s+', '', sen)  # remove whitespace from start of the line and end of the line
+    # sen = re.sub(r'[^\x00-\x7f]', r'',
+                #  sen)  # a single character in the range between  (index 0) and  (index 127) (case sensitive)
+    sen = sen.strip(""" '!:?-_().,'"[]{};*""")
+    sen = ' '.join([w.strip(""" '!:?-_().,'"[]{};*""") for w in re.split(' ', sen)])
+
+    # sen = re.sub("[-+]?[.\d]*[\d]+[:,.\d]*", " NUMBER ", sen)
+
+    # spliting words
+    string = []
+    for x in sen.split():
+        if len(x) > 6:
+            for i in wordninja.split(x):
+                if len(i) > 2:
+                    string.append(i)
+        else:
+            string.append(x)
+    sen = " ".join(string)
+
+    contraction
+    new_text = []
+    for word in sen.split():
+        if word in contractions:
+            new_text.append(contractions[word])
+        else:
+            new_text.append(word)
+    sen = " ".join(new_text)
+
+    # sen = re.sub(r"[^A-Za-z0-9:(),\'\`]", " ", sen)
+    # sen = re.sub(r"\b\d+\b", "", sen)  #remove numbers
+    sen = re.sub('\s+', ' ', sen)  # matches any whitespace characte
+    # sen = re.sub(r'(?:^| )\w(?:$| )', ' ', sen).strip()  # removing single character
+
+    # Optionally, remove stop words
+    if remove_stopwords:
+        sen = " ".join([i for i in sen.split() if i not in stop])
+
+    # Optionally emove puncuations
+    if pun:
+        sen = ''.join(ch for ch in sen if ch not in exclude)
+
+    # Optionally lemmatiztion
+    if lemma_:
+        normalized = " ".join(WordNetLemmatizer().lemmatize(word) for word in sen.split())
+
+    return sen.strip().lower()
+
+
 def read_examples_from_file(data_dir, mode):
     file_path = os.path.join(data_dir, "{}.txt".format(mode))
     examples = []
@@ -51,6 +221,8 @@ def read_examples_from_file(data_dir, mode):
     for line in lines:
         x = line.split('\t')
         text = x[0]
+        text = clean_emoji(str(text))
+        # text = clean(text, remove_stopwords=True)
         label = x[1]
         examples.append({'text': text, 'label': label})
     if mode == 'test':
@@ -162,7 +334,7 @@ def train(args, train_dataset, valid_dataset, model, tokenizer, labels):
             global_step += 1
 
         # Checking for validation accuracy and stopping after drop in accuracy for 3 epochs
-        results = evaluate(args, model, tokenizer, labels, 'validation')
+        results = evaluate(args, model, tokenizer, labels, 'validation')[0]
         if results.get('f1') > best_f1_score and args.save_steps > 0:
             best_f1_score = results.get('f1')
             model_to_save = model.module if hasattr(model, "module") else model
@@ -218,7 +390,7 @@ def evaluate(args, model, tokenizer, labels, mode, prefix=""):
                 out_label_ids, inputs["labels"].detach().cpu().numpy(), axis=0)
 
     eval_loss = eval_loss / nb_eval_steps
-
+    logits_preds = preds
     preds = np.argmax(preds, axis=1)
     if mode == "test":
         preds_list = []
@@ -230,7 +402,7 @@ def evaluate(args, model, tokenizer, labels, mode, prefix=""):
             else:
                 preds_list.append(label_map[preds[i]])
 
-        return preds_list
+        return [preds_list, logits_preds]
 
     else:
         result = acc_and_f1(preds, out_label_ids)
@@ -240,7 +412,7 @@ def evaluate(args, model, tokenizer, labels, mode, prefix=""):
         for key in sorted(result.keys()):
             logger.info("  %s = %s", key, str(result[key]))
 
-        return results
+        return [results, logits_preds]
 
 
 class CustomDataset(Dataset):
@@ -344,13 +516,14 @@ def main():
     num_labels = len(labels)
 
     # Initialize model
-    tokenizer_class = {"xlm": XLMTokenizer, "bert": BertTokenizer, "xlm-roberta": XLMRobertaTokenizer}
+    tokenizer_class = {"xlm": XLMTokenizer, "bert": BertTokenizer, "xlm-roberta": XLMRobertaTokenizer, "deberta": DebertaTokenizer}
     if args.model_type not in tokenizer_class.keys():
         print("Model type has to be xlm/xlm-roberta/bert")
         exit(0)
+    print(args.model_type, args.model_name)
     tokenizer = tokenizer_class[args.model_type].from_pretrained(
         args.model_name, do_lower_case=True)
-    model_class = {"xlm": XLMForSequenceClassification, "bert": BertForSequenceClassification, "xlm-roberta": XLMRobertaForSequenceClassification}
+    model_class = {"xlm": XLMForSequenceClassification, "bert": BertForSequenceClassification, "xlm-roberta": XLMRobertaForSequenceClassification, "deberta": DebertaForSequenceClassification}
     model = model_class[args.model_type].from_pretrained(
         args.model_name, num_labels=num_labels)
 
@@ -373,12 +546,28 @@ def main():
     results = {}
 
     result = evaluate(args, model, tokenizer, labels, mode="validation")
-    preds = evaluate(args, model, tokenizer, labels, mode="test")
+    val_logits = result[1]
+    val_preds = result[0]
+    temp = evaluate(args, model, tokenizer, labels, mode="test")
+    logits = temp[1]
+    preds = temp[0]
 
     # Saving predictions
     output_test_predictions_file = os.path.join(args.output_dir, "test_predictions.txt")
     with open(output_test_predictions_file, "w") as writer:
         writer.write('\n'.join(preds))
+
+    output_test_predictions_file = os.path.join(args.output_dir, args.model_type + "logits.txt")
+    with open(output_test_predictions_file, "w") as writer:
+        writer.write('\t'.join(labels))
+        writer.write('\n')
+        writer.write('\n'.join('\t'.join(map(str, row)) for row in logits))
+
+    output_test_predictions_file = os.path.join(args.output_dir, args.model_type + "_val_logits.txt")
+    with open(output_test_predictions_file, "w") as writer:
+        writer.write('\t'.join(labels))
+        writer.write('\n')
+        writer.write('\n'.join('\t'.join(map(str, row)) for row in val_logits))
 
     return results
 

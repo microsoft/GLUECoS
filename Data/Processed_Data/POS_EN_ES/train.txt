@@ -1,0 +1,14336 @@
+this	eng	DEM
+lady	eng	N
+from	eng	PREP
+the	eng	DET
+school	eng	N
+
+but	eng	CONJ
+it	eng	PRON
+comes	eng	N
+out	eng	ADV
+more	eng	ADV
+expensive	eng	ADJ
+doesn't	eng	SV
+it	eng	PRON
+
+no	eng	ADV
+
+eh	eng&spa	IM
+
+María	eng&spa	name
+is	eng	V
+on	eng	PREP
+all	eng	ADJ
+day	eng	N
+
+y	spa	CONJ
+dije	spa	V
+
+she's	eng	PRON
+been	eng	V
+at	eng	PREP
+it	eng	PRON
+for	eng	PREP
+a	eng	DET
+long	eng	ADJ
+time	eng	N
+too	eng	ADV
+
+so	eng	ADV
+what	eng	REL
+eh	eng&spa	IM
+bueno	spa	E
+so	eng	ADV
+I	eng	PRON
+went	eng	V
+to	eng	PREP
+go	eng	V
+check	eng	V
+for	eng	PREP
+you	eng	PRON
+
+and	eng	CONJ
+they	eng	PRON
+only	eng	ADJ
+have	eng	V
+one	eng	PRON
+day	eng	N
+in	eng	PREP
+in	eng	PREP
+in	eng	PREP
+September	eng	name
+that	eng	CONJ
+you	eng	PRON
+can	eng	V
+get	eng	V
+discount	eng	SV
+
+oh	eng&spa	IM
+ok	eng	unk
+
+I	eng	PRON
+went	eng	V
+to	eng	PREP
+Publix	eng&spa	name
+yesterday	eng	N
+night	eng	N
+
+o_k	eng&spa	IM
+
+siempre	spa	ADV
+te	spa	PRON
+cae	spa	V
+mal	spa	ADJ
+
+you	eng	PRON
+got	eng	V
+that	eng	CONJ
+at	eng	PREP
+Publix	eng&spa	name
+
+don't	eng	V
+throw	eng	V
+up	eng	ADV
+now	eng	ADV
+
+it's	eng	PRON
+hot	eng	ADJ
+
+what	eng	REL
+I	eng	PRON
+wanted	eng	V
+to	eng	PREP
+ask	eng	V
+Adelina	eng&spa	name
+was	eng	V
+
+no	eng	ADV
+yeah	eng	ADV
+Wild_Oats	eng&spa	name
+is	eng	V
+not	eng	ADV
+a	eng	DET
+
+and	eng	CONJ
+here	eng	ADV
+but	eng	CONJ
+here	eng	ADV
+in	eng	PREP
+here	eng	ADV
+in	eng	PREP
+miracle	eng	N
+here	eng	ADV
+in	eng	PREP
+this	eng	DEM
+one	eng	PRON
+
+ellos	spa	PRON
+dijeron	spa	V
+que	spa	CONJ
+iban	spa	V
+a	spa	PREP
+dar	spa	V
+appetizers	eng	N
+at	eng	PREP
+Wild_Oats	eng&spa	name
+
+pero	spa	CONJ
+hay	spa	V
+comida	spa	N
+
+and	eng	CONJ
+they	eng	PRON
+are	eng	V
+provide	eng	SV
+food	eng	N
+for	eng	PREP
+you	eng	PRON
+free	eng	ADJ
+
+sí	spa	ADV
+pero	spa	CONJ
+they	eng	PRON
+have	eng	V
+everything	eng	PRON
+más	spa	ADV
+o	spa	CONJ
+menos	spa	ADV
+
+but	eng	CONJ
+still	eng	ADJ
+I	eng	PRON
+mean	eng	V
+you	eng	PRON
+know	eng	V
+it's	eng	PRON
+hors_d'oeuvres	eng	unk
+it's	eng	PRON
+just	eng	ADJ
+
+yeah	eng	ADV
+but	eng	CONJ
+you	eng	PRON
+are	eng	V
+paying	eng	V
+for	eng	PREP
+that	eng	DEM
+right	eng	ADJ
+
+Archies	eng&spa	name
+pizza	eng	N
+that	eng	CONJ
+Archies	eng&spa	name
+place	eng	N
+pizza	eng	N
+and	eng	CONJ
+
+te	spa	PRON
+vas	spa	V
+a	spa	PREP
+el	spa	DET
+papel	spa	N
+ese	spa	PRON
+
+last	eng	ADJ
+humping	eng	N
+his	eng	ADJ
+wife	eng	N
+best	eng	ADJ
+friend	eng	N
+on	eng	PREP
+hidden	eng	AV
+camera	eng	N
+answer	eng	N
+to	eng	PREP
+Steven	eng&spa	name
+to	eng	PREP
+see	eng	V
+the	eng	DET
+old	eng	ADJ
+dog	eng	N
+participating	eng	V
+tricks	eng	N
+
+oh	eng	IM
+my	eng	ADJ
+god	eng	N
+
+son	spa	V
+
+she	eng	PRON
+says	eng	N
+those	eng	DEM
+last	eng	ADJ
+two	eng	NUM
+pictures	eng	N
+was	eng	V
+a	eng	DET
+bit	eng	N
+disturbing	eng	unk
+
+qué	spa	INT
+es	spa	V
+esto	spa	PRON
+
+imagínate	spa	V
+tú	spa	PRON
+
+go	eng	V
+down	eng	PREP
+a	spa	PREP
+ver	spa	V
+
+pero	spa	CONJ
+ahora	spa	ADV
+no	spa	ADV
+sé	spa	V
+
+éste	spa	PRON
+mira	spa	V
+el	spa	DET
+countdown	eng	N
+aquí	spa	ADV
+está	spa	V
+
+ok	eng	unk
+
+there	eng	ADV
+it	eng	PRON
+is	eng	V
+
+ahora	spa	ADV
+tienes	spa	V
+que	spa	CONJ
+quitar	spa	V
+el	spa	DET
+de	spa	PREP
+arriba	spa	ADV
+
+how	eng	ADV
+do	eng	SV
+I	eng	PRON
+go	eng	V
+back	eng	ADV
+
+home	eng	ADV
+
+aquí	spa	ADV
+
+lo	spa	PRON
+voy	spa	V
+a	spa	PREP
+poner	spa	V
+aquí	spa	ADV
+abajo	spa	ADV
+
+right	eng	ADJ
+there	eng	ADV
+
+from	eng	PREP
+object	eng	N
+all	eng	ADJ
+the	eng	DET
+way	eng	N
+to	eng	PREP
+c_countdown	eng	unk
+New_York	eng	name
+New_York	eng	name
+
+lo	spa	PRON
+coge	spa	V
+
+ay	spa	IM
+dios	spa	V
+mío	spa	ADJ
+
+that	eng	DEM
+thing	eng	N
+is	eng	V
+so	eng	ADV
+annoying	eng	SV
+
+we	eng	PRON
+don't	eng	V
+know	eng	V
+which	eng	REL
+one's	eng	PRON
+true	eng	ADJ
+and	eng	CONJ
+which	eng	REL
+one's	eng	PRON
+not	eng	ADV
+
+uhuh	eng	IM
+
+maybe	eng	ADV
+is	eng	V
+this	eng	DEM
+a	eng	DET
+Chinese	eng	name
+pop	eng	SV
+
+you	eng	PRON
+can	eng	V
+go	eng	V
+into	eng	PREP
+top	eng	N
+artist	eng	N
+
+oh	eng	IM
+there	eng	ADV
+you	eng	PRON
+go	eng	V
+
+escúpame	spa	V
+
+you	eng	PRON
+are	eng	V
+being	eng	V
+recorded	eng	V
+
+dale	spa	V
+go	eng	SV
+into	eng	PREP
+
+that's	eng	DEM
+easy	eng	ADJ
+because	eng	CONJ
+you	eng	PRON
+just	eng	ADV
+have	eng	V
+it	eng	PRON
+in	eng	PREP
+one	eng	PRON
+section	eng	N
+
+all	eng	ADJ
+the	eng	DET
+way	eng	N
+down	eng	PREP
+
+ahí	spa	ADV
+arriba	spa	ADV
+
+y	spa	CONJ
+ya	spa	ADV
+
+forma	spa	V
+a	spa	PREP
+la	spa	DET
+cabeza	spa	N
+de	spa	PREP
+la	spa	DET
+composición	spa	N
+
+uno	spa	PRON
+de	spa	PREP
+los	spa	DET
+Cds	eng	name
+ellos	spa	PRON
+han	spa	V
+tocado	spa	V
+varias	spa	ADJ
+composiciones	spa	N
+todos	spa	ADJ
+cinco	spa	NUM
+al	spa	PREP+DET
+mismo	spa	ADJ
+tiempo	spa	N
+
+fantástico	spa	ADJ
+
+es	spa	V
+el	spa	DET
+mismo	spa	ADJ
+señor	spa	N
+que	spa	PRON
+lo	spa	DET
+
+Americas_Idol	eng&spa	name
+
+sí	spa	ADV
+no	spa	ADV
+un	spa	DET
+blog	eng	unk
+bueno	spa	E
+blog	eng	unk
+es	spa	V
+cuando	spa	CONJ
+ellos	spa	PRON
+escriben	spa	V
+para	spa	PREP
+que	spa	CONJ
+ellos	spa	PRON
+escriben	spa	V
+
+por	spa	PREP
+eso	spa	PRON
+
+sí	spa	ADV
+pero	spa	CONJ
+ellos	spa	PRON
+lo	spa	PRON
+leen	spa	V
+ellos	spa	PRON
+lo	spa	PRON
+leen	spa	V
+ahí	spa	ADV
+de	spa	PREP
+todas	spa	ADJ
+maneras	spa	N
+
+quizás	spa	ADV
+te	spa	PRON
+quizás	spa	ADV
+te	spa	PRON
+te	spa	PRON
+
+sí	spa	ADV
+
+a	spa	PREP
+mí	spa	PRON
+mamá	spa	N
+me	spa	PRON
+dice	spa	V
+wake	eng	N
+up	eng	ADV
+y	spa	CONJ
+andate	spa	V
+a	spa	PREP
+la	spa	DET
+verga	spa	N
+
+nada	spa	PRON
+de	spa	PREP
+que	spa	CONJ
+te	spa	PRON
+vas	spa	V
+a	spa	PREP
+quedar	spa	V
+durmiendo	spa	V
+conmigo	spa	PREP+PRON
+ni	spa	CONJ
+aunque	spa	CONJ
+te	spa	PRON
+quedes	spa	V
+conmigo	spa	PREP+PRON
+le	spa	PRON
+digo	spa	V
+levántate	spa	V
+and	eng	CONJ
+go	eng	V
+to	eng	PREP
+class	eng	N
+
+sí	spa	ADV
+hombre	spa	N
+pero	spa	CONJ
+no	spa	ADV
+sé	spa	V
+ahorita	spa	ADV
+tengo	spa	V
+que	spa	CONJ
+ir	spa	V
+a	spa	PREP
+la	spa	DET
+universidad	spa	N
+porque	spa	CONJ
+me	spa	PRON
+voy	spa	V
+a	spa	PREP
+ir	spa	V
+a	spa	PREP
+matricular	spa	V
+a	spa	PREP
+unas	spa	DET
+clases	spa	N
+además	spa	ADV
+tengo	spa	V
+que	spa	CONJ
+llevar	spa	V
+un	spa	DET
+turcazo	spa	N
+de	spa	PREP
+clases	spa	N
+ahora	spa	ADV
+
+y	spa	CONJ
+que	spa	CONJ
+hacías	spa	V
+lo	spa	DET
+que	spa	PRON
+se	spa	PRON
+te	spa	PRON
+diera	spa	V
+la	spa	PRON
+gana	spa	V
+
+I'm	eng	PRON
+like	eng	CONJ
+
+qué	spa	INT
+mall	eng	N
+te	spa	PRON
+queda	spa	V
+más	spa	ADV
+cerca	spa	N
+
+no	spa	ADV
+jodás	spa	V
+loco	spa	ADJ
+Southland	eng&spa	name
+mall	eng	N
+o	spa	CONJ
+el	spa	DET
+Dadeland	eng&spa	name
+mall	eng	N
+
+idiay	spa	E
+ándate	spa	V
+al	spa	PREP+DET
+Dadeland	eng&spa	name
+Dadeland	eng&spa	name
+no	spa	ADV
+Dadeland	eng&spa	name
+no	spa	ADV
+tiene	spa	V
+Aeros	eng&spa	name
+
+porque	spa	CONJ
+porque	spa	CONJ
+pagan	spa	V
+una	spa	DET
+mierda	spa	N
+loco	spa	ADJ
+
+sí	spa	ADV
+
+por	spa	PREP
+por	spa	PREP
+el	spa	DET
+momento	spa	N
+pues	spa	CONJ
+no	spa	ADV
+voy	spa	V
+a	spa	PREP
+quedarme	spa	V
+sin	spa	PREP
+hacer	spa	V
+nada	spa	PRON
+porque	spa	CONJ
+esta	spa	ADJ
+semana	spa	N
+que	spa	PRON
+viene	spa	V
+grabamos	spa	V
+así	spa	ADV
+que	spa	CONJ
+voy	spa	V
+a	spa	PREP
+estar	spa	V
+trabajando	spa	V
+aunque	spa	CONJ
+tengo	spa	V
+spring	eng	SV
+break	eng	SV
+pues	spa	CONJ
+no	spa	ADV
+no	spa	ADV
+voy	spa	V
+a	spa	PREP
+clase	spa	N
+gracias	spa	E
+a	spa	PREP
+Dios	spa	N
+
+entonces	spa	ADV
+lo	spa	DET
+me	spa	PRON
+lo	spa	PRON
+voy	spa	V
+a	spa	PREP
+ahorrar	spa	V
+todo	spa	ADJ
+eso	spa	PRON
+me	spa	PRON
+lo	spa	PRON
+voy	spa	V
+a	spa	PREP
+ahorrar	spa	V
+en	spa	PREP
+gasolina	spa	N
+porque	spa	CONJ
+ese	spa	ADJ
+viaje	spa	N
+hasta	spa	PREP
+allá	spa	ADV
+le	spa	PRON
+cuerea	spa	V
+
+pues	spa	CONJ
+sí	spa	ADV
+ya	spa	ADV
+like	eng	CONJ
+mi	spa	ADJ
+graduación	spa	N
+es	spa	V
+en	spa	PREP
+octubre	spa	N
+
+pues	spa	CONJ
+la	spa	DET
+ceremonia	spa	N
+vos	spa	PRON
+
+pero	spa	CONJ
+de	spa	PREP
+repente	spa	ADV
+pues	spa	CONJ
+el	spa	DET
+maje	spa	N
+no	spa	ADV
+pudo	spa	V
+
+mmhm	eng	IM
+
+y	spa	CONJ
+like	eng	V
+me	spa	PRON
+llama	spa	V
+el	spa	DET
+sábado	spa	N
+
+y	spa	CONJ
+y	spa	CONJ
+el	spa	DET
+maje	spa	N
+what	eng	REL
+are	eng	V
+you	eng	PRON
+doing	eng	V
+today	eng	N
+que	spa	PRON
+no	spa	ADV
+sé	spa	V
+qué	spa	INT
+
+y	spa	CONJ
+yo	spa	PRON
+pues	spa	CONJ
+nada	spa	PRON
+idiay	spa	E
+
+entonces	spa	ADV
+y	spa	CONJ
+ahí	spa	ADV
+pasé	spa	V
+
+y	spa	CONJ
+lo	spa	DET
+más	spa	ADV
+de	spa	PREP
+a	spa	PREP
+verga	spa	N
+es	spa	V
+de	spa	PREP
+que	spa	CONJ
+like	eng	V
+a	spa	PREP
+nosotros	spa	PRON
+nos	spa	PRON
+gustaba	spa	V
+ir	spa	V
+por	spa	PREP
+por	spa	PREP
+estar	spa	V
+viendo	spa	V
+los	spa	DET
+culos	spa	N
+y	spa	CONJ
+eso	spa	PRON
+
+pero	spa	CONJ
+pero	spa	CONJ
+pero	spa	CONJ
+like	eng	V
+like	eng	CONJ
+like	eng	CONJ
+los	spa	DET
+sábados	spa	N
+por	spa	PREP
+ejemplo	spa	N
+pues	spa	CONJ
+pero	spa	CONJ
+
+entonces	spa	ADV
+abrieron	spa	V
+como	spa	CONJ
+un	spa	DET
+como	spa	CONJ
+un	spa	DET
+no	spa	ADV
+sé	spa	V
+un	spa	DET
+lounge	eng	N
+al	spa	PREP+DET
+lado	spa	N
+o	spa	CONJ
+sea	spa	V
+ahí	spa	ADV
+mismo	spa	ADJ
+adentro	spa	ADV
+pues	spa	CONJ
+
+y	spa	CONJ
+y	spa	CONJ
+ya	spa	ADV
+ponen	spa	V
+ponen	spa	V
+más	spa	ADV
+música	spa	N
+más	spa	ADV
+variada	spa	V
+pues	spa	CONJ
+de	spa	PREP
+repente	spa	ADV
+hip_hop	eng&spa	unk
+reggaetón	eng&spa	unk
+entonces	spa	ADV
+la	spa	PRON
+están	spa	V
+variando	spa	V
+entonces	spa	ADV
+es	spa	V
+más	spa	ADV
+de	spa	PREP
+a	spa	PREP
+verga	spa	N
+
+completitos	spa	ADJ
+loco	spa	ADJ
+
+estamos	spa	V
+en	spa	PREP
+Miami	eng&spa	name
+loco	spa	ADJ
+
+ah	spa	IM
+huevo	spa	N
+es	spa	V
+cierto	spa	ADJ
+pero	spa	CONJ
+igual	spa	ADJ
+el	spa	DET
+el	spa	DET
+el	spa	DET
+en	spa	PREP
+discoteca	spa	N
+el	spa	DET
+A_T_M	eng	name
+está	spa	V
+está	spa	V
+en	spa	PREP
+los	spa	DET
+baños	spa	N
+está	spa	V
+por	spa	PREP
+los	spa	DET
+baños	spa	N
+loco	spa	ADJ
+está	spa	V
+dentro	spa	ADV
+
+pero	spa	CONJ
+te	spa	PRON
+cobra	spa	V
+un	spa	DET
+turcazo	spa	N
+de	spa	PREP
+reales	spa	ADJ
+
+entonces	spa	ADV
+tenemos	spa	V
+un	spa	DET
+A_T_M	eng	name
+ahí	spa	ADV
+adentro	spa	ADV
+me	spa	PRON
+dice	spa	V
+el	spa	DET
+maje	spa	N
+
+entonces	spa	ADV
+el	spa	DET
+maje	spa	N
+se	spa	PRON
+quedó	spa	V
+con	spa	PREP
+mi	spa	ADJ
+I_D	eng	name
+y	spa	CONJ
+eso	spa	PRON
+pues	spa	CONJ
+para	spa	PREP
+
+I	eng	PRON
+had	eng	V
+to	eng	PREP
+come	eng	V
+back	eng	ADV
+I	eng	PRON
+had	eng	V
+to	eng	PREP
+come	eng	V
+back	eng	ADV
+
+yo	spa	PRON
+fresco	spa	ADJ
+pues	spa	CONJ
+yo	spa	PRON
+sabía	spa	V
+que	spa	CONJ
+cobraban	spa	V
+pues	spa	CONJ
+
+en	spa	PREP
+serio	spa	ADJ
+claro	spa	E
+es	spa	V
+que	spa	CONJ
+yo	spa	PRON
+no	spa	ADV
+la	spa	DET
+verdad	spa	N
+es	spa	V
+que	spa	CONJ
+yo	spa	PRON
+en	spa	PREP
+esas	spa	ADJ
+cosas	spa	N
+no	spa	ADV
+me	spa	PRON
+fijo	spa	ADJ
+loco	spa	ADJ
+
+acordate	spa	V
+que	spa	CONJ
+las	spa	PRON
+acordate	spa	V
+que	spa	CONJ
+las	spa	DET
+rubias	spa	ADJ
+somos	spa	V
+tontas	spa	ADJ
+estúpido	spa	ADJ
+
+la	spa	DET
+que	spa	PRON
+está	spa	V
+en	spa	PREP
+F_I_U	eng	name
+
+the	eng	DET
+fair	eng	ADJ
+
+entonces	spa	ADV
+yo	spa	PRON
+dije	spa	V
+idiay	spa	E
+compremos	spa	V
+el	spa	DET
+brazalete	spa	N
+y	spa	CONJ
+vale	spa	V
+turca	spa	ADJ
+
+pues	spa	CONJ
+un	spa	DET
+hombre	spa	N
+salió	spa	V
+embarazado	spa	ADJ
+
+ya	spa	ADV
+
+ah	spa	IM
+pues	spa	CONJ
+sí	spa	ADV
+entonces	spa	ADV
+estaba	spa	V
+viendo	spa	V
+las	spa	DET
+noticias	spa	N
+en	spa	PREP
+en	spa	PREP
+en	spa	PREP
+Primer_Impacto	eng&spa	name
+
+porque	spa	CONJ
+uno	spa	PRON
+de	spa	PREP
+mis	spa	ADJ
+sueños	spa	N
+ya	spa	ADV
+lo	spa	PRON
+cumplí	spa	V
+que	spa	CONJ
+pues	spa	CONJ
+ir	spa	V
+al	spa	PREP+DET
+concierto	spa	N
+bróder	spa	N
+
+Yurandier	eng&spa	name
+Eliécer	eng&spa	name
+
+le	spa	PRON
+ponían	spa	V
+nombre	spa	N
+
+mmhm	eng	IM
+
+es	spa	V
+que	spa	CONJ
+loco	spa	ADJ
+en	spa	PREP
+las	spa	DET
+uñas	spa	N
+me	spa	PRON
+fijé	spa	V
+hasta	spa	PREP
+hoy	spa	ADV
+porque	spa	CONJ
+ahora	spa	ADV
+hoy	spa	ADV
+estuve	spa	V
+con	spa	PREP
+o	spa	CONJ
+sea	spa	V
+no	spa	ADV
+estuve	spa	V
+con	spa	PREP
+él	spa	PRON
+sino	spa	CONJ
+que	spa	CONJ
+estaba	spa	V
+había	spa	V
+un	spa	DET
+un	spa	DET
+evento	spa	N
+en	spa	PREP
+la	spa	DET
+universidad	spa	N
+
+sí	spa	ADV
+pero	spa	CONJ
+yo	spa	PRON
+estoy	spa	V
+tratando	spa	V
+de	spa	PREP
+que	spa	CONJ
+sea	spa	V
+mi	spa	ADJ
+amiga	spa	N
+
+mmhm	eng	IM
+
+se	spa	PRON
+mira	spa	V
+culo	spa	N
+
+le	spa	PRON
+digo	spa	V
+
+y	spa	CONJ
+ya	spa	ADV
+ya	spa	ADV
+son	spa	V
+roommates	eng	N
+y	spa	CONJ
+eso	spa	PRON
+
+y	spa	CONJ
+y	spa	CONJ
+no	spa	ADV
+sé	spa	V
+loco	spa	ADJ
+
+like	eng	CONJ
+cada	spa	ADJ
+detalle	spa	N
+incluso	spa	ADV
+our	eng	ADJ
+sex	eng	N
+lives	eng	N
+me	spa	PRON
+entendés	spa	V
+nuestras	spa	ADJ
+vidas	spa	N
+sexuales	spa	ADJ
+
+hablábamos	spa	V
+como	spa	CONJ
+que	spa	CONJ
+nos	spa	PRON
+contábamos	spa	V
+detalles	spa	N
+me	spa	PRON
+entendés	spa	V
+
+le	spa	PRON
+digo	spa	V
+
+entonces	spa	ADV
+
+no	spa	ADV
+no	spa	ADV
+no	spa	ADV
+no	spa	ADV
+no	spa	ADV
+I	eng	PRON
+understand	eng	V
+me	spa	PRON
+entendés	spa	V
+porque	spa	CONJ
+me	spa	PRON
+lo	spa	PRON
+dijo	spa	V
+
+pero	spa	CONJ
+pero	spa	CONJ
+o	spa	CONJ
+sea	spa	V
+yo	spa	PRON
+le	spa	PRON
+dije	spa	V
+como	spa	CONJ
+que	spa	CONJ
+
+o	spa	CONJ
+sea	spa	V
+y	spa	CONJ
+que	spa	CONJ
+me	spa	PRON
+lo	spa	PRON
+haya	spa	V
+dicho	spa	V
+así	spa	ADV
+tantas	spa	ADJ
+veces	spa	N
+
+me	spa	PRON
+me	spa	PRON
+hizo	spa	V
+me	spa	PRON
+hizo	spa	V
+me	spa	PRON
+hizo	spa	V
+sentir	spa	V
+bien	spa	ADV
+por	spa	PREP
+la	spa	DET
+verga	spa	N
+loco	spa	ADJ
+
+like	eng	CONJ
+por	spa	PREP
+ejemplo	spa	N
+este	spa	ADJ
+maje	spa	N
+de	spa	PREP
+Manolo	eng&spa	name
+bróder	spa	N
+ayer	spa	ADV
+fuimos	spa	V
+a	spa	PREP
+cenar	spa	V
+
+mmhm	eng	IM
+
+and	eng	CONJ
+I	eng	PRON
+really	eng	ADJ+ADV
+like	eng	CONJ
+him	eng	PRON
+me	spa	PRON
+entendés	spa	V
+
+el	spa	DET
+maje	spa	N
+me	spa	PRON
+gusta	spa	V
+
+o_k	eng&spa	IM
+
+oh	eng&spa	IM
+yeah	eng	ADV
+o_k	eng&spa	IM
+
+sí	spa	ADV
+todo	spa	PRON
+estaba	spa	V
+junto	spa	ADJ
+
+yo	spa	PRON
+no	spa	ADV
+mandé	spa	V
+el	spa	DET
+contrato	spa	N
+
+that's	eng	DEM
+why	eng	REL
+lo	spa	PRON
+están	spa	V
+pidiendo	spa	V
+
+exacto	spa	ADJ
+
+mmhm	eng	IM
+
+o_k	eng&spa	IM
+o_k	eng&spa	IM
+
+we're	eng	PRON
+not	eng	ADV
+
+alright	eng	ADV
+
+so	eng	ADV
+
+right	eng	ADJ
+
+mmhm	eng	IM
+
+mmhm	eng	IM
+
+oh	eng	IM
+yeah	eng	ADV
+
+right	eng	ADJ
+
+then	eng	ADV
+we	eng	PRON
+do	eng	V
+the	eng	DET
+big	eng	ADJ
+one	eng	PRON
+
+o_k	eng&spa	IM
+
+yes	eng	ADV
+
+ajá	spa	IM
+
+holy	eng	ADJ
+shoot	eng	SV
+
+y	spa	CONJ
+mandarlo	spa	V
+de	spa	PREP
+nuevo	spa	ADJ
+
+nope	eng	ADV
+
+which	eng	REL
+was	eng	V
+three	eng	NUM
+five	eng	NUM
+
+pero	spa	CONJ
+three	eng	NUM
+five	eng	NUM
+is	eng	V
+here	eng	ADV
+
+mira	spa	V
+
+I	eng	PRON
+know	eng	V
+they're	eng	PRON
+very	eng	ADV
+nice	eng	ADJ
+
+really	eng	ADJ+ADV
+
+no	eng	ADV
+it's	eng	PRON
+not	eng	ADV
+that	eng	DEM
+cheap	eng	ADJ
+because	eng	CONJ
+they're	eng	PRON
+still	eng	ADJ
+like	eng	CONJ
+two	eng	NUM
+hundred	eng	NUM
+a	eng	DET
+hundred	eng	NUM
+and	eng	CONJ
+eighty	eng	NUM
+
+oh	eng&spa	IM
+
+I've	eng	PRON
+never	eng	ADV
+been	eng	V
+there	eng	ADV
+
+it's	eng	PRON
+been	eng	V
+more	eng	ADV
+than	eng	CONJ
+a	eng	DET
+year	eng	N
+
+but	eng	CONJ
+cuando	spa	CONJ
+la	spa	PRON
+cojo	spa	V
+con	spa	PREP
+una	spa	DET
+that's	eng	DEM
+the	eng	DET
+one	eng	PRON
+that	eng	CONJ
+I	eng	PRON
+wear	eng	V
+for	eng	PREP
+like	eng	CONJ
+
+yo	spa	PRON
+también	spa	ADV
+yo	spa	PRON
+también	spa	ADV
+
+at	eng	PREP
+least	eng	ADJ
+I	eng	PRON
+find	eng	V
+que	spa	CONJ
+in	eng	PREP
+my	eng	ADJ
+closet	eng	N
+they're	eng	PRON
+not	eng	ADV
+organized	eng	unk
+so	eng	ADV
+that	eng	CONJ
+I	eng	PRON
+can	eng	V
+actually	eng	ADJ+ADV
+change	eng	V
+them	eng	PRON
+
+you	eng	PRON
+know	eng	V
+I	eng	PRON
+have	eng	V
+to	eng	PREP
+take	eng	V
+down	eng	PREP
+the	eng	DET
+box	eng	N
+change	eng	N
+my	eng	ADJ
+purse	eng	N
+entonces	spa	ADV
+ya	spa	ADV
+no	spa	ADV
+me	spa	PRON
+da	spa	V
+ganas	spa	V
+de	spa	PREP
+cambiarla	spa	V
+
+I	eng	PRON
+bought	eng	V
+um	eng	IM
+un	spa	DET
+little	eng	ADJ
+estante	spa	N
+de	spa	PREP
+esos	spa	PRON
+de	spa	PREP
+like	eng	CONJ
+Tupperware	eng	name
+that	eng	CONJ
+has	eng	IM+V
+two	eng	NUM
+drawers	eng	N
+
+ajá	spa	IM
+
+yeah	eng	ADV
+
+yeah	eng	ADV
+
+esto	spa	PRON
+es	spa	V
+only	eng	ADJ
+new	eng	ADJ
+
+only	eng	ADJ
+new	eng	ADJ
+
+o_k	eng&spa	IM
+so	eng	ADV
+yes	eng	ADV
+
+and	eng	CONJ
+I	eng	PRON
+just	eng	ADV
+have	eng	V
+to	eng	PREP
+make	eng	V
+sure	eng	ADJ
+to	eng	PREP
+make	eng	V
+copies	eng	N
+of	eng	PREP
+the	eng	DET
+things	eng	N
+
+yes	eng	ADV
+
+he	eng	PRON
+paints	eng	N
+really	eng	ADJ+ADV
+really	eng	ADJ+ADV
+nice	eng	ADJ
+
+they	eng	PRON
+were	eng	V
+um	eng	IM
+pretending	eng	SV
+to	eng	PREP
+be	eng	V
+football	eng	N
+players	eng	unk
+
+so	eng	ADV
+no	spa	ADV
+no	spa	ADV
+va	spa	V
+él	spa	PRON
+
+yeah	eng	ADV
+so	eng	ADV
+
+where	eng	REL
+it's	eng	PRON
+coming	eng	V
+from	eng	PREP
+
+ah	eng&spa	IM
+no	spa	ADV
+sé	spa	V
+
+no	spa	ADV
+lo	spa	PRON
+apretes	spa	V
+mucho	spa	ADV
+abajo	spa	ADV
+
+I	eng	PRON
+already	eng	ADV
+figured	eng	unk
+it	eng	PRON
+out	eng	ADV
+
+o_k	eng&spa	IM
+
+mira	spa	V
+Fra	eng&spa	name
+el	spa	DET
+Francisco	eng&spa	name
+ese	spa	PRON
+que	spa	PRON
+that	eng	DEM
+was	eng	V
+that's	eng	DEM
+the	eng	DET
+file	eng	N
+that's	eng	CONJ+BE
+there	eng	ADV
+
+so	eng	ADV
+then	eng	ADV
+
+mmhm	eng	IM
+
+exactly	eng	ADJ+ADV
+
+o	spa	CONJ
+esto	spa	PRON
+
+mmhm	eng	IM
+
+yeah	eng	ADV
+
+yeah	eng	ADV
+just	eng	ADV
+put	eng	V
+right	eng	ADJ
+do	eng	SV
+that	eng	DEM
+
+o_k	eng&spa	IM
+la	spa	DET
+dirección	spa	N
+is	eng	V
+for	eng	PREP
+two	eng	NUM
+thousand	eng	NUM
+and	eng	CONJ
+four	eng	NUM
+Northwest	eng&spa	name
+Franklin	eng&spa	name
+Street	eng&spa	name
+
+o_k	eng&spa	IM
+
+that	eng	CONJ
+deme	spa	V
+un	spa	DET
+segundito	spa	N
+
+déjeme	spa	V
+mirar	spa	V
+aquí	spa	ADV
+un	spa	DET
+momentico	spa	N
+o_k	eng&spa	IM
+
+cool	eng	V
+
+yeah	eng	ADV
+
+o_k	eng&spa	IM
+señor	spa	N
+Medina	eng&spa	name
+
+o_k	eng&spa	IM
+cualquier	spa	ADJ
+cosa	spa	N
+usted	spa	PRON
+me	spa	PRON
+da	spa	V
+el	spa	DET
+número	spa	N
+
+let	eng	V
+me	eng	PRON
+see	eng	SV
+
+alright	eng	ADV
+
+sí	spa	ADV
+porque	spa	CONJ
+yo	spa	PRON
+no	spa	ADV
+veía	spa	V
+nada	spa	PRON
+aquí	spa	ADV
+pero	spa	CONJ
+it	eng	PRON
+doesn't	eng	V
+it	eng	PRON
+said	eng	V
+that	eng	CONJ
+we	eng	PRON
+never	eng	ADV
+got	eng	AV
+the	eng	DET
+deposit	eng	N
+
+that's	eng	DEM
+what	eng	REL
+it	eng	PRON
+said	eng	V
+on	eng	PREP
+mine	eng	PRON
+like	eng	CONJ
+well	eng	ADV
+like	eng	CONJ
+they	eng	PRON
+never	eng	ADV
+got	eng	AV
+the	eng	DET
+deposit	eng	N
+or	eng	CONJ
+down	eng	PREP
+payment	eng	N
+
+no	spa	ADV
+pero	spa	CONJ
+cómo	spa	INT
+no	spa	ADV
+va	spa	V
+a	spa	PREP
+tener	spa	V
+seguro	spa	ADJ
+
+o_k	eng&spa	IM
+o_k	eng&spa	IM
+mom	eng	N
+
+horrible	spa	ADJ
+
+a	spa	PREP
+la	spa	DET
+administración	spa	N
+de	spa	PREP
+la	spa	DET
+universidad	spa	N
+
+I	eng	PRON
+was	eng	V
+eating	eng	unk
+in	eng	PREP
+Subway	eng&spa	name
+and	eng	CONJ
+then	eng	ADV
+
+cafeteria	eng	N
+exactly	eng	ADJ+ADV
+dry	eng	ADJ
+cleaning	eng	SV
+
+pero	spa	CONJ
+para	spa	PREP
+lavar	spa	V
+you	eng	PRON
+get	eng	V
+a	eng	DET
+
+no	spa	ADV
+pero	spa	CONJ
+para	spa	PREP
+cosas	spa	N
+cosas	spa	N
+así	spa	ADV
+grandes	spa	ADJ
+
+dónde	spa	INT
+
+y	spa	CONJ
+me	spa	PRON
+gustaría	spa	V
+
+ah	eng&spa	IM
+
+but	eng	CONJ
+what	eng	REL
+do	eng	SV
+they	eng	PRON
+do	eng	V
+there	eng	ADV
+
+I	eng	PRON
+would	eng	V
+like	eng	SV
+to	eng	PREP
+go	eng	V
+to	eng	PREP
+China	eng&spa	name
+Thailand	eng	name
+and	eng	CONJ
+
+bueno	spa	E
+iba	spa	V
+todos	spa	ADJ
+los	spa	DET
+veranos	spa	N
+por	spa	PREP
+cuarenta	spa	NUM
+y	spa	CONJ
+cinco	spa	NUM
+días	spa	N
+
+yeah	eng	ADV
+exactly	eng	ADJ+ADV
+
+en	spa	PREP
+su	spa	ADJ
+propio	spa	ADJ
+momento	spa	N
+sí	spa	ADV
+
+ajá	spa	IM
+
+the	eng	DET
+Roman	eng	name
+empire	eng	N
+
+wow	eng	IM
+tú	spa	PRON
+me	spa	PRON
+hiciste	spa	V
+un	spa	DET
+sueño	spa	N
+que	spa	PRON
+tuve	spa	V
+de	spa	PREP
+Italia	spa	name
+
+yo	spa	PRON
+he	spa	V
+soñado	spa	V
+con	spa	PREP
+dos	spa	NUM
+lugares	spa	N
+
+eran	spa	V
+de	spa	PREP
+estos	spa	ADJ
+bloquecitos	spa	N
+
+y	spa	CONJ
+nos	spa	PRON
+metíamos	spa	V
+en	spa	PREP
+los	spa	DET
+
+pues	spa	CONJ
+sí	spa	ADV
+
+no	spa	ADV
+me	spa	PRON
+voy	spa	V
+a	spa	PREP
+pasar	spa	V
+para	spa	PREP
+España	spa	name
+
+country	eng	N
+ah	eng&spa	IM
+
+ah	eng&spa	IM
+
+rosado	spa	ADJ
+y	spa	CONJ
+negro	spa	ADJ
+
+a	spa	PREP
+mí	spa	PRON
+no	spa	ADV
+me	spa	PRON
+gusta	spa	V
+
+de	spa	PREP
+qué	spa	INT
+
+like	eng	CONJ
+the	eng	DET
+approach	eng	N
+you	eng	PRON
+have	eng	V
+for	eng	PREP
+everything	eng	PRON
+
+tú	spa	PRON
+sabes	spa	V
+yo	spa	PRON
+lo	spa	PRON
+veo	spa	V
+y	spa	CONJ
+como	spa	CONJ
+que	spa	CONJ
+me	spa	PRON
+inspiro	spa	V
+para	spa	PREP
+hacer	spa	V
+algo	spa	PRON
+
+porque	spa	CONJ
+si	spa	CONJ
+no	spa	ADV
+hubiese	spa	V
+estado	spa	V
+este	spa	ADJ
+hueco	spa	N
+acá	spa	ADV
+las	spa	DET
+personas	spa	N
+hubiesen	spa	V
+tenido	spa	V
+que	spa	CONJ
+dar	spa	V
+toda	spa	ADJ
+la	spa	DET
+vuelta	spa	N
+alrededor	spa	ADV
+
+pero	spa	CONJ
+como	spa	V
+la	spa	DET
+librería	spa	N
+is	eng	V
+so	eng	ADV
+huge	eng	ADJ
+you	eng	PRON
+gotta	eng	V
+make	eng	V
+a	eng	DET
+whole	eng	ADJ
+to	eng	PREP
+make	eng	V
+a	eng	DET
+a	eng	DET
+room	eng	N
+over	eng	ADV
+there	eng	ADV
+
+yeah	eng	ADV
+but	eng	CONJ
+how	eng	ADV
+do	eng	SV
+they	eng	PRON
+how	eng	ADV
+will	eng	V
+cómo	spa	INT
+lo	spa	PRON
+puedes	spa	V
+improve	spa	unk
+
+but	eng	CONJ
+it's	eng	PRON
+good	eng	ADJ
+also	eng	ADV
+
+sí	spa	ADV
+
+slippery	eng	ADJ
+
+dos	spa	NUM
+edificios	spa	N
+el	spa	DET
+la	spa	DET
+librería	spa	N
+separada	spa	ADJ
+entre	spa	PREP
+dos	spa	NUM
+edificios	spa	N
+y	spa	CONJ
+después	spa	ADV
+en	spa	PREP
+el	spa	DET
+medio	spa	N
+un	spa	DET
+corredor	spa	N
+que	spa	PRON
+la	spa	DET
+gente	spa	N
+puede	spa	V
+cruzar	spa	V
+al	spa	PREP+DET
+otro	spa	ADJ
+lado	spa	N
+del	spa	PREP+DET
+de	spa	PREP
+la	spa	DET
+librería	spa	N
+
+o	spa	CONJ
+bueno	spa	E
+este	spa	ADJ
+hueco	spa	N
+más	spa	ADV
+alto	spa	ADV
+
+cuál	spa	PRON
+hueco	spa	ADJ
+
+ahí	spa	ADV
+ahí	spa	ADV
+todo	spa	PRON
+
+tú	spa	PRON
+diseñas	spa	V
+pero	spa	CONJ
+tú	spa	PRON
+no	spa	ADV
+eres	spa	V
+el	spa	DET
+que	spa	PRON
+está	spa	V
+pagando	spa	V
+por	spa	PREP
+el	spa	DET
+diseño	spa	N
+
+estoy	spa	V
+hablando	spa	V
+de	spa	PREP
+tu	spa	ADJ
+creatividad	spa	N
+
+quiero	spa	V
+comer	spa	V
+
+entonces	spa	ADV
+ahí	spa	ADV
+ya	spa	ADV
+hablamos	spa	V
+tal	spa	ADJ
+cosa	spa	N
+
+y	spa	CONJ
+si	spa	CONJ
+tú	spa	PRON
+lo	spa	PRON
+vas	spa	V
+llenando	spa	V
+
+o	spa	CONJ
+sea	spa	V
+me	spa	PRON
+duele	spa	V
+porque	spa	CONJ
+pues	spa	CONJ
+no	spa	ADV
+quiero	spa	V
+like	spa	unk
+dañar	spa	V
+mi	spa	ADJ
+relación	spa	N
+con	spa	PREP
+ella	spa	PRON
+
+you	eng	PRON
+know	eng	V
+what	eng	REL
+I	eng	PRON
+mean	eng	V
+
+sí	spa	ADV
+pero	spa	CONJ
+la	spa	PRON
+entiendo	spa	V
+y	spa	CONJ
+tal	spa	ADJ
+
+like	eng	CONJ
+my	eng	ADJ
+eyes	eng	N
+were	eng	V
+swollen	eng	V
+shut	eng	N
+like	eng	CONJ
+all	eng	ADJ
+I	eng	PRON
+can	eng	V
+I	eng	PRON
+can	eng	V
+see	eng	V
+like	eng	CONJ
+if	eng	CONJ
+you	eng	PRON
+walk	eng	V
+in	eng	PREP
+front	eng	N
+of	eng	PREP
+me	eng	PRON
+I	eng	PRON
+can	eng	V
+see	eng	V
+you	eng	PRON
+walking	eng	V
+I	eng	PRON
+can	eng	V
+see	eng	V
+there's	eng	PRON+BE
+somebody	eng	PRON
+walking	eng	SV
+in	eng	PREP
+front	eng	N
+of	eng	PREP
+me	eng	PRON
+but	eng	CONJ
+I	eng	PRON
+couldn't	eng	V
+like	eng	CONJ
+see	eng	V
+anything	eng	PRON
+I	eng	PRON
+couldn't	eng	V
+like	eng	CONJ
+tell	eng	V
+who	eng	REL
+you	eng	PRON
+were	eng	V
+or	eng	CONJ
+nothing	eng	PRON
+
+oh	eng	IM
+yeah	eng	ADV
+
+that	eng	DEM
+was	eng	V
+dangerous	eng	ADJ
+
+ay	spa	IM
+Dios	spa	N
+mío	spa	ADJ
+
+mmhm	eng	IM
+
+hello	eng	N
+
+que	spa	CONJ
+hay	spa	V
+un	spa	DET
+como	spa	CONJ
+una	spa	DET
+cosa	spa	N
+en	spa	PREP
+el	spa	DET
+carnival	eng	N
+center	eng	N
+
+ahí	spa	ADV
+al	spa	PREP+DET
+lado	spa	N
+de	spa	PREP
+la	spa	DET
+escuela	spa	N
+en	spa	PREP
+el	spa	DET
+carnival	eng	N
+center	eng	N
+
+hay	spa	V
+alguna	spa	ADJ
+actividad	spa	N
+de	spa	PREP
+tres	spa	NUM
+a	spa	PREP
+cinco	spa	NUM
+como	spa	CONJ
+live	eng	V
+music	eng	N
+y	spa	CONJ
+todas	spa	ADJ
+estas	spa	ADJ
+cosas	spa	N
+
+y	spa	CONJ
+luego	spa	ADV
+vamos	spa	V
+para	spa	PREP
+el	spa	DET
+Miami	eng	name
+fair	eng	ADJ
+donde	spa	REL
+están	spa	V
+los	eng	IM+PV
+roller_coasters	eng	unk
+a	spa	PREP
+las	spa	DET
+cinco	spa	NUM
+
+pero	spa	CONJ
+tú	spa	PRON
+tienes	spa	V
+la	spa	DET
+boda	spa	N
+hoy	spa	ADV
+verdad	spa	N
+
+cómo	spa	INT
+es	spa	V
+
+I	eng	PRON
+think	eng	V
+it's	eng	PRON
+supposed	eng	V
+to	eng	PREP
+be	eng	V
+natural	eng	ADJ
+
+um	eng	IM
+dile	spa	V
+a	spa	PREP
+mami	spa	N
+que	spa	PRON
+si	spa	CONJ
+viene	spa	V
+no	spa	ADV
+podemos	spa	V
+invitar	spa	V
+a	spa	PREP
+más	spa	ADV
+nadie	spa	PRON
+
+mmhm	eng	IM
+
+oh	eng&spa	IM
+vamos	spa	V
+a	spa	PREP
+llenar	spa	V
+eso	spa	PRON
+
+so	eng	ADV
+
+a	spa	PREP
+ver	spa	V
+
+y	spa	CONJ
+hay	spa	V
+que	spa	CONJ
+lavar	spa	V
+todo	spa	ADJ
+eso	spa	PRON
+de	spa	PREP
+cuando	spa	CONJ
+Helena	eng&spa	name
+estaba	spa	V
+allá	spa	ADV
+
+hoy	spa	ADV
+tenemos	spa	V
+que	spa	CONJ
+faxearlo	spa	V
+
+mmhm	eng	IM
+
+y	spa	CONJ
+debe	spa	V
+estar	spa	V
+en	spa	PREP
+
+el	spa	DET
+cholesterol	eng	N
+tengo	spa	V
+ciento	spa	N
+veinte	spa	NUM
+gramos	spa	N
+
+ah	eng&spa	IM
+pero	spa	CONJ
+tú	spa	PRON
+ves	spa	V
+dice	spa	V
+que	spa	CONJ
+no	spa	ADV
+tengo	spa	V
+osteoporosis	eng&spa	N
+todavía	spa	ADV
+
+I	eng	PRON
+have	eng	V
+negative	eng	ADJ
+one	eng	PRON
+point	eng	N
+seven	eng	NUM
+
+so	eng	ADV
+you	eng	PRON
+have	eng	V
+to	eng	PREP
+be	eng	V
+above	eng	PREP
+that	eng	CONJ
+to	eng	PREP
+be	eng	V
+to	eng	PREP
+be	eng	V
+going	eng	V
+to	eng	PREP
+the	eng	DET
+positive	eng	ADJ
+you	eng	PRON
+know	eng	V
+
+and	eng	CONJ
+osteoporosis	eng&spa	N
+is	eng	V
+below	eng	PREP
+negative	eng	ADJ
+two	eng	NUM
+point	eng	N
+five	eng	NUM
+so	eng	ADV
+I	eng	PRON
+don't	eng	V
+right	eng	ADJ
+now	eng	ADV
+my	eng	ADJ
+body	eng	N
+doesn't	eng	N
+have	eng	N
+osteoporosis	eng&spa	N
+
+mmhm	eng	IM
+
+no	eng	ADV
+like	eng	CONJ
+jogging	eng	unk
+is	eng	V
+the	eng	DET
+this	eng	DEM
+
+hi	eng	V
+brother	eng	N
+
+Twenty_One	eng	name
+College_Road_Trip	eng	name
+
+it	eng	PRON
+will	eng	V
+be	eng	SV
+over	eng	ADV
+by	eng	PREP
+four	eng	NUM
+
+oye	spa	V
+I	eng	PRON
+need	eng	V
+to	eng	PREP
+get	eng	V
+a	eng	DET
+haircut	eng	N
+soon	eng	ADV
+
+I	eng	PRON
+want	eng	V
+to	eng	PREP
+get	eng	V
+a	eng	DET
+haircut	eng	N
+
+pero	spa	CONJ
+yo	spa	PRON
+te	spa	PRON
+llamo	spa	V
+así	spa	ADV
+como	spa	CONJ
+en	spa	PREP
+una	spa	DET
+hora	spa	N
+
+si	spa	CONJ
+quieres	spa	V
+yo	spa	PRON
+voy	spa	V
+a	spa	PREP
+y	spa	CONJ
+luego	spa	ADV
+a	spa	PREP
+recogerte	spa	V
+
+ay	eng&spa	ADJ+SM
+
+hmm	eng&spa	IM
+
+que	spa	CONJ
+ya	spa	ADV
+venga	spa	V
+no	spa	ADV
+
+eso	spa	PRON
+lo	spa	DET
+que	spa	PRON
+tengo	spa	V
+que	spa	CONJ
+
+mmhm	eng	IM
+
+así	spa	ADV
+que	spa	CONJ
+eso	spa	PRON
+me	spa	PRON
+calma	spa	V
+también	spa	ADV
+
+eso	spa	PRON
+es	spa	V
+coconut	eng	N
+oil	eng	N
+
+so	eng	ADV
+you	eng	PRON
+have	eng	V
+your	eng	ADJ
+kit	eng	N
+
+tú	spa	PRON
+tienes	spa	V
+
+like	eng	CONJ
+herbs	eng	N
+and	eng	CONJ
+natural	eng	ADJ
+components	eng	N
+whatever	eng	REL
+
+eh	eng&spa	IM
+
+it's	eng	PRON
+diluyan	spa	V
+sí	spa	ADV
+sí	spa	ADV
+
+diluir	spa	V
+
+eh	eng&spa	IM
+ginebra	spa	N
+
+oh	eng&spa	IM
+yeah	eng	ADV
+
+jengibre	spa	N
+sí	spa	ADV
+jengibre	spa	N
+sí	spa	ADV
+
+esto	spa	PRON
+tiene	spa	V
+eh	eng&spa	IM
+eh	eng&spa	IM
+manzanilla	spa	N
+
+for	eng	PREP
+having	eng	SV
+inherit	eng	SV
+
+ah	eng&spa	IM
+
+sí	spa	ADV
+yo	spa	PRON
+alguna	spa	ADJ
+vez	spa	N
+me	spa	PRON
+caso	spa	N
+y	spa	CONJ
+le	spa	PRON
+pido	spa	V
+a	spa	PREP
+mi	spa	ADJ
+esposa	spa	N
+que	spa	PRON
+por	spa	PREP
+favor	spa	N
+no	spa	ADV
+tenga	spa	V
+un	spa	DET
+parto	spa	N
+natural	spa	ADJ
+porque	spa	CONJ
+eso	spa	PRON
+es	spa	V
+mucho	spa	ADV
+dolor	spa	N
+y	spa	CONJ
+mucha	spa	ADJ
+sangre	spa	N
+
+yeah	eng	ADV
+
+kryptonite	eng	unk
+yeah	eng	ADV
+
+I	eng	PRON
+ah	eng&spa	IM
+
+ajá	spa	IM
+
+te	spa	PRON
+te	spa	PRON
+dio	spa	V
+
+sí	spa	ADV
+pues	spa	CONJ
+claro	spa	E
+te	spa	PRON
+daba	spa	V
+sudor	spa	N
+
+yo	spa	PRON
+fui	spa	V
+la	spa	DET
+fotógrafa	spa	N
+
+eh	eng&spa	IM
+la	spa	DET
+mórula	eng&spa	unk
+blástula	eng&spa	unk
+
+yeah	eng	ADV
+the	eng	DET
+the	eng	DET
+whole	eng	ADJ
+nine	eng	NUM
+months	eng	N
+in	eng	PREP
+the	eng	DET
+lab	eng	N
+
+I	eng	PRON
+don't	eng	V
+want	eng	V
+more	eng	ADV
+
+kosher	eng	ADJ
+
+pues	spa	CONJ
+claro	spa	E
+sí	spa	ADV
+yo	spa	PRON
+sé	spa	V
+sé	spa	V
+de	spa	PREP
+eso	spa	PRON
+
+just	eng	ADJ
+some	eng	ADJ
+way	eng	N
+to	eng	PREP
+relax	eng	V
+and	eng	CONJ
+get	eng	V
+in	eng	PREP
+touch	eng	N
+with	eng	PREP
+a	eng	DET
+um	eng	IM
+spirit	eng	N
+that	eng	CONJ
+eh	eng&spa	IM
+has	eng	IM+PV
+some	eng	ADJ
+wisdom	eng	N
+
+mmhm	eng	IM
+
+en	spa	PREP
+la	spa	DET
+mañana	spa	N
+
+yeah	eng	ADV
+but	eng	CONJ
+we	eng	PRON
+were	eng	V
+counting	eng	V
+
+and	eng	CONJ
+at	eng	PREP
+the	eng	DET
+end	eng	N
+I	eng	PRON
+just	eng	ADV
+realised	eng	V
+that	eng	CONJ
+I	eng	PRON
+am	eng	V
+just	eng	ADJ
+a	eng	DET
+Catholic	eng	name
+person	eng	N
+that	eng	CONJ
+wants	eng	V
+to	eng	PREP
+be	eng	V
+better	eng	ADJ
+
+ravers	eng	N
+
+pues	spa	CONJ
+no	spa	ADV
+te	spa	PRON
+lo	spa	PRON
+recomiendo	spa	V
+
+mmhm	eng	IM
+
+yo	eng	unk
+sentí	eng	unk
+cosas	eng	unk
+que	eng	unk
+no	eng	ADV
+sentí	eng	unk
+jamás	eng	unk
+de	eng	N
+otra	eng	unk
+forma	eng	unk
+
+and	eng	CONJ
+it's	eng	PRON
+just	eng	ADJ
+marijuana	eng&spa	N
+for	eng	PREP
+a	eng	DET
+couple	eng	N
+of	eng	PREP
+years	eng	N
+
+no	spa	ADV
+porque	spa	CONJ
+tú	spa	PRON
+no	spa	ADV
+tú	spa	PRON
+no	spa	ADV
+
+so	eng	ADV
+I	eng	PRON
+don't	eng	V
+know	eng	V
+
+I	eng	PRON
+don't	eng	V
+wanna	eng	V
+
+like	eng	CONJ
+you	eng	PRON
+know	eng	V
+how	eng	ADV
+they're	eng	PRON
+like	eng	V
+they're	eng	PRON
+
+yeah	eng	ADV
+yeah	eng	ADV
+I	eng	PRON
+know	eng	V
+I	eng	PRON
+know	eng	V
+
+in	eng	PREP
+rent	eng	N
+
+he	eng	PRON
+doesn't	eng	V
+pay	eng	V
+anything	eng	PRON
+
+yeah	eng	ADV
+
+Nick	eng&spa	name
+and	eng	CONJ
+his	eng	ADJ
+mom	eng	N
+que	spa	PRON
+todo	spa	PRON
+era	spa	V
+como	spa	CONJ
+hombre	spa	N
+
+yeah	eng	ADV
+
+like	eng	CONJ
+if	eng	CONJ
+when	eng	CONJ
+because	eng	CONJ
+he	eng	PRON
+goes	eng	V
+to	eng	PREP
+work	eng	V
+
+it's	eng	PRON
+not	eng	ADV
+it's	eng	PRON
+it's	eng	PRON
+it's	eng	PRON
+in	eng	PREP
+general	eng	ADJ
+
+pero	spa	CONJ
+he	eng	PRON
+he	eng	PRON
+works	eng	N
+
+a	eng	DET
+lot	eng	N
+of	eng	PREP
+um	eng	IM
+yeah	eng	ADV
+
+yes	eng	ADV
+
+ah	eng&spa	IM
+
+it's	eng	PRON
+ridiculous	eng	ADJ
+
+and	eng	CONJ
+then	eng	ADV
+Leticia	eng&spa	name
+you	eng	PRON
+know	eng	V
+Leticia	eng&spa	name
+finished	eng	V
+
+and	eng	CONJ
+yesterday	eng	N
+I	eng	PRON
+had	eng	V
+to	eng	PREP
+run	eng	V
+some	eng	ADJ
+errands	eng	N
+for	eng	PREP
+the	eng	DET
+passport	eng	N
+thing	eng	N
+
+yeah	eng	ADV
+the	eng	DET
+passport	eng	N
+
+oh	eng&spa	IM
+
+and	eng	CONJ
+now	eng	ADV
+it's	eng	PRON
+a	eng	DET
+law	eng	N
+you	eng	PRON
+know	eng	V
+in	eng	PREP
+the	eng	DET
+Nicaraguan	eng	name
+consul	eng	N
+whatever	eng	REL
+
+even	eng	ADJ
+if	eng	CONJ
+I	eng	PRON
+have	eng	V
+like	eng	CONJ
+clean	eng	ADJ
+you	eng	PRON
+know	eng	V
+sheets	eng	N
+available	eng	ADJ
+
+to	eng	PREP
+me	eng	PRON
+she's	eng	PRON
+always	eng	ADV+V
+been	eng	V
+nice	eng	ADJ
+but	eng	CONJ
+she's	eng	PRON
+
+oh	eng	IM
+really	eng	ADJ+ADV
+
+but	eng	CONJ
+in	eng	PREP
+the	eng	DET
+end	eng	N
+if	eng	CONJ
+this	eng	DEM
+if	eng	CONJ
+this	eng	DEM
+problem	eng	N
+gets	eng	N
+bigger	eng	ADJ
+
+and	eng	CONJ
+honestly	eng	ADJ+ADV
+I'm	eng	PRON
+tired	eng	V
+of	eng	PREP
+it	eng	PRON
+
+oh	eng&spa	IM
+
+and	eng	CONJ
+she	eng	PRON
+calls	eng	V
+
+Lauren	eng&spa	name
+
+it's	eng	PRON
+crazy	eng	ADJ
+
+you	eng	PRON
+remember	eng	V
+my	eng	ADJ
+dad's	eng	N
+neighbors	eng	N
+my	eng	ADJ
+dad	eng	N
+my	eng	ADJ
+dad's	eng	N
+old	eng	ADJ
+neighborhood	eng	N
+
+uhhuh	eng	IM
+
+uhhuh	eng	IM
+
+uhhuh	eng	IM
+
+no	eng	ADV
+
+mmhm	eng	IM
+
+and	eng	CONJ
+we	eng	PRON
+were	eng	V
+testing	eng	V
+some	eng	ADJ
+things	eng	N
+that	eng	CONJ
+we	eng	PRON
+had	eng	V
+bought	eng	V
+from	eng	PREP
+Chico's	eng&spa	name
+
+vos	spa	PRON
+sabés	spa	V
+que	spa	CONJ
+me	spa	PRON
+estoy	spa	V
+me	spa	PRON
+sofoco	spa	V
+con	spa	PREP
+la	spa	DET
+llamada	spa	N
+en	spa	PREP
+los	spa	DET
+hoteles	spa	N
+
+ah	spa	IM
+huevo	spa	N
+
+me	spa	PRON
+entendés	spa	V
+
+y	spa	CONJ
+vino	spa	V
+con	spa	PREP
+la	spa	DET
+novia	spa	N
+
+y	spa	CONJ
+después	spa	ADV
+fuimos	spa	V
+a	spa	PREP
+un	spa	DET
+house_party	eng	unk
+en	spa	PREP
+la	spa	DET
+casa	spa	N
+de	spa	PREP
+un	spa	DET
+amigo	spa	N
+de	spa	PREP
+él	spa	PRON
+
+mmhm	eng	IM
+
+nada	spa	PRON
+del	spa	PREP+DET
+otro	spa	ADJ
+mundo	spa	N
+la	spa	DET
+verdad	spa	N
+
+ella	spa	PRON
+está	spa	V
+clavada	spa	V
+con	spa	PREP
+con	spa	PREP
+su	spa	ADJ
+Ruto	eng&spa	name
+
+sí	spa	ADV
+
+a	spa	PREP
+huevo	spa	N
+
+y	spa	CONJ
+yo	spa	PRON
+ok	eng&spa	unk
+pues	spa	CONJ
+
+le	spa	PRON
+digo	spa	V
+entonces	spa	ADV
+
+entonces	spa	ADV
+le	spa	PRON
+digo	spa	V
+
+es	spa	V
+que	spa	CONJ
+como	spa	CONJ
+que	spa	CONJ
+me	spa	PRON
+están	spa	V
+están	spa	V
+cambiando	spa	V
+mi	spa	ADJ
+mi	spa	ADJ
+mi	spa	ADJ
+mi	spa	ADJ
+vida	spa	N
+y	spa	CONJ
+mi	spa	ADJ
+rumbo	spa	N
+me	spa	PRON
+entendés	spa	V
+entonces	spa	ADV
+
+pero	spa	CONJ
+te	spa	PRON
+vas	spa	V
+a	spa	PREP
+ir	spa	V
+todo	spa	ADJ
+el	spa	DET
+summer	eng	N
+para	spa	PREP
+allá	spa	ADV
+
+no	spa	ADV
+no	spa	ADV
+no	spa	ADV
+no	spa	ADV
+creo	spa	V
+
+sí	spa	ADV
+bueno	spa	ADJ
+tal	spa	ADJ
+vez	spa	N
+podés	spa	V
+hacer	spa	V
+se	spa	PRON
+pueda	spa	V
+hacer	spa	V
+con	spa	PREP
+Univisión	eng&spa	name
+me	spa	PRON
+entendés	spa	V
+
+ahí	spa	ADV
+vi	spa	V
+que	spa	CONJ
+ah	spa	IM
+conociste	spa	V
+a	spa	PREP
+los	spa	DET
+de	spa	PREP
+Rebelde	eng&spa	name
+
+we	eng	PRON
+wanna	eng	V
+do	eng	V
+like	eng	CONJ
+algo	spa	PRON
+bacanal	spa	N
+me	spa	PRON
+entendés	spa	V
+vamos	spa	V
+
+a	spa	PREP
+huevo	spa	N
+
+o	spa	CONJ
+no	spa	ADV
+sé	spa	V
+
+claro	spa	E
+gracias	spa	E
+gracias	spa	E
+
+porque	spa	CONJ
+yo	spa	PRON
+tengo	spa	V
+siglos	spa	N
+de	spa	PREP
+no	spa	ADV
+ir	spa	V
+a	spa	PREP
+a	spa	PREP
+bailar	spa	V
+a	spa	PREP
+bailar	spa	V
+me	spa	PRON
+entendés	spa	V
+
+ah	spa	IM
+pues	spa	CONJ
+semana	spa	N
+santa	spa	ADJ
+no	spa	ADV
+
+y	spa	CONJ
+a	spa	PREP
+ver	spa	V
+pues	spa	CONJ
+a	spa	PREP
+ver	spa	V
+qué	spa	INT
+onda	spa	N
+pues	spa	CONJ
+que	spa	CONJ
+que	spa	CONJ
+demos	spa	V
+una	spa	DET
+salidita	spa	N
+no	spa	ADV
+sé	spa	V
+
+le	spa	PRON
+dicen	spa	V
+
+sí	spa	ADV
+
+qué	spa	INT
+sé	spa	V
+yo	spa	PRON
+
+pero	spa	CONJ
+no	spa	ADV
+
+entonces	spa	ADV
+pero	spa	CONJ
+todo	spa	ADJ
+tranquilón	spa	ADJ
+
+sí	spa	ADV
+no	spa	ADV
+sí	spa	ADV
+yo	spa	PRON
+no	spa	ADV
+tengo	spa	V
+ninguno	spa	PRON
+de	spa	PREP
+los	spa	DET
+dos	spa	NUM
+en	spa	PREP
+Facebook	eng&spa	name
+
+pero	spa	CONJ
+ese	spa	PRON
+nunca	spa	ADV
+responde	spa	V
+
+no	spa	ADV
+sé	spa	V
+si	spa	CONJ
+la	spa	PRON
+has	spa	V
+visto	spa	V
+
+vos	spa	PRON
+me	spa	PRON
+contastes	spa	V
+que	spa	CONJ
+yo	spa	PRON
+le	spa	PRON
+había	spa	V
+puesto	spa	V
+pocket_person	eng&spa	unk
+
+dice	spa	V
+el	spa	DET
+
+pero	spa	CONJ
+el	spa	DET
+maje	spa	N
+dice	spa	V
+no	spa	ADV
+sé	spa	V
+
+y	spa	CONJ
+no	spa	ADV
+sé	spa	V
+si	spa	CONJ
+valdría	spa	V
+la	spa	DET
+pena	spa	N
+pues	spa	CONJ
+llegar	spa	V
+para	spa	PREP
+trabajar	spa	V
+me	spa	PRON
+entendés	spa	V
+sólo	spa	ADV
+por	spa	PREP
+un	spa	DET
+mes	spa	N
+o	spa	CONJ
+algo	spa	PRON
+así	spa	ADV
+
+sí	spa	ADV
+en	spa	PREP
+un	spa	DET
+mes	spa	N
+puede	spa	V
+ganarse	spa	V
+sus	spa	ADJ
+trescientos	spa	N
+
+yo	spa	PRON
+no	spa	ADV
+leo	spa	V
+
+no	spa	ADV
+sé	spa	V
+qué	spa	INT
+está	spa	V
+pasando	spa	V
+
+y	spa	CONJ
+no	spa	ADV
+jodás	spa	V
+
+no	spa	ADV
+
+pero	spa	CONJ
+bueno	spa	E
+
+entonces	spa	ADV
+le	spa	PRON
+digo	spa	V
+yo	spa	PRON
+
+y	spa	CONJ
+este	spa	ADJ
+muchacho	spa	N
+
+muebles	spa	N
+vienen	spa	V
+de	spa	PREP
+Italia	spa	name
+
+yeah	eng	ADV
+
+yacht	eng	N
+interiors	eng	N
+
+pero	spa	CONJ
+estaba	spa	V
+bonito	spa	ADJ
+el	spa	DET
+muchacho	spa	N
+
+no	spa	ADV
+no	spa	ADV
+no	spa	ADV
+me	spa	PRON
+debe	spa	V
+el	spa	DET
+cheque	spa	N
+
+like	eng	V
+it	eng	PRON
+doesn't	eng	V
+recognise	eng	V
+the	eng	DET
+printer	eng	N
+that	eng	CONJ
+they	eng	PRON
+gave	eng	V
+me	eng	PRON
+
+powder	eng	N
+powder	eng	N
+powder	eng	N
+
+powder	eng	N
+polvo	spa	N
+
+es	spa	V
+un	spa	DET
+polvo	spa	N
+negro	spa	ADJ
+
+eso	spa	PRON
+es	spa	V
+lo	spa	DET
+que	spa	PRON
+dice	spa	V
+ahí	spa	ADV
+mismito	spa	ADJ
+en	spa	PREP
+la	spa	DET
+careta	spa	N
+dice	spa	V
+fax	eng	unk
+laser	eng	N
+copy	eng	N
+
+did	eng	V
+you	eng	PRON
+download	eng	unk
+did	eng	V
+you	eng	PRON
+download	eng	unk
+the	eng	DET
+
+so	eng	ADV
+you're	eng	PRON
+looking	eng	V
+
+porque	spa	CONJ
+esa	spa	PRON
+es	spa	V
+la	spa	DET
+diferencia	spa	N
+
+no	spa	ADV
+espérate	spa	V
+
+sí	spa	ADV
+
+oh	eng&spa	IM
+o_k	eng&spa	IM
+
+el	spa	DET
+qué	spa	INT
+
+uhhuh	eng	IM
+
+no	spa	ADV
+le	spa	PRON
+pagan	spa	V
+
+pero	spa	CONJ
+que	spa	CONJ
+tiene	spa	V
+que	spa	CONJ
+entrar	spa	V
+ver	spa	V
+si	spa	CONJ
+todo	spa	PRON
+está	spa	V
+limpio	spa	ADJ
+que	spa	CONJ
+si	spa	CONJ
+algo	spa	PRON
+falta	spa	N
+que	spa	PRON
+si	spa	CONJ
+esto	spa	PRON
+aquello	spa	PRON
+que	spa	PRON
+llame	spa	V
+que	spa	CONJ
+que	spa	CONJ
+él	spa	PRON
+verifique	spa	V
+
+we	eng	PRON
+can	eng	V
+move	eng	V
+over	eng	ADV
+there	eng	ADV
+if	eng	CONJ
+you	eng	PRON
+want	eng	V
+
+I	eng	PRON
+don't	eng	V
+know	eng	V
+the	eng	DET
+phone	eng	N
+number	eng	ADJ
+
+in	eng	PREP
+the	eng	DET
+I	eng	PRON
+can	eng	V
+round	eng	ADJ
+it	eng	PRON
+off	eng	ADV
+to	eng	PREP
+two	eng	NUM
+
+ah	eng&spa	IM
+estamos	spa	V
+jodidos	spa	V
+
+no	spa	ADV
+pero	spa	CONJ
+te	spa	PRON
+digo	spa	V
+
+tú	spa	PRON
+fuiste	spa	V
+la	spa	DET
+que	spa	PRON
+hablaste	spa	V
+del	spa	PREP+DET
+restaurant	eng	N
+
+I	eng	PRON
+not	eng	ADV
+I	eng	PRON
+not	eng	ADV
+talking	eng	SV
+about	eng	PREP
+restaurant	eng	N
+
+ew	eng	unk
+
+de	spa	PREP
+dónde	spa	INT
+
+uhhuh	eng	IM
+
+ven	spa	V
+acá	spa	ADV
+
+no	spa	ADV
+pero	spa	CONJ
+eso	spa	PRON
+fue	spa	V
+a	spa	PREP
+las	spa	DET
+diez	spa	NUM
+de	spa	PREP
+la	spa	DET
+mañana	spa	N
+
+uhhuh	eng	IM
+pero	spa	CONJ
+por	spa	PREP
+la	spa	DET
+mitad	spa	N
+del	spa	PREP+DET
+the	eng	DET
+hotdog	eng	unk
+is	eng	V
+one	eng	PRON
+dollar	eng	N
+
+y	spa	CONJ
+entonces	spa	ADV
+tú	spa	PRON
+coges	spa	V
+
+quiere	spa	V
+decir	spa	V
+que	spa	CONJ
+yo	spa	PRON
+no	spa	ADV
+tengo	spa	V
+que	spa	CONJ
+comer	spa	V
+pan	spa	N
+cuando	spa	CONJ
+yo	spa	PRON
+como	spa	V
+hotdog	eng	unk
+
+no	spa	ADV
+
+sí	spa	ADV
+pero	spa	CONJ
+es	spa	V
+
+y	spa	CONJ
+yo	spa	PRON
+me	spa	PRON
+lo	spa	PRON
+como	spa	V
+
+te	spa	PRON
+dije	spa	V
+me	spa	PRON
+me	spa	PRON
+van	spa	V
+a	spa	PREP
+durar	spa	V
+dos	spa	NUM
+paychecks	eng	N
+más	spa	ADV
+dos	spa	NUM
+dos	spa	NUM
+pagos	spa	N
+
+van	spa	V
+a	spa	PREP
+estar	spa	V
+aproximadamente	spa	ADV
+aquí	spa	ADV
+
+ya	spa	ADV
+
+well	eng	ADV
+yeah	eng	ADV
+it'll	eng	PRON
+be	eng	V
+fun	eng	N
+
+tengo	spa	V
+junio	spa	N
+julio	spa	N
+y	spa	CONJ
+agosto	spa	N
+si	spa	CONJ
+lo	spa	PRON
+separo	spa	V
+
+dice	spa	V
+él	spa	PRON
+
+pero	spa	CONJ
+es	spa	V
+de	spa	PREP
+esos	spa	PRON
+de	spa	PREP
+que	spa	CONJ
+él	spa	PRON
+él	spa	PRON
+se	spa	PRON
+siente	spa	V
+como	spa	CONJ
+que	spa	CONJ
+lo	spa	PRON
+está	spa	V
+
+no	spa	ADV
+creo	spa	V
+
+no	spa	ADV
+sé	spa	V
+
+I	eng	PRON
+know	eng	V
+
+y	spa	CONJ
+no	spa	ADV
+lo	spa	DET
+al	spa	PREP+DET
+lo	spa	PRON
+alquila	spa	V
+no	spa	ADV
+lo	spa	DET
+
+ella	spa	PRON
+está	spa	V
+un	spa	DET
+poco	spa	ADJ
+verde	spa	ADJ
+para	spa	PREP
+
+no	spa	ADV
+
+uhuh	eng	IM
+
+that's	eng	DEM
+a	eng	DET
+good	eng	ADJ
+idea	eng	N
+
+I'll	eng	PRON
+go	eng	V
+by	eng	PREP
+myself	eng	PRON
+
+y	spa	CONJ
+que	spa	CONJ
+te	spa	PRON
+diga	spa	V
+esto	spa	PRON
+es	spa	V
+así	spa	ADV
+
+hay	spa	V
+no	spa	ADV
+hay	spa	V
+no	spa	ADV
+hay	spa	V
+cuatro	spa	NUM
+mil	spa	NUM
+
+y	spa	CONJ
+lo	spa	PRON
+instalo	spa	V
+yo	spa	PRON
+
+mmhm	eng	IM
+
+Cinematec	eng&spa	name
+
+los	spa	DET
+los	spa	DET
+shorts	eng	ADJ+PV
+the	eng	DET
+shorts	eng	ADJ+PV
+films	eng	N
+que	spa	PRON
+que	spa	CONJ
+nominaron	spa	V
+para	spa	PREP
+los	spa	DET
+Oscars	eng&spa	name
+
+casi	spa	ADV
+todos	spa	ADJ
+son	spa	N
+de	spa	PREP
+otros	spa	ADJ
+países	spa	N
+
+eso	spa	PRON
+sí	spa	ADV
+que	spa	CONJ
+quisiera	spa	V
+
+y	spa	CONJ
+vamos	spa	V
+
+Juanita	eng&spa	name
+no	spa	ADV
+me	spa	PRON
+dice	spa	V
+que	spa	CONJ
+no	spa	ADV
+pero	spa	CONJ
+
+es	spa	V
+for	eng	PREP
+hunting	eng	SV
+
+que	spa	CONJ
+ahí	spa	ADV
+va	spa	V
+a	spa	PREP
+cazar	spa	V
+mi	spa	ADJ
+mi	spa	ADJ
+amigo	spa	N
+Mauricio	eng&spa	name
+
+cómo	spa	INT
+se	spa	PRON
+llama	spa	V
+la	spa	DET
+chava	spa	N
+esa	spa	PRON
+
+y	spa	CONJ
+entonces	spa	ADV
+en	spa	PREP
+cualquier	spa	ADJ
+en	spa	PREP
+en	spa	PREP
+cuanto	spa	N
+tienes	spa	V
+la	spa	DET
+oportunidad	spa	N
+se	spa	PRON
+cambia	spa	V
+el	spa	DET
+tema	spa	N
+
+estaba	spa	V
+I	eng	PRON
+love	eng	V
+when	eng	CONJ
+he	eng	PRON
+uses	eng	unk
+his	eng	ADJ
+hand	eng	N
+
+oh	eng&spa	IM
+
+so	eng	ADV
+then	eng	ADV
+tell	eng	SV
+them	eng	PRON
+that	eng	CONJ
+they	eng	PRON
+have	eng	V
+to	eng	PREP
+leave	eng	V
+again	eng	ADV
+
+entonces	spa	ADV
+she	eng	PRON
+um	eng	IM
+she	eng	PRON
+goes	eng	V
+to	eng	PREP
+me	eng	PRON
+
+no	eng	ADV
+but	eng	CONJ
+I	eng	PRON
+need	eng	V
+I	eng	PRON
+looked	eng	V
+up	eng	ADV
+her	eng	ADJ
+her	eng	ADJ
+stuff	eng	N
+
+um	eng	IM
+le	spa	PRON
+dije	spa	V
+
+la	spa	DET
+unión	spa	N
+me	spa	PRON
+va	spa	V
+a	spa	PREP
+botar	spa	V
+porque	spa	CONJ
+yo	spa	PRON
+no	spa	ADV
+estoy	spa	V
+
+she	eng	PRON
+goes	eng	V
+
+quinto	spa	ORD
+grado	spa	N
+como	spa	CONJ
+me	spa	PRON
+hizo	spa	V
+la	spa	DET
+principal	spa	ADJ
+de	spa	PREP
+de	spa	PREP
+la	spa	DET
+otra	spa	ADJ
+escuela	spa	N
+
+mmhm	eng	IM
+mmhm	eng	IM
+
+ah	eng&spa	IM
+entonces	spa	ADV
+la	spa	DET
+cosa	spa	N
+pasó	spa	V
+que	spa	CONJ
+ayer	spa	ADV
+durante	spa	PREP
+
+entonces	spa	ADV
+figúrate	spa	V
+
+the	eng	DET
+child	eng	N
+snuck	eng	N
+out	eng	ADV
+
+you	eng	PRON
+know	eng	V
+figúrate	spa	V
+
+because	eng	CONJ
+it	eng	PRON
+was	eng	V
+nap	eng	SV
+time	eng	N
+
+figúrate	spa	V
+it	eng	PRON
+looks	eng	V
+horrible	eng	ADJ
+on	eng	PREP
+the	eng	DET
+school	eng	N
+
+I	eng	PRON
+went	eng	V
+in	eng	PREP
+there	eng	ADV
+
+y	spa	CONJ
+tiene	spa	V
+personas	spa	N
+al	spa	PREP+DET
+lado	spa	N
+
+um	eng	IM
+y	spa	CONJ
+además	spa	ADV
+de	spa	PREP
+eso	spa	PRON
+ella	spa	PRON
+puede	spa	V
+estar	spa	V
+constantemente	spa	ADV
+chequeándole	spa	V
+los	spa	DET
+
+because	eng	CONJ
+ella	spa	PRON
+ella	spa	PRON
+es	spa	V
+un	spa	DET
+desastre	spa	N
+
+she	eng	PRON
+doesn't	eng	V
+have	eng	SV
+plans	eng	SV
+
+ella	spa	PRON
+no	spa	ADV
+toma	spa	V
+eso	spa	PRON
+en	spa	PREP
+serio	spa	ADJ
+
+entonces	spa	ADV
+yo	spa	PRON
+le	spa	PRON
+dije	spa	V
+
+para	spa	PREP
+mí	spa	PRON
+lo	spa	DET
+primero	spa	ADV
+
+so	eng	ADV
+I'm	eng	PRON
+going	eng	V
+by	eng	PREP
+the	eng	DET
+contract	eng	N
+
+it	eng	PRON
+may	eng	V
+be	eng	SV
+better	eng	ADJ
+for	eng	PREP
+her	eng	ADJ
+not	eng	ADV
+to	eng	PREP
+
+no	spa	ADV
+Paul	eng&spa	name
+uff	eng&spa	N
+
+oh	eng	IM
+that's	eng	DEM
+the	eng	DET
+one	eng	PRON
+that	eng	CONJ
+you	eng	PRON
+caught	eng	V
+going	eng	V
+through	eng	PREP
+your	eng	ADJ
+desk	eng	N
+over	eng	ADV
+here	eng	ADV
+
+ok	eng	unk
+
+para	spa	PREP
+el	spa	DET
+año	spa	N
+que	spa	PRON
+viene	spa	V
+you	eng	PRON
+know	eng	V
+to	eng	PREP
+put	eng	V
+him	eng	PRON
+on	eng	PREP
+schedule	eng	N
+for	eng	PREP
+to	eng	PREP
+go	eng	V
+and	eng	CONJ
+celebrate	eng	V
+mass	eng	N
+
+right	eng	ADJ
+
+no	eng	ADV
+
+yeah	eng	ADV
+he	eng	PRON
+could	eng	V
+be	eng	V
+baby_sitting	eng	unk
+
+esa	spa	ADJ
+mujer	spa	N
+todavía	spa	ADV
+no	spa	ADV
+me	spa	PRON
+ha	spa	V
+she	eng	PRON
+hasn't	eng	V
+given	eng	SV
+me	eng	PRON
+back	eng	ADV
+my	eng	ADJ
+grade	eng	N
+on	eng	PREP
+the	eng	DET
+presentation	eng	N
+
+and	eng	CONJ
+it	eng	PRON
+really	eng	ADJ+ADV
+bothers	eng	N
+me	eng	PRON
+that	eng	CONJ
+Peter	eng&spa	name
+got	eng	V
+a	eng	DET
+the	eng	DET
+same	eng	ADJ
+thing	eng	N
+that	eng	CONJ
+I	eng	PRON
+got	eng	V
+
+se	spa	PRON
+la	spa	PRON
+ponen	spa	V
+and	eng	CONJ
+like	eng	CONJ
+
+él	spa	PRON
+podía	spa	V
+escoger	spa	V
+o	spa	CONJ
+una	spa	DET
+inyección	spa	N
+o	spa	CONJ
+unas	spa	DET
+pastillas	spa	N
+tomarse	spa	V
+unas	spa	DET
+pastillas	spa	N
+o	spa	CONJ
+salir	spa	V
+para	spa	PREP
+la	spa	DET
+calle	spa	N
+y	spa	CONJ
+fajarse	spa	V
+contra	spa	PREP
+todo	spa	ADJ
+el	spa	DET
+mundo	spa	N
+
+yeah	eng	ADV
+
+because	eng	CONJ
+there	eng	ADV
+were	eng	V
+still	eng	ADJ
+some	eng	ADJ
+survivors	eng	N
+left	eng	ADJ
+
+but	eng	CONJ
+in	eng	PREP
+the	eng	DET
+book	eng	N
+there	eng	ADV
+is	eng	V
+a	eng	DET
+girl	eng	N
+that	eng	CONJ
+betrayed	eng	V
+him	eng	PRON
+que	spa	CONJ
+se	spa	PRON
+hace	spa	V
+pasar	spa	V
+por	spa	PREP
+humano	spa	ADJ
+
+y	spa	CONJ
+no	spa	ADV
+es	spa	V
+humano	spa	ADJ
+
+pero	spa	CONJ
+ella	spa	PRON
+se	spa	PRON
+estaba	spa	V
+curando	spa	V
+en	spa	PREP
+la	spa	DET
+en	spa	PREP
+la	spa	DET
+película	spa	N
+ella	spa	PRON
+se	spa	PRON
+estaba	spa	V
+curando	spa	V
+
+dude	eng	N
+you	eng	PRON
+you	eng	PRON
+you	eng	PRON
+saw	eng	V
+that	eng	CONJ
+the	eng	DET
+the	eng	DET
+the	eng	DET
+girl	eng	N
+was	eng	V
+breathing	eng	unk
+like	eng	CONJ
+like	eng	CONJ
+a	eng	DET
+lot	eng	N
+
+y	spa	CONJ
+y	spa	CONJ
+se	spa	PRON
+pone	spa	V
+monstruo	spa	N
+de	spa	PREP
+nuevo	spa	ADJ
+
+damn	eng	V
+
+y	spa	CONJ
+hablan	spa	V
+inglés	spa	ADJ
+y	spa	CONJ
+español	spa	ADJ
+
+yeah	eng	ADV
+
+who	eng	REL
+this	eng	DEM
+guy	eng	N
+
+ok	eng&spa	unk
+
+oh	eng	IM
+yeah	eng	ADV
+yeah	eng	ADV
+yeah	eng	ADV
+
+yeah	eng	ADV
+Wikipedia	eng&spa	name
+
+sale	spa	V
+él	spa	PRON
+sale	spa	V
+Micah	eng&spa	name
+
+did	eng	V
+you	eng	PRON
+see	eng	V
+that	eng	DEM
+part	eng	N
+
+you	eng	PRON
+you	eng	PRON
+didn't	eng	V
+see	eng	SV
+that	eng	DEM
+part	eng	N
+
+yeah	eng	ADV
+and	eng	CONJ
+Claire	eng&spa	name
+is	eng	V
+not	eng	ADV
+doesn't	eng	SV
+do	eng	SV
+do	eng	V
+anything	eng	PRON
+
+Nathan	eng&spa	name
+
+oh	eng	IM
+no	eng	ADV
+no	eng	ADV
+no	eng	ADV
+no	eng	ADV
+no	eng	ADV
+don't	eng	V
+tell	eng	V
+
+yeah	eng	ADV
+
+yeah	eng	ADV
+
+oh	eng	IM
+and	eng	CONJ
+then	eng	ADV
+someone	eng	PRON
+kills	eng	V
+him	eng	PRON
+
+some	eng	ADJ
+sometimes	eng	ADV
+sometimes	eng	ADV+PV
+
+yeah	eng	ADV
+
+yeah	eng	ADV
+
+the	eng	DET
+president	eng	N
+
+look	eng	V
+if	eng	CONJ
+you're	eng	PRON
+a	eng	DET
+good	eng	ADJ
+actor	eng	N
+you	eng	PRON
+could	eng	V
+do	eng	V
+anything	eng	PRON
+
+oh	eng	IM
+
+like	eng	CONJ
+the	eng	DET
+same	eng	ADJ
+movie	eng	N
+
+yeah	eng	ADV
+you	eng	PRON
+know	eng	V
+
+ah	eng&spa	IM
+
+yeah	eng	ADV
+
+el	spa	DET
+que	spa	PRON
+tiene	spa	V
+el	spa	DET
+el	spa	DET
+cubano	spa	ADJ
+que	spa	CONJ
+tiene	spa	V
+pelo	spa	V
+largo	spa	ADJ
+
+oh	eng	IM
+yeah	eng	ADV
+
+huh	eng	IM
+
+de	spa	PREP
+lo	spa	DET
+que	spa	PRON
+le	spa	PRON
+pasó	spa	V
+de	spa	PREP
+lo	spa	DET
+que	spa	PRON
+pasó	spa	V
+en	spa	PREP
+realidad	spa	N
+con	spa	PREP
+con	spa	PREP
+this	eng	DEM
+guy	eng	N
+uh	eng&spa	IM
+el	spa	DET
+que	spa	PRON
+adivina	spa	V
+el	spa	DET
+futuro	spa	N
+
+Nostradamus	eng&spa	name
+
+Elizabeth	eng&spa	name
+goes	eng	SV
+to	eng	PREP
+him	eng	PRON
+to	eng	PREP
+find	eng	V
+out	eng	ADV
+like	eng	CONJ
+what's	eng	REL+GB
+gonna	eng	V
+happen	eng	V
+in	eng	PREP
+the	eng	DET
+future	eng	N
+
+oh	spa	IM
+sí	spa	ADV
+
+the	eng	DET
+company	eng	N
+
+but	eng	CONJ
+you	eng	PRON
+see	eng	V
+what	eng	REL
+I'm	eng	PRON
+saying	eng	V
+is	eng	V
+they	eng	PRON
+should	eng	V
+not	eng	ADV
+give	eng	SV
+you	eng	PRON
+because	eng	CONJ
+they've	eng	PRON
+asked	eng	V
+you	eng	PRON
+to	eng	PREP
+format	eng	N
+a	eng	DET
+thousand	eng	NUM
+different	eng	ADJ
+ways	eng	N
+
+oh	eng&spa	IM
+
+we	eng	PRON
+should	eng	V
+get	eng	SV
+
+and	eng	CONJ
+they	eng	PRON
+probably	eng	ADV
+go	eng	SV
+into	eng	PREP
+house	eng	N
+I	eng	PRON
+think	eng	V
+all	eng	ADJ
+the	eng	DET
+time	eng	N
+and	eng	CONJ
+drink	eng	V
+
+como	spa	CONJ
+así	spa	ADV
+
+and	eng	CONJ
+and	eng	CONJ
+that's	eng	DEM
+it	eng	PRON
+
+y	spa	CONJ
+
+modified	eng	V
+them	eng	PRON
+
+no	eng	ADV
+but	eng	CONJ
+she	eng	PRON
+was	eng	V
+talking	eng	V
+to	eng	PREP
+me	eng	PRON
+about	eng	PREP
+the	eng	DET
+other	eng	ADJ
+day	eng	N
+
+it's	eng	PRON
+cute	eng	ADJ
+
+mami	spa	N
+
+no	spa	ADV
+
+llama	spa	V
+a	spa	PREP
+tu	spa	ADJ
+hermana	spa	N
+
+merecía	spa	V
+un	spa	DET
+poco	spa	ADJ
+de	spa	PREP
+crucificción	spa	N
+
+sí	spa	ADV
+pero	spa	CONJ
+
+and	eng	CONJ
+if	eng	CONJ
+you're	eng	PRON
+not	eng	ADV
+doing	eng	V
+quality	eng	N
+work	eng	N
+para	spa	PREP
+qué	spa	INT
+te	spa	PRON
+van	spa	V
+a	spa	PREP
+pagar	spa	V
+
+it's	eng	PRON
+just	eng	ADJ
+like	eng	CONJ
+some	eng	ADJ
+things	eng	N
+er	eng&spa	IM
+
+and	eng	CONJ
+then	eng	ADV
+we	eng	PRON
+went	eng	V
+over	eng	ADV
+the	eng	DET
+magnet	eng	N
+lessons	eng	N
+
+and	eng	CONJ
+he	eng	PRON
+knows	eng	V
+Bill_Lloyd	eng&spa	name
+
+Julie	eng&spa	name
+
+she	eng	PRON
+was	eng	V
+Jessica's	eng	name
+monkey	eng	N
+
+eh	eng&spa	IM
+eh	eng&spa	IM
+eh	eng&spa	IM
+
+but	eng	CONJ
+she	eng	PRON
+had	eng	V
+
+started	eng	V
+hitting	eng	ADJ+ASV
+him	eng	PRON
+with	eng	PREP
+the	eng	DET
+manguera	spa	N
+
+nothing	eng	PRON
+
+and	eng	CONJ
+the	eng	DET
+thing	eng	N
+opened	eng	unk
+
+no	eng	ADV
+because	eng	CONJ
+there's	eng	PRON+BE
+some	eng	ADJ
+people	eng	N
+like	eng	CONJ
+
+you	eng	PRON
+know	eng	V
+oh	eng	IM
+
+that's	eng	DEM
+pretty	eng	ADJ
+much	eng	ADJ
+the	eng	DET
+only	eng	ADJ
+thing	eng	N
+I'll	eng	PRON
+concede	eng	V
+I	eng	PRON
+I'll	eng	PRON
+I'll	eng	PRON
+give	eng	V
+
+it	eng	PRON
+doesn't	eng	V
+have	eng	SV
+the	eng	DET
+same	eng	ADJ
+connotation	eng	N
+you	eng	PRON
+know	eng	V
+
+it's	eng	PRON
+not	eng	ADV
+
+and	eng	CONJ
+then	eng	ADV
+you	eng	PRON
+have	eng	V
+a	eng	DET
+little	eng	ADJ
+
+ok	eng&spa	unk
+
+we	eng	PRON
+are	eng	V
+just	eng	ADV
+mincing	eng	V
+by	eng	PREP
+standards	eng	N
+but	eng	CONJ
+
+you	eng	PRON
+get	eng	V
+my	eng	ADJ
+email	eng	unk
+about	eng	PREP
+taking	eng	V
+advantage	eng	N
+that	eng	CONJ
+it's	eng	PRON
+a	eng	DET
+teacher	eng	N
+planning	eng	V
+day	eng	N
+
+so	eng	ADV
+there	eng	ADV
+are	eng	V
+no	eng	ADV
+kids	eng	N
+
+A	eng&spa	name
+es	spa	V
+cuestión	spa	N
+de	spa	PREP
+check	eng	SV
+it	eng	PRON
+through	eng	PREP
+that	eng	CONJ
+everything	eng	PRON
+is	eng	V
+ok	eng	unk
+
+you	eng	PRON
+know	eng	V
+
+that's	eng	DEM
+right	eng	ADJ
+
+the	eng	DET
+teachers	eng	N
+are	eng	V
+there	eng	ADV
+
+uh	eng	IM
+Monday	eng	name
+is	eng	V
+a	eng	DET
+legal	eng	ADJ
+holiday	eng	N
+
+check	eng	V
+if	eng	CONJ
+it's	eng	PRON
+done	eng	V
+it's	eng	PRON
+not	eng	ADV
+done	eng	AV
+whatever	eng	REL
+it	eng	PRON
+is	eng	V
+
+let	eng	V
+me	eng	PRON
+get	eng	SV
+some	eng	ADJ
+water	eng	N
+
+we	eng	PRON
+have	eng	V
+too	eng	ADV
+many	eng	ADJ
+eggs	eng	N
+
+huh	eng	IM
+
+uhhuh	eng	IM
+
+le	spa	PRON
+voy	spa	V
+a	spa	PREP
+comprar	spa	V
+a	spa	PREP
+Brian	eng&spa	name
+el	spa	DET
+bedspread	eng	N
+de	spa	PREP
+Diego	spa	name
+
+all	eng	ADJ
+those	eng	DEM
+people	eng	N
+come	eng	N
+in	eng	PREP
+and	eng	CONJ
+back	eng	ADV
+in	eng	PREP
+
+uhhuh	eng	IM
+
+esa	spa	PRON
+es	spa	V
+capaz	spa	ADJ
+que	spa	CONJ
+le	spa	PRON
+de	spa	PREP
+a	spa	PREP
+lo	spa	DET
+breastfeed	eng	unk
+hasta	spa	PREP
+que	spa	CONJ
+el	spa	DET
+chiquito	spa	ADJ
+tiene	spa	V
+diez	spa	NUM
+años	spa	N
+
+dice	spa	V
+Lorrie	eng&spa	name
+
+no	spa	ADV
+va	spa	V
+a	spa	PREP
+poder	spa	N
+
+pa	spa	unk
+pasar	spa	V
+frío	spa	ADJ
+tú	spa	PRON
+estás	spa	V
+loca	spa	ADJ
+
+yeah	eng	ADV
+
+me	spa	PRON
+voy	spa	V
+a	spa	PREP
+echar	spa	V
+agua	spa	N
+
+ok	eng&spa	unk
+
+and	eng	CONJ
+then	eng	ADV
+of	eng	PREP
+course	eng	N
+I'm	eng	PRON
+really	eng	ADJ+ADV
+eating	eng	unk
+cheese	eng	N
+
+mi	spa	ADJ
+mamá	spa	N
+tiene	spa	V
+una	spa	DET
+mata	spa	V
+con	spa	PREP
+
+how	eng	ADV
+long	eng	ADJ
+is	eng	V
+the	eng	DET
+flight	eng	N
+
+no	eng&spa	ADV
+
+you	eng	PRON
+have	eng	V
+some	eng	ADJ
+
+and	eng	CONJ
+I	eng	PRON
+went	eng	V
+
+that	eng	CONJ
+looks	eng	V
+really	eng	ADJ+ADV
+bad	eng	ADJ
+
+she	eng	PRON
+she	eng	PRON
+is	eng	V
+a	eng	DET
+linguist	eng	N
+
+you	eng	PRON
+know	eng	V
+the	eng	DET
+tiny	eng	ADJ
+little	eng	ADJ
+one	eng	PRON
+
+right	eng	ADJ
+right	eng	ADJ
+
+so	eng	ADV
+
+nieve	spa	N
+
+eso	spa	PRON
+es	spa	V
+horse	eng	N
+country	eng	N
+
+it's	eng	PRON
+horse	eng	N
+country	eng	N
+
+el	spa	DET
+seventy	eng	NUM
+five	eng	NUM
+right	eng	ADJ
+
+no	spa	ADV
+no	spa	ADV
+no	spa	ADV
+
+so	eng	ADV
+you	eng	PRON
+see	eng	V
+the	eng	DET
+big	eng	ADJ
+properties	eng	N
+with	eng	PREP
+you	eng	PRON
+know	eng	V
+you	eng	PRON
+know	eng	V
+the	eng	DET
+trees	eng	N
+
+good	eng	ADJ
+job	eng	N
+dear	eng	ADJ
+
+so	eng	ADV
+it	eng	PRON
+doesn't	eng	V
+get	eng	SV
+any	eng	ADJ
+sun	eng	N
+
+no	spa	ADV
+
+right	eng	ADJ
+right	eng	ADJ
+right	eng	ADJ
+right	eng	ADJ
+right	eng	ADJ
+right	eng	ADJ
+right	eng	ADJ
+
+pues	spa	CONJ
+sí	spa	ADV
+el	spa	DET
+vi	spa	V
+
+y	spa	CONJ
+acá	spa	ADV
+decía	spa	V
+seventy	eng	NUM
+four	eng	NUM
+
+le	spa	PRON
+digo	spa	V
+
+we	eng	PRON
+get	eng	V
+no	eng	ADV
+direct	eng	N
+sun	eng	N
+we	eng	PRON
+get	eng	V
+
+mi	spa	ADJ
+carro	spa	N
+tiene	spa	V
+un	spa	DET
+thermostat	eng	N
+que	spa	PRON
+te	spa	PRON
+dice	spa	V
+you	eng	PRON
+know	eng	V
+
+you	eng	PRON
+heat	eng	N
+it	eng	PRON
+
+thirty_six	eng	unk
+
+pero	spa	CONJ
+cuando	spa	CONJ
+I	eng	PRON
+dropped	eng	N
+the	eng	DET
+groceries	eng	N
+and	eng	CONJ
+I	eng	PRON
+left	eng	ADJ
+decía	spa	V
+treinta_y_nueve	spa	unk
+
+y	spa	CONJ
+le	spa	PRON
+digo	spa	V
+coño	spa	E
+
+nunca	spa	ADV
+lo	spa	PRON
+he	spa	V
+usado	spa	V
+
+so	eng	ADV
+when	eng	CONJ
+I	eng	PRON
+got	eng	V
+in	eng	PREP
+the	eng	DET
+car	eng	N
+yesterday	eng	N
+I	eng	PRON
+went	eng	V
+
+so	eng	ADV
+I	eng	PRON
+was	eng	V
+like	eng	CONJ
+
+but	eng	CONJ
+can't	eng	V
+he	eng	PRON
+do	eng	V
+something	eng	PRON
+about	eng	PREP
+it	eng	PRON
+
+yo	spa	PRON
+me	spa	PRON
+acuerdo	spa	N
+la	spa	DET
+única	spa	ADJ
+vez	spa	N
+que	spa	PRON
+
+right	eng	ADJ
+
+y	spa	CONJ
+ti	spa	PRON
+bueno	spa	E
+tiene	spa	V
+dos	spa	NUM
+papás	spa	N
+which	eng	REL
+can	eng	V
+be	eng	V
+a	eng	DET
+little	eng	ADJ
+can	eng	V
+be	eng	V
+a	eng	DET
+little	eng	ADJ
+challenging	eng	N
+
+that's	eng	DEM
+great	eng	ADJ
+
+because	eng	CONJ
+it	eng	PRON
+wasn't	eng	V
+recording	eng	V
+
+yo	spa	PRON
+le	spa	PRON
+invité	spa	V
+pa	spa	unk
+Easter	eng	N
+porque	spa	CONJ
+me	spa	PRON
+daba	spa	V
+pena	spa	N
+el	spa	DET
+pobre	spa	ADJ
+aquí	spa	ADV
+solo	spa	ADJ
+sin	spa	PREP
+familia	spa	N
+ni	spa	CONJ
+nada	spa	PRON
+
+so	eng	ADV
+we	eng	PRON
+had	eng	V
+him	eng	PRON
+over	eng	ADV
+for	eng	PREP
+Easter	eng	N
+
+poor	eng	ADJ
+Katie	eng&spa	name
+and	eng	CONJ
+Rosa	spa	name
+and	eng	CONJ
+you	eng	PRON
+know	eng	V
+
+oye	spa	V
+y	spa	CONJ
+compraron	spa	V
+un	spa	DET
+suitcase	eng	N
+con	spa	PREP
+un	spa	DET
+briefcase	spa	unk
+
+did	eng	V
+he	eng	PRON
+just	eng	ADV
+get	eng	V
+it	eng	PRON
+
+Miguel	spa	name
+
+that's	eng	DEM
+really	eng	ADJ+ADV
+cheap	eng	ADJ
+
+a	spa	PREP
+ver	spa	V
+
+y	spa	CONJ
+él	spa	PRON
+no	spa	ADV
+tiene	spa	V
+una	spa	DET
+pila	spa	N
+de	spa	PREP
+hijos	spa	N
+con	spa	PREP
+otra	spa	ADJ
+gente	spa	N
+con	spa	PREP
+otra	spa	ADJ
+mujer	spa	N
+
+too	eng	ADV
+f	eng&spa	unk
+ay	eng&spa	ADJ+SM
+no	eng&spa	ADV
+
+y	spa	CONJ
+dónde	spa	INT
+está	spa	V
+el	spa	DET
+azul	spa	ADJ
+
+with	eng	PREP
+none	eng	PRON
+of	eng	PREP
+us	eng	PRON
+none	eng	PRON
+four	eng	NUM
+
+nada	spa	PRON
+
+ay	spa	IM
+please	eng	SV
+
+it's	eng	PRON
+not	eng	ADV
+you	eng	PRON
+and	eng	CONJ
+my	eng	ADJ
+work	eng	N
+
+qué	spa	INT
+decía	spa	V
+aquí	spa	ADV
+
+yes	eng	ADV
+they	eng	PRON
+will	eng	V
+
+fraternal	eng	ADJ
+twins	eng	ADJ+PV
+would	eng	V
+
+and	eng	CONJ
+they	eng	PRON
+did	eng	V
+in	eng	PREP
+they	eng	PRON
+did	eng	V
+in	eng	PREP
+vitro	eng	unk
+
+so	eng	ADV
+they	eng	PRON
+only	eng	ADJ
+put	eng	V
+one	eng	PRON
+egg	eng	N
+in	eng	PREP
+
+y	spa	CONJ
+cayeron	spa	V
+tres	spa	NUM
+idénticos	spa	ADJ
+
+tú	spa	PRON
+te	spa	PRON
+imaginas	spa	V
+
+Pam	eng&spa	name
+dio	spa	V
+esa	spa	ADJ
+opción	spa	N
+
+I	eng	PRON
+really	eng	ADJ+ADV
+don't	eng	V
+like	eng	CONJ
+it	eng	PRON
+
+I	eng	PRON
+had	eng	V
+one	eng	PRON
+of	eng	PREP
+the	eng	DET
+best	eng	ADJ
+pregnancies	eng	N
+ever	eng	ADV
+
+eh	eng&spa	IM
+y	spa	CONJ
+el	spa	DET
+hombre	spa	N
+me	spa	PRON
+me	spa	PRON
+el	spa	DET
+tipo	spa	N
+el	spa	DET
+muchacho	spa	N
+agrable	spa	unk
+me	spa	PRON
+dice	spa	V
+
+eh	eng&spa	IM
+pueden	spa	V
+ver	spa	V
+que	spa	CONJ
+sí	spa	ADV
+les	spa	PRON
+les	spa	PRON
+conviene	spa	V
+o	spa	CONJ
+no	spa	ADV
+les	spa	PRON
+conviene	spa	V
+
+yo	spa	PRON
+no	spa	ADV
+lo	spa	PRON
+había	spa	V
+llamado	spa	V
+porque	spa	CONJ
+Pedro	eng&spa	name
+había	spa	V
+dicho	spa	V
+
+me	spa	PRON
+dice	spa	V
+
+mira	spa	V
+aquí	spa	ADV
+el	spa	DET
+effective	eng	ADJ
+date	eng	N
+de	spa	PREP
+tu	spa	ADJ
+póliza	spa	N
+es	spa	V
+julio	spa	N
+del	spa	PREP+DET
+ochenta	spa	NUM
+y	spa	CONJ
+cinco	spa	NUM
+
+bueno	spa	E
+está	spa	V
+tan	spa	ADV
+cerca	spa	N
+de	spa	PREP
+cien	spa	NUM
+mil	spa	NUM
+
+a	spa	PREP
+ver	spa	V
+si	spa	CONJ
+basado	spa	V
+en	spa	PREP
+la	spa	DET
+gente	spa	N
+de	spa	PREP
+la	spa	DET
+edad	spa	N
+de	spa	PREP
+él	spa	PRON
+cuánta	spa	ADJ
+si	spa	CONJ
+se	spa	PRON
+mueren	spa	V
+etc	spa	ADV
+etc	spa	ADV
+etc	spa	ADV
+
+eso	spa	PRON
+es	spa	V
+lo	spa	DET
+que	spa	PRON
+hacen	spa	V
+ellos	spa	PRON
+
+she	eng	PRON
+is	eng	V
+not	eng	ADV
+a	eng	DET
+cling	eng	unk
+new	eng	ADJ
+one	eng	PRON
+
+en	spa	PREP
+el	spa	DET
+right	eng	ADJ
+
+déjame	spa	V
+ponerme	spa	V
+en	spa	PREP
+mi	spa	ADJ
+en	spa	PREP
+mi	spa	ADJ
+calendar	eng	N
+
+porque	spa	CONJ
+you	eng	PRON
+know	eng	V
+me	eng	PRON
+I	eng	PRON
+forget	eng	V
+things	eng	N
+
+she	eng	PRON
+was	eng	V
+like	eng	CONJ
+
+a	eng	DET
+chlorified	eng	unk
+cage	eng	N
+
+ahí	spa	ADV
+está	spa	V
+
+nosotros	spa	PRON
+no	spa	ADV
+somos	spa	V
+los	spa	DET
+únicos	spa	ADJ
+
+sí	spa	ADV
+sí	spa	ADV
+sí	spa	ADV
+pero	spa	CONJ
+they	eng	PRON
+they	eng	PRON
+just	eng	ADJ
+
+right	eng	ADJ
+right	eng	ADJ
+right	eng	ADJ
+
+they're	eng	PRON
+mostly	eng	ADJ+ADV
+engineers	eng	N
+
+which	eng	REL
+means	eng	N
+we	eng	PRON
+need	eng	V
+to	eng	PREP
+be	eng	V
+diligent	eng	ADJ
+
+pero	spa	CONJ
+la	spa	DET
+la	spa	DET
+
+so	eng	ADV
+is	eng	V
+very	eng	ADV
+easy	eng	ADJ
+to	eng	PREP
+hang	eng	V
+out	eng	ADV
+
+es	spa	V
+un	spa	DET
+imagínate	spa	V
+el	spa	DET
+salón	spa	N
+de	spa	PREP
+nosotros	spa	PRON
+de	spa	PREP
+conferencias	spa	N
+chiquito	spa	ADJ
+
+mira	spa	V
+eh	spa	IM
+eh	spa	IM
+
+you	eng	PRON
+know	eng	V
+
+you	eng	PRON
+know	eng	V
+
+but	eng	CONJ
+actually	eng	ADJ+ADV
+Jack	spa	name
+is	eng	V
+not	eng	ADV
+as	eng	CONJ
+messy	eng	ADJ
+
+you	eng	PRON
+don't	eng	V
+use	eng	V
+
+Paula	spa	name
+says	eng	N
+this	eng	DEM
+morning	eng	N
+
+and	eng	CONJ
+I	eng	PRON
+got	eng	V
+a	eng	DET
+little	eng	ADJ
+feet	eng	N
+
+he's	eng	PRON
+got	eng	V
+a	eng	DET
+very	eng	ADV
+good	eng	ADJ
+memory	eng	N
+
+they	eng	PRON
+think	eng	V
+I'm	eng	PRON
+a	eng	DET
+new	eng	ADJ
+customer	eng	N
+
+you	eng	PRON
+know	eng	V
+
+y	spa	CONJ
+Hannah	eng&spa	name
+también	spa	ADV
+
+stone	eng	N
+
+es	spa	V
+un	spa	DET
+big	eng	ADJ
+big	eng	ADJ
+
+you	eng	PRON
+know	eng	V
+
+Sam	eng&spa	name
+
+it's	eng	PRON
+open	eng	ADJ
+
+están	spa	V
+muy	spa	ADV
+malcriados	spa	unk
+
+con	spa	PREP
+at	eng	PREP
+least	eng	ADJ
+is	eng	V
+fat	eng	N
+free	eng	ADJ
+milk	eng	N
+
+me	spa	PRON
+dice	spa	V
+el	spa	DET
+otro	spa	ADJ
+día	spa	N
+
+it	eng	PRON
+it	eng	PRON
+doesn't	eng	V
+matter	eng	ADJ
+that	eng	CONJ
+it's	eng	PRON
+fat	eng	N
+free	eng	ADJ
+milk	eng	N
+
+oh	eng&spa	IM
+y	spa	CONJ
+qué	spa	INT
+dices	spa	V
+de	spa	PREP
+ella	spa	PRON
+
+sant_michel	spa	unk
+
+y	spa	CONJ
+el	spa	DET
+el	spa	DET
+too	eng	ADV
+far	eng	ADV
+
+no	eng&spa	ADV
+
+oh	eng&spa	IM
+his	eng	ADJ
+
+sí	spa	ADV
+la	spa	DET
+comida	spa	N
+de	spa	PREP
+allá	spa	ADV
+es	spa	V
+una	spa	DET
+mierda	spa	N
+anyway	eng	ADV
+
+no	spa	ADV
+no	spa	ADV
+no	spa	ADV
+la	spa	DET
+comida	spa	N
+
+para	spa	PREP
+el	spa	DET
+carajo	spa	N
+
+don't	eng	V
+tell	eng	V
+me	eng	PRON
+there's	eng	PRON+BE
+one	eng	PRON
+on	eng	PREP
+my	eng	ADJ
+rose	eng	N
+
+right	eng	ADJ
+
+aunque	spa	CONJ
+you	eng	PRON
+know	eng	V
+what	eng	REL
+
+they're	eng	PRON
+
+you	eng	PRON
+see	eng	V
+here	eng	ADV
+
+although	eng	CONJ
+you	eng	PRON
+do	eng	V
+describe	eng	SV
+them	eng	PRON
+almost	eng	ADV
+
+o_k	eng&spa	IM
+
+when	eng	CONJ
+is	eng	V
+the	eng	DET
+tenth	eng	ORD
+
+yeah	eng	ADV
+
+right	eng	ADJ
+
+sí	spa	ADV
+
+y	spa	CONJ
+de	spa	PREP
+dónde	spa	INT
+tú	spa	PRON
+sacaste	spa	V
+tanto	spa	ADJ
+caramelo	spa	N
+
+pero	spa	CONJ
+por	spa	PREP
+qué	spa	INT
+ella	spa	PRON
+tiene	spa	V
+tanto	spa	ADJ
+caramelo	spa	N
+
+oh	spa	IM
+tantos	spa	ADJ
+huevos	spa	N
+consiguieron	spa	V
+
+cómo	spa	INT
+le	spa	PRON
+van	spa	V
+a	spa	PREP
+poner	spa	V
+un	spa	DET
+nombre	spa	N
+de	spa	PREP
+un	spa	DET
+criminal	spa	ADJ
+al	spa	PREP+DET
+a	spa	PREP
+la	spa	DET
+a	spa	PREP
+la	spa	DET
+Corte	spa	name
+
+yo	spa	PRON
+creo	spa	V
+que	spa	CONJ
+están	spa	V
+en	spa	PREP
+el	spa	DET
+la	spa	DET
+oficina	spa	N
+in	eng	PREP
+that	eng	DEM
+little	eng	ADJ
+niche	eng	N
+
+están	spa	V
+en	spa	PREP
+están	spa	V
+están	spa	V
+en	spa	PREP
+el	spa	DET
+en	spa	PREP
+la	spa	DET
+oficina	spa	N
+en	spa	PREP
+el	spa	DET
+other	eng	ADJ
+niche	eng	N
+
+coño	spa	E
+pareciera	spa	V
+turista	spa	N
+
+no	spa	ADV
+aceite	spa	N
+de	spa	PREP
+
+when	eng	CONJ
+nobody	eng	PRON
+else	eng	ADJ
+was	eng	V
+
+manda	spa	V
+a	spa	PREP
+mi	spa	ADJ
+papá	spa	N
+
+manda	spa	V
+a	spa	PREP
+mi	spa	ADJ
+papá	spa	N
+a	spa	PREP
+que	spa	CONJ
+entre	spa	PREP
+a	spa	PREP
+una	spa	DET
+tiendita	spa	unk
+ahí	spa	ADV
+en	spa	PREP
+el	spa	DET
+camino	spa	N
+a	spa	PREP
+
+pájara	spa	unk
+
+entra	spa	V
+que	spa	CONJ
+tú	spa	PRON
+y	spa	CONJ
+tu	spa	ADJ
+María	spa	name
+se	spa	PRON
+queman	spa	V
+mucho	spa	ADV
+
+le	spa	PRON
+venden	spa	V
+a	spa	PREP
+mi	spa	ADJ
+papá	spa	N
+una	spa	DET
+botellita	spa	N
+
+she	eng	PRON
+said	eng	V
+we	eng	PRON
+were	eng	V
+two	eng	NUM
+red	eng	N
+lobsters	eng	N
+
+you	eng	PRON
+know	eng	V
+big	eng	ADJ
+blue	eng	N
+eyes	eng	N
+they	eng	PRON
+figured	eng	unk
+
+you	eng	PRON
+know	eng	V
+it's	eng	PRON
+cream	eng	N
+of	eng	PREP
+for	eng	PREP
+the	eng	DET
+sun	eng	N
+you	eng	PRON
+know	eng	V
+so	eng	ADV
+
+y	spa	CONJ
+tu	spa	ADJ
+hija	spa	N
+tú	spa	PRON
+le	spa	PRON
+pusiste	spa	V
+sunscreen	eng	unk
+
+te	spa	PRON
+voy	spa	V
+a	spa	PREP
+dar	spa	V
+un	spa	DET
+soplamocos	spa	unk
+
+that	eng	CONJ
+she	eng	PRON
+has	eng	IM+V
+never	eng	ADV
+lived	eng	SV
+all	eng	ADJ
+her	eng	ADJ
+life	eng	N
+
+tú	spa	PRON
+no	spa	ADV
+tienes	spa	V
+idea	spa	N
+
+un	spa	DET
+año	spa	N
+
+so	eng	ADV
+that	eng	CONJ
+Main	eng&spa	name
+Robert	eng&spa	name
+
+tráelo	spa	V
+
+que	spa	CONJ
+you	eng	PRON
+can	eng	V
+eh	spa	IM
+gente	spa	N
+can	eng	V
+record	eng	V
+their	eng	ADJ
+experiences	eng	N
+eh	spa	IM
+pasando	spa	V
+por	spa	PREP
+el	spa	DET
+Freedom_Tower	eng&spa	name
+que	spa	CONJ
+no	spa	ADV
+sé	spa	V
+qué	spa	INT
+
+yo	spa	PRON
+conozco	spa	V
+varia	spa	ADJ
+gente	spa	N
+
+sí	spa	ADV
+
+they	eng	PRON
+don't	eng	V
+need	eng	V
+to	eng	PREP
+be	eng	V
+in	eng	PREP
+there	eng	ADV
+
+me	spa	PRON
+llamaban	spa	V
+la	spa	DET
+atención	spa	N
+las	spa	DET
+banderitas	spa	unk
+
+déjame	spa	V
+
+vas	spa	V
+a	spa	PREP
+ver	spa	V
+cómo	spa	INT
+está	spa	V
+
+you	eng	PRON
+see	eng	V
+how	eng	ADV
+
+sweetie	eng	N
+
+what	eng	REL
+
+ah	spa	IM
+Patrisha	eng&spa	name
+
+ese	spa	PRON
+no	spa	ADV
+es	spa	V
+muy	spa	ADV
+largo	spa	ADJ
+
+la	spa	DET
+verdad	spa	N
+
+fly	eng	V
+interval	eng	N
+
+qué	spa	INT
+es	spa	V
+lo	spa	DET
+que	spa	PRON
+yo	spa	PRON
+venía	spa	V
+a	spa	PREP
+buscar	spa	V
+
+no	spa	ADV
+
+y	spa	CONJ
+eso	spa	PRON
+no	spa	ADV
+le	spa	PRON
+interesa	spa	V
+
+no	spa	ADV
+le	spa	PRON
+importa	spa	V
+construir	spa	V
+
+la	spa	PRON
+da	spa	V
+sí	spa	ADV
+
+voy	spa	V
+a	spa	PREP
+tenemos	spa	V
+una	spa	DET
+fiesta	spa	N
+en	spa	PREP
+casa	spa	N
+de	spa	PREP
+alguien	spa	PRON
+
+y	spa	CONJ
+yo	spa	PRON
+ah	spa	IM
+
+ah	spa	IM
+la	spa	DET
+pregunta	spa	N
+sería	spa	V
+si	spa	CONJ
+se	spa	PRON
+pudiera	spa	V
+usar	spa	V
+cualquier	spa	ADJ
+hielo	spa	N
+
+gasito	spa	unk
+
+sí	spa	ADV
+eran	spa	V
+
+según	spa	CONJ
+Alba	eng&spa	name
+este	spa	PRON
+está	spa	V
+
+o	spa	CONJ
+sea	spa	V
+que	spa	CONJ
+dan	spa	V
+más	spa	ADV
+tenedores	spa	N
+que	spa	PRON
+es	spa	V
+lo	spa	DET
+que	spa	PRON
+siempre	spa	ADV
+hace	spa	V
+falta	spa	N
+más	spa	ADV
+
+tengo	spa	V
+para	spa	PREP
+hacer	spa	V
+más	spa	ADV
+
+no	spa	ADV
+en	spa	PREP
+la	spa	DET
+sierra	spa	N
+en	spa	PREP
+la	spa	DET
+hill	eng	N
+en	spa	PREP
+el	spa	DET
+Hawaii	eng&spa	name
+en	spa	PREP
+Polinesia	eng&spa	name
+todos	spa	ADJ
+esos	spa	PRON
+les	spa	PRON
+dan	spa	V
+al	spa	PREP+DET
+
+y	spa	CONJ
+yo	spa	PRON
+creo	spa	V
+que	spa	CONJ
+a	spa	PREP
+mí	spa	PRON
+me	spa	PRON
+creo	spa	V
+que	spa	CONJ
+ahora	spa	ADV
+que	spa	CONJ
+lo	spa	PRON
+dices	spa	V
+en	spa	PREP
+República_Dominicana	spa	name
+les	spa	PRON
+gusta	spa	V
+el	spa	DET
+spam	eng	unk
+porque	spa	CONJ
+cuando	spa	CONJ
+llegaron	spa	V
+los	spa	DET
+gringos	spa	unk
+con	spa	PREP
+el	spa	DET
+spam	eng	unk
+y	spa	CONJ
+para	spa	PREP
+esos	spa	PRON
+es	spa	V
+un	spa	DET
+delicatessen	eng&spa	N
+
+ah	spa	IM
+pero	spa	CONJ
+el	spa	DET
+spam	eng	unk
+y	spa	CONJ
+el	spa	DET
+jamón	spa	N
+de	spa	PREP
+diablo	spa	N
+era	spa	V
+lo	spa	DET
+mismo	spa	ADJ
+
+no	spa	ADV
+boten	spa	V
+la	spa	DET
+botella	spa	N
+pa	spa	unk
+poder	spa	N
+hacer	spa	V
+más	spa	ADV
+
+a	spa	PREP
+los	spa	DET
+cables	spa	N
+o	spa	CONJ
+algo	spa	PRON
+
+ahora	spa	ADV
+
+para	spa	PREP
+tener	spa	V
+la	spa	DET
+diferencia	spa	N
+
+Thomas	eng&spa	name
+tiene	spa	V
+plastiquito	spa	unk
+
+ven	spa	V
+
+perfect	eng	ADJ
+
+o_k	eng&spa	IM
+you	eng	PRON
+want	eng	V
+a	eng	DET
+vanilla	eng	N
+or	eng	CONJ
+strawberry	eng	N
+
+alright	eng	ADV
+
+Tom	eng&spa	name
+do	eng	SV
+you	eng	PRON
+think	eng	V
+you	eng	PRON
+can	eng	V
+turn	eng	V
+the	eng	DET
+volume	eng	N
+down	eng	PREP
+on	eng	PREP
+that	eng	CONJ
+annoying	eng	V
+thing	eng	N
+
+ah	spa	IM
+shit	eng	SV
+
+no	spa	ADV
+
+you	eng	PRON
+wanna	eng	V
+a	eng	DET
+piece	eng	N
+of	eng	PREP
+cheese	eng	N
+
+I	eng	PRON
+might	eng	V
+have	eng	SV
+to	eng	PREP
+bring	eng	V
+my	eng	ADJ
+domino	eng	N
+
+ah	spa	IM
+verdad	spa	N
+
+mira	spa	V
+aquí	spa	ADV
+tu	spa	ADJ
+blanky	eng	unk
+
+porque	spa	CONJ
+ocho	spa	NUM
+piezas	spa	N
+dice	spa	V
+cuánto	spa	ADJ
+
+you	eng	PRON
+eight	eng	NUM
+
+Tom	eng&spa	name
+coge	spa	V
+tus	spa	ADJ
+siete	spa	NUM
+
+siete	spa	NUM
+
+oh	eng&spa	IM
+
+pánfilo	spa	ADJ
+
+oh	eng&spa	IM
+
+and	eng	CONJ
+then	eng	ADV
+we	eng	PRON
+make	eng	V
+a	eng	DET
+frosty	eng	ADJ
+o_k	eng	IM
+
+quién	spa	INT
+está	spa	V
+down	eng	PREP
+
+están	spa	V
+entretenidos	spa	V
+con	spa	PREP
+la	spa	DET
+vaina	spa	N
+
+yo	spa	PRON
+
+el	spa	DET
+slogan	eng&spa	N
+siempre	spa	ADV
+es	spa	V
+allá	spa	ADV
+
+dale	spa	V
+Tom	eng&spa	name
+
+y	spa	CONJ
+fíjate	spa	V
+en	spa	PREP
+lo	spa	DET
+que	spa	PRON
+tienen	spa	V
+
+no	eng&spa	ADV
+
+you're	eng	PRON
+down	eng	PREP
+
+ah	spa	IM
+lo	spa	PRON
+sabía	spa	V
+
+you	eng	PRON
+should	eng	V
+know	eng	SV
+
+hombre	spa	N
+
+my	eng	ADJ
+el	spa	DET
+trenecito	spa	unk
+mío	spa	ADJ
+
+roba	spa	V
+otra	spa	ADJ
+vez	spa	N
+
+no	spa	ADV
+eso	spa	PRON
+no	spa	ADV
+
+sí	spa	ADV
+
+mío	spa	ADJ
+
+o_k	eng&spa	IM
+
+you	eng	PRON
+are	eng	V
+worse	eng	ADJ
+
+blanco	spa	ADJ
+
+voy	spa	V
+a	spa	PREP
+ser	spa	V
+buena	spa	ADJ
+gente	spa	N
+
+ya	spa	ADV
+
+I	eng	PRON
+don't	eng	V
+like	eng	CONJ
+your	eng	ADJ
+other	eng	ADJ
+hand	eng	N
+
+para	spa	PREP
+ver	spa	V
+si	spa	CONJ
+se	spa	PRON
+va	spa	V
+a	spa	PREP
+ganadora	spa	ADJ
+
+Thomas	eng&spa	name
+
+sí	spa	ADV
+es	eng	unk
+funny	eng	ADJ
+
+y	spa	CONJ
+se	spa	PRON
+fue	spa	V
+el	spa	DET
+día	spa	N
+después	spa	ADV
+de	spa	PREP
+año	spa	N
+nuevo	spa	ADJ
+
+te	spa	PRON
+
+so	eng	ADV
+he	eng	PRON
+has	eng	IM+V
+got	eng	V
+something	eng	PRON
+like	eng	CONJ
+two	eng	NUM
+hundred	eng	NUM
+dollars	eng	N
+back	eng	ADV
+
+bueno	spa	E
+Juana	eng&spa	name
+Juana	eng&spa	name
+dice	spa	V
+que	spa	CONJ
+ella	spa	PRON
+el	spa	DET
+año	spa	N
+pasado	spa	ADJ
+fue	spa	V
+a	spa	PREP
+Disney	eng&spa	name
+antes	spa	ADV
+de	spa	PREP
+Christmas	eng	name
+y	spa	CONJ
+que	spa	CONJ
+estaba	spa	V
+super	eng&spa	ADJ
+bien	spa	ADV
+porque	spa	CONJ
+no	spa	ADV
+había	spa	V
+nadie	spa	PRON
+
+like	eng	V
+los	spa	DET
+dos	spa	NUM
+tres	spa	NUM
+días	spa	N
+antes	spa	ADV
+de	spa	PREP
+Christmas	eng	name
+
+y	spa	CONJ
+le	spa	PRON
+digo	spa	V
+
+eh	eng&spa	IM
+he	eng	PRON
+wants	eng	V
+you	eng	PRON
+to	eng	PREP
+do	eng	V
+something	eng	PRON
+for	eng	PREP
+him	eng	PRON
+
+you	eng	PRON
+know	eng	V
+you	eng	PRON
+can't	eng	V
+communicate	eng	V
+with	eng	PREP
+her	eng	ADJ
+anymore	eng	unk
+
+it's	eng	PRON
+not	eng	ADV
+the	eng	DET
+neighbor	eng	N
+in	eng	PREP
+the	eng	DET
+corner	eng	N
+
+you	eng	PRON
+know	eng	V
+the	eng	DET
+new	eng	ADJ
+road	eng	N
+we	eng	PRON
+put	eng	V
+in	eng	PREP
+
+mira	spa	V
+cuando	spa	CONJ
+no	spa	ADV
+tenía	spa	V
+un	spa	DET
+shield	eng	N
+este	spa	ADJ
+era	spa	N
+el	spa	DET
+luz	eng	unk
+que	spa	CONJ
+te	spa	PRON
+tocaba	spa	V
+
+now	eng	ADV
+that	eng	CONJ
+he	eng	PRON
+has	eng	IM+V
+it	eng	PRON
+it's	eng	PRON
+a	eng	DET
+little	eng	ADJ
+bit	eng	N
+lower	eng	ADJ
+
+Tommy	eng&spa	name
+
+he's	eng	PRON
+age	eng	N
+
+what	eng	REL
+do	eng	SV
+you	eng	PRON
+want	eng	V
+her	eng	PRON
+to	eng	PREP
+do	eng	V
+
+well	eng	ADV
+thirty	eng	NUM
+one	eng	NUM
+I	eng	PRON
+mean	eng	V
+
+ah	eng	IM
+
+yeah	eng	ADV
+yeah	eng	ADV
+yeah	eng	ADV
+
+and	eng	CONJ
+he	eng	PRON
+tells	eng	V
+me	eng	PRON
+yesterday	eng	N
+
+why	eng	REL
+
+oh	eng	IM
+I	eng	PRON
+heard	eng	V
+that	eng	CONJ
+you	eng	PRON
+were	eng	V
+seeing	eng	V
+Bonnie	eng&spa	name
+Romero	eng&spa	name
+
+el	spa	DET
+chisme	spa	N
+
+she	eng	PRON
+ignores	eng	V
+me	eng	PRON
+
+so	eng	ADV
+he	eng	PRON
+came	eng	V
+to	eng	PREP
+like	eng	CONJ
+make	eng	V
+little	eng	ADJ
+friends	eng	N
+
+oh	eng	IM
+my	eng	ADJ
+god	eng	N
+
+ay	spa	IM
+me	spa	PRON
+has	spa	V
+dicho	spa	V
+vieja	spa	ADJ
+
+bueno	spa	E
+so	eng	ADV
+entonces	spa	ADV
+he	eng	PRON
+says	eng	N
+and	eng	CONJ
+the	eng	DET
+capitana	spa	N
+
+but	eng	CONJ
+I	eng	PRON
+can't	eng	V
+believe	eng	V
+that	eng	DEM
+
+like	eng	CONJ
+remember	eng	V
+this	eng	DEM
+is	eng	V
+
+he	eng	PRON
+tried	eng	V
+the	eng	DET
+spinach	eng	N
+
+he	eng	PRON
+wanted	eng	V
+to	eng	PREP
+try	eng	V
+everything	eng	PRON
+
+está	spa	V
+peleado	spa	V
+con	spa	PREP
+the	eng	DET
+ranch	eng	N
+dressing	eng	V
+de	spa	PREP
+mala	spa	ADJ
+forma	spa	N
+
+he	eng	PRON
+doesn't	eng	V
+want	eng	SV
+to	eng	PREP
+have	eng	V
+anything	eng	PRON
+to	eng	PREP
+do	eng	V
+with	eng	PREP
+the	eng	DET
+ranch	eng	N
+dressing	eng	V
+
+no	eng	ADV
+he	eng	PRON
+didn't	eng	V
+
+the	eng	DET
+ranch	eng	N
+is	eng	V
+the	eng	DET
+most	eng	ADJ
+
+how	eng	ADV
+funny	eng	ADJ
+
+anything	eng	PRON
+that's	eng	DEM
+out	eng	ADV
+of	eng	PREP
+the	eng	DET
+norm	eng	N
+
+I	eng	PRON
+don't	eng	V
+know	eng	V
+if	eng	CONJ
+you	eng	PRON
+noticed	eng	N
+
+he	eng	PRON
+goes	eng	V
+
+está	spa	V
+explotado	spa	V
+
+sí	spa	ADV
+sí	spa	ADV
+sí	spa	ADV
+just	eng	ADV
+to	eng	PREP
+
+whatever	eng	REL
+cool	eng	SV
+
+and	eng	CONJ
+you	eng	PRON
+know	eng	V
+how	eng	ADV
+it	eng	PRON
+is	eng	V
+
+pero	spa	CONJ
+yo	spa	PRON
+no	spa	ADV
+entiendo	spa	V
+
+but	eng	CONJ
+do	eng	V
+you	eng	PRON
+feel	eng	V
+bad	eng	ADJ
+
+yeah	eng	ADV
+
+but	eng	CONJ
+you	eng	PRON
+know	eng	V
+why	eng	REL
+he's	eng	PRON
+doing	eng	V
+that	eng	DEM
+
+how	eng	ADV
+do	eng	SV
+you	eng	PRON
+know	eng	V
+that	eng	DEM
+
+no	eng	ADV
+
+he	eng	PRON
+must	eng	V
+be	eng	SV
+loaded	eng	N
+
+I	eng	PRON
+did	eng	V
+an	eng	DET
+evaluation	eng	N
+on	eng	PREP
+a	eng	DET
+man	eng	N
+
+I	eng	PRON
+think	eng	V
+
+the	eng	DET
+awkwardly	eng	ADJ+ADV
+
+no	eng	ADV
+he's	eng	PRON
+not	eng	ADV
+
+he's	eng	PRON
+
+I'm	eng	PRON
+not	eng	ADV
+gonna	eng	V
+tell	eng	V
+him	eng	PRON
+no	eng	ADV
+
+he's	eng	PRON
+Cuban	eng	name
+
+yeah	eng	ADV
+yeah	eng	ADV
+listen	eng	SV
+
+yeah	eng	ADV
+that's	eng	DEM
+really	eng	ADJ+ADV
+sad	eng	ADJ
+
+you	eng	PRON
+know	eng	V
+what's	eng	REL+GB
+gonna	eng	V
+happen	eng	V
+yeah	eng	ADV
+
+we're	eng	PRON
+in	eng	PREP
+the	eng	DET
+Publix	eng&spa	name
+
+ay	spa	IM
+
+so	eng	ADV
+Jana	eng&spa	name
+calls	eng	SV
+me	eng	PRON
+
+what	eng	REL
+a	eng	DET
+shocker	eng	N
+
+yeah	eng	ADV
+
+dos	spa	NUM
+efficiency	eng	N
+
+oh	eng	IM
+my	eng	ADJ
+goodness	eng	N
+
+oh	eng	IM
+my	eng	ADJ
+goodness	eng	N
+
+so	eng	ADV
+we	eng	PRON
+get	eng	V
+there	eng	ADV
+whatever	eng	REL
+
+and	eng	CONJ
+I	eng	PRON
+tell	eng	V
+Tommy	eng&spa	name
+
+that's	eng	DEM
+didn't	eng	AV
+care	eng	SV
+
+it's	eng	PRON
+barely	eng	ADJ+ADV
+a	eng	DET
+year	eng	N
+old	eng	ADJ
+
+so	eng	ADV
+now	eng	ADV
+it's	eng	PRON
+in	eng	PREP
+this	eng	DEM
+a	eng	DET
+backyard	eng	N
+the	eng	DET
+size	eng	N
+of	eng	PREP
+I	eng	PRON
+don't	eng	V
+even	eng	ADV
+know	eng	V
+who	eng	REL
+
+en	spa	PREP
+todas	spa	ADJ
+las	spa	DET
+escuelas	spa	N
+todos	spa	ADJ
+los	spa	DET
+counsellors	eng	N
+
+y	spa	CONJ
+ella	spa	PRON
+no	spa	ADV
+tiene	spa	V
+master	eng&spa	N
+todavía	spa	ADV
+
+y	spa	CONJ
+no	spa	ADV
+lo	spa	PRON
+va	spa	V
+no	spa	ADV
+lo	spa	PRON
+va	spa	V
+a	spa	PREP
+sacar	spa	V
+
+y	spa	CONJ
+sacar	spa	V
+el	spa	DET
+sacar	spa	V
+el	spa	DET
+doctoral	eng	ADJ
+
+doctorado	spa	N
+
+olvídate	spa	V
+que	spa	CONJ
+eso	spa	PRON
+es	spa	V
+
+ah	eng&spa	IM
+ya	spa	ADV
+lo	spa	PRON
+tienen	spa	V
+allí	spa	ADV
+
+ah	spa	IM
+yo	spa	PRON
+pensé	spa	V
+que	spa	CONJ
+ahora	spa	ADV
+iban	spa	V
+a	spa	PREP
+empezar	spa	V
+a	spa	PREP
+comprarlos	spa	V
+
+lo	spa	DET
+que	spa	PRON
+pasa	spa	V
+
+and	eng	CONJ
+right	eng	ADJ
+there	eng	ADV
+boom	eng	SV
+boom	eng	SV
+con	spa	PREP
+otros	spa	ADJ
+tipos	spa	N
+marcando	spa	V
+otros	spa	ADJ
+tipos	spa	N
+cortando	spa	V
+
+malísimo	spa	ADJ
+está	spa	V
+la	spa	DET
+cosa	spa	N
+
+pero	spa	CONJ
+claro	spa	E
+
+three	eng	NUM
+hundred	eng	NUM
+thousand	eng	NUM
+dollars	eng	N
+now	eng	ADV
+actually	eng	ADJ+ADV
+you	eng	PRON
+can	eng	V
+get	eng	V
+a	eng	DET
+decent	eng	ADJ
+house	eng	N
+for	eng	PREP
+
+el	spa	DET
+muchachito	spa	N
+este	spa	N
+de	spa	PREP
+al	spa	PREP+DET
+lado	spa	N
+puso	spa	V
+la	spa	DET
+casa	spa	N
+a	spa	PREP
+vender	spa	V
+
+you	eng	PRON
+know	eng	V
+
+coño	spa	E
+coño	spa	E
+trescientos	spa	N
+trescientos	spa	N
+
+tú	spa	PRON
+sabes	spa	V
+siempre	spa	ADV
+hacía	spa	V
+comida	spa	N
+
+so	eng	ADV
+now	eng	ADV
+farmers	eng	N
+are	eng	V
+building	eng	unk
+fields	eng	N
+
+ajá	spa	IM
+
+no	eng	ADV
+this	eng	DEM
+is	eng	V
+crazy	eng	ADJ
+
+yo	spa	PRON
+tengo	spa	V
+sincronizado	spa	V
+el	spa	DET
+teléfono	spa	N
+con	spa	PREP
+la	spa	DET
+computadora	spa	N
+en	spa	PREP
+la	spa	DET
+oficina	spa	N
+con	spa	PREP
+los	spa	DET
+servidores	spa	N
+que	spa	PRON
+yo	spa	PRON
+pueda	spa	V
+accesar	spa	V
+de	spa	PREP
+cualquier	spa	ADJ
+computadora	spa	N
+por	spa	PREP
+el	spa	DET
+web	eng	N
+todos	spa	ADJ
+mis	spa	ADJ
+contactos	spa	N
+todos	spa	ADJ
+mis	spa	ADJ
+contactos	spa	N
+
+so	eng	ADV
+I	eng	PRON
+have	eng	V
+everybody's	eng	PRON+GB
+information	eng	N
+in	eng	PREP
+there	eng	ADV
+
+and	eng	CONJ
+puts	eng	V
+it	eng	PRON
+in	eng	PREP
+my	eng	ADJ
+email	eng&spa	unk
+
+y	spa	CONJ
+si	spa	CONJ
+tú	spa	PRON
+lo	spa	PRON
+observaras	spa	V
+así	spa	ADV
+it	eng	PRON
+zooms	eng	V
+you	eng	PRON
+in	eng	PREP
+
+and	eng	CONJ
+if	eng	CONJ
+you	eng	PRON
+do	eng	V
+this	eng	DEM
+it	eng	PRON
+zooms	eng	V
+you	eng	PRON
+out	eng	ADV
+
+pero	spa	CONJ
+todo	spa	PRON
+es	spa	V
+con	spa	PREP
+tu	spa	ADJ
+dedo	spa	N
+
+y	spa	CONJ
+tú	spa	PRON
+le	spa	PRON
+das	spa	V
+así	spa	ADV
+
+it's	eng	PRON
+amazing	eng	unk
+
+y	spa	CONJ
+te	spa	PRON
+lo	spa	PRON
+lleva	spa	V
+
+que	spa	CONJ
+ha	spa	V
+salido	spa	V
+al	spa	PREP+DET
+público	spa	ADJ
+
+se	spa	PRON
+llama	spa	V
+Searchme_dot_com	eng	name
+
+en	spa	PREP
+vez	spa	N
+de	spa	PREP
+entregártelo	spa	V
+en	spa	PREP
+una	spa	DET
+lista	spa	N
+de	spa	PREP
+palabras	spa	N
+
+the	eng	DET
+next	eng	ADJ
+arrow	eng	N
+boom	eng	N
+al	spa	PREP+DET
+próximo	spa	ADJ
+website	eng	unk
+
+the	eng	DET
+next	eng	ADJ
+arrow	eng	N
+boom	eng	N
+al	spa	PREP+DET
+próximo	spa	ADJ
+website	eng	unk
+
+yeah	eng	ADV
+they're	eng	PRON
+testing	eng	V
+they're	eng	PRON
+testing	eng	V
+
+and	eng	CONJ
+that's	eng	DEM
+it	eng	PRON
+
+que	spa	CONJ
+tú	spa	PRON
+te	spa	PRON
+acuerdas	spa	V
+la	spa	DET
+computadora	spa	N
+que	spa	PRON
+nosotros	spa	PRON
+teníamos	spa	V
+en	spa	PREP
+el	spa	DET
+cuartico	spa	N
+en	spa	PREP
+la	spa	DET
+casa	spa	N
+vieja	spa	ADJ
+
+yo	spa	PRON
+yo	spa	PRON
+lo	spa	PRON
+llevé	spa	V
+el	spa	DET
+mío	spa	ADJ
+a	spa	PREP
+arreglar	spa	V
+al	spa	PREP+DET
+mismo	spa	ADJ
+lugar	spa	N
+la	spa	DET
+semana	spa	N
+pasada	spa	ADJ
+
+se	spa	PRON
+dañó	spa	V
+
+there's	eng	PRON+BE
+you	eng	PRON
+know	eng	V
+I'm	eng	PRON
+trying	eng	V
+to	eng	PREP
+think	eng	V
+like	eng	CONJ
+in	eng	PREP
+terms	eng	N
+of	eng	PREP
+electronics	eng	ADJ+PV
+
+yeah	eng	ADV
+
+tú	spa	PRON
+no	spa	ADV
+lo	spa	PRON
+vistes	spa	V
+
+nice	eng	ADJ
+
+yeah	eng	ADV
+
+un	spa	DET
+welfare	eng	N
+es	spa	V
+para	spa	PREP
+ayudarte	spa	V
+a	spa	PREP
+encaminarte	spa	V
+esto	spa	PRON
+un	spa	DET
+año	spa	N
+o	spa	CONJ
+dos	spa	NUM
+años	spa	N
+
+recogerte	spa	V
+vaya	spa	V
+
+estaba	spa	V
+ocupado	spa	V
+
+you	eng	PRON
+know	eng	V
+what	eng	REL
+he	eng	PRON
+does	eng	V
+know	eng	SV
+what	eng	REL
+he's	eng	PRON
+doing	eng	V
+
+pero	spa	CONJ
+
+but	eng	CONJ
+I'm	eng	PRON
+going	eng	V
+to	eng	PREP
+the	eng	DET
+doctors	eng	N
+afterward	eng	ADV
+
+yeah	eng	ADV
+that	eng	CONJ
+after	eng	PREP
+they're	eng	PRON
+a	eng	DET
+block	eng	N
+away	eng	ADV
+they	eng	PRON
+call	eng	V
+you	eng	PRON
+
+I	eng	PRON
+saw	eng	V
+a	eng	DET
+gringo	spa	N
+driving	eng	V
+it	eng	PRON
+
+ah	spa	IM
+bueno	spa	E
+
+well	eng	ADV
+it	eng	PRON
+looked	eng	V
+like	eng	CONJ
+his	eng	ADJ
+
+oh	eng	IM
+I	eng	PRON
+didn't	eng	V
+know	eng	SV
+that	eng	DEM
+
+I	eng	PRON
+come	eng	V
+back	eng	ADV
+in	eng	PREP
+
+and	eng	CONJ
+he	eng	PRON
+was	eng	V
+blowing	eng	V
+up	eng	ADV
+
+y	spa	CONJ
+cojo	spa	V
+
+and	eng	CONJ
+I	eng	PRON
+go	eng	V
+
+yeah	eng	ADV
+
+beautiful	eng	ADJ
+girl	eng	N
+
+show	eng	V
+her	eng	ADJ
+show	eng	N
+him	eng	PRON
+the	eng	DET
+picture	eng	N
+
+Ginny	eng&spa	name
+
+and	eng	CONJ
+how	eng	ADV
+
+how	eng	ADV
+weird	eng	ADJ
+
+and	eng	CONJ
+even	eng	ADJ
+though	eng	CONJ
+it	eng	PRON
+was	eng	V
+an	eng	DET
+open	eng	N
+M_R_I	eng	name
+because	eng	CONJ
+he's	eng	PRON
+claustrophobic	eng	ADJ
+dice	spa	V
+que	spa	CONJ
+he	eng	PRON
+was	eng	V
+
+wow	eng&spa	IM
+
+ah	eng&spa	IM
+
+that's	eng	DEM
+horrible	eng	ADJ
+
+and	eng	CONJ
+she	eng	PRON
+he	eng	PRON
+she	eng	PRON
+goes	eng	V
+
+but	eng	CONJ
+they	eng	PRON
+must	eng	V
+have	eng	SV
+done	eng	V
+other	eng	ADJ
+things	eng	N
+because	eng	CONJ
+dice	spa	V
+que	spa	CONJ
+the	eng	DET
+white	eng	ADJ
+blood	eng	N
+count	eng	N
+was	eng	V
+normal	eng	ADJ
+again	eng	ADV
+
+was	eng	V
+normal	eng	ADJ
+
+yeah	eng	ADV
+
+please	eng	V
+call	eng	SV
+me	eng	PRON
+
+so	eng	ADV
+I	eng	PRON
+I	eng	PRON
+was	eng	V
+like	eng	CONJ
+you	eng	PRON
+
+and	eng	CONJ
+I'm	eng	PRON
+like	eng	CONJ
+
+yeah	eng	ADV
+
+uhuh	eng	IM
+
+but	eng	CONJ
+it	eng	PRON
+was	eng	V
+hot	eng	ADJ
+as	eng	CONJ
+heck	eng	V
+so	eng	ADV
+I	eng	PRON
+had	eng	V
+to	eng	PREP
+wait	eng	V
+
+because	eng	CONJ
+I	eng	PRON
+was	eng	V
+like	eng	CONJ
+
+y	spa	CONJ
+empecé	spa	V
+a	spa	PREP
+echar	spa	V
+
+no	eng	ADV
+but	eng	CONJ
+they're	eng	PRON
+negative	eng	ADJ
+
+so	eng	ADV
+Mary	eng&spa	name
+writes	eng	SV
+to	eng	PREP
+me	eng	PRON
+Mary	eng&spa	name
+writes	eng	SV
+to	eng	PREP
+me	eng	PRON
+
+and	eng	CONJ
+I	eng	PRON
+guess	eng	V
+from	eng	PREP
+
+that	eng	CONJ
+he	eng	PRON
+had	eng	V
+taken	eng	V
+it	eng	PRON
+
+yeah	eng	ADV
+
+no	eng	ADV
+no	eng	ADV
+I'll	eng	PRON
+remind	eng	V
+her	eng	ADJ
+
+right	eng	ADJ
+
+a	eng	DET
+volunteer	eng	N
+
+Emily	eng&spa	name
+said	eng	V
+she's	eng	PRON
+hilarious	eng	ADJ
+
+I	eng	PRON
+went	eng	V
+last	eng	ADJ
+year	eng	N
+
+yeah	eng	ADV
+
+I	eng	PRON
+go	eng	V
+
+she	eng	PRON
+goes	eng	V
+
+no	eng	ADV
+yesterday	eng	N
+was	eng	V
+fine	eng	N
+
+it's	eng	PRON
+because	eng	CONJ
+you	eng	PRON
+are	eng	V
+trying	eng	V
+to	eng	PREP
+stop	eng	V
+it	eng	PRON
+or	eng	CONJ
+block	eng	N
+it	eng	PRON
+
+she's	eng	PRON
+taking	eng	V
+a	eng	DET
+class	eng	N
+Mary	eng&spa	name
+
+that's	eng	DEM
+right	eng	ADJ
+
+I	eng	PRON
+don't	eng	V
+think	eng	V
+Sally	eng&spa	name
+would	eng	V
+like	eng	CONJ
+that	eng	DEM
+very	eng	ADV
+much	eng	ADJ
+
+yeah	eng	ADV
+
+which	eng	REL
+is	eng	V
+funny	eng	ADJ
+because	eng	CONJ
+to	eng	PREP
+be	eng	V
+like	eng	CONJ
+you	eng	PRON
+like	eng	V
+you	eng	PRON
+say	eng	V
+she's	eng	PRON
+as	eng	CONJ
+enlightened	eng	V
+as	eng	CONJ
+she	eng	PRON
+is	eng	V
+
+what	eng	REL
+language	eng	N
+were	eng	V
+you	eng	PRON
+chatting	eng	N
+in	eng	PREP
+
+when	eng	CONJ
+the	eng	DET
+lady	eng	N
+goes	eng	N
+to	eng	PREP
+New	eng	name
+York	eng	name
+the	eng	DET
+lines	eng	N
+are	eng	V
+out	eng	ADV
+the	eng	DET
+door	eng	N
+
+y	spa	CONJ
+yo	spa	PRON
+vi	spa	V
+todas	spa	ADJ
+esas	spa	ADJ
+fotos	spa	N
+de	spa	PREP
+esa	spa	ADJ
+mujer	spa	N
+
+oh	eng	IM
+no	eng	ADV
+that's	eng	DEM
+not	eng	ADV
+good	eng	ADJ
+
+esa	spa	ADJ
+rotonda	spa	N
+es	spa	V
+illegal	eng	ADJ
+
+from	eng	PREP
+what	eng	REL
+I	eng	PRON
+know	eng	V
+
+y	spa	CONJ
+si	spa	CONJ
+y	spa	CONJ
+si	spa	CONJ
+entra	spa	V
+algún	spa	ADJ
+camión	spa	N
+ahí	spa	ADV
+por	spa	PREP
+ejemplo	spa	N
+a	spa	PREP
+dejar	spa	V
+muebles	spa	N
+o	spa	CONJ
+cualquier	spa	ADJ
+cosa	spa	N
+
+bueno	spa	E
+
+entonces	spa	ADV
+después	spa	ADV
+haber	spa	V
+sembrado	spa	V
+la	spa	DET
+hierba	spa	N
+
+no	spa	ADV
+no	spa	ADV
+no	spa	ADV
+estaba	spa	V
+estaba	spa	V
+estaba	spa	V
+en	spa	PREP
+la	spa	DET
+puerta	spa	N
+
+mmhm	eng	IM
+
+and	eng	CONJ
+I	eng	PRON
+set	eng	V
+it	eng	PRON
+up	eng	ADV
+in	eng	PREP
+the	eng	DET
+in	eng	PREP
+the	eng	DET
+campground	eng	N
+
+because	eng	CONJ
+pools	eng	N
+are	eng	V
+good	eng	ADJ
+for	eng	PREP
+when	eng	CONJ
+you	eng	PRON
+have	eng	V
+smaller	eng	ADJ
+kids	eng	N
+but	eng	CONJ
+already	eng	ADV
+
+pero	spa	CONJ
+ahora	spa	ADV
+the	eng	DET
+new	eng	ADJ
+idea	eng	N
+is	eng	V
+gonna	eng	V
+be	eng	V
+that	eng	CONJ
+we	eng	PRON
+are	eng	V
+gonna	eng	V
+to	eng	PREP
+replace	eng	V
+everything	eng	PRON
+
+que	spa	CONJ
+no	spa	ADV
+deja	spa	V
+que	spa	CONJ
+que	spa	CONJ
+no	spa	ADV
+asome	spa	V
+la	spa	DET
+humedad	spa	N
+
+mmhm	eng	IM
+
+sí	spa	ADV
+ahora	spa	ADV
+están	spa	V
+eh	eng&spa	IM
+más	spa	ADV
+o	spa	CONJ
+menos	spa	ADV
+al	spa	PREP+DET
+nivel	spa	N
+de	spa	PREP
+la	spa	DET
+ventana	spa	N
+
+yeah	eng	ADV
+
+but	eng	CONJ
+it's	eng	PRON
+fairly	eng	ADJ+ADV
+small	eng	ADJ
+
+and	eng	CONJ
+I	eng	PRON
+have	eng	V
+some	eng	ADJ
+another	eng	ADJ
+doctor	eng	N
+over	eng	ADV
+there	eng	ADV
+that	eng	CONJ
+has	eng	IM+V
+a	eng	DET
+miniature	eng	ADJ
+pig	eng	N
+
+mmhm	eng	IM
+but	eng	CONJ
+the	eng	DET
+little	eng	ADJ
+ones	eng	PRON
+the	eng	DET
+miniature	eng	ADJ
+ones	eng	PRON
+
+I'm	eng	PRON
+not	eng	ADV
+gonna	eng	V
+have	eng	V
+to	eng	PREP
+carry	eng	V
+her	eng	ADJ
+in	eng	PREP
+my	eng	ADJ
+insurance	eng	N
+any_more	eng	ADV
+
+and	eng	CONJ
+isn't	eng	V
+it	eng	PRON
+better	eng	ADJ
+for	eng	PREP
+you	eng	PRON
+to	eng	PREP
+go	eng	V
+with	eng	PREP
+her	eng	ADJ
+with	eng	PREP
+the	eng	DET
+with	eng	PREP
+the	eng	DET
+county	eng	N
+no	eng	ADV
+
+tú	spa	PRON
+sabes	spa	V
+una	spa	DET
+una	spa	DET
+cosa	spa	N
+básica	spa	ADJ
+lo	spa	DET
+lo	spa	DET
+lo	spa	DET
+necesario	spa	ADJ
+
+ok	eng&spa	unk
+
+I	eng	PRON
+I	eng	PRON
+don't	eng	V
+think	eng	V
+they	eng	PRON
+played	eng	V
+all	eng	ADJ
+eighteen	eng	NUM
+they	eng	PRON
+played	eng	V
+like	eng	CONJ
+probably	eng	ADV
+half	eng	N
+
+sí	spa	ADV
+
+right	eng	ADJ
+
+and	eng	CONJ
+Chili's	eng&spa	name
+is	eng	V
+not	eng	ADV
+in	eng	PREP
+Miami_Lakes	eng&spa	name
+
+then	eng	ADV
+we	eng	PRON
+became	eng	V
+a	eng	DET
+town	eng	N
+
+ah	eng&spa	IM
+ok	eng&spa	unk
+
+that's	eng	DEM
+not	eng	ADV
+Miami_Lakes	eng&spa	name
+
+no	spa	ADV
+
+ok	eng&spa	unk
+
+así	spa	ADV
+que	spa	CONJ
+esto	spa	PRON
+es	spa	V
+un	spa	DET
+pequeño	spa	ADJ
+pocket	eng	N
+que	spa	PRON
+hay	spa	V
+ahí	spa	ADV
+
+que	spa	CONJ
+
+tú	spa	PRON
+sabes	spa	V
+
+sales	spa	V
+a	spa	PREP
+Hialeah	eng	name
+sales	spa	V
+a	spa	PREP
+Hialeah	eng	name
+
+yeah	eng	ADV
+
+tres	spa	NUM
+tres	spa	NUM
+uno	spa	NUM
+cero	spa	N
+uno	spa	NUM
+cuatro	spa	NUM
+
+bueno	spa	E
+pero	spa	CONJ
+supuestamente	spa	ADV
+el	spa	DET
+cambio	spa	N
+viene	spa	V
+en	spa	PREP
+que	spa	CONJ
+er	eng&spa	IM
+tres	spa	NUM
+tres	spa	NUM
+cero	spa	N
+uno	spa	NUM
+cuatro	spa	NUM
+va	spa	V
+a	spa	PREP
+ser	spa	V
+Miami_Lakes	eng&spa	name
+
+eso	spa	PRON
+es	spa	V
+una	spa	DET
+cosa	spa	N
+que	spa	PRON
+la	spa	PRON
+tiene	spa	V
+que	spa	CONJ
+hacer	spa	V
+el	spa	DET
+gobierno	spa	N
+federal	spa	ADJ
+en	spa	PREP
+la	spa	DET
+parte	spa	N
+de	spa	PREP
+del	spa	PREP+DET
+del	spa	PREP+DET
+post	eng	N
+office	eng	N
+del	spa	PREP+DET
+correo	spa	N
+
+de	spa	PREP
+cambiar	spa	V
+del	spa	PREP+DET
+correo	spa	N
+de	spa	PREP
+que	spa	CONJ
+tres	spa	NUM
+tres	spa	NUM
+cero	spa	N
+uno	spa	NUM
+cuatro	spa	NUM
+va	spa	V
+a	spa	PREP
+ser	spa	V
+solamente	spa	ADV
+Miami_Lakes	eng&spa	name
+todo	spa	ADJ
+lo	spa	DET
+que	spa	PRON
+es	spa	V
+Miami_Lakes	eng&spa	name
+lo	spa	DET
+que	spa	PRON
+está	spa	V
+dentro	spa	ADV
+de	spa	PREP
+de	spa	PREP
+el	spa	DET
+town	eng	N
+de	spa	PREP
+Miami_Lakes	eng&spa	name
+que	spa	CONJ
+incluye	spa	V
+del	spa	PREP+DET
+lado	spa	N
+de	spa	PREP
+allá	spa	ADV
+para	spa	PREP
+el	spa	DET
+metro	spa	N
+Royal_Oaks	eng&spa	name
+ahora	spa	ADV
+es	spa	V
+Miami_Lakes	eng&spa	name
+
+ok	eng&spa	unk
+
+entonces	spa	ADV
+ese	spa	PRON
+zip	eng	N
+code	eng	N
+lo	spa	PRON
+van	spa	V
+a	spa	PREP
+cambiar	spa	V
+también	spa	ADV
+a	spa	PREP
+que	spa	CONJ
+sea	spa	V
+tres	spa	NUM
+tres	spa	NUM
+cero	spa	N
+uno	spa	NUM
+cuatro	spa	NUM
+porque	spa	CONJ
+va	spa	V
+a	spa	PREP
+ser	spa	V
+Miami	eng&spa	name
+lo	spa	DET
+que	spa	PRON
+está	spa	V
+dentro	spa	ADV
+de	spa	PREP
+la	spa	DET
+ciudad	spa	N
+de	spa	PREP
+Miami_Lakes	eng&spa	name
+
+es	spa	V
+eso	spa	PRON
+
+sabes	spa	V
+es	spa	V
+la	spa	DET
+ten	eng	NUM
+forty	eng	NUM
+
+la	spa	DET
+que	spa	PRON
+tienen	spa	V
+que	spa	CONJ
+hacer	spa	V
+ahora	spa	ADV
+la	spa	DET
+los	spa	DET
+viejitos	spa	N
+que	spa	PRON
+están	spa	V
+retirados	spa	V
+
+y	spa	CONJ
+ella	spa	PRON
+es	spa	V
+la	spa	DET
+que	spa	PRON
+le	spa	PRON
+hace	spa	V
+
+ella	spa	PRON
+ella	spa	PRON
+nos	spa	PRON
+mandó	spa	V
+las	spa	DET
+planillas	spa	N
+y	spa	CONJ
+nos	spa	PRON
+mandó	spa	V
+las	spa	DET
+copias	spa	N
+de	spa	PREP
+cómo	spa	INT
+llenárselo	spa	V
+
+de	spa	PREP
+cómo	spa	INT
+se	spa	PRON
+llena	spa	V
+
+mmhm	eng	IM
+
+where	eng	REL
+
+eso	spa	PRON
+que	spa	PRON
+es	spa	V
+cuestión	spa	N
+de	spa	PREP
+casería	spa	N
+y	spa	CONJ
+toda	spa	ADJ
+esa	spa	ADJ
+cosa	spa	N
+
+y	spa	CONJ
+cuando	spa	CONJ
+salimos	spa	V
+y	spa	CONJ
+fuimos	spa	V
+a	spa	PREP
+a	spa	PREP
+county	eng	N
+a	spa	PREP
+ver	spa	V
+los	spa	DET
+los	spa	DET
+muros	spa	N
+los	spa	DET
+campers	eng&spa	unk
+
+she	eng	PRON
+said	eng	V
+well	eng	ADV
+bring	eng	V
+me	eng	PRON
+some	eng	ADJ
+ribs	eng	N
+
+so	eng	ADV
+she	eng	PRON
+ate	eng	V
+so	eng	ADV
+
+look	eng	V
+yo	spa	PRON
+I	eng	PRON
+found	eng	V
+that	eng	CONJ
+that	eng	CONJ
+that	eng	CONJ
+Saint	eng	name
+Thomas	eng	name
+started	eng	V
+too	eng	ADV
+early	eng	ADJ
+
+mmhm	eng	IM
+
+very	eng	ADV
+expensive	eng	ADJ
+for	eng	PREP
+them	eng	PRON
+
+pero	spa	CONJ
+let	eng	V
+me	eng	PRON
+tell	eng	SV
+you	eng	PRON
+Miami_Beach	eng&spa	name
+is	eng	V
+getting	eng	V
+to	eng	PREP
+be	eng	V
+the	eng	DET
+same	eng	ADJ
+way	eng	N
+
+yeah	eng	ADV
+
+yo	spa	PRON
+fui	spa	V
+y	spa	CONJ
+compré	spa	V
+una	spa	DET
+para	spa	PREP
+mi	spa	ADJ
+cámara	spa	N
+
+estaba	spa	V
+bueno	spa	E
+
+and	eng	CONJ
+you	eng	PRON
+used	eng	V
+to	eng	PREP
+be	eng	V
+able	eng	ADJ
+to	eng	PREP
+record	eng	V
+classes	eng	N
+
+yeah	eng	ADV
+
+es	spa	V
+todo	spa	ADJ
+lawsuit	eng	N
+todo	spa	ADJ
+lawsuit	eng	N
+
+todo	spa	PRON
+es	spa	V
+un	spa	DET
+problema	spa	N
+todo	spa	PRON
+
+mmhm	eng	IM
+mmhm	eng	IM
+
+no	spa	ADV
+que	spa	CONJ
+le	spa	PRON
+dieron	spa	V
+por	spa	PREP
+la	spa	DET
+ventana	spa	N
+por	spa	PREP
+la	spa	DET
+puerta	spa	N
+le	spa	PRON
+desbarató	spa	V
+la	spa	DET
+puerta	spa	N
+
+remember	eng	V
+those	eng	DEM
+Toyotas	eng&spa	name
+were	eng	V
+really	eng	ADJ+ADV
+heavy	eng	ADJ
+
+no	spa	ADV
+no	spa	ADV
+it	eng	PRON
+was	eng	V
+a	eng	DET
+car	eng	N
+
+un	spa	DET
+carrito	spa	N
+
+mmhm	eng	IM
+
+mmhm	eng	IM
+
+when	eng	CONJ
+we	eng	PRON
+went	eng	V
+to	eng	PREP
+trade	eng	V
+in	eng	PREP
+the	eng	DET
+car	eng	N
+for	eng	PREP
+the	eng	DET
+Honda	eng&spa	name
+the	eng	DET
+guy	eng	N
+told	eng	V
+me	eng	PRON
+that	eng	CONJ
+he	eng	PRON
+couldn't	eng	V
+take	eng	V
+that	eng	DEM
+car	eng	N
+
+no	spa	ADV
+pero	spa	CONJ
+er	eng&spa	IM
+estuvo	spa	V
+Chili's	eng&spa	name
+
+that	eng	CONJ
+that	eng	CONJ
+strip	eng	V
+there	eng	ADV
+el	spa	DET
+canal	spa	N
+
+we	eng	PRON
+have	eng	V
+usamos	spa	V
+usamos	spa	V
+este	spa	PRON
+como	spa	CONJ
+guinea_pig	eng	N
+
+er	eng&spa	IM
+
+ellos	spa	PRON
+vienen	spa	V
+con	spa	PREP
+las	spa	DET
+palas	spa	N
+
+tú	spa	PRON
+no	spa	ADV
+te	spa	PRON
+has	spa	V
+fijado	spa	V
+allá	spa	ADV
+en	spa	PREP
+la	spa	DET
+esquina	spa	N
+del	spa	PREP+DET
+aeropuerto	spa	N
+del	spa	PREP+DET
+aeropuerto	spa	N
+
+y	spa	CONJ
+y	spa	CONJ
+se	spa	PRON
+mete	spa	V
+la	spa	DET
+basura	spa	N
+ahí	spa	ADV
+
+es	spa	V
+posible	spa	ADJ
+
+tú	spa	PRON
+no	spa	ADV
+nunca	spa	ADV
+has	spa	V
+usado	spa	V
+eso	spa	PRON
+
+con	spa	PREP
+leche	spa	N
+o	spa	CONJ
+agua	spa	N
+o	spa	CONJ
+what	eng	REL
+
+eh	spa	IM
+
+le	spa	PRON
+
+toda	spa	ADJ
+esa	spa	PRON
+selva	spa	unk
+que	spa	CONJ
+te	spa	PRON
+había	spa	V
+atrás	spa	ADV
+lo	spa	PRON
+quitaron	spa	V
+todo	spa	PRON
+
+sí	spa	ADV
+
+yo	spa	PRON
+compré	spa	V
+en	spa	PREP
+Nueva_York	spa	name
+catorce	spa	NUM
+matas	spa	V
+de	spa	PREP
+strawberries	eng	N
+por	spa	PREP
+correo	spa	N
+
+la	spa	DET
+la	spa	DET
+la	spa	DET
+la	spa	DET
+el	spa	DET
+strawberry	eng	N
+echa	spa	V
+una	spa	DET
+rama	spa	N
+
+esa	spa	ADJ
+rama	spa	N
+va	spa	V
+a	spa	PREP
+
+sí	spa	ADV
+I	eng	PRON
+remember	eng	V
+
+ah	eng&spa	IM
+sí	spa	ADV
+sí	spa	ADV
+
+hacerle	spa	V
+un	spa	DET
+puré	spa	N
+
+eran	spa	V
+dulces	spa	ADJ
+pero	spa	CONJ
+no	spa	ADV
+
+alright	eng	ADV
+
+yo	spa	PRON
+lo	spa	PRON
+necesitaba	spa	V
+aprovechar	spa	V
+porque	spa	CONJ
+se	spa	PRON
+me	spa	PRON
+hicieron	spa	V
+muchas	spa	PRON
+matas	spa	V
+
+no	spa	ADV
+
+pero	spa	CONJ
+yo	spa	PRON
+siempre	spa	ADV
+estoy	spa	V
+echando	spa	V
+
+ah	spa	IM
+sí	spa	ADV
+esas	spa	PRON
+sí	spa	ADV
+
+y	spa	CONJ
+y	spa	CONJ
+y	spa	CONJ
+
+aha	eng&spa	IM
+
+y	spa	CONJ
+vemos	spa	V
+a	spa	PREP
+Juan	eng&spa	name
+durmiendo	spa	V
+en	spa	PREP
+un	spa	DET
+mattress	eng	N
+en	spa	PREP
+la	spa	DET
+sala	spa	N
+en	spa	PREP
+el	spa	DET
+piso	spa	N
+de	spa	PREP
+la	spa	DET
+sala	spa	N
+
+y	spa	CONJ
+le	spa	PRON
+digo	spa	V
+
+sí	spa	ADV
+
+ha	eng&spa	IM
+ha	eng&spa	IM
+
+el	spa	DET
+pánico	spa	N
+que	spa	PRON
+tenía	spa	V
+la	spa	DET
+cabrona	spa	N
+
+allí	spa	ADV
+
+I	eng	PRON
+know	eng	V
+I	eng	PRON
+know	eng	V
+
+te	spa	PRON
+lo	spa	PRON
+aseguro	spa	V
+
+yo	spa	PRON
+lo	spa	DET
+yo	spa	PRON
+lo	spa	PRON
+he	spa	V
+visto	spa	V
+salir	spa	V
+del	spa	PREP+DET
+sink	eng	SV
+
+what	eng	REL
+
+porque	spa	CONJ
+no	spa	ADV
+tiene	spa	V
+
+les	spa	PRON
+le	spa	PRON
+salió	spa	V
+a	spa	PREP
+un	spa	DET
+señor	spa	N
+que	spa	PRON
+le	spa	PRON
+llamaban	spa	V
+Alberto	eng&spa	name
+
+llamó	spa	V
+a	spa	PREP
+la	spa	DET
+oficina	spa	N
+
+usted	spa	PRON
+dos	spa	NUM
+de	spa	PREP
+ustedes	spa	PRON
+me	spa	PRON
+dijeron	spa	V
+que	spa	CONJ
+me	spa	PRON
+iban	spa	V
+a	spa	PREP
+poner	spa	V
+en	spa	PREP
+el	spa	DET
+helicóptero	spa	N
+con	spa	PREP
+mi	spa	ADJ
+esposo	spa	N
+
+I	eng	PRON
+know	eng	V
+
+y	spa	CONJ
+voy	spa	V
+y	spa	CONJ
+voy	spa	V
+para	spa	PREP
+un	spa	DET
+para	spa	PREP
+un	spa	DET
+para	spa	PREP
+un	spa	DET
+un	spa	DET
+un	spa	DET
+finca	spa	N
+por	spa	PREP
+ahí	spa	ADV
+con	spa	PREP
+un	spa	DET
+un	spa	DET
+un	spa	DET
+un	spa	DET
+un	spa	DET
+ranchero	spa	unk
+que	spa	CONJ
+tenga	spa	V
+una	spa	DET
+hija	spa	N
+que	spa	PRON
+tiene	spa	V
+diecinueve	spa	NUM
+veinte	spa	NUM
+años	spa	N
+por	spa	PREP
+ahí	spa	ADV
+
+el	spa	DET
+momento	spa	N
+que	spa	PRON
+que	spa	CONJ
+que	spa	CONJ
+sabe	spa	V
+de	spa	PREP
+novelas	spa	N
+y	spa	CONJ
+de	spa	PREP
+jodiendas	spa	unk
+y	spa	CONJ
+esto	spa	PRON
+no	spa	ADV
+hay	spa	V
+no	spa	ADV
+no	spa	ADV
+
+cuándo	spa	INT
+se	spa	PRON
+iba	spa	V
+a	spa	PREP
+lavarlo	spa	V
+
+oh	spa	IM
+sí	spa	ADV
+ese	spa	PRON
+no	spa	ADV
+dura	spa	V
+mucho	spa	ADV
+
+no	spa	ADV
+es	spa	V
+uno	spa	PRON
+de	spa	PREP
+esos	spa	PRON
+que	spa	PRON
+que	spa	CONJ
+forma	spa	V
+problemas	spa	N
+y	spa	CONJ
+jodiendas	spa	unk
+you	eng	PRON
+know	eng	V
+
+sí	spa	ADV
+pero	spa	CONJ
+es	spa	V
+pero	spa	CONJ
+es	spa	V
+que	spa	CONJ
+el	spa	DET
+cancer	eng&spa	N
+eh	spa	IM
+del	spa	PREP+DET
+páncreas	spa	N
+
+sí	spa	ADV
+
+no	spa	ADV
+es	spa	V
+que	spa	CONJ
+tengo	spa	V
+que	spa	CONJ
+ir	spa	V
+a	spa	PREP
+Flagler_Street	eng&spa	name
+
+y	spa	CONJ
+me	spa	PRON
+dijo	spa	V
+
+remember	eng	V
+
+yeah	eng	ADV
+and	eng	CONJ
+
+y	spa	CONJ
+me	spa	PRON
+lo	spa	PRON
+metía	spa	V
+así	spa	ADV
+en	spa	PREP
+el	spa	DET
+bolsillo	spa	N
+
+y	spa	CONJ
+tú	spa	PRON
+me	spa	PRON
+puedes	spa	V
+creer	spa	V
+que	spa	CONJ
+la	spa	PRON
+han	spa	V
+cogido	spa	V
+dos	spa	NUM
+personas	spa	N
+dos	spa	NUM
+hombres	spa	N
+esperando	spa	V
+a	spa	PREP
+una	spa	DET
+pobre	spa	ADJ
+mujer	spa	N
+vieja	spa	ADJ
+ya	spa	ADV
+
+pues	spa	CONJ
+tenían	spa	V
+que	spa	CONJ
+
+qué	spa	ADV
+criminales	spa	ADJ
+
+I	eng	PRON
+said	eng	V
+
+and	eng	CONJ
+I'd	eng	PRON
+keep	eng	V
+on	eng	ADV
+fucking	eng	V
+going	eng	V
+
+pero	spa	CONJ
+los	spa	DET
+viejos	spa	ADJ
+no	spa	ADV
+
+lo	spa	PRON
+voy	spa	V
+a	spa	PREP
+tener	spa	V
+aquí	spa	ADV
+en	spa	PREP
+esta	spa	ADJ
+cadena	spa	N
+
+aha	eng&spa	IM
+
+sí	spa	ADV
+
+es	spa	V
+por	spa	PREP
+aquella	spa	ADJ
+cerca	spa	N
+que	spa	PRON
+usted	spa	PRON
+está	spa	V
+su	spa	ADJ
+puerta	spa	N
+pasa	spa	V
+
+que	spa	CONJ
+se	spa	PRON
+vaya	spa	V
+por	spa	PREP
+otro	spa	PRON
+building	eng	unk
+a	spa	PREP
+hacer	spa	V
+esa	spa	ADJ
+gracia	spa	N
+
+hmm	eng	IM
+
+que	spa	CONJ
+ese	spa	PRON
+es	spa	V
+de	spa	PREP
+ocho	spa	NUM
+pies	spa	N
+
+ah	eng&spa	IM
+
+pero	spa	CONJ
+son	spa	V
+baratos	spa	ADJ
+
+bueno	spa	E
+no	spa	ADV
+
+pero	spa	CONJ
+es	spa	V
+una	spa	DET
+tienda	spa	N
+de	spa	PREP
+nueva	spa	ADJ
+
+ya	spa	ADV
+está	spa	V
+
+right	eng	ADJ
+
+very	eng	ADV
+expensive	eng	ADJ
+
+we	eng	PRON
+have	eng	V
+to	eng	PREP
+be	eng	V
+doing	eng	V
+little	eng	ADJ
+different	eng	ADJ
+things	eng	N
+to	eng	PREP
+get	eng	V
+one	eng	PRON
+report	eng	N
+so	eng	ADV
+we	eng	PRON
+can	eng	V
+send	eng	V
+it	eng	PRON
+downtown	eng	N
+so	eng	ADV
+they	eng	PRON
+can	eng	V
+you	eng	PRON
+know	eng	V
+send	eng	SV
+it	eng	PRON
+to	eng	PREP
+us	eng	PRON
+
+whether	eng	CONJ
+you	eng	PRON
+apply	eng	N
+or	eng	CONJ
+not	eng	ADV
+
+and	eng	CONJ
+you	eng	PRON
+get	eng	V
+a	eng	DET
+P_H_Q	eng	name
+
+you	eng	PRON
+gonna	eng	V
+apply	eng	N
+
+pero	spa	CONJ
+that's	eng	DEM
+
+well	eng	ADV
+
+ok	eng&spa	unk
+
+you	eng	PRON
+should	eng	V
+not	eng	ADV
+give	eng	SV
+them	eng	PRON
+a	eng	DET
+P_H_Q	eng	name
+because	eng	CONJ
+si	spa	CONJ
+esa	spa	ADJ
+persona	spa	N
+no	spa	ADV
+pasa	spa	V
+el	spa	DET
+test	eng&spa	N
+why	eng	REL
+give	eng	V
+them	eng	PRON
+a	eng	DET
+P_H_Q	eng	name
+
+why	eng	REL
+give	eng	V
+them	eng	PRON
+a	eng	DET
+P_H_Q	eng	name
+
+and	eng	CONJ
+if	eng	CONJ
+they're	eng	PRON
+not	eng	ADV
+interested	eng	N
+they	eng	PRON
+don't	eng	V
+come	eng	V
+back	eng	ADV
+in	eng	PREP
+the	eng	DET
+afternoon	eng	N
+for	eng	PREP
+their	eng	ADJ
+C_J_Bat	eng	name
+test	eng	SV
+
+but	eng	CONJ
+all	eng	ADJ
+these	eng	DEM
+are	eng	V
+state	eng	N
+certified	eng	V
+um	eng	IM
+
+F_D_L_E	eng	name
+lo	spa	DET
+lo	spa	PRON
+acepta	spa	V
+
+esta	spa	ADJ
+pregunta	spa	N
+se	spa	PRON
+la	spa	PRON
+hice	spa	V
+yo	spa	PRON
+a	spa	PREP
+él	spa	PRON
+y	spa	CONJ
+ahora	spa	ADV
+viene	spa	V
+con	spa	PREP
+la	spa	DET
+idea	spa	N
+de	spa	PREP
+él	spa	PRON
+
+definitivamente	spa	ADV
+definitivamente	spa	ADV
+
+no	eng&spa	ADV
+no	eng&spa	ADV
+no	eng&spa	ADV
+no	eng&spa	ADV
+no	eng&spa	ADV
+
+I'll	eng	PRON
+say	eng	V
+that	eng	CONJ
+to	eng	PREP
+him	eng	PRON
+
+because	eng	CONJ
+you're	eng	PRON
+gonna	eng	V
+spend	eng	V
+more	eng	ADJ
+money	eng	N
+on	eng	PREP
+P_H_Qs	eng	name
+giving	eng	SV
+it	eng	PRON
+out	eng	ADV
+to	eng	PREP
+the	eng	DET
+people	eng	N
+
+because	eng	CONJ
+yo	spa	PRON
+tengo	spa	V
+un	spa	DET
+papel	spa	N
+te	spa	PRON
+mando	spa	N
+un	spa	DET
+papel	spa	N
+a	spa	PREP
+tu	spa	ADJ
+casa	spa	N
+what	eng	REL
+are	eng	V
+you	eng	PRON
+gonna	eng	V
+do	eng	V
+with	eng	PREP
+it	eng	PRON
+
+das	spa	V
+a	spa	PREP
+los	spa	DET
+niños	spa	N
+para	spa	PREP
+que	spa	CONJ
+lo	spa	PRON
+puedan	spa	V
+coger	spa	V
+porque	spa	CONJ
+if	eng	CONJ
+you're	eng	PRON
+not	eng	ADV
+interested	eng	N
+why	eng	REL
+should	eng	V
+I	eng	PRON
+give	eng	V
+you	eng	PRON
+one	eng	PRON
+
+three	eng	NUM
+times	eng	N
+and	eng	CONJ
+within	eng	PREP
+the	eng	DET
+year	eng	N
+
+no	eng&spa	ADV
+
+boy	eng	N
+I	eng	PRON
+I	eng	PRON
+would	eng	V
+have	eng	SV
+gotten	eng	V
+into	eng	PREP
+a	eng	DET
+good	eng	ADJ
+argument	eng	N
+with	eng	PREP
+him	eng	PRON
+with	eng	PREP
+that	eng	CONJ
+if	eng	CONJ
+I	eng	PRON
+would	eng	V
+have	eng	SV
+known	eng	SV
+that	eng	DEM
+
+y	spa	CONJ
+él	spa	PRON
+no	spa	ADV
+lo	spa	PRON
+quiere	spa	V
+entender	spa	V
+lo	spa	DET
+que	spa	PRON
+entra	spa	V
+por	spa	PREP
+aquí	spa	ADV
+
+that	eng	CONJ
+happened	eng	V
+to	eng	PREP
+me	eng	PRON
+when	eng	CONJ
+I	eng	PRON
+was	eng	V
+about	eng	PREP
+to	eng	PREP
+graduate	eng	N
+um	eng	IM
+we	eng	PRON
+have	eng	V
+that	eng	DEM
+class	eng	N
+they	eng	PRON
+weren't	eng	V
+they	eng	PRON
+were	eng	V
+not	eng	ADV
+teaching	eng	V
+the	eng	DET
+class	eng	N
+doing	eng	V
+that	eng	DEM
+semesters	eng	N
+
+it	eng	PRON
+makes	eng	V
+sense	eng	N
+because	eng	CONJ
+we're	eng	PRON
+the	eng	DET
+ones	eng	PRON
+that	eng	CONJ
+deal	eng	V
+with	eng	PREP
+it	eng	PRON
+
+pero	spa	CONJ
+el	spa	DET
+día	spa	N
+primero	spa	ADV
+se	spa	PRON
+lo	spa	PRON
+dije	spa	V
+
+se	spa	PRON
+lo	spa	PRON
+recomendó	spa	V
+a	spa	PREP
+él	spa	PRON
+de	spa	PREP
+de	spa	PREP
+cerrar	spa	V
+la	spa	DET
+posición	spa	N
+
+porque	spa	CONJ
+yo	spa	PRON
+estaba	spa	V
+detrás	spa	ADV
+del	spa	PREP+DET
+
+ok	eng&spa	unk
+
+lo	spa	PRON
+hicieron	spa	V
+
+nunca	spa	ADV
+lo	spa	PRON
+hicieron	spa	V
+
+sí	spa	ADV
+pero	spa	CONJ
+fíjate	spa	V
+que	spa	CONJ
+a	spa	PREP
+ti	spa	PRON
+todavía	spa	ADV
+no	spa	ADV
+te	spa	PRON
+han	spa	V
+puesto	spa	V
+el	spa	DET
+assistant	eng	N
+ahí	spa	ADV
+a	spa	PREP
+trabajar	spa	V
+
+and	eng	CONJ
+they	eng	PRON
+are	eng	V
+not	eng	ADV
+gonna	eng	V
+put	eng	V
+it	eng	PRON
+
+estos	spa	PRON
+cuatro	spa	NUM
+sargentos	spa	N
+se	spa	PRON
+iban	spa	V
+con	spa	PREP
+a	eng	DET
+hundred	eng	NUM
+thousand	eng	NUM
+dollars	eng	N
+
+where	eng	REL
+
+minimum	eng	N
+cincuenta	spa	NUM
+mil	spa	NUM
+por	spa	PREP
+persona	spa	N
+
+but	eng	CONJ
+they	eng	PRON
+they	eng	PRON
+set	eng	V
+up	eng	ADV
+meetings	eng	unk
+
+if	eng	CONJ
+they	eng	PRON
+go	eng	V
+on	eng	PREP
+the	eng	DET
+
+pues	spa	CONJ
+ellos	spa	PRON
+fueron	spa	V
+para	spa	PREP
+ayer	spa	ADV
+a	spa	PREP
+nosotros	spa	PRON
+there	eng	ADV
+were	eng	V
+about	eng	PREP
+twenty	eng	NUM
+people	eng	N
+there	eng	ADV
+
+tú	spa	PRON
+me	spa	PRON
+crees	spa	V
+que	spa	CONJ
+ninguno	spa	PRON
+es	spa	V
+oficial	spa	ADJ
+ni	spa	CONJ
+María	eng&spa	name
+ni	spa	CONJ
+ni	spa	CONJ
+la	spa	DET
+otra	spa	PRON
+nueva	spa	ADJ
+ni	spa	CONJ
+la	spa	DET
+morena	spa	N
+este	spa	PRON
+tampoco	spa	ADV
+
+yo	spa	PRON
+tuve	spa	V
+que	spa	CONJ
+meterme	spa	V
+para	spa	PREP
+decirle	spa	V
+a	spa	PREP
+ellos	spa	PRON
+más	spa	ADV
+o	spa	CONJ
+menos	spa	ADV
+lo	spa	DET
+que	spa	PRON
+se	spa	PRON
+hacía	spa	V
+en	spa	PREP
+este	spa	N
+departamento	spa	N
+cómo	spa	INT
+se	spa	PRON
+procesan	spa	V
+el	spa	DET
+aplicante	spa	N
+cómo	spa	INT
+esperar	spa	V
+que	spa	CONJ
+es	spa	V
+lo	spa	DET
+que	spa	PRON
+se	spa	PRON
+esperan	spa	V
+in	eng	PREP
+the	eng	DET
+academy	eng	N
+
+and	eng	CONJ
+who	eng	REL
+were	eng	V
+these	eng	DEM
+people	eng	N
+
+I'm	eng	PRON
+expecting	eng	V
+you	eng	PRON
+know	eng	V
+a	eng	DET
+response	eng	N
+right	eng	ADJ
+away	eng	ADV
+
+yeah	eng	ADV
+yeah	eng	ADV
+and	eng	CONJ
+he	eng	PRON
+spent	eng	AV
+like	eng	CONJ
+maybe	eng	ADV
+months	eng	N
+doing	eng	V
+this	eng	DEM
+
+and	eng	CONJ
+and	eng	CONJ
+
+iba	spa	V
+
+no	spa	ADV
+tiene	spa	V
+que	spa	CONJ
+estar	spa	V
+tracking	eng	N
+cosas	spa	N
+
+for	eng	PREP
+example	eng	N
+
+assessment's	eng	N
+gonna	eng	V
+be	eng	V
+taken	eng	V
+away	eng	ADV
+now	eng	ADV
+
+se	spa	PRON
+me	spa	PRON
+se	spa	PRON
+me	spa	PRON
+miraron	spa	V
+los	spa	DET
+ojos	spa	N
+
+dime	spa	V
+cangrejo	spa	N
+then	eng	ADV
+I	eng	PRON
+know	eng	V
+what	eng	REL
+you're	eng	PRON
+talking	eng	V
+about	eng	PREP
+
+cogimos	spa	V
+de	spa	PREP
+eso	spa	PRON
+mucho	spa	ADJ
+
+entonces	spa	ADV
+ella	spa	PRON
+estaba	spa	V
+preparándolo	spa	V
+
+por	spa	PREP
+poco	spa	ADJ
+te	spa	PRON
+mata	spa	V
+
+what's	eng	REL+GB
+the	eng	DET
+word	eng	N
+that	eng	CONJ
+I	eng	PRON
+wanna	eng	V
+use	eng	V
+
+entonces	spa	ADV
+
+y	spa	CONJ
+entonces	spa	ADV
+nos	spa	PRON
+empezamos	spa	V
+a	spa	PREP
+fastidiar	spa	V
+
+caminar	spa	V
+
+sí	spa	ADV
+sí	spa	ADV
+
+él	spa	PRON
+pregunta	spa	V
+
+como	spa	CONJ
+que	spa	CONJ
+lo	spa	PRON
+puso	spa	V
+por	spa	PREP
+el	spa	DET
+piso	spa	N
+
+but	eng	CONJ
+he	eng	PRON
+did	eng	V
+do	eng	V
+one	eng	PRON
+
+and	eng	CONJ
+then	eng	ADV
+I	eng	PRON
+said	eng	V
+
+and	eng	CONJ
+and	eng	CONJ
+and	eng	CONJ
+then	eng	ADV
+we	eng	PRON
+said	eng	V
+and	eng	CONJ
+then	eng	ADV
+we	eng	PRON
+asked	eng	V
+I	eng	PRON
+say	eng	V
+
+y	spa	CONJ
+yo	spa	PRON
+lo	spa	PRON
+quería	spa	V
+complementar	spa	V
+complementar	spa	V
+
+wow	eng	IM
+
+yeah	eng	ADV
+entonces	spa	ADV
+yo	spa	PRON
+verdad	spa	N
+le	spa	PRON
+dije	spa	V
+
+él	spa	PRON
+lo	spa	DET
+que	spa	PRON
+está	spa	V
+acostumbrado	spa	V
+a	spa	PREP
+la	spa	DET
+gente	spa	N
+
+hasta	spa	PREP
+por	spa	PREP
+aquí	spa	ADV
+
+what	eng	REL
+what	eng	REL
+what	eng	REL
+is	eng	V
+he	eng	PRON
+taking	eng	V
+care	eng	SV
+of	eng	PREP
+
+hmmm	eng&spa	unk
+
+yo	spa	PRON
+no	spa	ADV
+estoy	spa	V
+muy	spa	ADV
+segura	spa	ADJ
+de	spa	PREP
+lo	spa	DET
+que	spa	PRON
+tú	spa	PRON
+haces	spa	V
+
+it	eng	PRON
+it	eng	PRON
+goes	eng	V
+
+le	spa	PRON
+sonaba	spa	V
+todo	spa	PRON
+
+no	eng&spa	ADV
+oh	eng&spa	IM
+no	eng&spa	ADV
+
+y	spa	CONJ
+entonces	spa	ADV
+when	eng	CONJ
+they	eng	PRON
+fueron	spa	V
+
+me	spa	PRON
+llamaron	spa	V
+
+y	spa	CONJ
+yo	spa	PRON
+dije	spa	V
+
+y	spa	CONJ
+I'm	eng	PRON
+gonna	eng	V
+pass	eng	V
+out	eng	ADV
+the	eng	DET
+flyers	eng	N
+
+uhhuh	eng	IM
+
+y	spa	CONJ
+voy	spa	V
+esperando	spa	V
+a	spa	PREP
+todo	spa	ADJ
+el	spa	DET
+mundo	spa	N
+
+bueno	spa	E
+mi	spa	ADJ
+amor	spa	N
+pero	spa	CONJ
+ya	spa	ADV
+lo	spa	PRON
+tiene	spa	V
+hecho	spa	N
+verdad	spa	N
+
+the	eng	DET
+best	eng	ADJ
+thing	eng	N
+about	eng	PREP
+her	eng	ADJ
+ella	spa	PRON
+no	spa	ADV
+complain	eng	SV
+you	eng	PRON
+know	eng	V
+
+llevo	spa	V
+una	spa	DET
+persona	spa	N
+conmigo	spa	PREP+PRON
+
+she	eng	PRON
+has	eng	IM+V
+a	eng	DET
+very	eng	ADV
+nice	eng	ADJ
+personality	eng	N
+
+Linda	eng&spa	name
+
+no	eng	ADV
+Tina	eng&spa	name
+isn't	eng	V
+is	eng	V
+her	eng	ADJ
+boss	eng	N
+
+sí	spa	ADV
+
+yeah	eng	ADV
+
+I	eng	PRON
+think	eng	V
+so	eng	ADV
+
+I	eng	PRON
+didn't	eng	V
+
+ni	spa	CONJ
+
+I	eng	PRON
+really	eng	ADJ+ADV
+want	eng	SV
+her	eng	PRON
+to	eng	PREP
+get	eng	V
+through	eng	PREP
+this	eng	DEM
+
+I	eng	PRON
+told	eng	V
+him	eng	PRON
+
+restraining	eng	V
+order	eng	N
+
+baby	eng	N
+shower	eng	N
+of	eng	PREP
+my	eng	ADJ
+sister	eng	N
+I	eng	PRON
+was	eng	V
+not	eng	ADV
+gonna	eng	V
+invite	eng	V
+him	eng	PRON
+
+I	eng	PRON
+was	eng	V
+like	eng	CONJ
+
+and	eng	CONJ
+then	eng	ADV
+I'm	eng	PRON
+gonna	eng	V
+hang	eng	V
+out	eng	ADV
+with	eng	PREP
+my	eng	ADJ
+girls	eng	N
+
+yeah	eng	ADV
+we	eng	PRON
+don't	eng	V
+have	eng	V
+time	eng	N
+to	eng	PREP
+miss	eng	V
+you	eng	PRON
+
+me	spa	PRON
+tiene	spa	V
+the	eng	DET
+whole	eng	ADJ
+the	eng	DET
+whole	eng	ADJ
+guns	eng	N
+and	eng	CONJ
+the	eng	DET
+whole	eng	ADJ
+deer	eng	N
+me	spa	PRON
+tiene	spa	V
+I	eng	PRON
+am	eng	V
+about	eng	PREP
+to	eng	PREP
+throw	eng	V
+up	eng	ADV
+on	eng	PREP
+myself	eng	PRON
+
+I	eng	PRON
+cannot	eng	V
+fucking	eng	V
+believe	eng	SV
+this	eng	DEM
+
+oh	eng	IM
+my	eng	ADJ
+god	eng	N
+
+what	eng	REL
+if	eng	CONJ
+somebody	eng	PRON
+push	eng	SV
+you	eng	PRON
+there	eng	ADV
+
+it's	eng	PRON
+not	eng	ADV
+even	eng	ADJ
+yours	eng	ADJ
+Gianna	eng&spa	name
+
+I	eng	PRON
+know	eng	V
+
+and	eng	CONJ
+he	eng	PRON
+goes	eng	V
+
+for	eng	PREP
+whenever	eng	CONJ
+you	eng	PRON
+get	eng	V
+ready	eng	ADJ
+your	eng	ADJ
+ready	eng	ADJ
+ready	eng	ADJ
+to	eng	PREP
+marry	eng	V
+there	eng	ADV
+it	eng	PRON
+is	eng	V
+
+oh	eng	IM
+yeah	eng	ADV
+yeah	eng	ADV
+ella	spa	PRON
+va	spa	V
+a	spa	PREP
+ir	spa	V
+
+oye	spa	V
+pero	spa	CONJ
+no	spa	ADV
+fue	spa	V
+que	spa	CONJ
+tu	spa	ADJ
+mamá	spa	N
+que	spa	PRON
+te	spa	PRON
+di	spa	V
+le	spa	PRON
+dijo	spa	V
+a	spa	PREP
+ella	spa	PRON
+
+but	eng	CONJ
+she's	eng	PRON
+like	eng	CONJ
+
+uhuh	eng	IM
+
+her	eng	ADJ
+grandma	eng	N
+won't	eng	V
+let	eng	SV
+her	eng	ADJ
+
+and	eng	CONJ
+que	spa	CONJ
+you	eng	PRON
+gonna	eng	V
+take	eng	V
+care	eng	SV
+of	eng	PREP
+me	eng	PRON
+
+I	eng	PRON
+was	eng	V
+like	eng	CONJ
+
+yeah	eng	ADV
+it's	eng	PRON
+so	eng	ADV
+sad	eng	ADJ
+
+solo	spa	N
+que	spa	PRON
+el	spa	DET
+de	spa	PREP
+ella	spa	PRON
+es	spa	V
+diferente	spa	ADJ
+
+like	eng	CONJ
+what	eng	REL
+are	eng	V
+you	eng	PRON
+saving	eng	V
+it	eng	PRON
+for	eng	PREP
+
+yeah	eng	ADV
+
+shit	eng	V
+
+no	spa	ADV
+tú	spa	PRON
+vas	spa	V
+a	spa	PREP
+salir	spa	V
+
+este	spa	PRON
+tengo	spa	V
+el	spa	DET
+thirty	eng	NUM
+six	eng	NUM
+street	eng	N
+
+why	eng	REL
+does	eng	V
+some	eng	ADJ
+one	eng	PRON
+
+why	eng	REL
+why	eng	REL
+do	eng	V
+I	eng	PRON
+have	eng	V
+to	eng	PREP
+stop	eng	V
+by	eng	PREP
+your	eng	ADJ
+house	eng	N
+
+not	eng	ADV
+only	eng	ADJ
+that	eng	CONJ
+but	eng	CONJ
+she's	eng	PRON
+so	eng	ADV
+young	eng	ADJ
+
+it's	eng	PRON
+blind	eng	ADJ
+
+pero	spa	CONJ
+oh	spa	IM
+oh	spa	IM
+a	spa	PREP
+lo	spa	DET
+dominicano	spa	N
+
+presidente	spa	N
+ahí	spa	ADV
+
+y	spa	CONJ
+los	spa	PRON
+tengo	spa	V
+en	spa	PREP
+el	spa	DET
+S_I_M_card	eng	name
+
+yeah	eng	ADV
+but	eng	CONJ
+see	eng	V
+that's	eng	DEM
+a	eng	DET
+good	eng	ADJ
+thing	eng	N
+because	eng	CONJ
+now	eng	ADV
+whatever	eng	REL
+you	eng	PRON
+have	eng	V
+
+oh	eng	IM
+me	eng	PRON
+too	eng	ADV
+
+I	eng	PRON
+had	eng	V
+a	eng	DET
+nanny	eng	N
+too	eng	ADV
+
+she	eng	PRON
+was	eng	V
+
+in	eng	PREP
+Costa_Rica	eng&spa	name
+
+they're	eng	PRON
+gonna	eng	V
+give	eng	V
+her	eng	ADJ
+a	eng	DET
+raise	eng	N
+
+and	eng	CONJ
+she's	eng	PRON
+like	eng	CONJ
+
+ok	eng	unk
+déjame	spa	V
+ver	spa	V
+cómo	spa	INT
+hago	spa	V
+esto	spa	PRON
+
+let's	eng	V
+delete	eng	SV
+first	eng	ADJ
+from	eng	PREP
+the	eng	DET
+phone	eng	N
+
+when	eng	CONJ
+it's	eng	PRON
+not	eng	ADV
+
+yeah	eng	ADV
+
+eh	eng&spa	IM
+ah	eng&spa	IM
+y	spa	CONJ
+la	spa	DET
+la	spa	DET
+jueza	spa	N
+
+ay	spa	IM
+
+y	spa	CONJ
+ella	spa	PRON
+se	spa	PRON
+limpió	spa	V
+el	spa	DET
+
+pero	spa	CONJ
+yo	spa	PRON
+no	spa	ADV
+vengo	spa	V
+para	spa	PREP
+acá	spa	ADV
+ya	spa	ADV
+porque	spa	CONJ
+ya	spa	ADV
+tú	spa	PRON
+tienes	spa	V
+tu	spa	ADJ
+niño	spa	N
+
+Lily	eng&spa	name
+no	spa	ADV
+es	spa	V
+verdad	spa	N
+que	spa	PRON
+la	spa	DET
+madre	spa	N
+cuando	spa	CONJ
+tiene	spa	V
+su	spa	ADJ
+bebito	spa	N
+si	spa	CONJ
+tiene	spa	V
+que	spa	CONJ
+tener	spa	V
+esa	spa	ADJ
+cosa	spa	N
+del	spa	PREP+DET
+bebito	spa	N
+
+pero	spa	CONJ
+no	spa	ADV
+voy	spa	V
+a	spa	PREP
+pintar	spa	V
+el	spa	DET
+cuarto	spa	N
+entero	spa	ADJ
+
+pues	spa	CONJ
+sí	spa	ADV
+
+I	eng	PRON
+know	eng	V
+
+riquísimo	spa	ADJ
+que	spa	CONJ
+está	spa	V
+
+en	spa	PREP
+San	eng&spa	name
+yo	spa	PRON
+no	spa	ADV
+lo	spa	PRON
+creo	spa	V
+
+I	eng	PRON
+know	eng	V
+
+es	spa	V
+soda	eng&spa	N
+bread	eng	N
+esto	spa	PRON
+también	spa	ADV
+
+esto	spa	PRON
+es	spa	V
+un	spa	DET
+pan	spa	N
+especial	spa	ADJ
+irlandés	spa	ADJ
+
+Irish	eng	name
+
+no	spa	ADV
+pesa	spa	V
+mucho	spa	ADV
+verdad	spa	N
+
+Pucho	eng&spa	name
+durmió	spa	V
+como	spa	CONJ
+un	spa	DET
+bebito	spa	N
+anoche	spa	ADV
+
+oh	eng	IM
+my	eng	ADJ
+god	eng	N
+
+o	spa	CONJ
+sea	spa	V
+si	spa	CONJ
+
+se	spa	PRON
+parece	spa	V
+
+pintas	spa	V
+
+and	eng	CONJ
+they	eng	PRON
+have	eng	V
+uh	eng&spa	IM
+uh	eng&spa	IM
+the	eng	DET
+little	eng	ADJ
+Asian	eng	name
+looks	eng	SV
+
+we	eng	PRON
+rode	eng	V
+um	eng	IM
+
+tú	spa	PRON
+siempre	spa	ADV
+quieres	spa	V
+estar	spa	V
+en	spa	PREP
+el	spa	DET
+club	spa	N
+
+we	eng	PRON
+having	eng	V
+fun	eng	N
+
+yeah	eng	ADV
+that's	eng	DEM
+what	eng	REL
+she	eng	PRON
+likes	eng	V
+
+all	eng	ADJ
+videos	eng	N
+karaokes	eng&spa	unk
+and	eng	CONJ
+the	eng	DET
+music	eng	N
+
+because	eng	CONJ
+a	eng	DET
+lot	eng	N
+of	eng	PREP
+people	eng	N
+complain	eng	N
+
+then	eng	ADV
+at	eng	PREP
+ten	eng	NUM
+we	eng	PRON
+shoot	eng	V
+up	eng	ADV
+the	eng	DET
+music	eng	N
+
+and	eng	CONJ
+there's	eng	PRON+BE
+about	eng	PREP
+
+and	eng	CONJ
+a	eng	DET
+lot	eng	N
+of	eng	PREP
+the	eng	DET
+people	eng	N
+there's	eng	PRON+BE
+a	eng	DET
+few	eng	ADJ
+of	eng	PREP
+them	eng	PRON
+that	eng	CONJ
+drink	eng	V
+two	eng	NUM
+or	eng	CONJ
+three	eng	NUM
+beers	eng	N
+and	eng	CONJ
+they	eng	PRON
+get	eng	V
+drunk	eng	ADJ
+or	eng	CONJ
+they	eng	PRON
+get	eng	V
+buzzed	eng	unk
+out	eng	ADV
+
+the	eng	DET
+other	eng	ADJ
+day	eng	N
+we	eng	PRON
+left	eng	ADJ
+about	eng	PREP
+
+so	eng	ADV
+we	eng	PRON
+got	eng	V
+here	eng	ADV
+at	eng	PREP
+went	eng	AV
+no	eng	ADV
+we	eng	PRON
+went	eng	V
+no	eng	ADV
+we	eng	PRON
+left	eng	ADJ
+one	eng	PRON
+day	eng	N
+at	eng	PREP
+twelve	eng	NUM
+
+no	eng	ADV
+that	eng	DEM
+was	eng	V
+when	eng	CONJ
+we	eng	PRON
+did	eng	V
+the	eng	DET
+valentine's	eng	N
+party	eng	N
+
+yeah	eng	ADV
+
+I	eng	PRON
+wonder	eng	N
+if	eng	CONJ
+
+y	spa	CONJ
+y	spa	CONJ
+Versaille	eng&spa	name
+está	spa	V
+to	eng	PREP
+the	eng	DET
+
+that's	eng	DEM
+right	eng	ADJ
+
+y	spa	CONJ
+you	eng	PRON
+know	eng	V
+porque	spa	CONJ
+en	spa	PREP
+el	spa	DET
+grupo	spa	N
+siempre	spa	ADV
+there's	eng	PRON+BE
+those	eng	DEM
+who	eng	REL
+who	eng	REL
+are	eng	V
+very	eng	ADV
+active	eng	ADJ
+
+and	eng	CONJ
+then	eng	ADV
+there's	eng	PRON+BE
+a	eng	DET
+lot	eng	N
+who	eng	REL
+just	eng	ADV
+go	eng	V
+to	eng	PREP
+hang	eng	V
+out	eng	ADV
+
+and	eng	CONJ
+there's	eng	PRON+BE
+an	eng	DET
+old	eng	ADJ
+guy	eng	N
+that	eng	CONJ
+he	eng	PRON
+he's	eng	PRON
+a	eng	DET
+an	eng	DET
+accountant	eng	N
+
+de	spa	PREP
+ella	spa	PRON
+la	spa	DET
+niña	spa	N
+
+but	eng	CONJ
+she'll	eng	PRON
+ride	eng	V
+with	eng	PREP
+us	eng	PRON
+
+and	eng	CONJ
+you're	eng	PRON
+going	eng	V
+fast	eng	ADJ
+
+because	eng	CONJ
+you're	eng	PRON
+afraid	eng	ADJ
+the	eng	DET
+bike's	eng	N
+not	eng	ADV
+gonna	eng	V
+turn	eng	V
+
+or	eng	CONJ
+actually	eng	ADJ+ADV
+it	eng	PRON
+was	eng	V
+just	eng	ADJ
+about	eng	PREP
+three	eng	NUM
+weeks	eng	N
+before	eng	CONJ
+nos	spa	PRON
+hicimos	spa	V
+miembros	spa	N
+del	spa	PREP+DET
+club	eng&spa	N
+
+yeah	eng	ADV
+del	spa	PREP+DET
+ah	eng&spa	IM
+before	eng	CONJ
+we	eng	PRON
+
+yeah	eng	ADV
+he	eng	PRON
+broke	eng	V
+he	eng	PRON
+broke	eng	V
+three	eng	NUM
+ribs	eng	N
+
+if	eng	CONJ
+you're	eng	PRON
+gonna	eng	V
+ride	eng	V
+it	eng	PRON
+you	eng	PRON
+you	eng	PRON
+can't	eng	V
+be	eng	V
+afraid	eng	ADJ
+of	eng	PREP
+it	eng	PRON
+
+you	eng	PRON
+don't	eng	V
+fall	eng	V
+
+yeah	eng	ADV
+I've	eng	PRON
+gotten	eng	V
+used	eng	N
+to	eng	PREP
+it	eng	PRON
+
+oh	eng&spa	IM
+San_Agustin	spa	name
+we	eng	PRON
+love	eng	V
+it	eng	PRON
+
+we	eng	PRON
+went	eng	V
+a	eng	DET
+big	eng	ADJ
+group	eng	N
+
+behind	eng	PREP
+all	eng	ADJ
+of	eng	PREP
+us	eng	PRON
+
+a	spa	PREP
+a	spa	PREP
+a	spa	PREP
+ella	spa	PRON
+y	spa	CONJ
+a	spa	PREP
+Ana	eng&spa	name
+
+te	spa	PRON
+lo	spa	PRON
+voy	spa	V
+a	spa	PREP
+enseñar	spa	V
+
+e	spa	CONJ
+iban	spa	V
+las	spa	DET
+dos	spa	NUM
+locas	spa	ADJ
+through	eng	PREP
+the	eng	DET
+sunroof	eng	unk
+taking	eng	V
+pictures	eng	N
+
+they	eng	PRON
+got	eng	V
+so	eng	ADV
+many	eng	ADJ
+pictures	eng	N
+that	eng	CONJ
+it	eng	PRON
+was	eng	V
+amazing	eng	unk
+
+then	eng	ADV
+you're	eng	PRON
+going	eng	V
+to	eng	PREP
+have	eng	V
+problems	eng	N
+
+Aaron	eng&spa	name
+that's	eng	DEM
+a	eng	DET
+good	eng	ADJ
+one	eng	PRON
+
+the	eng	DET
+pain	eng	N
+that	eng	CONJ
+he	eng	PRON
+had	eng	V
+
+and	eng	CONJ
+he	eng	PRON
+goes	eng	V
+eh	eng&spa	IM
+you	eng	PRON
+know	eng	V
+
+seguro	spa	N
+que	spa	PRON
+la	spa	DET
+nutria	spa	N
+ese	spa	PRON
+dice	spa	V
+
+you	eng	PRON
+gotta	eng	V
+be	eng	V
+pissing	eng	V
+every	eng	ADJ
+ten	eng	NUM
+minutes	eng	N
+because	eng	CONJ
+he	eng	PRON
+just	eng	ADJ
+cracks	eng	N
+you	eng	PRON
+up	eng	ADV
+with	eng	PREP
+the	eng	DET
+things	eng	N
+he	eng	PRON
+comes	eng	N
+up	eng	ADV
+with	eng	PREP
+you	eng	PRON
+know	eng	V
+
+not	eng	ADV
+that	eng	DEM
+old	eng	ADJ
+
+and	eng	CONJ
+they	eng	PRON
+love	eng	V
+to	eng	PREP
+dress	eng	V
+up	eng	ADV
+
+se	spa	PRON
+ponen	spa	V
+peluca	spa	N
+para	spa	PREP
+Saint	eng	name
+Patrick	eng	name
+
+she	eng	PRON
+got	eng	V
+a	eng	DET
+green	eng	N
+peluca	spa	N
+
+fue	spa	V
+con	spa	PREP
+peluca	spa	N
+verde	spa	ADJ
+
+en	spa	PREP
+en	spa	PREP
+una	spa	DET
+fiesta	spa	N
+que	spa	PRON
+hicieron	spa	V
+de	spa	PREP
+de	spa	PREP
+disfraz	spa	N
+she	eng	PRON
+went	eng	V
+dressed	eng	SV
+like	eng	CONJ
+saint	eng	N
+polly	eng	N
+girl	eng	N
+
+Ricky	eng&spa	name
+fue	spa	V
+like	eng	CONJ
+the	eng	DET
+angel	eng	N
+and	eng	CONJ
+a	eng	DET
+devil	eng	N
+
+yeah	eng	ADV
+together	eng	ADV
+
+and	eng	CONJ
+and	eng	CONJ
+we	eng	PRON
+had	eng	V
+such	eng	ADJ
+a	eng	DET
+good	eng	ADJ
+time	eng	N
+
+y	spa	CONJ
+caliéntalo	spa	V
+en	spa	PREP
+el	spa	DET
+plato	spa	N
+
+es	spa	V
+como	spa	CONJ
+todo	spa	PRON
+
+when	eng	CONJ
+we	eng	PRON
+went	eng	V
+we	eng	PRON
+were	eng	V
+just	eng	ADJ
+fresh	eng	ADJ
+into	eng	PREP
+the	eng	DET
+club	eng	N
+
+pero	spa	CONJ
+I'm	eng	PRON
+pretty	eng	ADJ
+sure	eng	ADJ
+everybody	eng	PRON
+has	eng	IM+V
+issues	eng	N
+you	eng	PRON
+know	eng	V
+
+yeah	eng	ADV
+
+I	eng	PRON
+don't	eng	V
+like	eng	CONJ
+it	eng	PRON
+
+you	eng	PRON
+know	eng	V
+everything	eng	PRON
+the	eng	DET
+cake	eng	N
+
+mama	eng&spa	N
+there's	eng	PRON+BE
+corn	eng	N
+
+yeah	eng	ADV
+
+he's	eng	PRON
+a	eng	DET
+good	eng	ADJ
+person	eng	N
+a	eng	DET
+very	eng	ADV
+good	eng	ADJ
+person	eng	N
+
+when	eng	CONJ
+we	eng	PRON
+went	eng	V
+camping	eng	SV
+
+yeah	eng	ADV
+
+and	eng	CONJ
+everybody	eng	PRON
+was	eng	V
+singing	eng	unk
+and	eng	CONJ
+dancing	eng	V
+
+and	eng	CONJ
+I	eng	PRON
+and	eng	CONJ
+I	eng	PRON
+him	eng	PRON
+
+o	spa	CONJ
+
+the	eng	DET
+other	eng	ADJ
+day	eng	N
+fue	spa	V
+una	spa	DET
+señora	spa	N
+que	spa	PRON
+es	spa	V
+española	spa	ADJ
+
+y	spa	CONJ
+hizo	spa	V
+esta	spa	PRON
+creo	spa	V
+que	spa	CONJ
+es	spa	V
+o	spa	CONJ
+whatever	eng	REL
+they	eng	PRON
+do	eng	V
+
+los	spa	DET
+españoles	spa	N
+
+la	spa	DET
+comunidad	spa	N
+I	eng	PRON
+don't	eng	V
+know	eng	V
+community	eng	N
+
+no	eng	ADV
+guy	eng	N
+community	eng	N
+
+no	eng	ADV
+I'm	eng	PRON
+serious	eng	ADJ
+
+and	eng	CONJ
+I	eng	PRON
+go	eng	V
+
+you	eng	PRON
+don't	eng	V
+know	eng	V
+
+do	eng	V
+you	eng	PRON
+wanna	eng	V
+go	eng	V
+back	eng	ADV
+there	eng	ADV
+some	eng	ADJ
+day	eng	N
+
+and	eng	CONJ
+how	eng	ADV
+todo	spa	ADJ
+like	eng	CONJ
+it's	eng	PRON
+weird	eng	ADJ
+
+yeah	eng	ADV
+he	eng	PRON
+is	eng	V
+
+we	eng	PRON
+going	eng	V
+
+oh	eng	IM
+shit	eng	V
+
+whatever	eng	REL
+all	eng	ADJ
+the	eng	DET
+time	eng	N
+yeah	eng	ADV
+
+but	eng	CONJ
+like	eng	CONJ
+he's	eng	PRON
+
+see	eng	V
+that	eng	DEM
+
+wait	eng	V
+wait	eng	SV
+stop	eng	SV
+
+Manolo	eng&spa	name
+
+es	spa	V
+flow	eng	SV
+watch	eng	SV
+
+se	spa	PRON
+te	spa	PRON
+olvidó	spa	V
+hijo	spa	N
+
+Paula	eng&spa	name
+be	eng	SV
+careful	eng	ADJ
+
+quién	spa	INT
+te	spa	PRON
+quién	spa	INT
+te	spa	PRON
+enseño	spa	V
+a	spa	PREP
+ti	spa	PRON
+jugar	spa	V
+a	spa	PREP
+voleibol	spa	N
+
+it	eng	PRON
+didn't	eng	V
+work	eng	SV
+out	eng	ADV
+
+did	eng	V
+they	eng	PRON
+have	eng	V
+a	eng	DET
+team	eng	N
+there	eng	ADV
+
+pero	spa	CONJ
+now	eng	ADV
+I	eng	PRON
+actually	eng	ADJ+ADV
+get	eng	V
+to	eng	PREP
+go	eng	V
+into	eng	PREP
+a	eng	DET
+team	eng	N
+where	eng	REL
+I	eng	PRON
+got	eng	V
+I	eng	PRON
+actually	eng	ADJ+ADV
+get	eng	V
+to	eng	PREP
+play	eng	V
+the	eng	DET
+game	eng	N
+
+and	eng	CONJ
+you	eng	PRON
+know	eng	V
+I	eng	PRON
+was	eng	V
+so	eng	ADV
+nervous	eng	ADJ
+
+because	eng	CONJ
+I	eng	PRON
+was	eng	V
+because	eng	CONJ
+I	eng	PRON
+was	eng	V
+around	eng	ADV
+so	eng	ADV
+many	eng	ADJ
+like	eng	CONJ
+awesome	eng	ADJ
+players	eng	unk
+
+she	eng	PRON
+didn't	eng	V
+make	eng	SV
+it	eng	PRON
+
+ella	spa	PRON
+fue	spa	V
+buena	spa	ADJ
+jugando	spa	V
+
+son	spa	V
+como	spa	CONJ
+unos	spa	DET
+elásticos	spa	ADJ
+no	spa	ADV
+Paula	eng&spa	name
+
+probably	eng	ADV
+you	eng	PRON
+can	eng	V
+hurt	eng	V
+the	eng	DET
+wood	eng	N
+
+breakfast	eng	N
+and	eng	CONJ
+lunch	eng	N
+
+I	eng	PRON
+guess	eng	V
+not	eng	ADV
+
+and	eng	CONJ
+you	eng	PRON
+can	eng	V
+put	eng	V
+it	eng	PRON
+in	eng	PREP
+your	eng	ADJ
+bag	eng	N
+
+everything	eng	PRON
+hurts	eng	V
+
+I	eng	PRON
+think	eng	V
+it	eng	PRON
+was	eng	V
+because	eng	CONJ
+I	eng	PRON
+did	eng	V
+thirty	eng	NUM
+squats	eng	unk
+
+well	eng	ADV
+you	eng	PRON
+have	eng	V
+to	eng	PREP
+bend	eng	V
+your	eng	ADJ
+knees	eng	N
+and	eng	CONJ
+go	eng	V
+up	eng	ADV
+and	eng	CONJ
+down	eng	PREP
+
+be	eng	V
+careful	eng	ADJ
+
+are	eng	V
+they	eng	PRON
+your	eng	ADJ
+friends	eng	N
+
+no	eng	ADV
+
+well	eng	ADV
+the	eng	DET
+first	eng	ADJ
+um	eng	IM
+with	eng	PREP
+one	eng	PRON
+of	eng	PREP
+them	eng	PRON
+I	eng	PRON
+do	eng	V
+
+they	eng	PRON
+are	eng	V
+nicer	eng	ADJ
+here	eng	ADV
+
+we	eng	PRON
+don't	eng	V
+have	eng	V
+it	eng	PRON
+
+porque	spa	CONJ
+entonces	spa	ADV
+ya	spa	ADV
+se	spa	PRON
+baña	spa	V
+porque	spa	CONJ
+aquí	spa	ADV
+calor	spa	N
+
+yeah	eng	ADV
+that	eng	CONJ
+one	eng	PRON
+
+después	spa	ADV
+con	spa	PREP
+el	spa	DET
+um	eng	IM
+hash_brown	eng	unk
+casserole	eng	N
+two	eng	NUM
+sunny	eng	ADJ
+side	eng	N
+up	eng	ADV
+eggs	eng	N
+
+las	spa	DET
+tostadas	spa	N
+
+y	spa	CONJ
+entonces	spa	ADV
+se	spa	PRON
+te	spa	PRON
+bajó	spa	V
+la	spa	DET
+comida	spa	N
+
+sí	spa	ADV
+sí	spa	ADV
+
+I	eng	PRON
+I	eng	PRON
+know	eng	V
+it's	eng	PRON
+kind	eng	ADJ
+of	eng	PREP
+mean	eng	SV
+pero	spa	CONJ
+it's	eng	PRON
+kind	eng	ADJ
+of	eng	PREP
+boring	eng	V
+colors	eng	N
+
+like	eng	CONJ
+beige	eng	N
+and	eng	CONJ
+that	eng	DEM
+
+yeah	eng	ADV
+like	eng	CONJ
+
+skinny	eng	ADJ
+jeans	eng	N
+are	eng	V
+ah	eng&spa	IM
+los	spa	DET
+jeans	eng	N
+que	spa	PRON
+son	spa	V
+muy	spa	ADV
+muy	spa	ADV
+pegaditos	spa	N
+
+y	spa	CONJ
+son	spa	V
+estrech	spa	N
+
+o_k	eng&spa	IM
+
+they	eng	PRON
+have	eng	V
+it	eng	PRON
+in	eng	PREP
+Pembrook_Pines	eng&spa	name
+
+oh	eng&spa	IM
+the	eng	DET
+the	eng	DET
+jeans	eng	N
+
+for	eng	PREP
+real	eng	ADJ
+
+and	eng	CONJ
+they	eng	PRON
+weren't	eng	V
+they	eng	PRON
+they	eng	PRON
+were	eng	V
+o_k	eng&spa	IM
+
+thirteen	eng	NUM
+fourteen	eng	NUM
+
+you're	eng	PRON
+not	eng	ADV
+hungry	eng	ADJ
+Paula	eng&spa	name
+
+bueno	spa	E
+Paula	eng&spa	name
+tú	spa	PRON
+sabes	spa	V
+que	spa	CONJ
+la	spa	DET
+semana	spa	N
+que	spa	PRON
+viene	spa	V
+se	spa	PRON
+acaba	spa	V
+el	spa	DET
+colegio	spa	N
+
+so	eng	ADV
+excited	eng	SV
+
+pero	spa	CONJ
+como	spa	CONJ
+tú	spa	PRON
+vas	spa	V
+a	spa	PREP
+un	spa	DET
+colegio	spa	N
+público	spa	ADJ
+ellos	spa	PRON
+no	spa	ADV
+lo	spa	DET
+no	spa	ADV
+lo	spa	PRON
+unen	spa	V
+con	spa	PREP
+las	spa	DET
+fiestas	spa	N
+religiosas	spa	ADJ
+
+cuál	spa	PRON
+
+yeah	eng	ADV
+
+ellos	spa	PRON
+tienen	spa	V
+unos	spa	DET
+amigos	spa	N
+en	spa	PREP
+Gainsville	eng&spa	name
+que	spa	CONJ
+tienen	spa	V
+una	spa	DET
+finca	spa	N
+que	spa	PRON
+tiene	spa	V
+twenty	eng	NUM
+acres	eng	unk
+
+and	eng	CONJ
+in	eng	PREP
+that	eng	DEM
+farm	eng	N
+ellos	spa	PRON
+tienen	spa	V
+horses	eng	N
+
+y	spa	CONJ
+cómo	spa	INT
+se	spa	PRON
+dice	spa	V
+chivo	spa	N
+
+y	spa	CONJ
+entonces	spa	ADV
+la	spa	DET
+señora	spa	N
+se	spa	V
+se	spa	PRON
+iba	spa	V
+a	spa	PREP
+ir	spa	V
+fuera	spa	V
+
+so	eng	ADV
+they	eng	PRON
+had	eng	V
+to	eng	PREP
+feed	eng	unk
+the	eng	DET
+hens	eng	N
+and	eng	CONJ
+the	eng	DET
+chicken	eng	N
+everything	eng	PRON
+
+que	spa	CONJ
+había	spa	V
+frío	spa	ADJ
+
+te	spa	PRON
+acuerdas	spa	V
+que	spa	CONJ
+aquel	spa	ADJ
+día	spa	N
+que	spa	PRON
+las	spa	PRON
+vimos	spa	V
+las	spa	DET
+
+era	spa	V
+bonito	spa	ADJ
+el	spa	DET
+patio	spa	N
+
+han	spa	V
+hecho	spa	V
+el	spa	DET
+deck	eng	N
+de	spa	PREP
+madera	spa	N
+
+they	eng	PRON
+they	eng	PRON
+changed	eng	V
+the	eng	DET
+roof	eng	N
+of	eng	PREP
+the	eng	DET
+house	eng	N
+
+she's	eng	PRON
+so	eng	ADV
+cute	eng	ADJ
+
+I	eng	PRON
+don't	eng	V
+know	eng	V
+
+aha	eng&spa	IM
+
+quién	spa	INT
+te	spa	PRON
+a	spa	PREP
+ti	spa	PRON
+artista	spa	N
+
+el	spa	DET
+pobre	spa	ADJ
+hombre	spa	N
+salen	spa	V
+plumas	spa	N
+
+speaking	eng	V
+of	eng	PREP
+pollo	spa	N
+have	eng	SV
+you	eng	PRON
+been	eng	V
+to	eng	PREP
+Chick_fil_A	eng&spa	name
+
+no	eng&spa	ADV
+
+you	eng	PRON
+like	eng	V
+it	eng	PRON
+
+yeah	eng	ADV
+
+tienes	spa	V
+que	spa	CONJ
+dormir	spa	V
+en	spa	PREP
+la	spa	DET
+casa	spa	N
+
+five	eng	NUM
+thirty	eng	NUM
+
+dígame	spa	V
+
+mira	spa	V
+we	eng	PRON
+fly	eng	V
+in	eng	PREP
+Miami	eng	name
+London	eng	name
+
+London	eng	name
+
+you	eng	PRON
+go	eng	V
+to	eng	PREP
+the	eng	DET
+cruise	eng	V
+
+que	spa	CONJ
+el	spa	DET
+tour	eng	N
+demora	spa	V
+como	spa	CONJ
+diez	spa	NUM
+horas	spa	N
+y	spa	CONJ
+media	spa	V
+
+y	spa	CONJ
+nos	spa	PRON
+van	spa	V
+a	spa	PREP
+llevar	spa	V
+desde	spa	PREP
+el	spa	DET
+puerto	spa	N
+hasta	spa	PREP
+Paris	eng&spa	name
+
+vemos	spa	V
+el	spa	DET
+Arco	spa	name
+Triunfo	spa	name
+
+está	spa	V
+en	spa	PREP
+la	spa	DET
+iglesia	spa	N
+esa	spa	PRON
+famosa	spa	ADJ
+que	spa	CONJ
+se	spa	PRON
+llama	spa	V
+la	spa	DET
+Sagrada	spa	name
+Familia	spa	name
+la	spa	DET
+Sagrada	spa	name
+no	spa	ADV
+el	spa	DET
+Sagrado	spa	name
+Corazón	spa	name
+que	spa	CONJ
+es	spa	V
+precioso	spa	ADJ
+precioso	spa	ADJ
+
+the	eng	DET
+England	eng	name
+
+I	eng	PRON
+don't	eng	V
+know	eng	V
+
+después	spa	ADV
+cruza	spa	V
+a	spa	PREP
+España	spa	name
+
+the	eng	DET
+best	eng	ADJ
+of	eng	PREP
+the	eng	DET
+best	eng	ADJ
+
+Rodrigo	eng&spa	name
+estaba	spa	V
+está	spa	V
+aquí	spa	ADV
+
+or	eng	CONJ
+is	eng	V
+it	eng	PRON
+cold	eng	ADJ
+
+no	eng&spa	ADV
+ah	eng&spa	IM
+mira	spa	V
+ahora	spa	ADV
+ellos	spa	PRON
+se	spa	PRON
+fueron	spa	V
+en	spa	PREP
+marzo	spa	N
+verdad	spa	N
+
+hopefully	eng	ADJ+ADV
+
+really	eng	ADJ+ADV
+
+but	eng	CONJ
+how	eng	ADV
+long	eng	ADJ
+he's	eng	PRON
+gonna	eng	V
+be	eng	V
+there	eng	ADV
+
+he's	eng	PRON
+doing	eng	V
+a	eng	DET
+year	eng	N
+of	eng	PREP
+school	eng	N
+there	eng	ADV
+
+mmhm	eng	IM
+
+when	eng	CONJ
+
+but	eng	CONJ
+it's	eng	PRON
+not	eng	ADV
+so	eng	ADV
+loud	eng	ADJ
+because	eng	CONJ
+the	eng	DET
+range	eng	N
+is	eng	V
+all	eng	ADJ
+the	eng	DET
+way	eng	N
+over	eng	ADV
+there	eng	ADV
+
+that's	eng	DEM
+a	eng	DET
+good	eng	ADJ
+idea	eng	N
+
+entonces	spa	ADV
+tienes	spa	V
+que	spa	CONJ
+brincar	spa	V
+tienes	spa	V
+que	spa	CONJ
+ir	spa	V
+
+so	eng	ADV
+I	eng	PRON
+asked	eng	V
+what	eng	REL
+was	eng	V
+happening	eng	V
+
+ahí	spa	ADV
+está	spa	V
+el	spa	DET
+lieutenant	eng	N
+
+ahí	spa	ADV
+está	spa	V
+el	spa	DET
+major	eng	N
+
+so	eng	ADV
+for	eng	PREP
+instance	eng	N
+I	eng	PRON
+report	eng	N
+to	eng	PREP
+the	eng	DET
+lieutenant	eng	N
+
+y	spa	CONJ
+entonces	spa	ADV
+está	spa	V
+encinta	spa	ADJ
+
+but	eng	CONJ
+everybody	eng	PRON
+reports	eng	N
+to	eng	PREP
+her	eng	ADJ
+
+and	eng	CONJ
+now	eng	ADV
+you're	eng	PRON
+putting	eng	V
+Carmencita	eng&spa	name
+my	eng	ADJ
+daughter	eng	N
+through	eng	PREP
+school	eng	N
+which	eng	REL
+is	eng	V
+not	eng	ADV
+an	eng	DET
+easy	eng	ADJ
+task	eng	N
+either	eng	ADJ
+
+no	eng	ADV
+todo	spa	PRON
+está	spa	V
+malo	spa	ADJ
+
+las	spa	DET
+muchachas	spa	N
+no	spa	ADV
+saben	spa	V
+portarse	spa	V
+bien	spa	ADV
+porque	spa	CONJ
+las	spa	DET
+muchachas	spa	N
+hoy	spa	ADV
+en	spa	PREP
+día	spa	N
+it	eng	PRON
+it's	eng	PRON
+a	eng	DET
+problem	eng	N
+
+exactamente	spa	ADV
+
+I'm	eng	PRON
+looking	eng	V
+yo	spa	PRON
+lo	spa	DET
+yo	spa	PRON
+lo	spa	PRON
+miro	spa	V
+
+sí	spa	ADV
+
+es	spa	V
+que	spa	CONJ
+he	eng	PRON
+is	eng	V
+such	eng	ADJ
+a	eng	DET
+an	eng	DET
+advanced	eng	N
+technologically	eng	ADV
+advanced	eng	SV
+
+his	eng	ADJ
+his	eng	ADJ
+phone	eng	N
+
+porque	spa	CONJ
+el	spa	DET
+teléfono	spa	N
+mío	spa	ADJ
+no	spa	ADV
+el	spa	DET
+teléfono	spa	N
+mío	spa	ADJ
+tú	spa	PRON
+sabes	spa	V
+
+sí	spa	ADV
+pero	spa	CONJ
+
+fíjate	spa	V
+que	spa	CONJ
+en	spa	PREP
+mi	spa	ADJ
+teléfono	spa	N
+tanto	spa	ADJ
+que	spa	CONJ
+yo	spa	PRON
+marco	spa	N
+que	spa	PRON
+ya	spa	ADV
+se	spa	PRON
+me	spa	PRON
+está	spa	V
+acabando	spa	V
+en	spa	PREP
+en	spa	PREP
+the	eng	DET
+face	eng	N
+of	eng	PREP
+my	eng	ADJ
+phone	eng	N
+
+really	eng	ADJ+ADV
+
+Carmencita	eng&spa	name
+is	eng	V
+really	eng	ADJ+ADV
+fast	eng	ADJ
+
+Carmencita	eng&spa	name
+is	eng	V
+so	eng	ADV
+fast	eng	ADJ
+on	eng	PREP
+that	eng	CONJ
+on	eng	PREP
+that	eng	CONJ
+email	eng	unk
+or	eng	CONJ
+the	eng	DET
+text	eng	N
+messaging	eng	N
+on	eng	PREP
+her	eng	ADJ
+phone	eng	N
+
+yeah	eng	ADV
+that	eng	CONJ
+that	eng	CONJ
+to	eng	PREP
+me	eng	PRON
+that	eng	DEM
+kind	eng	ADJ
+of	eng	PREP
+punishment	eng	N
+is	eng	V
+like	eng	CONJ
+when	eng	CONJ
+you	eng	PRON
+have	eng	V
+finished	eng	V
+all	eng	ADJ
+your	eng	ADJ
+recourses	eng	unk
+
+vamos	spa	V
+a	spa	PREP
+suponer	spa	V
+que	spa	CONJ
+tu	spa	ADJ
+hijo	spa	N
+te	spa	PRON
+cuenta	spa	V
+te	spa	PRON
+contesta	spa	V
+mal	spa	ADJ
+
+bueno	spa	E
+no	spa	ADV
+I	eng	PRON
+give	eng	V
+him	eng	PRON
+the	eng	DET
+silent	eng	ADJ
+treatment	eng	N
+
+and	eng	CONJ
+he	eng	PRON
+he	eng	PRON
+never	eng	ADV
+gets	eng	SV
+the	eng	DET
+silent	eng	ADJ
+treatment	eng	N
+porque	spa	CONJ
+se	spa	PRON
+porta	spa	V
+bien	spa	ADV
+
+pero	spa	CONJ
+cuánto	spa	ADJ
+
+are	eng	V
+you	eng	PRON
+mad	eng	ADJ
+at	eng	PREP
+me	eng	PRON
+
+uhuh	eng	IM
+
+yeah	eng	ADV
+
+aquí	spa	ADV
+nunca	spa	ADV
+salió	spa	V
+con	spa	PREP
+nadie	spa	PRON
+
+mmhm	eng	IM
+
+but	eng	CONJ
+she's	eng	PRON
+like	eng	CONJ
+on	eng	PREP
+the	eng	DET
+computer	eng	N
+
+and	eng	CONJ
+her	eng	ADJ
+friends	eng	N
+are	eng	V
+text_messaging	eng	unk
+her	eng	ADJ
+
+cómo	spa	INT
+estaba	spa	V
+en	spa	PREP
+eso	spa	PRON
+he	eng	PRON
+plays	eng	V
+everyday	eng	ADJ
+football	eng	N
+
+I	eng	PRON
+think	eng	V
+he	eng	PRON
+told	eng	V
+me	eng	PRON
+first	eng	ADJ
+lineman	eng	N
+
+ni	spa	CONJ
+ni	spa	CONJ
+ni	spa	CONJ
+ni	spa	CONJ
+no	spa	ADV
+hice	spa	V
+muchas	spa	PRON
+cosas	spa	N
+en	spa	PREP
+mi	spa	ADJ
+vida	spa	N
+because	eng	CONJ
+
+yo	spa	PRON
+tampoco	spa	ADV
+
+last	eng	ADJ
+year	eng	N
+we	eng	PRON
+had	eng	V
+a	eng	DET
+great	eng	ADJ
+time	eng	N
+
+mamá	spa	N
+no	spa	ADV
+la	spa	PRON
+puede	spa	V
+cuidar	spa	V
+
+yeah	eng	ADV
+
+pobrecito	spa	ADJ
+no	spa	ADV
+
+yeah	eng	ADV
+
+she	eng	PRON
+did	eng	V
+
+exacto	spa	ADJ
+
+praise	eng	N
+god	eng	N
+yeah	eng	ADV
+
+no	eng	ADV
+she's	eng	PRON
+good	eng	ADJ
+
+and	eng	CONJ
+you	eng	PRON
+know	eng	V
+what	eng	REL
+you're	eng	PRON
+doing	eng	V
+
+sí	spa	ADV
+pero	spa	CONJ
+these	eng	DEM
+teachers	eng	N
+assigning	eng	V
+these	eng	DEM
+projects	eng	N
+the	eng	DET
+kids	eng	N
+don't	eng	V
+even	eng	ADV
+know	eng	V
+if	eng	CONJ
+they're	eng	PRON
+coming	eng	V
+or	eng	CONJ
+going	eng	V
+
+what	eng	REL
+do	eng	SV
+they	eng	PRON
+expect	eng	V
+
+oh	eng	IM
+
+él	spa	PRON
+tiene	spa	V
+dieciséis	spa	NUM
+años	spa	N
+ya	spa	ADV
+
+well	eng	ADV
+because	eng	CONJ
+of	eng	PREP
+the	eng	DET
+allergies	eng	N
+no	spa	ADV
+me	spa	PRON
+gustaría	spa	V
+
+los	spa	DET
+libros	spa	N
+
+what	eng	REL
+so	eng	ADV
+what	eng	REL
+did	eng	V
+you	eng	PRON
+have	eng	V
+in	eng	PREP
+mind	eng	N
+for	eng	PREP
+him	eng	PRON
+
+y	spa	CONJ
+qué	spa	INT
+te	spa	PRON
+dijeron	spa	V
+
+we	eng	PRON
+can	eng	V
+go	eng	V
+
+pick	eng	V
+up	eng	ADV
+Carmencita	eng&spa	name
+
+he's	eng	PRON
+sixteen	eng	N
+years	eng	N
+old	eng	ADJ
+no	eng&spa	ADV
+
+but	eng	CONJ
+you	eng	PRON
+can't	eng	V
+
+he	eng	PRON
+loves	eng	V
+it	eng	PRON
+
+what	eng	REL
+did	eng	V
+you	eng	PRON
+think	eng	V
+about	eng	PREP
+the	eng	DET
+the	eng	DET
+brownies	eng	ADJ+PV
+
+lo	spa	DET
+que	spa	PRON
+sí	spa	ADV
+hace	spa	V
+es	spa	V
+ponerte	spa	V
+gorda	spa	ADJ
+
+really	eng	ADJ+ADV
+
+mmhm	eng	IM
+
+no	eng	ADV
+but	eng	CONJ
+you	eng	PRON
+gotta	eng	V
+go	eng	V
+sis	eng	N
+
+y	spa	CONJ
+eso	spa	PRON
+
+pero	spa	CONJ
+mira	spa	V
+a	spa	PREP
+ver	spa	V
+si	spa	CONJ
+le	spa	PRON
+puedes	spa	V
+enseñar	spa	V
+porque	spa	CONJ
+lo	spa	DET
+que	spa	PRON
+pasa	spa	V
+es	spa	V
+que	spa	CONJ
+todas	spa	ADJ
+las	spa	DET
+fiestas	spa	N
+ahora	spa	ADV
+del	spa	PREP+DET
+summer	eng	N
+people	eng	N
+are	eng	V
+gonna	eng	V
+learn	eng	V
+people	eng	N
+are	eng	V
+gonna	eng	V
+know	eng	V
+how	eng	ADV
+to	eng	PREP
+swim	eng	V
+
+and	eng	CONJ
+she's	eng	PRON
+the	eng	DET
+only	eng	ADJ
+one	eng	PRON
+who	eng	REL
+can't	eng	V
+go	eng	V
+to	eng	PREP
+the	eng	DET
+parties	eng	N
+
+I	eng	PRON
+I	eng	PRON
+hope	eng	N
+
+y	spa	CONJ
+no	spa	ADV
+sé	spa	V
+como	spa	CONJ
+va	spa	V
+a	spa	PREP
+aprender	spa	V
+
+y	spa	CONJ
+si	spa	CONJ
+va	spa	V
+uno	spa	PRON
+al	spa	PREP+DET
+al	spa	PREP+DET
+mar	spa	N
+to	eng	PREP
+the	eng	DET
+ocean	eng	N
+
+no	eng	ADV
+you	eng	PRON
+know	eng	V
+what	eng	REL
+happened	eng	V
+at	eng	PREP
+the	eng	DET
+ocean	eng	N
+the	eng	DET
+other	eng	ADJ
+day	eng	N
+
+fue	spa	V
+pero	spa	CONJ
+no	spa	ADV
+se	spa	PRON
+metió	spa	V
+en	spa	PREP
+el	spa	DET
+agua	spa	N
+
+or	eng	CONJ
+or	eng	CONJ
+pee	eng	V
+yeah	eng	ADV
+
+no	spa	ADV
+
+no	spa	ADV
+no	spa	ADV
+tenían	spa	V
+
+nothing	eng	PRON
+
+eso	spa	PRON
+eso	spa	PRON
+es	spa	V
+muy	spa	ADV
+peligroso	spa	ADJ
+
+it's	eng	PRON
+very	eng	ADV
+scary	eng	ADJ
+
+this	eng	DEM
+guy	eng	N
+told	eng	V
+me	eng	PRON
+that	eng	CONJ
+he	eng	PRON
+was	eng	V
+a	eng	DET
+doctor	eng	N
+
+I	eng	PRON
+bought	eng	V
+I	eng	PRON
+bought	eng	V
+it	eng	PRON
+yesterday	eng	N
+
+they	eng	PRON
+know	eng	V
+how	eng	ADV
+to	eng	PREP
+cook	eng	N
+
+that's	eng	DEM
+ok	eng	unk
+
+bueno	spa	E
+está	spa	V
+comiendo	spa	V
+pizza	spa	N
+which	eng	REL
+is	eng	V
+a	eng	DET
+cheese	eng	N
+and	eng	CONJ
+a	eng	DET
+a	eng	DET
+little	eng	ADJ
+bit	eng	N
+of	eng	PREP
+the	eng	DET
+sauce	eng	N
+
+yeah	eng	ADV
+
+she	eng	PRON
+likes	eng	V
+those	eng	DEM
+
+yeah	eng	ADV
+
+for	eng	PREP
+example	eng	N
+you	eng	PRON
+know	eng	V
+like	eng	CONJ
+for	eng	PREP
+instance	eng	N
+today	eng	N
+ya	spa	ADV
+yo	spa	PRON
+tengo	spa	V
+rosetti	eng&spa	unk
+
+it's	eng	PRON
+just	eng	ADJ
+it's	eng	PRON
+a	eng	DET
+pasta	eng	N
+that's	eng	CONJ+BE
+stuffed	eng	unk
+
+I	eng	PRON
+thought	eng	V
+that	eng	CONJ
+you	eng	PRON
+meant	eng	V
+that	eng	CONJ
+you	eng	PRON
+had	eng	V
+helping	eng	unk
+you	eng	PRON
+
+yo	spa	PRON
+le	spa	PRON
+dije	spa	V
+
+not	eng	ADV
+good	eng	ADJ
+
+oh	eng	IM
+my	eng	ADJ
+god	eng	N
+
+no	eng	ADV
+he	eng	PRON
+knows	eng	V
+
+yes	eng	ADV
+he	eng	PRON
+does	eng	V
+
+y	spa	CONJ
+no	spa	ADV
+vienen	spa	V
+
+tampoco	spa	ADV
+está	spa	V
+alquilado	spa	V
+
+es	spa	V
+dos	spa	NUM
+cuartos	spa	N
+
+right	eng	ADJ
+
+so	eng	ADV
+they	eng	PRON
+are	eng	V
+gonna	eng	V
+put	eng	V
+they	eng	PRON
+are	eng	V
+gonna	eng	V
+put	eng	V
+they	eng	PRON
+are	eng	V
+gonna	eng	V
+put	eng	V
+they	eng	PRON
+are	eng	V
+gonna	eng	V
+put	eng	V
+in	eng	PREP
+your	eng	ADJ
+unit	eng	N
+
+really	eng	ADJ+ADV
+
+en	spa	PREP
+el	spa	DET
+condo	eng	unk
+
+lo	spa	PRON
+va	spa	V
+a	spa	PREP
+pagar	spa	V
+Luis	eng&spa	name
+but	eng	CONJ
+you	eng	PRON
+know	eng	V
+still	eng	ADJ
+
+no	spa	ADV
+pero	spa	CONJ
+de	spa	PREP
+todos	spa	ADJ
+modos	spa	N
+no	spa	ADV
+vale	spa	V
+la	spa	DET
+pena	spa	N
+
+iba	spa	V
+a	spa	PREP
+vender	spa	V
+su	spa	ADJ
+casa	spa	N
+
+sí	spa	ADV
+se	spa	PRON
+iba	spa	V
+a	spa	PREP
+mudar	spa	V
+ahí	spa	ADV
+porque	spa	CONJ
+es	spa	V
+bonito	spa	ADJ
+
+tú	spa	PRON
+qué	spa	INT
+crees	spa	V
+
+anything	eng	PRON
+that	eng	CONJ
+you	eng	PRON
+decide	eng	V
+to	eng	PREP
+do	eng	V
+sis	eng	N
+is	eng	V
+very	eng	ADV
+intelligent	eng	ADJ
+
+oh	eng	IM
+yeah	eng	ADV
+man	eng	N
+
+como	spa	CONJ
+no	spa	ADV
+molestas	spa	V
+
+él	spa	PRON
+es	spa	V
+buena	spa	ADJ
+gente	spa	N
+
+yo	spa	PRON
+estaba	spa	V
+haciendo	spa	V
+otro	spa	PRON
+para	spa	PREP
+Carmencita	spa	name
+
+you	eng	PRON
+know	eng	V
+I	eng	PRON
+think	eng	V
+this	eng	DEM
+is	eng	V
+so	eng	ADV
+ridiculous	eng	ADJ
+
+I	eng	PRON
+don't	eng	V
+like	eng	CONJ
+this	eng	DEM
+looseness	eng	N
+
+it's	eng	PRON
+very	eng	ADV
+very	eng	ADV
+hard	eng	ADJ
+
+mañana	spa	ADV
+habla	spa	N
+con	spa	PREP
+ella	spa	PRON
+
+pero	spa	CONJ
+let	eng	V
+let's	eng	V
+let's	eng	V
+see	eng	SV
+if	eng	CONJ
+she	eng	PRON
+wants	eng	V
+to	eng	PREP
+do	eng	V
+that	eng	DEM
+
+es	spa	V
+que	spa	CONJ
+mamá	spa	N
+fue	spa	V
+como	spa	CONJ
+que	spa	CONJ
+esta	spa	ADJ
+mañana	spa	N
+se	spa	PRON
+lo	spa	PRON
+dijo	spa	V
+
+but	eng	CONJ
+we	eng	PRON
+can	eng	V
+we	eng	PRON
+can	eng	V
+
+you	eng	PRON
+know	eng	V
+
+you	eng	PRON
+know	eng	V
+no	eng	ADV
+
+ok	eng	unk
+so	eng	ADV
+that'll	eng	CONJ+BE
+do	eng	V
+good	eng	ADJ
+
+sí	spa	ADV
+
+going	eng	V
+yeah	eng	ADV
+
+ponles	spa	V
+los	spa	DET
+braces	eng	N
+
+ponles	spa	V
+
+well	eng	ADV
+she	eng	PRON
+wants	eng	V
+some	eng	ADJ
+
+it's	eng	PRON
+like	eng	CONJ
+a	eng	DET
+fad	eng	N
+right	eng	ADJ
+know	eng	SV
+with	eng	PREP
+the	eng	DET
+kids	eng	N
+
+ya	spa	ADV
+
+she	eng	PRON
+is	eng	V
+growing	eng	V
+up	eng	ADV
+
+oficial	spa	ADJ
+
+yeah	eng	ADV
+oficial	spa	ADJ
+yeah	eng	ADV
+oficial	spa	ADJ
+
+yeah	eng	ADV
+
+you	eng	PRON
+know	eng	V
+like	eng	CONJ
+that's	eng	DEM
+
+like	eng	CONJ
+that's	eng	DEM
+
+you	eng	PRON
+know	eng	V
+it's	eng	PRON
+but	eng	CONJ
+it's	eng	PRON
+like	eng	CONJ
+
+basurero	spa	N
+
+that's	eng	DEM
+right	eng	ADJ
+
+slam	eng	V
+them	eng	PRON
+together	eng	ADV
+del	spa	PREP+DET
+
+yeah	eng	ADV
+
+yeah	eng	ADV
+but	eng	CONJ
+in	eng	PREP
+but	eng	CONJ
+in	eng	PREP
+but	eng	CONJ
+in	eng	PREP
+English	eng	N
+you	eng	PRON
+have	eng	V
+you	eng	PRON
+have	eng	V
+what	eng	REL
+they	eng	PRON
+what	eng	REL
+I	eng	PRON
+mean	eng	V
+what	eng	REL
+I'm	eng	PRON
+gonna	eng	V
+call	eng	V
+right	eng	ADJ
+now	eng	ADV
+like	eng	CONJ
+like	eng	CONJ
+prepositional	eng	ADJ
+adverbials	eng	N
+becoming	eng	V
+becoming	eng	V
+adjectives	eng	N
+
+yeah	eng	ADV
+profesor	spa	N
+de	spa	PREP
+francés	spa	N
+
+if	eng	CONJ
+you	eng	PRON
+say	eng	V
+if	eng	CONJ
+you	eng	PRON
+say	eng	V
+profesor	spa	N
+francés	spa	ADJ
+
+it	eng	PRON
+means	eng	N
+a	eng	DET
+French	eng	name
+like	eng	CONJ
+literally	eng	ADJ+ADV
+from	eng	PREP
+France	eng	name
+
+vacilarte	eng	unk
+
+vacilar	spa	V
+vacilar	spa	V
+
+no	eng	ADV
+
+o_k	eng	IM
+
+how	eng	ADV
+would	eng	V
+you	eng	PRON
+use	eng	V
+that	eng	DEM
+
+it's	eng	PRON
+like	eng	CONJ
+
+hay	spa	V
+que	spa	CONJ
+vacilar	spa	V
+
+disfrutar	spa	V
+y	spa	CONJ
+qué	spa	INT
+
+that's	eng	DEM
+that's	eng	DEM
+that's	eng	DEM
+interesting	eng	N
+
+entrar	spa	V
+
+yeah	eng	ADV
+
+calvo	spa	ADJ
+I	eng	PRON
+don't	eng	V
+know	eng	V
+
+I	eng	PRON
+have	eng	V
+no	eng	ADV
+idea	eng	N
+
+they	eng	PRON
+love	eng	V
+your	eng	ADJ
+brothers	eng	N
+
+outside	eng	PREP
+
+like	eng	CONJ
+you're	eng	PRON
+not	eng	ADV
+allowed	eng	SV
+to	eng	PREP
+sit	eng	V
+in	eng	PREP
+it	eng	PRON
+
+everyone	eng	PRON
+I've	eng	PRON
+asked	eng	V
+today	eng	N
+no	eng	ADV
+one	eng	PRON
+does	eng	N
+that	eng	DEM
+
+but	eng	CONJ
+like	eng	CONJ
+she's	eng	PRON
+like	eng	CONJ
+result	eng	N
+of	eng	PREP
+her	eng	ADJ
+like	eng	CONJ
+like	eng	CONJ
+family	eng	N
+
+Susana	eng&spa	name
+
+but	eng	CONJ
+but	eng	CONJ
+I	eng	PRON
+need	eng	V
+to	eng	PREP
+find	eng	V
+a	eng	DET
+really	eng	ADJ+ADV
+good	eng	ADJ
+job	eng	N
+
+aparte	spa	ADV
+que	spa	CONJ
+te	spa	PRON
+da	spa	V
+free	eng	ADJ
+tickets	eng	N
+
+he	eng	PRON
+told	eng	V
+me	eng	PRON
+
+le	spa	PRON
+doy	spa	V
+el	spa	DET
+boarding	eng	N
+ticket	eng	N
+
+y	spa	CONJ
+entonces	spa	ADV
+me	spa	PRON
+dice	spa	V
+
+no	spa	ADV
+pago	spa	V
+el	spa	DET
+tique	spa	N
+
+that's	eng	DEM
+why	eng	REL
+I	eng	PRON
+didn't	eng	V
+go	eng	SV
+to	eng	PREP
+his	eng	ADJ
+wedding	eng	unk
+in	eng	PREP
+Mexico	eng	name
+
+entonces	spa	ADV
+el	spa	DET
+y	spa	CONJ
+que	spa	CONJ
+
+y	spa	CONJ
+si	spa	CONJ
+trabajar	spa	V
+en	spa	PREP
+en	spa	PREP
+Jetblue	eng&spa	name
+boarding	eng	N
+pass	eng	N
+every	eng	ADJ
+weekend	eng	N
+
+y	spa	CONJ
+de	spa	PREP
+paso	spa	N
+que	spa	PRON
+yo	spa	PRON
+no	spa	ADV
+quiero	spa	V
+estudiar	spa	V
+en	spa	PREP
+las	spa	DET
+noches	spa	N
+
+entonces	spa	ADV
+sabes	spa	V
+un	spa	DET
+trabajo	spa	N
+de	spa	PREP
+oficina	spa	N
+no	spa	ADV
+me	spa	PRON
+conviene	spa	V
+
+mandaste	spa	V
+el	spa	DET
+essay	eng	N
+o	spa	CONJ
+no	spa	ADV
+
+no	spa	ADV
+no	spa	ADV
+lo	spa	PRON
+he	spa	V
+mandado	spa	V
+
+sabes	spa	V
+por	spa	PREP
+eso	spa	PRON
+tengo	spa	V
+que	spa	CONJ
+aplicar	spa	V
+ya	spa	ADV
+para	spa	PREP
+que	spa	CONJ
+llegue	spa	V
+a	spa	PREP
+tiempo	spa	N
+
+oh	eng	IM
+my	eng	ADJ
+god	eng	N
+
+con	spa	PREP
+tus	spa	ADJ
+taconcitos	spa	N
+esperando	spa	V
+el	spa	DET
+taxi	eng&spa	N
+
+María	eng&spa	name
+
+it's	eng	PRON
+o_k	eng&spa	IM
+if	eng	CONJ
+you	eng	PRON
+can't	eng	V
+say	eng	V
+it	eng	PRON
+
+y	spa	CONJ
+dejó	spa	V
+de	spa	PREP
+ir	spa	V
+a	spa	PREP
+Nueva_York	eng&spa	name
+por	spa	PREP
+quedarse	spa	V
+para	spa	PREP
+estar	spa	V
+con	spa	PREP
+la	spa	DET
+amiga	spa	N
+
+como	spa	CONJ
+que	spa	CONJ
+she's	eng	PRON
+with	eng	PREP
+him	eng	PRON
+
+and	eng	CONJ
+y	spa	CONJ
+yo	spa	PRON
+y	spa	CONJ
+que	spa	CONJ
+
+qué	spa	INT
+boba	spa	N
+and	eng	CONJ
+she's	eng	PRON
+not	eng	ADV
+with	eng	PREP
+you	eng	PRON
+
+me	spa	PRON
+dice	spa	V
+
+yo	spa	PRON
+y	spa	CONJ
+que	spa	CONJ
+
+sabes	spa	V
+
+hmm	eng&spa	IM
+
+sí	spa	ADV
+she's	eng	PRON
+coming	eng	V
+in	eng	PREP
+August	eng	name
+
+voy	spa	V
+a	spa	PREP
+llorar	spa	V
+
+exacto	spa	ADJ
+
+exacto	spa	ADJ
+porque	spa	CONJ
+
+y	spa	CONJ
+tuvo	spa	V
+que	spa	CONJ
+cambiar	spa	V
+forty	eng	NUM
+thousand	eng	NUM
+dollars	eng	N
+
+y	spa	CONJ
+ella	spa	PRON
+y	spa	CONJ
+que	spa	CONJ
+
+si	spa	CONJ
+ella	spa	PRON
+lo	spa	PRON
+compra	spa	V
+y	spa	CONJ
+el	spa	DET
+cambio	spa	N
+
+ajá	spa	IM
+ya	spa	ADV
+sé	spa	V
+
+chama	spa	N
+porque	spa	CONJ
+no	spa	ADV
+me	spa	PRON
+voy	spa	V
+a	spa	PREP
+graduar	spa	V
+en	spa	PREP
+agosto	spa	N
+
+research	eng	N
+methods	eng	N
+la	spa	PRON
+tengo	spa	V
+que	spa	CONJ
+ver	spa	V
+para	spa	PREP
+entrar	spa	V
+a	spa	PREP
+la	spa	DET
+otra	spa	PRON
+
+oh	eng	IM
+my	eng	ADJ
+god	eng	N
+
+esa	spa	PRON
+
+fall	eng	V
+
+ay	spa	IM
+no	spa	ADV
+
+Carla	eng&spa	name
+
+chama	spa	N
+I	eng	PRON
+have	eng	V
+so	eng	ADV
+many	eng	ADJ
+credits	eng	N
+
+por	spa	PREP
+qué	spa	INT
+
+y	spa	CONJ
+no	spa	ADV
+la	spa	DET
+computadora	spa	N
+no	spa	ADV
+sé	spa	V
+no	spa	ADV
+no	spa	ADV
+no	spa	ADV
+nos	spa	PRON
+dejó	spa	V
+
+y	spa	CONJ
+tampoco	spa	ADV
+nos	spa	PRON
+dieron	spa	V
+
+y	spa	CONJ
+entonces	spa	ADV
+el	spa	DET
+tipo	spa	N
+está	spa	V
+así	spa	ADV
+
+entramos	spa	V
+
+y	spa	CONJ
+el	spa	DET
+vuelo	spa	N
+se	spa	PRON
+atrasó	spa	V
+dos	spa	NUM
+horas	spa	N
+
+y	spa	CONJ
+llego	spa	V
+y	spa	CONJ
+le	spa	PRON
+digo	spa	V
+
+o_k	eng&spa	IM
+
+you	eng	PRON
+were	eng	V
+outside	eng	PREP
+
+it	eng	PRON
+was	eng	V
+like	eng	CONJ
+thirty	eng	NUM
+nine	eng	NUM
+one	eng	NUM
+way	eng	N
+and	eng	CONJ
+thirty	eng	NUM
+nine	eng	NUM
+back	eng	ADV
+una	spa	DET
+broma	spa	N
+así	spa	ADV
+
+exacto	spa	ADJ
+
+pero	spa	CONJ
+yo	spa	PRON
+y	spa	CONJ
+que	spa	CONJ
+
+pero	spa	CONJ
+tú	spa	PRON
+tienes	spa	V
+buena	spa	ADJ
+memoria	spa	N
+para	spa	PREP
+esas	spa	ADJ
+cosas	spa	N
+
+sabes	spa	V
+no	spa	ADV
+sabía	spa	V
+cómo	spa	INT
+qué	spa	INT
+agarrar	spa	V
+y	spa	CONJ
+tal	spa	ADJ
+
+y	spa	CONJ
+yo	spa	PRON
+y	spa	CONJ
+que	spa	CONJ
+
+it's	eng	PRON
+my	eng	ADJ
+first	eng	ADJ
+time	eng	N
+in	eng	PREP
+New_York	eng&spa	name
+by	eng	PREP
+myself	eng	PRON
+
+estaba	spa	V
+demasiado	spa	ADJ
+paranóica	spa	ADJ
+así	spa	ADV
+como	spa	CONJ
+que	spa	CONJ
+o_k	eng&spa	IM
+sabes	spa	V
+
+y	spa	CONJ
+bueno	spa	E
+ya	spa	ADV
+ahí	spa	ADV
+sí	spa	ADV
+llegamos	spa	V
+a	spa	PREP
+Time_Square	eng&spa	name
+buenísima	spa	ADJ
+
+ah	eng&spa	IM
+
+en	spa	PREP
+N_Y_U	eng&spa	name
+no	spa	ADV
+puedo	spa	V
+aplicar	spa	V
+ahorita	spa	ADV
+
+sabes	spa	V
+como	spa	CONJ
+que	spa	CONJ
+fitting	eng	N
+it	eng	PRON
+
+solo	spa	ADJ
+porque	spa	CONJ
+mira	spa	V
+en	spa	PREP
+N_U_U	eng&spa	name
+tienen	spa	V
+un	spa	DET
+programa	spa	N
+
+el	spa	DET
+primer	spa	ORD
+año	spa	N
+en	spa	PREP
+Nueva_York	eng&spa	name
+el	spa	DET
+segundo	spa	N
+en	spa	PREP
+París	eng&spa	name
+el	spa	DET
+cuarto	spa	N
+en	spa	PREP
+Londres	eng&spa	name
+y	spa	CONJ
+el	spa	DET
+quinto	spa	ORD
+en	spa	PREP
+Shanghai	eng&spa	name
+
+pero	spa	CONJ
+N_Y_U	eng&spa	name
+es	spa	V
+carísima	spa	ADJ
+no	spa	ADV
+
+without	eng	PREP
+dorms	eng	N
+it's	eng	PRON
+like	eng	CONJ
+thirty	eng	NUM
+thirty	eng	NUM
+five	eng	NUM
+
+o	spa	CONJ
+sea	spa	V
+queda	spa	V
+yo	spa	PRON
+fui	spa	V
+a	spa	PREP
+a	spa	PREP
+college	eng	N
+que	spa	PRON
+queda	spa	V
+en	spa	PREP
+ahí	spa	ADV
+
+y	spa	CONJ
+caminamos	spa	V
+hasta	spa	PREP
+Time_Square	eng&spa	name
+que	spa	CONJ
+sabes	spa	V
+son	spa	V
+veinte	spa	NUM
+cuadras	spa	N
+
+lavadora	spa	N
+y	spa	CONJ
+secadora	spa	N
+adentro	spa	ADV
+del	spa	PREP+DET
+apartamento	spa	N
+
+sabes	spa	V
+es	spa	V
+una	spa	DET
+cosa	spa	N
+que	spa	PRON
+yo	spa	PRON
+dije	spa	V
+
+sabes	spa	V
+o	spa	CONJ
+sea	spa	V
+en	spa	PREP
+los	spa	DET
+otros	spa	ADJ
+dorms	eng	N
+los	spa	PRON
+vi	spa	V
+
+y	spa	CONJ
+son	spa	V
+horribles	spa	ADJ
+horribles	spa	ADJ
+
+porque	spa	CONJ
+fui	spa	V
+
+la	spa	DET
+verdad	spa	N
+no	spa	ADV
+me	spa	PRON
+importa	spa	V
+
+pero	spa	CONJ
+hicimos	spa	V
+
+te	spa	PRON
+lo	spa	PRON
+juro	spa	V
+solo	spa	ADJ
+con	spa	PREP
+eso	spa	PRON
+los	spa	DET
+profesores	spa	N
+son	spa	V
+los	spa	DET
+mejores	spa	ADJ
+
+y	spa	CONJ
+treinta	spa	NUM
+y	spa	CONJ
+cinco	spa	NUM
+entre	spa	PREP
+treinta	spa	NUM
+y	spa	CONJ
+treinta	spa	NUM
+y	spa	CONJ
+cinco	spa	NUM
+
+pero	spa	CONJ
+sabes	spa	V
+estoy	spa	V
+aplicando	spa	V
+a	spa	PREP
+lo	spa	DET
+del	spa	PREP+DET
+
+o	spa	CONJ
+sea	spa	V
+
+será	spa	V
+
+what	eng	REL
+
+she	eng	PRON
+likes	eng	V
+my	eng	ADJ
+work	eng	N
+
+y	spa	CONJ
+ella	spa	PRON
+le	spa	PRON
+dijo	spa	V
+que	spa	CONJ
+
+se	spa	PRON
+llama	spa	V
+Apolo	eng&spa	name
+el	spa	DET
+gato	spa	N
+
+yeah	eng	ADV
+it's	eng	PRON
+kind	eng	ADJ
+of	eng	PREP
+true	eng	ADJ
+
+y	spa	CONJ
+sabes	spa	V
+ellos	spa	PRON
+vivan	spa	V
+en	spa	PREP
+el	spa	DET
+apartamento	spa	N
+porque	spa	CONJ
+el	spa	DET
+niñito	spa	N
+vive	spa	V
+con	spa	PREP
+la	spa	DET
+abuela	spa	N
+
+porque	spa	CONJ
+la	spa	DET
+niñera	spa	N
+vive	spa	V
+ahí	spa	ADV
+con	spa	PREP
+él	spa	PRON
+twenty	eng	NUM
+four	eng	NUM
+seven	eng	NUM
+entonces	spa	ADV
+
+exacto	spa	ADJ
+
+y	spa	CONJ
+siento	spa	V
+que	spa	CONJ
+no	spa	ADV
+es	spa	V
+Antonio	eng&spa	name
+Pérez	eng&spa	name
+
+o	spa	CONJ
+sea	spa	V
+ella	spa	PRON
+es	spa	V
+everything	eng&spa	PRON
+her	eng&spa	ADJ
+way	eng&spa	N
+y	spa	CONJ
+si	spa	CONJ
+no	spa	ADV
+se	spa	PRON
+amotina	spa	V
+
+ok	spa	E
+te	spa	PRON
+lo	spa	PRON
+acepto	spa	V
+
+te	spa	PRON
+lo	spa	PRON
+pido	spa	V
+
+maybe	eng	ADV
+porque	spa	CONJ
+ya	spa	ADV
+le	spa	PRON
+han	spa	V
+dicho	spa	V
+pues	spa	CONJ
+
+exacto	spa	ADJ
+exacto	spa	ADJ
+
+claro	spa	E
+
+me	spa	PRON
+dijo	spa	V
+
+ok	eng&spa	unk
+
+claro	spa	E
+y	spa	CONJ
+esto	spa	PRON
+yo	spa	PRON
+estaba	spa	V
+allí	spa	ADV
+
+y	spa	CONJ
+mamá	spa	N
+también	spa	ADV
+cuando	spa	CONJ
+se	spa	PRON
+vinieron	spa	V
+ellos	spa	PRON
+se	spa	PRON
+vinieron	spa	V
+
+mmhm	eng	IM
+
+porque	spa	CONJ
+también	spa	ADV
+tenemos	spa	V
+que	spa	CONJ
+hacer	spa	V
+el	spa	DET
+papeleo	spa	N
+
+es	spa	V
+you	eng	PRON
+know	eng	V
+es	spa	V
+safety	eng	N
+
+it's	eng	PRON
+to	eng	PREP
+deal	eng	V
+with	eng	PREP
+mmhm	eng	IM
+
+it	eng	PRON
+is	eng	V
+you	eng	PRON
+know	eng	V
+
+y	spa	CONJ
+no	spa	ADV
+importa	spa	V
+el	spa	DET
+lema	spa	N
+éste	spa	PRON
+de	spa	PREP
+aquí	spa	ADV
+de	spa	PREP
+que	spa	CONJ
+the	eng	DET
+customer	eng	N
+is	eng	V
+always	eng	ADV+PV
+right	eng	ADJ
+
+yeah	eng	ADV
+nice	eng	ADJ
+when	eng	CONJ
+you're	eng	PRON
+the	eng	DET
+customer	eng	N
+it's	eng	PRON
+good	eng	ADJ
+that	eng	CONJ
+you	eng	PRON
+know	eng	V
+that	eng	DEM
+
+exacto	spa	ADJ
+
+lógico	spa	ADJ
+sí	spa	ADV
+sí	spa	ADV
+sí	spa	ADV
+
+te	spa	PRON
+puedes	spa	V
+tienes	spa	V
+la	spa	DET
+libertad	spa	N
+lógico	spa	ADJ
+
+o_k	eng&spa	IM
+oh	eng&spa	IM
+
+o	spa	CONJ
+sea	spa	V
+es	spa	V
+un	spa	DET
+señor	spa	N
+señor	spa	N
+
+en	spa	PREP
+serio	spa	ADJ
+
+ah	eng&spa	IM
+no	spa	ADV
+que	spa	CONJ
+ella	spa	PRON
+nos	spa	PRON
+estaba	spa	V
+atendiendo	spa	V
+para	spa	PREP
+que	spa	CONJ
+me	spa	PRON
+diera	spa	V
+la	spa	DET
+venta	spa	N
+
+yo	spa	PRON
+no	spa	ADV
+sabría	spa	V
+que	spa	CONJ
+
+mmhm	eng	IM
+
+ay	spa	IM
+diez	spa	NUM
+
+o_k	eng&spa	IM
+Juan	spa	name
+no	spa	ADV
+no	spa	ADV
+sé	spa	V
+
+mmhm	eng	IM
+
+dios	spa	V
+mío	spa	ADJ
+
+porque	spa	CONJ
+tocaba	spa	V
+Alma	spa	name
+
+C_S_I	eng	name
+
+yeah	eng	ADV
+yeah	eng	ADV
+yeah	eng	ADV
+
+tengo	spa	V
+tres	spa	NUM
+días	spa	N
+
+and	eng	CONJ
+we	eng	PRON
+have	eng	V
+to	eng	PREP
+see	eng	V
+if	eng	CONJ
+they	eng	PRON
+get	eng	V
+good	eng	ADJ
+at	eng	PREP
+it	eng	PRON
+
+which	eng	REL
+is	eng	V
+
+the	eng	DET
+first	eng	ADJ
+time	eng	N
+we	eng	PRON
+went	eng	V
+to	eng	PREP
+we	eng	PRON
+went	eng	V
+to	eng	PREP
+like	eng	CONJ
+Dave_and_Busters	eng&spa	name
+I	eng	PRON
+think	eng	V
+
+there's	eng	PRON+BE
+
+on	eng	PREP
+Monday	eng	name
+I	eng	PRON
+have	eng	V
+a	eng	DET
+midterm	eng	N
+of	eng	PREP
+art	eng	N
+appreciation	eng	N
+that	eng	DEM
+class	eng	N
+
+qué	spa	INT
+
+bien	spa	ADV
+
+in	eng	PREP
+the	eng	DET
+same	eng	ADJ
+building	eng	unk
+it's	eng	PRON
+middle	eng	ADJ
+
+twelfth	eng	ORD
+
+eighth	eng	ORD
+
+yeah	eng	ADV
+
+why	eng	REL
+don't	eng	V
+you	eng	PRON
+play	eng	V
+baseball	eng	N
+
+fútbol	spa	N
+
+ahah	eng	unk
+anyways	eng	ADV+PV
+
+qué	spa	INT
+piensa	spa	V
+usted	spa	PRON
+de	spa	PREP
+eso	spa	PRON
+
+no	spa	ADV
+para	spa	PREP
+otra	spa	ADJ
+persona	spa	N
+para	spa	PREP
+otra	spa	ADJ
+persona	spa	N
+
+ah	eng&spa	IM
+
+oh	eng&spa	IM
+parece	spa	V
+que	spa	CONJ
+te	spa	PRON
+preocupa	spa	V
+mucho	spa	ADV
+lo	spa	DET
+de	spa	PREP
+las	spa	DET
+uñas	spa	N
+
+viejo	spa	ADJ
+you	eng	PRON
+know	eng	V
+what	eng	REL
+I	eng	PRON
+feel	eng	V
+about	eng	PREP
+Castro	eng&spa	name
+too	eng	ADV
+right	eng	ADJ
+
+not	eng	ADV
+that	eng	CONJ
+I	eng	PRON
+care	eng	V
+because	eng	CONJ
+
+now	eng	ADV
+he	eng	PRON
+is	eng	V
+gonna	eng	V
+be	eng	V
+dead	eng	ADJ
+so	eng	ADV
+probably	eng	ADV
+they	eng	PRON
+are	eng	V
+gonna	eng	V
+open	eng	ADJ
+the	eng	DET
+tourist	eng	N
+
+con	spa	PREP
+el	spa	DET
+manicure	eng	N
+hecho	spa	N
+
+so	eng	ADV
+al	spa	PREP+DET
+comienzo	spa	N
+tú	spa	PRON
+estabas	spa	V
+diciendo	spa	V
+you	eng	PRON
+you	eng	PRON
+said	eng	V
+to	eng	PREP
+me	eng	PRON
+that	eng	CONJ
+you	eng	PRON
+are	eng	V
+never	eng	ADV
+gonna	eng	V
+do	eng	V
+it	eng	PRON
+now	eng	ADV
+you	eng	PRON
+have	eng	V
+said	eng	V
+that	eng	DEM
+
+ni	spa	CONJ
+lo	spa	PRON
+conozco	spa	V
+
+el	spa	DET
+el	spa	DET
+que	spa	PRON
+le	spa	PRON
+íbamos	spa	V
+a	spa	PREP
+hacer	spa	V
+lo	spa	DET
+de	spa	PREP
+la	spa	DET
+casa	spa	N
+
+está	spa	V
+bien	spa	ADV
+
+uh	eng&spa	IM
+
+los	spa	DET
+qué	spa	INT
+
+ten	eng	NUM
+and	eng	CONJ
+a	eng	DET
+half	eng	N
+
+porque	spa	CONJ
+yo	spa	PRON
+veo	spa	V
+aquí	spa	ADV
+que	spa	CONJ
+tienes	spa	V
+tres	spa	NUM
+o	spa	CONJ
+cuatro	spa	NUM
+botellas	spa	N
+solamente	spa	ADV
+
+ah	spa	IM
+exactamente	spa	ADV
+lo	spa	DET
+que	spa	PRON
+tú	spa	PRON
+dijiste	spa	V
+
+se	spa	PRON
+vende	spa	V
+
+I'm	eng	PRON
+gonna	eng	V
+ask	eng	V
+my	eng	ADJ
+wife	eng	N
+
+y	spa	CONJ
+tratar	spa	V
+de	spa	PREP
+conseguir	spa	V
+
+I'll	eng	PRON
+get	eng	V
+you	eng	PRON
+new	eng	ADJ
+binoculars	eng	ADJ+PV
+
+yeah	eng	ADV
+well	eng	ADV
+don't	eng	V
+worry	eng	V
+about	eng	PREP
+it	eng	PRON
+
+oh	eng	IM
+I	eng	PRON
+don't	eng	V
+know	eng	V
+
+oh	spa	IM
+te	spa	PRON
+la	spa	PRON
+vendo	spa	V
+en	spa	PREP
+treinta	spa	NUM
+
+eso	spa	PRON
+fue	spa	V
+para	spa	PREP
+atraerte	spa	V
+
+what	eng	REL
+did	eng	V
+she	eng	PRON
+design	eng	V
+
+eso	spa	PRON
+no	spa	ADV
+es	spa	V
+fácil	spa	ADJ
+
+y	spa	CONJ
+que	spa	CONJ
+te	spa	PRON
+en	spa	PREP
+las	spa	DET
+camisetas	spa	N
+
+no	spa	ADV
+
+y	spa	CONJ
+después	spa	ADV
+de	spa	PREP
+Felisa	spa	name
+qué	spa	INT
+vas	spa	V
+a	spa	PREP
+ir	spa	V
+a	spa	PREP
+hacer	spa	V
+
+right	eng	ADJ
+
+no	spa	ADV
+
+ok	eng&spa	unk
+
+los	spa	DET
+colombianos	spa	N
+
+las	spa	DET
+Farc	eng&spa	name
+
+no	eng	ADV
+why	eng	REL
+
+con	spa	PREP
+el	spa	DET
+address	eng	N
+de	spa	PREP
+aquí	spa	ADV
+
+no	spa	ADV
+
+puedes	spa	V
+recibir	spa	V
+la	spa	DET
+herencia	spa	N
+
+como	spa	CONJ
+aquí	spa	ADV
+un	spa	DET
+incorporated	eng	N
+
+exactly	eng	ADJ+ADV
+
+y	spa	CONJ
+pagas	spa	V
+el	spa	DET
+cincuenta	spa	NUM
+por	spa	PREP
+ciento	spa	N
+de	spa	PREP
+los	spa	DET
+impuestos	spa	N
+
+she	eng	PRON
+can	eng	V
+do	eng	V
+it	eng	PRON
+
+cuál	spa	PRON
+
+nine	eng	NUM
+thousands	eng	NUM+PV
+five	eng	NUM
+hundred	eng	NUM
+something	eng	PRON
+
+and	eng	CONJ
+I	eng	PRON
+think	eng	V
+know	eng	SV
+if	eng	CONJ
+she's	eng	PRON
+lucky	eng	ADJ
+
+el	spa	DET
+problema	spa	N
+de	spa	PREP
+aquí	spa	ADV
+que	spa	CONJ
+no	spa	ADV
+me	spa	PRON
+gustan	spa	V
+son	spa	V
+los	spa	DET
+taxes	eng	N
+is	eng	V
+too	eng	ADV
+high	eng	ADJ
+
+Miramar	eng&spa	name
+is	eng	V
+too	eng	ADV
+high	eng	ADJ
+
+siempre	spa	ADV
+por	spa	PREP
+lo	spa	DET
+general	spa	ADJ
+el	spa	DET
+impuesto	spa	N
+es	spa	V
+del	spa	PREP+DET
+dos	spa	NUM
+por	spa	PREP
+ciento	spa	N
+
+son	spa	V
+doscientos	spa	N
+dólares	spa	N
+en	spa	PREP
+taxes	eng	N
+mensuales	spa	ADJ
+
+yeah	eng	ADV
+but	eng	CONJ
+when	eng	CONJ
+you	eng	PRON
+try	eng	V
+to	eng	PREP
+find	eng	V
+out	eng	ADV
+the	eng	DET
+the	eng	DET
+how	eng	ADV
+much	eng	ADJ
+you	eng	PRON
+are	eng	V
+supposed	eng	V
+to	eng	PREP
+pay	eng	V
+for	eng	PREP
+the	eng	DET
+homeowners	eng	unk
+insurance	eng	N
+insurance	eng	N
+
+es	spa	V
+fácil	spa	ADJ
+
+que	spa	CONJ
+es	spa	V
+el	spa	DET
+el	spa	DET
+homeowners	eng	unk
+insurance	eng	N
+y	spa	CONJ
+todo	spa	PRON
+
+pero	spa	CONJ
+eso	spa	PRON
+añadido	spa	N
+a	spa	PREP
+todo	spa	ADJ
+a	spa	PREP
+todo	spa	PRON
+
+she	eng	PRON
+had	eng	V
+to	eng	PREP
+pay	eng	V
+attorney's	eng	N
+fees	eng	N
+
+that's	eng	DEM
+why	eng	REL
+
+y	spa	CONJ
+para	spa	PREP
+qué	spa	INT
+nos	spa	PRON
+trataron	spa	V
+muy	spa	ADV
+bien	spa	ADV
+
+ah	spa	IM
+sí	spa	ADV
+no	spa	ADV
+de	spa	PREP
+eso	spa	PRON
+forget	eng	SV
+it	eng	PRON
+
+eso	spa	PRON
+sí	spa	ADV
+fue	spa	V
+imposible	spa	ADJ
+
+yo	spa	PRON
+perdón	spa	N
+
+no	spa	ADV
+nadie	spa	PRON
+
+I	eng	PRON
+hope	eng	N
+things	eng	N
+change	eng	V
+
+before	eng	CONJ
+foreclosure	eng	N
+pero	spa	CONJ
+ya	spa	ADV
+
+sí	spa	ADV
+
+email	eng	unk
+
+oh	eng	IM
+yeah	eng	ADV
+yeah	eng	ADV
+
+yeah	eng	ADV
+no	eng	ADV
+but	eng	CONJ
+when	eng	CONJ
+I	eng	PRON
+went	eng	V
+I've	eng	PRON
+been	eng	V
+going	eng	V
+to	eng	PREP
+the	eng	DET
+Caribbean	eng	name
+
+eighteen	eng	NUM
+thirty	eng	NUM
+four	eng	NUM
+
+lets	eng	V
+just	eng	ADV
+say	eng	V
+that	eng	CONJ
+the	eng	DET
+going	eng	V
+tickets	eng	N
+is	eng	V
+eight	eng	NUM
+dollars	eng	N
+
+no	spa	ADV
+te	spa	PRON
+he	spa	IM
+contado	spa	V
+
+ah	eng&spa	IM
+he	eng	PRON
+like	eng	V
+that	eng	DEM
+
+which	eng	REL
+one	eng	PRON
+is	eng	V
+the	eng	DET
+problem	eng	N
+
+en	spa	PREP
+eso	spa	PRON
+estamos	spa	V
+
+pero	spa	CONJ
+so	eng	ADV
+un	spa	DET
+Lexus	eng&spa	name
+o	spa	CONJ
+el	spa	DET
+equivalente	spa	N
+
+yo	spa	PRON
+tengo	spa	V
+una	spa	DET
+amiguita	spa	N
+que	spa	PRON
+es	spa	V
+dueña	spa	N
+de	spa	PREP
+un	spa	DET
+de	spa	PREP
+un	spa	DET
+dealer	eng	N
+
+si	spa	CONJ
+quieres	spa	V
+ir	spa	V
+de	spa	PREP
+a	spa	PREP
+verla	spa	V
+
+tiene	spa	V
+three	eng	NUM
+warehouse	eng	N
+
+en	spa	PREP
+here	eng	ADV
+close	eng	SV
+here	eng	ADV
+
+sí	spa	ADV
+
+I	eng	PRON
+tried	eng	V
+
+tú	spa	PRON
+estabas	spa	V
+en	spa	PREP
+otra	spa	PRON
+tú	spa	PRON
+estabas	spa	V
+en	spa	PREP
+otro	spa	PRON
+
+but	eng	CONJ
+why	eng	REL
+don't	eng	V
+we	eng	PRON
+sit	eng	V
+in	eng	PREP
+one	eng	PRON
+of	eng	PREP
+those	eng	DEM
+things	eng	N
+
+but	eng	CONJ
+the	eng	DET
+
+her	eng	ADJ
+hair	eng	N
+
+Selena	eng&spa	name
+was	eng	V
+eating	eng	unk
+right	eng	ADJ
+
+por	spa	PREP
+qué	spa	INT
+
+and	eng	CONJ
+then	eng	ADV
+the	eng	DET
+next	eng	ADJ
+thing	eng	N
+the	eng	DET
+next	eng	ADJ
+step	eng	N
+that	eng	CONJ
+I	eng	PRON
+had	eng	V
+to	eng	PREP
+do	eng	V
+was	eng	V
+um	eng	IM
+divide	eng	SV
+the	eng	DET
+patients	eng	ADJ+PV
+by	eng	PREP
+their	eng	ADJ
+case	eng	N
+manager	eng	N
+
+Selena	eng&spa	name
+estos	spa	PRON
+dos	spa	NUM
+tienen	spa	V
+problemas	spa	N
+
+yeah	eng	ADV
+like	eng	CONJ
+because	eng	CONJ
+it's	eng	PRON
+true	eng	ADJ
+
+like	eng	CONJ
+if	eng	CONJ
+Iria	eng&spa	name
+is	eng	V
+telling	eng	V
+you	eng	PRON
+
+and	eng	CONJ
+not	eng	ADV
+only	eng	ADJ
+that	eng	DEM
+
+y	spa	CONJ
+yo	spa	PRON
+le	spa	PRON
+dije	spa	V
+
+I'm	eng	PRON
+not	eng	ADV
+gonna	eng	V
+bitch	eng	N
+at	eng	PREP
+her	eng	ADJ
+
+bueno	spa	E
+I'm	eng	PRON
+not	eng	ADV
+gonna	eng	V
+stop	eng	V
+what	eng	REL
+I'm	eng	PRON
+doing	eng	V
+right	eng	ADJ
+now	eng	ADV
+to	eng	PREP
+solve	eng	V
+this	eng	DEM
+
+you're	eng	PRON
+good	eng	ADJ
+already	eng	ADV
+
+ay	spa	IM
+
+um	eng	IM
+and	eng	CONJ
+here	eng	ADV
+is	eng	V
+the	eng	DET
+other	eng	ADJ
+
+pero	spa	CONJ
+Iria	eng&spa	name
+quiere	spa	V
+que	spa	CONJ
+tú	spa	PRON
+lo	spa	DET
+en	spa	PREP
+los	spa	DET
+
+I	eng	PRON
+finished	eng	V
+reviewing	eng	V
+two	eng	NUM
+more	eng	ADV
+patients	eng	ADJ+PV
+
+and	eng	CONJ
+then	eng	ADV
+I	eng	PRON
+gave	eng	V
+her	eng	ADJ
+a	eng	DET
+
+él	spa	PRON
+él	spa	PRON
+no	spa	ADV
+trabaja	spa	V
+
+she	eng	PRON
+is	eng	V
+the	eng	DET
+case	eng	N
+manager	eng	N
+for	eng	PREP
+those	eng	DEM
+patients	eng	ADJ+V
+
+she	eng	PRON
+like	eng	V
+she	eng	PRON
+does	eng	V
+oh	eng&spa	IM
+a	eng	DET
+little	eng	ADJ
+bit	eng	N
+more	eng	ADJ
+work	eng	N
+than	eng	CONJ
+than	eng	CONJ
+normal	eng	ADJ
+
+and	eng	CONJ
+then	eng	ADV
+like	eng	CONJ
+five	eng	NUM
+minutes	eng	N
+I	eng	PRON
+went	eng	V
+in	eng	PREP
+also	eng	ADV
+because	eng	CONJ
+I	eng	PRON
+had	eng	V
+to	eng	PREP
+give	eng	V
+something	eng	PRON
+to	eng	PREP
+Rosa	eng&spa	name
+to	eng	PREP
+
+Martin	eng&spa	name
+and	eng	CONJ
+Maria	eng&spa	name
+have	eng	SV
+been	eng	V
+at	eng	PREP
+it	eng	PRON
+
+she's	eng	PRON
+rude	eng	ADJ
+
+exactly	eng	ADJ+ADV
+
+do	eng	V
+you	eng	PRON
+get	eng	V
+me	eng	PRON
+
+your	eng	ADJ
+coworkers	eng	unk
+
+exactly	eng	ADJ+ADV
+before	eng	CONJ
+before	eng	CONJ
+before	eng	CONJ
+you	eng	PRON
+scream	eng	V
+you	eng	PRON
+could	eng	V
+just	eng	ADV
+talk	eng	V
+
+but	eng	CONJ
+do	eng	V
+you	eng	PRON
+think	eng	V
+these	eng	DEM
+people	eng	N
+
+she	eng	PRON
+knows	eng	V
+que	spa	CONJ
+se	spa	PRON
+tiene	spa	V
+que	spa	CONJ
+aguantar	spa	V
+la	spa	DET
+lengua	spa	N
+because	eng	CONJ
+a	eng	DET
+grown	eng	ADJ
+man	eng	N
+
+tú	spa	PRON
+crees	spa	V
+que	spa	CONJ
+me	spa	PRON
+puedas	spa	V
+hablar	spa	V
+a	spa	PREP
+mí	spa	PRON
+como	spa	CONJ
+si	spa	CONJ
+fuera	spa	V
+persona	spa	N
+please	eng	SV
+
+honestly	eng	ADJ+ADV
+
+exactly	eng	ADJ+ADV
+
+yeah	eng	ADV
+and	eng	CONJ
+then	eng	ADV
+she	eng	PRON
+was	eng	V
+like	eng	CONJ
+
+I	eng	PRON
+know	eng	V
+
+um	eng	IM
+
+Maria	eng&spa	name
+had	eng	V
+a	eng	DET
+problem	eng	N
+with	eng	PREP
+everyone	eng	PRON
+at	eng	PREP
+work	eng	N
+
+but	eng	CONJ
+in	eng	PREP
+Cuba	eng&spa	name
+and	eng	CONJ
+and	eng	CONJ
+and	eng	CONJ
+those	eng	DEM
+countries	eng	N
+there's	eng	PRON+BE
+a	eng	DET
+lot	eng	N
+more	eng	ADJ
+mosquitoes	eng	N
+because	eng	CONJ
+todo	spa	PRON
+es	spa	V
+there's	eng	PRON+BE
+not	eng	ADV
+there	eng	ADV
+places	eng	N
+are	eng	V
+not	eng	ADV
+A_C	eng&spa	name
+
+everything	eng	PRON
+is	eng	V
+with	eng	PREP
+the	eng	DET
+windows	eng	N
+open	eng	ADJ
+
+yeah	eng	ADV
+I	eng	PRON
+had	eng	V
+a	eng	DET
+mosquitero	spa	N
+in	eng	PREP
+my	eng	ADJ
+bedroom	eng	N
+
+did	eng	AV
+that	eng	CONJ
+get	eng	V
+hot	eng	ADJ
+
+no	eng	ADV
+it	eng	PRON
+doesn't	eng	V
+
+ya	spa	ADV
+pero	spa	CONJ
+nadie	spa	PRON
+cocina	spa	N
+como	spa	CONJ
+mis	spa	ADJ
+abuelas	spa	N
+
+especially	eng	ADJ+ADV
+
+I	eng	PRON
+don't	eng	V
+like	eng	CONJ
+harina	spa	N
+
+no	eng	ADV
+but	eng	CONJ
+you	eng	PRON
+would	eng	V
+have	eng	SV
+liked	eng	CONJ+AV
+hers	eng	PRON
+
+but	eng	CONJ
+my	eng	ADJ
+mom's	eng	N
+harina	spa	N
+is	eng	V
+sweet	eng	ADJ
+
+it's	eng	PRON
+not	eng	ADV
+the	eng	DET
+harina	spa	N
+like	eng	CONJ
+for	eng	PREP
+food	eng	N
+
+my	eng	ADJ
+mom's	eng	N
+harina	spa	N
+is	eng	V
+awesome	eng	ADJ
+
+you	eng	PRON
+should	eng	V
+try	eng	SV
+it	eng	PRON
+
+it's	eng	PRON
+like	eng	CONJ
+um	eng	IM
+avena	spa	N
+
+it's	eng	PRON
+not	eng	ADV
+avena	spa	N
+
+it's	eng	PRON
+harina	spa	N
+
+grits	eng	N
+
+on	eng	PREP
+the	eng	DET
+outside	eng	PREP
+
+and	eng	CONJ
+that's	eng	DEM
+it	eng	PRON
+
+and	eng	CONJ
+drink	eng	V
+it	eng	PRON
+
+but	eng	CONJ
+
+yeah	eng	ADV
+with	eng	PREP
+a	eng	DET
+spoon	eng	N
+with	eng	PREP
+a	eng	DET
+spoon	eng	N
+
+I	eng	PRON
+remember	eng	V
+I	eng	PRON
+introduced	eng	V
+Emilio	spa	name
+to	eng	PREP
+the	eng	DET
+maizena	spa	N
+
+I	eng	PRON
+was	eng	V
+at	eng	PREP
+his	eng	ADJ
+house	eng	N
+one	eng	NUM
+day	eng	N
+
+there	eng	ADV
+was	eng	V
+maizena	spa	N
+at	eng	PREP
+his	eng	ADJ
+house	eng	N
+
+Iria	eng&spa	name
+had	eng	V
+Iria	eng&spa	name
+I	eng	PRON
+don't	eng	V
+think	eng	V
+she	eng	PRON
+cooked	eng	N
+that	eng	DEM
+day	eng	N
+
+is	eng	V
+your	eng	ADJ
+harina	spa	N
+anything	eng	PRON
+like	eng	CONJ
+your	eng	ADJ
+mom's	eng	N
+harina	spa	N
+
+yeah	eng	ADV
+
+what	eng	REL
+she	eng	PRON
+does	eng	V
+is	eng	V
+she	eng	PRON
+puts	eng	V
+cinnamon	eng	N
+on	eng	PREP
+top	eng	N
+
+because	eng	CONJ
+then	eng	ADV
+that's	eng	DEM
+all	eng	ADJ
+I'm	eng	PRON
+gonna	eng	V
+remember	eng	V
+
+I	eng	PRON
+mean	eng	V
+I	eng	PRON
+was	eng	V
+sleeping	eng	unk
+
+he's	eng	PRON
+not	eng	ADV
+gonna	eng	V
+be	eng	V
+talking	eng	V
+to	eng	PREP
+me	eng	PRON
+in	eng	PREP
+front	eng	N
+of	eng	PREP
+Patty	eng&spa	name
+
+neat	eng	ADJ
+boots	eng	N
+fast	eng	ADJ
+cheap	eng	ADJ
+end	eng	SV
+of	eng	PREP
+all	eng	ADJ
+
+and	eng	CONJ
+then	eng	ADV
+you	eng	PRON
+have	eng	V
+to	eng	PREP
+then	eng	ADV
+pay	eng	V
+all	eng	ADJ
+the	eng	DET
+fees	eng	N
+
+I	eng	PRON
+think	eng	V
+so	eng	ADV
+
+no	eng	ADV
+you	eng	PRON
+get	eng	V
+the	eng	DET
+hang	eng	N
+of	eng	PREP
+it	eng	PRON
+
+huh	eng	IM
+I	eng	PRON
+don't	eng	V
+look	eng	V
+at	eng	PREP
+it	eng	PRON
+
+oh	eng	IM
+it's	eng	PRON
+one	eng	PRON
+of	eng	PREP
+those	eng	DEM
+
+acelerada	spa	V
+
+and	eng	CONJ
+somebody	eng	PRON
+left	eng	ADJ
+
+oye	spa	V
+cómo	spa	INT
+trabajar	spa	V
+ahí	spa	ADV
+
+a	spa	PREP
+tu	spa	ADJ
+papá	spa	N
+le	spa	PRON
+da	spa	V
+un	spa	DET
+suicidio	spa	N
+
+there's	eng	PRON+BE
+time	eng	N
+for	eng	PREP
+everything	eng	PRON
+
+it's	eng	PRON
+six	eng	NUM
+twenty	eng	NUM
+five	eng	NUM
+
+seven	eng	NUM
+plus	eng	PREP
+one	eng	PRON
+mientras	spa	CONJ
+estemos	spa	V
+ahí	spa	ADV
+filling	eng	SV
+out	eng	ADV
+el	spa	DET
+cosito	eng	unk
+
+mmhm	eng	IM
+
+till	eng	CONJ
+nine	eng	NUM
+o	eng	unk
+five	eng	NUM
+
+more	eng	ADV
+more	eng	ADV
+more	eng	ADV
+probably	eng	ADV
+
+yeah	eng&spa	ADV
+right	eng	ADJ
+
+what	eng	REL
+
+me	spa	PRON
+de	spa	PREP
+la	spa	DET
+risa	spa	N
+
+bueno	spa	E
+
+remember	eng	V
+
+and	eng	CONJ
+then	eng	ADV
+you	eng	PRON
+come	eng	V
+
+we	eng	PRON
+have	eng	V
+to	eng	PREP
+photocopy	eng	N
+today	eng	N
+
+how	eng	ADV
+do	eng	SV
+you	eng	PRON
+want	eng	V
+to	eng	PREP
+do	eng	V
+it	eng	PRON
+at	eng	PREP
+your	eng	ADJ
+house	eng	N
+
+yeah	eng&spa	ADV
+right	eng	ADJ
+
+quién	spa	INT
+va	spa	V
+a	spa	PREP
+poner	spa	V
+a	spa	PREP
+trabajar	spa	V
+mañana	spa	ADV
+baby	eng	N
+
+you	eng	PRON
+know	eng	V
+what	eng	REL
+
+traté	spa	V
+
+oh	spa	IM
+Diego	eng&spa	name
+yo	spa	PRON
+hoy	spa	ADV
+no	spa	ADV
+voy	spa	V
+a	spa	PREP
+rendir	spa	V
+
+mmhm	eng	IM
+
+y	spa	CONJ
+hoy	spa	ADV
+le	spa	PRON
+tocó	spa	V
+madrugar	eng	unk
+e	spa	CONJ
+irse	eng	unk
+hasta	spa	PREP
+allá	spa	ADV
+a	spa	PREP
+ese	spa	ADJ
+lugar	spa	N
+
+right	eng	ADJ
+
+qué	spa	INT
+
+es	spa	V
+que	spa	CONJ
+hace	spa	V
+los	spa	DET
+muy	spa	ADV
+grandes	spa	ADJ
+
+sino	spa	CONJ
+que	spa	CONJ
+es	spa	V
+normal	spa	ADJ
+
+how	eng	ADV
+is	eng	V
+she	eng	PRON
+gonna	eng	V
+go	eng	V
+out	eng	ADV
+this	eng	DEM
+weekend	eng	N
+
+oh	eng&spa	IM
+plus	eng	PREP
+remember	eng	SV
+que	spa	CONJ
+yo	spa	PRON
+me	spa	PRON
+voy	spa	V
+a	spa	PREP
+filmar	spa	V
+
+todavía	spa	ADV
+es	spa	V
+miércoles	spa	N
+
+usted	spa	PRON
+tiene	spa	V
+que	spa	CONJ
+ir	spa	V
+
+cualquiera	spa	PRON
+día	spa	N
+se	spa	PRON
+te	spa	PRON
+va	spa	V
+a	spa	PREP
+ir	spa	V
+a	spa	PREP
+ti	spa	PRON
+
+I	eng	PRON
+had	eng	V
+to	eng	PREP
+cover	eng	V
+everybody	eng	PRON
+
+yeah	eng&spa	ADV
+
+y	spa	CONJ
+tu	spa	ADJ
+hermano	spa	N
+cómo	spa	INT
+va	spa	V
+
+what's	eng	REL+GB
+a	eng	DET
+serious	eng	ADJ
+
+pero	spa	CONJ
+
+favor	spa	N
+de	spa	PREP
+qué	spa	INT
+
+mira	spa	V
+con	spa	PREP
+la	spa	DET
+con	spa	PREP
+la	spa	DET
+puerta	spa	N
+cerrada	spa	V
+ahí	spa	ADV
+there	eng	ADV
+was	eng	V
+like	eng	CONJ
+like	eng	CONJ
+un	spa	DET
+
+un	spa	DET
+qué	spa	INT
+cosa	spa	N
+
+no	spa	ADV
+es	spa	V
+que	spa	CONJ
+in	eng	PREP
+a	eng	DET
+certain	eng	ADJ
+spot	eng	N
+there's	eng	PRON+BE
+gonna	eng	V
+be	eng	V
+more	eng	ADV
+no	spa	ADV
+
+just	eng	ADJ
+floating	eng	unk
+around	eng	ADV
+
+being	eng	V
+sarcastic	eng	ADJ
+
+o	spa	CONJ
+no	spa	ADV
+
+spring	eng	V
+break	eng	SV
+
+bueno	spa	E
+
+no	spa	ADV
+la	spa	DET
+única	spa	ADJ
+persona	spa	N
+más	spa	ADV
+nada	spa	PRON
+
+here	eng	ADV
+that's	eng	DEM
+what	eng	REL
+I	eng	PRON
+was	eng	V
+gonna	eng	V
+tell	eng	V
+you	eng	PRON
+
+trabajar	spa	V
+pues	spa	CONJ
+
+aha	eng	IM
+
+por	spa	PREP
+qué	spa	INT
+no	spa	ADV
+
+no	spa	ADV
+tiene	spa	V
+nada	spa	PRON
+que	spa	CONJ
+ver	spa	V
+
+claro	spa	E
+entonces	spa	ADV
+the	eng	DET
+person	eng	N
+that	eng	CONJ
+scans	eng	V
+everything	eng	PRON
+is	eng	V
+not	eng	ADV
+close	eng	SV
+to	eng	PREP
+me	spa	PRON
+
+y	spa	CONJ
+qué	spa	INT
+tiene	spa	V
+que	spa	CONJ
+ver	spa	V
+
+yo	spa	PRON
+no	spa	ADV
+entiendo	spa	V
+
+es	spa	V
+un	spa	DET
+proyecto	spa	N
+que	spa	PRON
+
+las	spa	DET
+personas	spa	N
+hispanas	spa	ADJ
+cómo	spa	INT
+se	spa	PRON
+comunican	spa	V
+
+y	spa	CONJ
+segundo	spa	N
+porque	spa	CONJ
+después	spa	ADV
+ya	spa	ADV
+tengo	spa	V
+clase	spa	N
+
+no	spa	ADV
+pero	spa	CONJ
+no	spa	ADV
+importa	spa	V
+
+por	spa	PREP
+qué	spa	INT
+
+empezarías	spa	V
+como	spa	CONJ
+a	spa	PREP
+qué	spa	INT
+
+yo	spa	PRON
+no	spa	ADV
+sería	spa	V
+capaz	spa	ADJ
+de	spa	PREP
+
+qué	spa	INT
+
+no	spa	ADV
+me	spa	PRON
+sirve	spa	V
+de	spa	PREP
+nada	spa	PRON
+
+pero	spa	CONJ
+usted	spa	PRON
+viene	spa	V
+acá	spa	ADV
+to	eng	PREP
+do	spa	N
+nothing	eng	PRON
+
+mmhm	eng	IM
+
+mira	spa	V
+er	eng	IM
+is	eng	V
+better	eng	ADJ
+if	eng	CONJ
+I	eng	PRON
+find	eng	V
+a	eng	DET
+person	eng	N
+
+si	spa	CONJ
+me	spa	PRON
+entiendes	spa	V
+
+y	spa	CONJ
+para	spa	PREP
+echarle	eng	unk
+gasolina	spa	N
+al	spa	PREP+DET
+para	spa	PREP
+venir	spa	V
+hasta	spa	PREP
+acá	spa	ADV
+
+y	spa	CONJ
+ya	spa	ADV
+
+qué	spa	INT
+
+no	spa	ADV
+
+eh	eng&spa	IM
+hay	spa	V
+lugar	spa	N
+adentro	spa	ADV
+en	spa	PREP
+la	spa	DET
+barra	spa	N
+
+hi	eng	V
+girls	eng	N
+there	eng	ADV
+
+pero	spa	CONJ
+well	eng	ADV
+the	eng	DET
+funny	eng	ADJ
+thing	eng	N
+was	eng	V
+that	eng	CONJ
+those	eng	DEM
+guys	eng	N
+who	eng	REL
+came	eng	AV
+to	eng	PREP
+talk	eng	V
+to	eng	PREP
+us	eng	PRON
+
+it	eng	PRON
+was	eng	V
+funny	eng	ADJ
+because	eng	CONJ
+my	eng	ADJ
+friend	eng	N
+is	eng	V
+pretty	eng	ADJ
+
+la	spa	PRON
+patearon	spa	V
+a	spa	PREP
+mi	spa	ADJ
+amiga	spa	N
+
+la	spa	PRON
+estaban	spa	V
+estaban	spa	V
+los	spa	DET
+dos	spa	NUM
+tú	spa	PRON
+sabes	spa	V
+así	spa	ADV
+um	eng	IM
+um	eng	IM
+um	eng	IM
+uum	eng	unk
+
+y	spa	CONJ
+cuando	spa	CONJ
+yo	spa	PRON
+dije	spa	V
+married	eng	SV
+mmm	eng&spa	IM
+like	eng	CONJ
+that	eng	DEM
+
+ay	spa	IM
+mira	spa	V
+
+you	eng	PRON
+don't	eng	V
+seem	eng	V
+forty	eng	NUM
+six	eng	NUM
+you're	eng	PRON
+just	eng	ADJ
+like	eng	CONJ
+forty	eng	NUM
+you	eng	PRON
+know	eng	V
+like	eng	CONJ
+thirty	eng	NUM
+nine	eng	NUM
+forty	eng	NUM
+
+and	eng	CONJ
+you're	eng	PRON
+petite	eng	ADJ
+you	eng	PRON
+know	eng	V
+
+what	eng	REL
+they	eng	PRON
+said	eng	V
+
+pues	spa	CONJ
+no	spa	ADV
+sé	spa	V
+que	spa	CONJ
+be	eng&spa	N
+me	spa	PRON
+
+no	eng	ADV
+no	eng	ADV
+there's	eng	PRON+BE
+really	eng	ADJ+ADV
+not	eng	ADV
+something	eng	PRON
+very	eng	ADV
+unattractive	eng	ADJ
+about	eng	PREP
+
+aw	eng	IM
+that's	eng	DEM
+true	eng	ADJ
+
+pero	spa	CONJ
+she	eng	PRON
+used	eng	V
+to	eng	PREP
+live	eng	V
+
+well	eng	ADV
+I	eng	PRON
+used	eng	V
+to	eng	PREP
+work	eng	V
+in	eng	PREP
+Sunset	eng&spa	name
+Lakes	eng&spa	name
+right	eng	ADJ
+here	eng	ADV
+
+yo	spa	PRON
+sé	spa	V
+sí	spa	ADV
+
+no	spa	ADV
+es	spa	V
+elementary	eng	ADJ
+
+elementary	eng	ADJ
+
+middle	eng	ADJ
+school	eng	N
+
+well	eng	ADV
+if	eng	CONJ
+you	eng	PRON
+could	eng	V
+bring	eng	V
+the	eng	DET
+charter	eng	N
+would	eng	V
+be	eng	SV
+the	eng	DET
+best	eng	ADJ
+
+Colombia	eng&spa	name
+
+I	eng	PRON
+know	eng	V
+
+a	eng	DET
+few	eng	ADJ
+weeks	eng	N
+ago	eng	ADV
+um	eng	IM
+a	eng	DET
+few	eng	ADJ
+weeks	eng	N
+ago	eng	ADV
+yes	eng	ADV
+like	eng	CONJ
+a	eng	DET
+month	eng	N
+ago	eng	ADV
+
+mejor	spa	ADJ
+ir	spa	V
+en	spa	PREP
+junio	spa	N
+
+pero	spa	CONJ
+que	spa	CONJ
+tú	spa	PRON
+no	spa	ADV
+estás	spa	V
+gorda	spa	ADJ
+
+in	eng	PREP
+place	eng	N
+to	eng	PREP
+get	eng	V
+them	eng	PRON
+in	eng	PREP
+place	eng	N
+
+I	eng	PRON
+know	eng	V
+
+quién	spa	INT
+
+sí	spa	ADV
+pero	spa	CONJ
+
+said	eng	AV
+
+something	eng	PRON
+happens	eng	V
+here	eng	ADV
+you	eng	PRON
+know	eng	V
+
+so	eng	ADV
+whatever	eng	REL
+you	eng	PRON
+do	eng	V
+
+it's	eng	PRON
+not	eng	ADV
+
+yeah	eng	ADV
+
+que	spa	CONJ
+se	spa	V
+cual	spa	PRON
+que	spa	CONJ
+que	spa	CONJ
+se	spa	PRON
+ven	spa	V
+mejor	spa	ADJ
+antes	spa	ADV
+o	spa	CONJ
+después	spa	ADV
+de	spa	PREP
+la	spa	DET
+cirugía	spa	N
+
+no	spa	ADV
+sé	spa	V
+
+pero	spa	CONJ
+como	spa	V
+le	spa	PRON
+decía	spa	V
+a	spa	PREP
+mi	spa	ADJ
+marido	spa	N
+si	spa	CONJ
+si	spa	CONJ
+no	spa	ADV
+lo	spa	PRON
+hice	spa	V
+hice	spa	V
+cuando	spa	CONJ
+tenía	spa	V
+veinte	spa	NUM
+años	spa	N
+que	spa	PRON
+voy	spa	V
+lo	spa	PRON
+voy	spa	V
+a	spa	PREP
+hacerlo	spa	V
+ahora	spa	ADV
+tampoco	spa	ADV
+
+verdad	spa	N
+
+le	spa	PRON
+hicieron	spa	V
+una	spa	DET
+liposucción	spa	N
+
+sí	spa	ADV
+
+tú	spa	PRON
+eres	spa	V
+buena	spa	ADJ
+con	spa	PREP
+el	spa	DET
+ejercicio	spa	N
+
+yeah	eng	ADV
+nunca	spa	ADV
+
+no	eng&spa	ADV
+no	eng&spa	ADV
+te	spa	PRON
+pero	spa	CONJ
+pero	spa	CONJ
+tsk	eng&spa	N
+
+yes	eng	ADV
+I	eng	PRON
+remember	eng	V
+
+bueno	spa	E
+el	spa	DET
+que	spa	PRON
+estaba	spa	V
+antes	spa	ADV
+en	spa	PREP
+L_A_Fitness	eng&spa	name
+no	spa	ADV
+no	spa	ADV
+L_A_Fitness	eng&spa	name
+en	spa	PREP
+Lady_of_America	eng&spa	name
+donde	spa	REL
+yo	spa	PRON
+iba	spa	V
+antes	spa	ADV
+
+pero	spa	CONJ
+que	spa	CONJ
+el	spa	DET
+tipo	spa	N
+era	spa	V
+muy	spa	ADV
+bueno	spa	E
+sí	spa	ADV
+me	spa	PRON
+lo	spa	PRON
+habían	spa	V
+dicho	spa	V
+uhuh	eng	IM
+
+sí	spa	ADV
+
+sí	spa	ADV
+yo	spa	PRON
+sé	spa	V
+cuál	spa	PRON
+es	spa	V
+
+como	spa	CONJ
+chunky	eng	ADJ
+era	spa	V
+sí	spa	ADV
+
+pero	spa	CONJ
+parece	spa	V
+una	spa	DET
+exotic	eng	ADJ
+
+no	spa	ADV
+será	spa	V
+la	spa	DET
+esposa	spa	N
+de	spa	PREP
+Ted	eng&spa	name
+
+no	eng&spa	ADV
+this	eng	DEM
+girl	eng	N
+um	eng	IM
+no	eng&spa	ADV
+sé	spa	V
+no	eng&spa	ADV
+sé	spa	V
+si	spa	CONJ
+panameña	spa	ADJ
+o	spa	CONJ
+de	spa	PREP
+nicaragüense	spa	N
+
+no	eng&spa	ADV
+no	eng&spa	ADV
+go	eng	SV
+on	eng	PREP
+keep	eng	SV
+keep	eng	SV
+talking	eng	V
+
+ah	spa	IM
+ya	spa	ADV
+
+toys	eng	N
+and	eng	CONJ
+stuff	eng	V
+
+that's	eng	DEM
+why	eng	REL
+
+hey	eng	IM
+give	eng	SV
+me	eng	PRON
+
+yeah	eng	ADV
+because	eng	CONJ
+er	eng&spa	IM
+the	eng	DET
+contract	eng	N
+is	eng	V
+let's	eng	V
+say	eng	SV
+X	eng	name
+amount	eng	N
+of	eng	PREP
+money	eng	N
+
+la	spa	DET
+letra	spa	N
+chiquita	spa	ADJ
+
+que	spa	CONJ
+tú	spa	PRON
+no	spa	ADV
+sabes	spa	V
+ni	spa	CONJ
+qué	spa	INT
+es	spa	V
+
+I	eng	PRON
+know	eng	V
+
+so	eng	ADV
+the	eng	DET
+machines	eng	N
+are	eng	V
+always	eng	ADV+PV
+occupied	eng	SV
+
+a	spa	PREP
+qué	spa	INT
+horas	spa	N
+
+but	eng	CONJ
+they're	eng	PRON
+gonna	eng	V
+build	eng	V
+another	eng	ADJ
+building	eng	unk
+
+Seegal	eng&spa	name
+
+el	spa	DET
+papá	spa	N
+le	spa	PRON
+ha	spa	V
+regalado	spa	V
+eso	spa	PRON
+a	spa	PREP
+Trishia	eng&spa	name
+
+I	eng	PRON
+don't	eng	V
+remember	eng	V
+
+gridiron	eng&spa	N
+gridiron	eng&spa	N
+
+that	eng	DEM
+is	eng	V
+not	eng	ADV
+bad	eng	ADJ
+for	eng	PREP
+them	eng	PRON
+
+yeah	eng	ADV
+that's	eng	DEM
+her	eng	ADJ
+father	eng	N
+
+uhuh	eng	IM
+
+ay	spa	IM
+usted	spa	PRON
+es	spa	V
+la	spa	DET
+abuela	spa	N
+
+oh	eng	IM
+gosh	eng	IM
+
+ok	eng	unk
+
+no	spa	ADV
+son	spa	V
+tsk	eng&spa	N
+piedras	spa	N
+de	spa	PREP
+Swarovski	eng&spa	name
+
+and	eng	CONJ
+she	eng	PRON
+wanted	eng	V
+to	eng	PREP
+put	eng	V
+it	eng	PRON
+on	eng	PREP
+
+cómo	spa	INT
+
+bien	spa	ADV
+
+no	spa	ADV
+y	spa	CONJ
+no	spa	ADV
+fue	spa	V
+páncreas	spa	N
+perdóname	spa	V
+
+and	eng	CONJ
+nothing	eng	PRON
+happened	eng	SV
+
+en	spa	PREP
+el	spa	DET
+bazo	spa	N
+
+el	spa	DET
+bazo	spa	N
+
+es	spa	V
+el	spa	DET
+bazo	spa	N
+
+claro	spa	E
+
+you	eng	PRON
+don't	eng	V
+have	eng	V
+to	eng	PREP
+visualise	eng	unk
+anything	eng	PRON
+
+you	eng	PRON
+know	eng	V
+it	eng	PRON
+was	eng	V
+so	eng	ADV
+
+er	eng&spa	IM
+it's	eng	PRON
+not	eng	ADV
+too	eng	ADV
+bad	eng	ADJ
+
+ok	eng	unk
+
+and	eng	CONJ
+then	eng	ADV
+um	eng	IM
+I	eng	PRON
+stayed	eng	V
+there	eng	ADV
+for	eng	PREP
+a	eng	DET
+week	eng	N
+or	eng	CONJ
+like	eng	CONJ
+couple	eng	N
+days	eng	N
+or	eng	CONJ
+something	eng	PRON
+like	eng	CONJ
+
+yo	spa	PRON
+mis	spa	ADJ
+braces	eng	N
+me	spa	PRON
+lo	spa	PRON
+colocaron	spa	V
+hace	spa	V
+tres	spa	NUM
+semanas	spa	N
+
+cool	eng	V
+
+y	spa	CONJ
+fue	spa	V
+tan	spa	ADV
+chévere	spa	ADJ
+
+well	eng	ADV
+your	eng	ADJ
+mom	eng	N
+my	eng	ADJ
+tía	spa	N
+Ana	eng&spa	name
+is	eng	V
+so	eng	ADV
+nice	eng	ADJ
+you	eng	PRON
+know	eng	V
+
+yo	spa	PRON
+Ana	eng&spa	name
+Howell	eng&spa	name
+
+es	spa	V
+muy	spa	ADV
+linda	spa	ADJ
+
+y	spa	CONJ
+está	spa	V
+en	spa	PREP
+sixth	eng	ORD
+grade	eng	N
+
+yes	eng	ADV
+sixth	eng	ORD
+grade	eng	N
+
+I	eng	PRON
+love	eng	V
+the	eng	DET
+jeans	eng	N
+
+so	eng	ADV
+let's	eng	V
+move	eng	SV
+on	eng	PREP
+to	eng	PREP
+you	eng	PRON
+and	eng	CONJ
+me	eng	PRON
+
+no	eng	ADV
+it	eng	PRON
+was	eng	V
+the	eng	DET
+twentieth	eng	ORD
+
+yeah	eng	ADV
+yo	spa	PRON
+fue	spa	V
+tan	spa	ADV
+chévere	spa	ADJ
+
+like	eng	CONJ
+we	eng	PRON
+had	eng	V
+the	eng	DET
+party	eng	N
+and	eng	CONJ
+everything	eng	PRON
+
+happy	eng	ADJ
+easter	eng	N
+
+yeah	eng	ADV
+
+I	eng	PRON
+know	eng	V
+that's	eng	DEM
+like	eng	CONJ
+so	eng	ADV
+surprising	eng	SV
+
+yeah	eng	ADV
+I	eng	PRON
+know	eng	V
+remember	eng	SV
+when	eng	CONJ
+we	eng	PRON
+
+remember	eng	V
+when	eng	CONJ
+we	eng	PRON
+went	eng	V
+to	eng	PREP
+New_York	eng	name
+
+Alfredo	eng&spa	name
+
+it's	eng	PRON
+awesome	eng	ADJ
+
+Anita	eng&spa	name
+
+te	spa	PRON
+enseña	spa	V
+mucho	spa	ADV
+de	spa	PREP
+Dios	spa	N
+mucho	spa	ADJ
+mucho	spa	ADJ
+de	spa	PREP
+Dios	spa	N
+
+I'm	eng	PRON
+guessing	eng	V
+that	eng	DEM
+means	eng	N
+water	eng	N
+
+ugh	eng	IM
+that	eng	DEM
+sounds	eng	N
+stinky	eng	unk
+
+February	eng	name
+ninth	eng	ORD
+
+no	eng	ADV
+it	eng	PRON
+wasn't	eng	V
+blond	eng	ADJ
+
+it's	eng	PRON
+so	eng	ADV
+cute	eng	ADJ
+there	eng	ADV
+
+yo	spa	PRON
+adoro	spa	V
+estar	spa	V
+con	spa	PREP
+mi	spa	ADJ
+familia	spa	N
+
+y	spa	CONJ
+a	spa	PREP
+veces	spa	N
+también	spa	ADV
+Cartagena	eng&spa	name
+
+he's	eng	PRON
+like	eng	CONJ
+my	eng	ADJ
+dad	eng	N
+you	eng	PRON
+know	eng	V
+
+she's	eng	PRON
+super	eng	ADJ
+nice	eng	ADJ
+
+and	eng	CONJ
+it's	eng	PRON
+very	eng	ADV
+it's	eng	PRON
+very	eng	ADV
+exposed	eng	SV
+to	eng	PREP
+the	eng	DET
+outdoors	eng	ADJ+PV
+
+pero	spa	CONJ
+I	eng	PRON
+prefer	eng	N
+Christmas	eng	name
+in	eng	PREP
+Colombia	eng&spa	name
+
+he	eng	PRON
+was	eng	V
+so	eng	ADV
+little	eng	ADJ
+
+yeah	eng	ADV
+so	eng	ADV
+just	eng	ADJ
+like	eng	CONJ
+to	eng	PREP
+wrap	eng	V
+it	eng	PRON
+all	eng	ADJ
+up	eng	ADV
+because	eng	CONJ
+we	eng	PRON
+don't	eng	V
+have	eng	V
+much	eng	ADJ
+time	eng	N
+left	eng	ADJ
+
+get	eng	V
+to	eng	PREP
+travel	eng	V
+around	eng	ADV
+

@@ -1,0 +1,75 @@
+09/07/2022 01:54:52 - INFO - __main__ -   ***** Eval results  *****
+09/07/2022 01:54:52 - INFO - __main__ -     accuracy = 0.8903448275862069
+09/07/2022 01:54:52 - INFO - __main__ -     f1 = 0.8721030042918455
+09/07/2022 01:54:52 - INFO - __main__ -     loss = 0.4336202621459961
+09/07/2022 01:54:52 - INFO - __main__ -     precision = 0.8888888888888888
+09/07/2022 01:54:52 - INFO - __main__ -     recall = 0.8559393428812131
+Iteration: 100%|██████████████████████████████| 136/136 [04:32<00:00,  2.01s/it]
+09/07/2022 01:59:25 - INFO - __main__ -   Creating features from dataset file at /home/rchinmay/Desktop/GlueCos/GLUECoS/Data/Processed_Data/POS_EN_ES
+09/07/2022 01:59:25 - INFO - __main__ -   ***** Running evaluation  *****
+09/07/2022 01:59:25 - INFO - __main__ -     Num examples = 269
+09/07/2022 01:59:25 - INFO - __main__ -     Batch size = 64
+Evaluating: 100%|█████████████████████████████████| 5/5 [00:08<00:00,  1.65s/it]
+09/07/2022 01:59:33 - INFO - __main__ -   ***** Eval results  *****0,  1.40s/it]
+09/07/2022 01:59:33 - INFO - __main__ -     accuracy = 0.9227586206896552
+09/07/2022 01:59:33 - INFO - __main__ -     f1 = 0.9140922556072789
+09/07/2022 01:59:33 - INFO - __main__ -     loss = 0.3218870580196381
+09/07/2022 01:59:33 - INFO - __main__ -     precision = 0.9183673469387755
+09/07/2022 01:59:33 - INFO - __main__ -     recall = 0.9098567818028643
+Iteration: 100%|██████████████████████████████| 136/136 [04:36<00:00,  2.03s/it]
+09/07/2022 02:04:09 - INFO - __main__ -   Creating features from dataset file at /home/rchinmay/Desktop/GlueCos/GLUECoS/Data/Processed_Data/POS_EN_ES
+09/07/2022 02:04:09 - INFO - __main__ -   ***** Running evaluation  *****
+09/07/2022 02:04:09 - INFO - __main__ -     Num examples = 269
+09/07/2022 02:04:09 - INFO - __main__ -     Batch size = 64
+Evaluating: 100%|█████████████████████████████████| 5/5 [00:08<00:00,  1.66s/it]
+09/07/2022 02:04:18 - INFO - __main__ -   ***** Eval results  *****0,  1.40s/it]
+09/07/2022 02:04:18 - INFO - __main__ -     accuracy = 0.9289655172413793
+09/07/2022 02:04:18 - INFO - __main__ -     f1 = 0.9209302325581394
+09/07/2022 02:04:18 - INFO - __main__ -     loss = 0.27524225115776063
+09/07/2022 02:04:18 - INFO - __main__ -     precision = 0.9244482173174873
+09/07/2022 02:04:18 - INFO - __main__ -     recall = 0.9174389216512215
+Iteration: 100%|██████████████████████████████| 136/136 [04:36<00:00,  2.03s/it]
+09/07/2022 02:08:54 - INFO - __main__ -   Creating features from dataset file at /home/rchinmay/Desktop/GlueCos/GLUECoS/Data/Processed_Data/POS_EN_ES
+09/07/2022 02:08:54 - INFO - __main__ -   ***** Running evaluation  *****
+09/07/2022 02:08:54 - INFO - __main__ -     Num examples = 269
+09/07/2022 02:08:54 - INFO - __main__ -     Batch size = 64
+Evaluating: 100%|█████████████████████████████████| 5/5 [00:08<00:00,  1.66s/it]
+/home/rchinmay/.local/lib/python3.8/site-packages/seqeval/metrics/sequence_labeling.py:171: UserWarning: IM+V seems not to be NE tag.
+  warnings.warn('{} seems not to be NE tag.'.format(chunk))
+09/07/2022 02:09:02 - INFO - __main__ -   ***** Eval results  *****
+09/07/2022 02:09:02 - INFO - __main__ -     accuracy = 0.9317241379310345
+09/07/2022 02:09:02 - INFO - __main__ -     f1 = 0.9240506329113924
+09/07/2022 02:09:02 - INFO - __main__ -     loss = 0.31241937875747683
+09/07/2022 02:09:02 - INFO - __main__ -     precision = 0.9256128486897718
+09/07/2022 02:09:02 - INFO - __main__ -     recall = 0.9224936815501263
+Iteration: 100%|██████████████████████████████| 136/136 [04:35<00:00,  2.03s/it]
+09/07/2022 02:13:38 - INFO - __main__ -   Creating features from dataset file at /home/rchinmay/Desktop/GlueCos/GLUECoS/Data/Processed_Data/POS_EN_ES
+09/07/2022 02:13:38 - INFO - __main__ -   ***** Running evaluation  *****
+09/07/2022 02:13:38 - INFO - __main__ -     Num examples = 269
+09/07/2022 02:13:38 - INFO - __main__ -     Batch size = 64
+Evaluating: 100%|█████████████████████████████████| 5/5 [00:08<00:00,  1.67s/it]
+09/07/2022 02:13:47 - INFO - __main__ -   ***** Eval results  *****0,  1.41s/it]
+09/07/2022 02:13:47 - INFO - __main__ -     accuracy = 0.9344827586206896
+09/07/2022 02:13:47 - INFO - __main__ -     f1 = 0.9275484414490311
+09/07/2022 02:13:47 - INFO - __main__ -     loss = 0.2975941687822342
+09/07/2022 02:13:47 - INFO - __main__ -     precision = 0.9275484414490311
+09/07/2022 02:13:47 - INFO - __main__ -     recall = 0.9275484414490311
+Epoch: 100%|█████████████████████████████████████| 5/5 [23:35<00:00, 283.04s/it]
+09/07/2022 02:13:47 - INFO - __main__ -    global_step = 680, average loss = 0.4184344152454287
+09/07/2022 02:13:47 - INFO - __main__ -   Saving model checkpoint to /home/rchinmay/Desktop/GlueCos/GLUECoS/Results/POS_EN_ES
+09/07/2022 02:13:47 - INFO - __main__ -   Creating features from dataset file at /home/rchinmay/Desktop/GlueCos/GLUECoS/Data/Processed_Data/POS_EN_ES
+09/07/2022 02:13:47 - INFO - __main__ -   ***** Running evaluation  *****
+09/07/2022 02:13:47 - INFO - __main__ -     Num examples = 269
+09/07/2022 02:13:47 - INFO - __main__ -     Batch size = 64
+Evaluating: 100%|█████████████████████████████████| 5/5 [00:08<00:00,  1.69s/it]
+09/07/2022 02:13:55 - INFO - __main__ -   ***** Eval results  *****
+09/07/2022 02:13:55 - INFO - __main__ -     accuracy = 0.9344827586206896
+09/07/2022 02:13:55 - INFO - __main__ -     f1 = 0.9275484414490311
+09/07/2022 02:13:55 - INFO - __main__ -     loss = 0.2975941687822342
+09/07/2022 02:13:55 - INFO - __main__ -     precision = 0.9275484414490311
+09/07/2022 02:13:55 - INFO - __main__ -     recall = 0.9275484414490311
+09/07/2022 02:13:55 - INFO - __main__ -   Creating features from dataset file at /home/rchinmay/Desktop/GlueCos/GLUECoS/Data/Processed_Data/POS_EN_ES
+09/07/2022 02:13:56 - INFO - __main__ -   ***** Running evaluation  *****
+09/07/2022 02:13:56 - INFO - __main__ -     Num examples = 270
+09/07/2022 02:13:56 - INFO - __main__ -     Batch size = 64
+

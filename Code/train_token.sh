@@ -18,7 +18,7 @@ else
   OUT=$TASK
 fi
 
-python $PWD/Code/BertToken.py \
+python3 $PWD/Code/BertToken.py \
   --data_dir $DATA_DIR/$TASK \
   --output_dir $OUT_DIR/$OUT \
   --model_type $MODEL_TYPE \
